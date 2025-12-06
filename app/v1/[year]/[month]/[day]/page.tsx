@@ -1,4 +1,4 @@
-import { getDailySummary, getHoldings, getManagerCommentary } from '@/lib/api';
+import { getDailySummary, getHoldings, getManagerCommentary, getAllDates } from '@/lib/api';
 import { notFound } from 'next/navigation';
 import { Activity, TrendingUp, Shield, BarChart3, PieChart } from 'lucide-react';
 import Link from 'next/link';
@@ -10,6 +10,10 @@ interface PageProps {
     month: string;
     day: string;
   }>
+}
+
+export async function generateStaticParams() {
+  return getAllDates();
 }
 
 export default async function DashboardPage(props: PageProps) {

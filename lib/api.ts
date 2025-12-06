@@ -31,7 +31,6 @@ export async function getLatestDate(): Promise<string> {
 }
 
 export async function getDailySummary(dateStr: string): Promise<DailySummary | null> {
-  // Date format YYYY-MM-DD -> YYYY/MM/DD
   const [y, m, d] = dateStr.split('-');
   const filePath = path.join(DATA_ROOT, y, m, d, 'daily_summary.json');
   
@@ -61,4 +60,35 @@ export async function getTickerReport(dateStr: string, ticker: string): Promise<
   
   if (!fs.existsSync(filePath)) return null;
   return fs.readFileSync(filePath, 'utf-8');
+}
+
+// --- Static Generation Helpers ---
+
+export function getAllDates(): { year: string; month: string; day: string }[] {
+  if (!fs.existsSync(DATA_ROOT)) return [];
+  
+  const dates: { year: string; month: string; day: string }[] = [];
+  
+  const years = fs.readdirSync(DATA_ROOT).filter(y => /^\d{4}$/.test(y));
+  for (const year of years) {
+    const yearPath = path.join(DATA_ROOT, year);
+    const months = fs.readdirSync(yearPath).filter(m => /^\d{2}$/.test(m));
+    for (const month of months) {
+      const monthPath = path.join(yearPath, month);
+      const days = fs.readdirSync(monthPath).filter(d => /^\d{2}$/.test(d));
+      for (const day of days) {
+        dates.push({ year, month, day });
+      }
+    }
+  }
+  return dates;
+}
+
+export function getAllTickersForDate(year: string, month: string, day: string): string[] {
+  const tickersDir = path.join(DATA_ROOT, year, month, day, 'reports', 'tickers');
+  if (!fs.existsSync(tickersDir)) return [];
+  
+  return fs.readdirSync(tickersDir)
+    .filter(f => f.endsWith('.md'))
+    .map(f => f.replace('.md', ''));
 }

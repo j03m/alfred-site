@@ -1,4 +1,4 @@
-import { getTickerReport } from '@/lib/api';
+import { getTickerReport, getAllDates, getAllTickersForDate } from '@/lib/api';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
@@ -11,6 +11,23 @@ interface PageProps {
     day: string;
     ticker: string;
   }>
+}
+
+export async function generateStaticParams() {
+  const dates = getAllDates();
+  const params = [];
+  for (const d of dates) {
+    const tickers = getAllTickersForDate(d.year, d.month, d.day);
+    for (const t of tickers) {
+      params.push({
+        year: d.year,
+        month: d.month,
+        day: d.day,
+        ticker: t,
+      });
+    }
+  }
+  return params;
 }
 
 export default async function TickerPage(props: PageProps) {

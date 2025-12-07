@@ -96,8 +96,23 @@ export default async function DashboardPage(props: PageProps) {
             <BarChart3 className="w-5 h-5 mr-2 text-slate-400" />
             Morning Brief
           </h2>
-          <div className="prose prose-slate max-w-none text-slate-600 prose-headings:text-slate-800 prose-h1:hidden prose-h2:text-lg prose-h2:font-semibold prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600">
-            <ReactMarkdown>{commentary}</ReactMarkdown>
+          <div className="text-slate-800">
+            <ReactMarkdown
+              components={{
+                h1: ({node, ...props}) => <h1 className="hidden" {...props} />,
+                h2: ({node, ...props}) => <h2 className="text-xl font-bold text-slate-900 border-b border-slate-200 pb-2 mb-4 mt-6 first:mt-0" {...props} />,
+                h3: ({node, ...props}) => <h3 className="text-lg font-semibold text-slate-900 mb-3 mt-5" {...props} />,
+                p: ({node, ...props}) => <p className="leading-7 mb-4 text-slate-700" {...props} />,
+                ul: ({node, ...props}) => <ul className="list-disc list-outside ml-5 mb-4 space-y-1 text-slate-700" {...props} />,
+                ol: ({node, ...props}) => <ol className="list-decimal list-outside ml-5 mb-4 space-y-1 text-slate-700" {...props} />,
+                li: ({node, ...props}) => <li className="pl-1" {...props} />,
+                a: ({node, ...props}) => <a className="text-blue-600 hover:underline font-medium" {...props} />,
+                blockquote: ({node, ...props}) => <blockquote className="border-l-4 border-slate-300 pl-4 italic text-slate-600 my-4" {...props} />,
+                strong: ({node, ...props}) => <strong className="font-bold text-slate-900" {...props} />,
+              }}
+            >
+              {commentary}
+            </ReactMarkdown>
           </div>
         </section>
 

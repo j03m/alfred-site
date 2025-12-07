@@ -56,8 +56,23 @@ export default async function TickerPage(props: PageProps) {
       </header>
 
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="bg-white p-8 rounded-xl shadow-sm border border-slate-200 prose prose-slate max-w-none prose-headings:text-slate-800 prose-headings:font-semibold">
-          <ReactMarkdown>{report}</ReactMarkdown>
+        <div className="bg-white p-8 rounded-xl shadow-sm border border-slate-200 text-slate-800">
+          <ReactMarkdown
+            components={{
+              h1: ({node, ...props}) => <h1 className="hidden" {...props} />,
+              h2: ({node, ...props}) => <h2 className="text-xl font-bold text-slate-900 border-b border-slate-200 pb-2 mb-4 mt-8 first:mt-0" {...props} />,
+              h3: ({node, ...props}) => <h3 className="text-lg font-semibold text-slate-900 mb-3 mt-6" {...props} />,
+              p: ({node, ...props}) => <p className="leading-7 mb-4 text-slate-700" {...props} />,
+              ul: ({node, ...props}) => <ul className="list-disc list-outside ml-5 mb-4 space-y-1 text-slate-700" {...props} />,
+              ol: ({node, ...props}) => <ol className="list-decimal list-outside ml-5 mb-4 space-y-1 text-slate-700" {...props} />,
+              li: ({node, ...props}) => <li className="pl-1" {...props} />,
+              a: ({node, ...props}) => <a className="text-blue-600 hover:underline font-medium" {...props} />,
+              blockquote: ({node, ...props}) => <blockquote className="border-l-4 border-slate-300 pl-4 italic text-slate-600 my-4" {...props} />,
+              strong: ({node, ...props}) => <strong className="font-bold text-slate-900" {...props} />,
+            }}
+          >
+            {report}
+          </ReactMarkdown>
         </div>
       </main>
     </div>

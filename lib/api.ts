@@ -23,6 +23,27 @@ export interface Holding {
   sector: string;
 }
 
+export interface PerformanceRecord {
+  date: string;
+  model: number;
+  spy: number;
+  mag7: number;
+}
+
+export interface PerformanceData {
+  generated_at: string;
+  data: PerformanceRecord[];
+}
+
+export async function getPerformanceData(): Promise<PerformanceData | null> {
+  const filePath = path.join(process.cwd(), 'data', 'performance.json');
+  if (!fs.existsSync(filePath)) {
+    return null;
+  }
+  const content = await fs.promises.readFile(filePath, 'utf-8');
+  return JSON.parse(content);
+}
+
 export async function getLatestDate(): Promise<string> {
   const pointerPath = path.join(DATA_ROOT, 'latest.json');
   if (!fs.existsSync(pointerPath)) return '2025-12-06';

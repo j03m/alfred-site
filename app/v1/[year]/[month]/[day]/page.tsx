@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { Activity, TrendingUp, Shield, BarChart3, PieChart } from 'lucide-react';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
+import DateSelector from '@/app/components/DateSelector';
 
 interface PageProps {
   params: Promise<{
@@ -24,6 +25,11 @@ export default async function DashboardPage(props: PageProps) {
   const summary = await getDailySummary(dateStr);
   const holdings = await getHoldings(dateStr);
   const commentary = await getManagerCommentary(dateStr);
+  const rawDates = await getAllDates();
+  const allDates = rawDates.map(d => ({
+    ...d,
+    date: `${d.year}-${d.month}-${d.day}`
+  }));
 
   if (!summary) {
     return notFound();
@@ -35,11 +41,20 @@ export default async function DashboardPage(props: PageProps) {
       <header className="bg-white border-b border-slate-200 sticky top-0 z-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <h1 className="text-xl font-bold text-slate-800 tracking-tight">Alfred Analysis</h1>
-            <span className="bg-slate-100 text-slate-600 px-2 py-1 rounded text-xs font-mono">v1.0</span>
+            <Link href="/" className="text-xl font-bold text-slate-800 tracking-tight hover:text-blue-600 transition-colors">
+              Alfred
+            </Link>
+            <div className="relative group">
+                <button className="bg-slate-100 text-slate-700 px-3 py-1 rounded text-xs font-mono font-medium hover:bg-slate-200 transition-colors flex items-center">
+                    v1
+                </button>
+            </div>
           </div>
-          <div className="text-sm text-slate-500 font-medium">
-            {dateStr}
+          <div className="flex items-center space-x-4">
+             <Link href="/" className="text-sm font-medium text-slate-500 hover:text-slate-800">
+                Back to Overview
+             </Link>
+             <DateSelector currentDate={dateStr} allDates={allDates} />
           </div>
         </div>
       </header>

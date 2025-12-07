@@ -96,7 +96,7 @@ export default async function DashboardPage(props: PageProps) {
             <BarChart3 className="w-5 h-5 mr-2 text-slate-400" />
             Morning Brief
           </h2>
-          <div className="prose prose-slate max-w-none text-slate-600 prose-headings:text-slate-800 prose-headings:font-semibold prose-a:text-blue-600">
+          <div className="prose prose-slate max-w-none text-slate-600 prose-headings:text-slate-800 prose-h1:hidden prose-h2:text-lg prose-h2:font-semibold prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600">
             <ReactMarkdown>{commentary}</ReactMarkdown>
           </div>
         </section>

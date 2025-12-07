@@ -42,3 +42,4 @@ next-env.d.ts
 site.log
 .DS_Store
 .idea
+.gemini

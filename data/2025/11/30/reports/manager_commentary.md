@@ -1,0 +1,10 @@
+# Alfred Morning Brief - 2025-11-30
+
+## Market Regime
+The model has firmly entrenched itself in a **Tactical Momentum** regime. Capital allocation is heavily skewed towards Price Velocity, with Monthly Momentum (`Pred_PV_M`: 9.43) and Quarterly Momentum (`Pred_PV_Q`: 8.71) serving as the primary weights. Unlike a defensive "flight to safety," this configuration suggests an aggressive pursuit of trend persistence. However, the moderate weighting on `Cheapness` (5.55) acts as a valuation guardrail, indicating the model is favoring "undervalued movers" over pure speculative growth or high-quality defensives, which are currently deprioritized (`Growth`: 3.58, `Quality`: 3.25).
+
+## Macro Drivers
+**Bitcoin** (acting as a proxy for broad risk sentiment) is the dominant driver of today's allocation, though with a sharp divergence. It exerts a strong positive force on Monthly Momentum and Value factors, effectively signaling a green light for tactical risk-taking. Conversely, it negatively impacts Quarterly Momentum, suggesting the model views the current risk-on environment as a distinct acceleration rather than a simple continuation of the longer-term structural trend. **Oil** prices remain a universal dampener; their negative impact across all factors suggests that energy market volatility is preventing the model from deploying maximum leverage.
+
+## Strategy Outlook
+The strategy is prioritizing **Speed and Value**. We are actively hunting for equities that have demonstrated rapid price acceleration over the last 30 to 90 days but have not yet become statistically expensive. The low emphasis on `Quality` implies a willingness to tolerate lower fundamental rankings in exchange for superior price action and attractive valuation multiples. The goal is to capture the "meat" of the current tactical rally before mean reversion sets in.

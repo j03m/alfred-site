@@ -1,0 +1,202 @@
+[
+  {
+    "ticker": "IRS",
+    "name": "IRS",
+    "sector": "Unknown",
+    "weight": 0.1944,
+    "score": 0.9934,
+    "bin": 3
+  },
+  {
+    "ticker": "CRESY",
+    "name": "CRESY",
+    "sector": "Unknown",
+    "weight": 0.1136,
+    "score": 0.984,
+    "bin": 3
+  },
+  {
+    "ticker": "IRWD",
+    "name": "IRWD",
+    "sector": "Unknown",
+    "weight": 0.0958,
+    "score": 0.9315,
+    "bin": 3
+  },
+  {
+    "ticker": "PHI",
+    "name": "PHI",
+    "sector": "Unknown",
+    "weight": 0.075,
+    "score": 0.9925,
+    "bin": 3
+  },
+  {
+    "ticker": "BIIB",
+    "name": "BIIB",
+    "sector": "Unknown",
+    "weight": 0.0663,
+    "score": 0.988,
+    "bin": 3
+  },
+  {
+    "ticker": "CEPU",
+    "name": "CEPU",
+    "sector": "Unknown",
+    "weight": 0.0577,
+    "score": 0.989,
+    "bin": 3
+  },
+  {
+    "ticker": "JOE",
+    "name": "JOE",
+    "sector": "Unknown",
+    "weight": 0.0427,
+    "score": 0.9905,
+    "bin": 3
+  },
+  {
+    "ticker": "AMGN",
+    "name": "AMGN",
+    "sector": "Unknown",
+    "weight": 0.0347,
+    "score": 0.9961,
+    "bin": 3
+  },
+  {
+    "ticker": "TVTX",
+    "name": "TVTX",
+    "sector": "Unknown",
+    "weight": 0.0327,
+    "score": 0.9563,
+    "bin": 3
+  },
+  {
+    "ticker": "HAE",
+    "name": "HAE",
+    "sector": "Unknown",
+    "weight": 0.0273,
+    "score": 0.9937,
+    "bin": 3
+  },
+  {
+    "ticker": "VICR",
+    "name": "VICR",
+    "sector": "Unknown",
+    "weight": 0.0271,
+    "score": 0.9504,
+    "bin": 3
+  },
+  {
+    "ticker": "DVAX",
+    "name": "DVAX",
+    "sector": "Unknown",
+    "weight": 0.0255,
+    "score": 0.9895,
+    "bin": 3
+  },
+  {
+    "ticker": "AUPH",
+    "name": "AUPH",
+    "sector": "Unknown",
+    "weight": 0.0228,
+    "score": 0.9895,
+    "bin": 3
+  },
+  {
+    "ticker": "HRZN",
+    "name": "HRZN",
+    "sector": "Unknown",
+    "weight": 0.0216,
+    "score": 0.9683,
+    "bin": 3
+  },
+  {
+    "ticker": "JBHT",
+    "name": "JBHT",
+    "sector": "Unknown",
+    "weight": 0.0194,
+    "score": 0.9978,
+    "bin": 3
+  },
+  {
+    "ticker": "ISRG",
+    "name": "ISRG",
+    "sector": "Unknown",
+    "weight": 0.0175,
+    "score": 0.9544,
+    "bin": 3
+  },
+  {
+    "ticker": "WU",
+    "name": "WU",
+    "sector": "Unknown",
+    "weight": 0.0172,
+    "score": 0.9931,
+    "bin": 3
+  },
+  {
+    "ticker": "SUPV",
+    "name": "SUPV",
+    "sector": "Unknown",
+    "weight": 0.0167,
+    "score": 0.9858,
+    "bin": 3
+  },
+  {
+    "ticker": "VSCO",
+    "name": "VSCO",
+    "sector": "Unknown",
+    "weight": 0.0157,
+    "score": 0.9899,
+    "bin": 3
+  },
+  {
+    "ticker": "DX",
+    "name": "DX",
+    "sector": "Unknown",
+    "weight": 0.0148,
+    "score": 0.9933,
+    "bin": 3
+  },
+  {
+    "ticker": "EVAX",
+    "name": "EVAX",
+    "sector": "Unknown",
+    "weight": 0.0141,
+    "score": 0.9547,
+    "bin": 3
+  },
+  {
+    "ticker": "ARQT",
+    "name": "ARQT",
+    "sector": "Unknown",
+    "weight": 0.0137,
+    "score": 0.9913,
+    "bin": 3
+  },
+  {
+    "ticker": "SND",
+    "name": "SND",
+    "sector": "Unknown",
+    "weight": 0.0129,
+    "score": 0.9943,
+    "bin": 3
+  },
+  {
+    "ticker": "IQV",
+    "name": "IQV",
+    "sector": "Unknown",
+    "weight": 0.0112,
+    "score": 0.9858,
+    "bin": 3
+  },
+  {
+    "ticker": "REGN",
+    "name": "REGN",
+    "sector": "Unknown",
+    "weight": 0.0096,
+    "score": 0.9453,
+    "bin": 3
+  }
+]

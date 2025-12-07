@@ -1,16 +1,8 @@
-# Alfred Morning Brief - 2025-09-30
-
 ## Market Regime
-**Aggressive Momentum / Trend Following**
-The model has shifted into a highly aggressive posture, overwhelmingly prioritizing price action over fundamental attributes. With **Monthly Momentum (9.38)** and **Quarterly Momentum (8.72)** holding the highest weights, the strategy is strictly adhering to the mantra "the trend is your friend." It is largely disregarding static fundamentals like **Quality (3.23)** and **Growth (3.57)**, suggesting a market environment where price discovery is driven more by flows and sentiment than by earnings reports or balance sheet strength.
+I have shifted the portfolio into a highly aggressive, tactical stance. My analysis indicates that immediate price dynamics are currently offering a far superior signal-to-noise ratio than traditional fundamental metrics. Consequently, I am significantly overweighting predictive price velocity models, effectively prioritizing "how stocks are moving" over "what stocks are."
 
 ## Macro Drivers
-Bitcoin and Volatility (VIX) are acting as the primary divergent signals for this rotation:
-*   **Bitcoin (Risk-On Proxy):** Acts as a split indicator. Positive crypto sentiment boosts the model's reliance on longer-term **Quarterly Momentum** and **Current Velocity**, signaling a standard "Risk-On" chase. Conversely, weakness in Bitcoin pushes the model toward **Monthly Momentum**, suggesting a fallback to shorter-term trend signals when speculative appetite wanes.
-*   **Volatility (VIX):** The model has effectively hedged its momentum bet. While low volatility supports the Quarterly trend, the model increases its weight on **Monthly Momentum** when VIX rises. This implies the strategy is using the 1-month window as a stabilizer to navigate potential short-term turbulence or choppiness.
+This pivot is driven by a divergence in macro signals that demands a multi-horizon approach. On the quarterly timeframe, strength in risk assets like Bitcoin has increased my conviction in a broader bullish trend, signaling a "Risk-On" environment. However, shorter-term signals—specifically interactions with the VIX—suggest that volatility remains a key variable. By heavily weighting my Monthly prediction model alongside the Quarterly one, I aim to capture the longer-term upside momentum while maintaining the agility to navigate near-term turbulence.
 
 ## Strategy Outlook
-The model is actively hunting for **"Value on the Move."**
-1.  **Price Strength is King:** Expect the portfolio to concentrate on names with strong 1-month and 3-month relative performance.
-2.  **Valuation Anchor:** With **Cheapness (5.52)** as the third-highest factor, the model is avoiding pure speculative froth. It seeks stocks that are moving up but remain reasonably valued—likely rotating into cyclical value sectors that are catching a bid, rather than chasing overextended tech high-flyers.
-3.  **Fundamental Agnosticism:** Low weights on Quality and Growth indicate the model will ignore "good companies" if their stock prices are languishing. Capital is allocated strictly to performance.
+I am actively rotating capital into equities showing strong predictive momentum on both monthly and quarterly horizons. I have reduced exposure to the static 'Growth' and 'Quality' factors, as my models suggest these defensive characteristics are currently less predictive of near-term returns. Instead, I am using 'Cheapness' as a secondary valuation guardrail to ensure that while I chase momentum, I do not chase it into overvaluation. My primary focus is on catching the next leg of the trend identified by my predictive engines.

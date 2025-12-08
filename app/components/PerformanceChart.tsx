@@ -11,8 +11,15 @@ import {
   ResponsiveContainer 
 } from 'recharts';
 
+interface ChartDataItem {
+  date: string;
+  model: number;
+  spy: number;
+  mag7: number;
+}
+
 interface PerformanceChartProps {
-  data: any[];
+  data: ChartDataItem[];
 }
 
 export default function PerformanceChart({ data }: PerformanceChartProps) {

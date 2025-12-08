@@ -1,6 +1,6 @@
 import { getDailySummary, getHoldings, getManagerCommentary, getAllDates } from '@/lib/api';
 import { notFound } from 'next/navigation';
-import { Activity, TrendingUp, Shield, BarChart3, PieChart } from 'lucide-react';
+import { Activity, TrendingUp, Shield, BarChart3 } from 'lucide-react';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import DateSelector from '@/app/components/DateSelector';
@@ -71,23 +71,18 @@ export default async function DashboardPage(props: PageProps) {
           />
           <StatCard 
             label="Sortino Ratio" 
-            value={summary.sortino_ratio.toFixed(2)} 
+            value={summary.sortino_ratio === 0.0 ? "N/A" : summary.sortino_ratio.toFixed(2)} 
             icon={<Shield className="text-emerald-500" />} 
             subValue="Risk Adj. Return"
           />
           <StatCard 
             label="Alpha vs SPY" 
-            value={`${(summary.alpha_vs_spy_ytd * 100).toFixed(1)}%`} 
+            value={summary.alpha_vs_spy_ytd === 0.0 ? "N/A" : `${(summary.alpha_vs_spy_ytd * 100).toFixed(1)}%`} 
             icon={<TrendingUp className="text-purple-500" />} 
             subValue="YTD Outperformance"
             positive={summary.alpha_vs_spy_ytd > 0}
           />
-          <StatCard 
-            label="Top Sector" 
-            value={summary.top_sectors[0]} 
-            icon={<PieChart className="text-amber-500" />} 
-            subValue="Exposure"
-          />
+
         </div>
 
         {/* Manager Commentary */}
@@ -169,7 +164,7 @@ export default async function DashboardPage(props: PageProps) {
   );
 }
 
-function StatCard({ label, value, icon, subValue, positive }: any) {
+function StatCard({ label, value, icon, subValue, positive }: StatCardProps) {
   return (
     <div className="bg-white p-5 rounded-xl shadow-sm border border-slate-200">
       <div className="flex items-center justify-between mb-2">
@@ -184,4 +179,12 @@ function StatCard({ label, value, icon, subValue, positive }: any) {
       )}
     </div>
   )
+}
+
+interface StatCardProps {
+  label: string;
+  value: string;
+  icon: React.ReactNode;
+  subValue?: string;
+  positive?: boolean;
 }

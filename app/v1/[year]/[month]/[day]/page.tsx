@@ -130,7 +130,7 @@ export default async function DashboardPage(props: PageProps) {
               <TrendingUp className="w-5 h-5 mr-2 text-slate-400" />
               Monthly Performance
             </h2>
-             <PerformanceChart data={monthlyData} />
+             <PerformanceChart data={monthlyData} mode="relative" />
           </section>
         )}
 

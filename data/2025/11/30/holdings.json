@@ -5,7 +5,8 @@
     "sector": "Unknown",
     "weight": 0.2287,
     "score": 0.9662,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.7857
   },
   {
     "ticker": "PHAR",
@@ -13,7 +14,8 @@
     "sector": "Unknown",
     "weight": 0.0731,
     "score": 0.9734,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "ATNI",
@@ -21,7 +23,8 @@
     "sector": "Unknown",
     "weight": 0.0622,
     "score": 0.9865,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "BODI",
@@ -29,7 +32,8 @@
     "sector": "Unknown",
     "weight": 0.0543,
     "score": 0.9896,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "NATR",
@@ -37,7 +41,8 @@
     "sector": "Unknown",
     "weight": 0.052,
     "score": 0.985,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "COHN",
@@ -45,7 +50,8 @@
     "sector": "Unknown",
     "weight": 0.051,
     "score": 0.9598,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "MBI",
@@ -53,7 +59,8 @@
     "sector": "Unknown",
     "weight": 0.0486,
     "score": 0.9898,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "STC",
@@ -61,7 +68,8 @@
     "sector": "Unknown",
     "weight": 0.0412,
     "score": 0.9593,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "HTHT",
@@ -69,7 +77,8 @@
     "sector": "Unknown",
     "weight": 0.0371,
     "score": 0.9824,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "TCMD",
@@ -77,7 +86,8 @@
     "sector": "Unknown",
     "weight": 0.0331,
     "score": 0.9747,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "ARMN",
@@ -85,7 +95,8 @@
     "sector": "Unknown",
     "weight": 0.0324,
     "score": 0.9944,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "DVAX",
@@ -93,7 +104,8 @@
     "sector": "Unknown",
     "weight": 0.0319,
     "score": 0.8911,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.1125
   },
   {
     "ticker": "MATV",
@@ -101,7 +113,8 @@
     "sector": "Unknown",
     "weight": 0.031,
     "score": 0.9917,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "ALTO",
@@ -109,7 +122,8 @@
     "sector": "Unknown",
     "weight": 0.0273,
     "score": 0.9787,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "BWEN",
@@ -117,7 +131,8 @@
     "sector": "Unknown",
     "weight": 0.0269,
     "score": 0.9688,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "HALO",
@@ -125,7 +140,8 @@
     "sector": "Unknown",
     "weight": 0.0263,
     "score": 0.9883,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "APPN",
@@ -133,7 +149,8 @@
     "sector": "Unknown",
     "weight": 0.0248,
     "score": 0.9661,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "SKY",
@@ -141,7 +158,8 @@
     "sector": "Unknown",
     "weight": 0.0181,
     "score": 0.9881,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "MD",
@@ -149,7 +167,8 @@
     "sector": "Unknown",
     "weight": 0.0177,
     "score": 0.9953,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "EXAS",
@@ -157,7 +176,8 @@
     "sector": "Unknown",
     "weight": 0.016,
     "score": 0.9917,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "QLYS",
@@ -165,7 +185,8 @@
     "sector": "Unknown",
     "weight": 0.0155,
     "score": 0.9315,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "SD",
@@ -173,7 +194,8 @@
     "sector": "Unknown",
     "weight": 0.0154,
     "score": 0.972,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "FSLY",
@@ -181,7 +203,8 @@
     "sector": "Unknown",
     "weight": 0.0125,
     "score": 0.9829,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "AMGN",
@@ -189,7 +212,8 @@
     "sector": "Unknown",
     "weight": 0.0118,
     "score": 0.9882,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.1576
   },
   {
     "ticker": "SPRU",
@@ -197,6 +221,7 @@
     "sector": "Unknown",
     "weight": 0.0112,
     "score": 0.9904,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   }
 ]

@@ -7,7 +7,7 @@ import { LedgerEvent, Holding } from '@/lib/api';
 
 interface LedgerPicksSectionProps {
   ledgerEvents: LedgerEvent[];
-  picks: (Holding & { weight_change?: number })[];
+  picks: (Omit<Holding, 'unrealized_pl'> & { weight_change?: number; unrealized_pl?: number | null })[];
   year: string;
   month: string;
   day: string;
@@ -133,6 +133,7 @@ export default function LedgerPicksSection({ ledgerEvents, picks, year, month, d
                   <th className="px-6 py-3 font-medium">Name</th>
                   <th className="px-6 py-3 font-medium">Sector</th>
                   <th className="px-6 py-3 font-medium text-right">Weight</th>
+                  <th className="px-6 py-3 font-medium text-right">Unrealized P/L</th>
                   <th className="px-6 py-3 font-medium text-right">Change</th>
                 </tr>
               </thead>
@@ -147,6 +148,17 @@ export default function LedgerPicksSection({ ledgerEvents, picks, year, month, d
                     <td className="px-6 py-3 text-slate-600">{h.name}</td>
                     <td className="px-6 py-3 text-slate-500">{h.sector}</td>
                     <td className="px-6 py-3 text-right font-mono">{(h.weight * 100).toFixed(1)}%</td>
+                    <td className={`px-6 py-3 text-right font-mono font-medium ${
+                        (h.unrealized_pl || 0) > 0 ? 'text-emerald-600' : (h.unrealized_pl || 0) < 0 ? 'text-rose-600' : 'text-slate-400'
+                    }`}>
+                        {h.unrealized_pl !== undefined && h.unrealized_pl !== null ? (
+                            <>
+                                {(h.unrealized_pl || 0) > 0 ? '+' : ''}${(h.unrealized_pl || 0).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}
+                            </>
+                        ) : (
+                            <span className="text-slate-300">--</span>
+                        )}
+                    </td>
                     <td className="px-6 py-3 text-right font-mono text-xs">
                         {h.weight_change !== undefined ? (
                             <span className={h.weight_change > 0 ? 'text-emerald-600' : h.weight_change < 0 ? 'text-rose-600' : 'text-slate-400'}>
@@ -160,7 +172,7 @@ export default function LedgerPicksSection({ ledgerEvents, picks, year, month, d
                 ))}
                 {picks.length === 0 && (
                     <tr>
-                        <td colSpan={5} className="px-6 py-8 text-center text-slate-400 italic">
+                        <td colSpan={6} className="px-6 py-8 text-center text-slate-400 italic">
                             No holdings data available.
                         </td>
                     </tr>

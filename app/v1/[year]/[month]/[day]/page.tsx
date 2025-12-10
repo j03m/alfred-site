@@ -1,4 +1,4 @@
-import { getDailySummary, getManagerCommentary, getAllDates, getPerformanceData, getMonthlyLedger, getHoldings, Holding } from '@/lib/api';
+import { getDailySummary, getManagerCommentary, getAllDates, getPerformanceData, getMonthlyPerformance, getMonthlyLedger, getHoldings, getPortfolioSnapshot, Holding } from '@/lib/api';
 import { notFound } from 'next/navigation';
 import { Activity, TrendingUp, Shield, BarChart3 } from 'lucide-react';
 import Link from 'next/link';
@@ -27,8 +27,10 @@ export default async function DashboardPage(props: PageProps) {
   const summary = await getDailySummary(dateStr);
   const commentary = await getManagerCommentary(dateStr);
   const performanceData = await getPerformanceData();
+  const monthlyPerformance = await getMonthlyPerformance(year, month, day);
   const ledgerEvents = await getMonthlyLedger(year, month);
   const holdings = await getHoldings(dateStr);
+  const portfolioSnapshot = await getPortfolioSnapshot(dateStr);
   
   const rawDates = await getAllDates();
   // Sort rawDates by date string descending
@@ -49,9 +51,11 @@ export default async function DashboardPage(props: PageProps) {
   // Calculate changes
   const picksWithChange = holdings.map(h => {
       const prev = prevHoldings.find(p => p.ticker === h.ticker);
+      const snapshotItem = portfolioSnapshot.find(p => p.ticker === h.ticker);
       return {
           ...h,
-          weight_change: prev ? h.weight - prev.weight : undefined // undefined means NEW
+          weight_change: prev ? h.weight - prev.weight : undefined, // undefined means NEW
+          unrealized_pl: h.unrealized_pl ?? snapshotItem?.unrealized_gain
       };
   });
 
@@ -59,8 +63,8 @@ export default async function DashboardPage(props: PageProps) {
     return notFound();
   }
 
-  // Filter performance data for the month
-  const monthlyData = performanceData?.data.filter(d => d.date.startsWith(`${year}-${month}`)) || [];
+  // Use new Monthly Performance artifact if available, otherwise fallback to global slice
+  const monthlyData = monthlyPerformance || (performanceData?.data.filter(d => d.date.startsWith(`${year}-${month}`)) || []);
 
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans pb-20">

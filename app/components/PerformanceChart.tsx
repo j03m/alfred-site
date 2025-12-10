@@ -34,7 +34,7 @@ export default function PerformanceChart({ data }: PerformanceChartProps) {
   return (
     <div className="h-[400px] w-full bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
       <h3 className="text-lg font-semibold mb-4 text-slate-800">Performance (Growth of $10k)</h3>
-      <ResponsiveContainer width="100%" height="100%">
+      <ResponsiveContainer width="100%" height="100%" minHeight={300}>
         <LineChart
           data={chartData}
           margin={{

@@ -23,6 +23,7 @@ export interface Holding {
   score: number;
   bin: number;
   sector: string;
+  unrealized_pl?: number;
 }
 
 export interface PerformanceRecord {
@@ -57,6 +58,36 @@ export interface LedgerEvent {
   total_portfolio_value?: number;
   cash_balance?: number;
   total_unrealized_pnl?: number;
+  open_positions?: {
+    ticker: string;
+    shares: number;
+    cost_basis_per_share: number;
+    current_price: number;
+    unrealized_pnl: number;
+  }[];
+}
+
+export interface TickerHistoryItem {
+  date: string;
+  open: number;
+  high: number;
+  low: number;
+  close: number;
+}
+
+export interface TickerMarker {
+  date: string;
+  type: string;
+  price: number;
+}
+
+export interface TickerDetail {
+  ticker: string;
+  name: string;
+  sector: string;
+  description: string;
+  history: TickerHistoryItem[];
+  markers: TickerMarker[];
 }
 
 export async function getBacktestSummary(): Promise<BacktestSummary | null> {
@@ -76,12 +107,8 @@ export async function getMonthlyLedger(year: string, month: string): Promise<Led
   const targetPrefix = `${year}-${month}`;
   
   return json.ledger.filter((e: LedgerEvent) => {
-    // Filter for events in this month
-    // Exclude snapshots for the table usually, or keep them if we want to show EOD summary
-    // Let's keep buy/sell/rebalance_sell for the transaction table
     return e.date.startsWith(targetPrefix) && ['buy', 'sell', 'rebalance_sell'].includes(e.event_type);
   }).sort((a: LedgerEvent, b: LedgerEvent) => {
-      // Sort by date descending
       return new Date(b.date).getTime() - new Date(a.date).getTime();
   });
 }
@@ -93,6 +120,15 @@ export async function getPerformanceData(): Promise<PerformanceData | null> {
   }
   const content = await fs.promises.readFile(filePath, 'utf-8');
   return JSON.parse(content);
+}
+
+export async function getMonthlyPerformance(year: string, month: string, day: string): Promise<PerformanceRecord[] | null> {
+  // Try loading monthly_performance.json from the specific date folder
+  const filePath = path.join(DATA_ROOT, year, month, day, 'monthly_performance.json');
+  if (fs.existsSync(filePath)) {
+    return JSON.parse(await fs.promises.readFile(filePath, 'utf-8'));
+  }
+  return null;
 }
 
 export async function getLatestDate(): Promise<string> {
@@ -132,6 +168,54 @@ export async function getTickerReport(dateStr: string, ticker: string): Promise<
   
   if (!fs.existsSync(filePath)) return null;
   return fs.readFileSync(filePath, 'utf-8');
+}
+
+export async function getTickerDetail(dateStr: string, ticker: string): Promise<TickerDetail | null> {
+  const [y, m, d] = dateStr.split('-');
+  // Ticker json is in the date root
+  const filePath = path.join(DATA_ROOT, y, m, d, `${ticker}.json`);
+  
+  if (!fs.existsSync(filePath)) return null;
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+}
+
+export interface PortfolioSnapshotItem {
+  ticker: string;
+  shares: number;
+  entry_price: number;
+  invested_capital: number;
+  unrealized_gain: number | null;
+  status: string;
+}
+
+export async function getPortfolioSnapshot(dateStr: string): Promise<PortfolioSnapshotItem[]> {
+  const [y, m, d] = dateStr.split('-');
+  const filePath = path.join(DATA_ROOT, y, m, d, 'portfolio_snapshot.json');
+  
+  if (fs.existsSync(filePath)) {
+    return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  }
+
+  // Fallback to backtest_ledger.json
+  const backtestPath = path.join(DATA_ROOT, 'backtest_ledger.json');
+  if (fs.existsSync(backtestPath)) {
+      const content = await fs.promises.readFile(backtestPath, 'utf-8');
+      const json = JSON.parse(content);
+      const snapshot = json.ledger.find((e: LedgerEvent) => e.event_type === 'portfolio_snapshot' && e.date === dateStr);
+      
+      if (snapshot && snapshot.open_positions) {
+          return snapshot.open_positions.map((p: any) => ({
+              ticker: p.ticker,
+              shares: p.shares,
+              entry_price: p.cost_basis_per_share,
+              invested_capital: p.shares * p.cost_basis_per_share,
+              unrealized_gain: p.unrealized_pnl,
+              status: 'OPEN'
+          }));
+      }
+  }
+
+  return [];
 }
 
 // --- Static Generation Helpers ---

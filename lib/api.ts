@@ -9,9 +9,11 @@ export interface DailySummary {
   market_mood: string;
   top_sectors: string[];
   alpha_vs_spy_ytd: number;
+  alpha_vs_mag7_ytd: number;
   portfolio_nav: number;
   benchmark_nav: number;
   sortino_ratio: number;
+  max_drawdown: number;
 }
 
 export interface Holding {
@@ -33,6 +35,55 @@ export interface PerformanceRecord {
 export interface PerformanceData {
   generated_at: string;
   data: PerformanceRecord[];
+}
+
+export interface BacktestSummary {
+  total_return: number;
+  max_drawdown: number;
+  sortino_ratio: number;
+}
+
+export interface LedgerEvent {
+  date: string;
+  event_type: 'buy' | 'sell' | 'rebalance_sell' | 'portfolio_snapshot';
+  ticker?: string;
+  shares?: number;
+  entry_price?: number;
+  exit_price?: number;
+  cost_basis?: number;
+  cost_basis_sold?: number;
+  realized_pnl?: number;
+  cash_change?: number;
+  total_portfolio_value?: number;
+  cash_balance?: number;
+  total_unrealized_pnl?: number;
+}
+
+export async function getBacktestSummary(): Promise<BacktestSummary | null> {
+  const filePath = path.join(DATA_ROOT, 'backtest_ledger.json');
+  if (!fs.existsSync(filePath)) return null;
+  const content = await fs.promises.readFile(filePath, 'utf-8');
+  const json = JSON.parse(content);
+  return json.summary || null;
+}
+
+export async function getMonthlyLedger(year: string, month: string): Promise<LedgerEvent[]> {
+  const filePath = path.join(DATA_ROOT, 'backtest_ledger.json');
+  if (!fs.existsSync(filePath)) return [];
+  const content = await fs.promises.readFile(filePath, 'utf-8');
+  const json = JSON.parse(content);
+  
+  const targetPrefix = `${year}-${month}`;
+  
+  return json.ledger.filter((e: LedgerEvent) => {
+    // Filter for events in this month
+    // Exclude snapshots for the table usually, or keep them if we want to show EOD summary
+    // Let's keep buy/sell/rebalance_sell for the transaction table
+    return e.date.startsWith(targetPrefix) && ['buy', 'sell', 'rebalance_sell'].includes(e.event_type);
+  }).sort((a: LedgerEvent, b: LedgerEvent) => {
+      // Sort by date descending
+      return new Date(b.date).getTime() - new Date(a.date).getTime();
+  });
 }
 
 export async function getPerformanceData(): Promise<PerformanceData | null> {

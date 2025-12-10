@@ -1,0 +1,251 @@
+{
+  "cash": 64.10000000000582,
+  "history": [
+    {
+      "date": "2024-05-01",
+      "ticker": "GGAL",
+      "action": "BUY",
+      "quantity": 308.0,
+      "price": 32.37,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-06-01",
+      "ticker": "GGAL",
+      "action": "SELL",
+      "quantity": 308.0,
+      "price": 35.85,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-06-01",
+      "ticker": "RPTX",
+      "action": "BUY",
+      "quantity": 3181.0,
+      "price": 3.48,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-07-01",
+      "ticker": "RPTX",
+      "action": "SELL",
+      "quantity": 3181.0,
+      "price": 3.33,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-07-01",
+      "ticker": "CASH",
+      "action": "BUY",
+      "quantity": 121.0,
+      "price": 57.21,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-07-01",
+      "ticker": "PTGX",
+      "action": "BUY",
+      "quantity": 96.0,
+      "price": 35.2,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-08-01",
+      "ticker": "PTGX",
+      "action": "SELL",
+      "quantity": 96.0,
+      "price": 37.96,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-08-01",
+      "ticker": "CASH",
+      "action": "SELL",
+      "quantity": 121.0,
+      "price": 65.28,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-08-01",
+      "ticker": "MOFG",
+      "action": "BUY",
+      "quantity": 109.0,
+      "price": 28.43,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-08-01",
+      "ticker": "VIRT",
+      "action": "BUY",
+      "quantity": 322.0,
+      "price": 27.08,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-09-01",
+      "ticker": "VIRT",
+      "action": "SELL",
+      "quantity": 322.0,
+      "price": 30.71,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-09-01",
+      "ticker": "MOFG",
+      "action": "SELL",
+      "quantity": 109.0,
+      "price": 29.22,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-09-01",
+      "ticker": "ZTO",
+      "action": "BUY",
+      "quantity": 607.0,
+      "price": 21.44,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-10-01",
+      "ticker": "ZTO",
+      "action": "SELL",
+      "quantity": 607.0,
+      "price": 25.4,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-10-01",
+      "ticker": "CCL",
+      "action": "BUY",
+      "quantity": 859.0,
+      "price": 18.02,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-11-01",
+      "ticker": "CCL",
+      "action": "SELL",
+      "quantity": 859.0,
+      "price": 21.9,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-11-01",
+      "ticker": "ROOT",
+      "action": "BUY",
+      "quantity": 262.0,
+      "price": 71.01,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-12-01",
+      "ticker": "ROOT",
+      "action": "SELL",
+      "quantity": 262.0,
+      "price": 99.81,
+      "fees": 0.0
+    },
+    {
+      "date": "2024-12-01",
+      "ticker": "RIGL",
+      "action": "BUY",
+      "quantity": 955.0,
+      "price": 27.61,
+      "fees": 0.0
+    },
+    {
+      "date": "2025-01-01",
+      "ticker": "RIGL",
+      "action": "SELL",
+      "quantity": 955.0,
+      "price": 16.82,
+      "fees": 0.0
+    },
+    {
+      "date": "2025-01-01",
+      "ticker": "BZ",
+      "action": "BUY",
+      "quantity": 1164.0,
+      "price": 13.8,
+      "fees": 0.0
+    },
+    {
+      "date": "2025-02-01",
+      "ticker": "BZ",
+      "action": "SELL",
+      "quantity": 1164.0,
+      "price": 14.41,
+      "fees": 0.0
+    },
+    {
+      "date": "2025-02-01",
+      "ticker": "GTN",
+      "action": "BUY",
+      "quantity": 1394.0,
+      "price": 3.74,
+      "fees": 0.0
+    },
+    {
+      "date": "2025-02-01",
+      "ticker": "LNC",
+      "action": "BUY",
+      "quantity": 176.0,
+      "price": 35.16,
+      "fees": 0.0
+    },
+    {
+      "date": "2025-02-01",
+      "ticker": "SBS",
+      "action": "BUY",
+      "quantity": 327.0,
+      "price": 16.18,
+      "fees": 0.0
+    },
+    {
+      "date": "2025-03-01",
+      "ticker": "SBS",
+      "action": "SELL",
+      "quantity": 327.0,
+      "price": 16.11,
+      "fees": 0.0
+    },
+    {
+      "date": "2025-03-01",
+      "ticker": "LNC",
+      "action": "SELL",
+      "quantity": 176.0,
+      "price": 39.0,
+      "fees": 0.0
+    },
+    {
+      "date": "2025-03-01",
+      "ticker": "GTN",
+      "action": "SELL",
+      "quantity": 1394.0,
+      "price": 3.76,
+      "fees": 0.0
+    },
+    {
+      "date": "2025-03-01",
+      "ticker": "CCU",
+      "action": "BUY",
+      "quantity": 1247.0,
+      "price": 13.95,
+      "fees": 0.0
+    }
+  ],
+  "positions": {
+    "CCU": {
+      "ticker": "CCU",
+      "lots": [
+        {
+          "id": "8461c65c-9231-4c01-ab10-f691a75d1557",
+          "date": "2025-03-01",
+          "ticker": "CCU",
+          "quantity": 1247.0,
+          "cost_basis": 13.95
+        }
+      ]
+    }
+  }
+}

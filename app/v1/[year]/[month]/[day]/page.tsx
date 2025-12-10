@@ -1,9 +1,11 @@
-import { getDailySummary, getHoldings, getManagerCommentary, getAllDates } from '@/lib/api';
+import { getDailySummary, getManagerCommentary, getAllDates, getPerformanceData, getMonthlyLedger, getHoldings, Holding } from '@/lib/api';
 import { notFound } from 'next/navigation';
 import { Activity, TrendingUp, Shield, BarChart3 } from 'lucide-react';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import DateSelector from '@/app/components/DateSelector';
+import PerformanceChart from '@/app/components/PerformanceChart';
+import LedgerPicksSection from '@/app/components/LedgerPicksSection';
 
 interface PageProps {
   params: Promise<{
@@ -23,17 +25,42 @@ export default async function DashboardPage(props: PageProps) {
   const dateStr = `${year}-${month}-${day}`;
   
   const summary = await getDailySummary(dateStr);
-  const holdings = await getHoldings(dateStr);
   const commentary = await getManagerCommentary(dateStr);
+  const performanceData = await getPerformanceData();
+  const ledgerEvents = await getMonthlyLedger(year, month);
+  const holdings = await getHoldings(dateStr);
+  
   const rawDates = await getAllDates();
+  // Sort rawDates by date string descending
   const allDates = rawDates.map(d => ({
     ...d,
     date: `${d.year}-${d.month}-${d.day}`
-  }));
+  })).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+  // Find previous date for weight change calc
+  const currentIndex = allDates.findIndex(d => d.date === dateStr);
+  let prevHoldings: Holding[] = [];
+  
+  if (currentIndex !== -1 && currentIndex < allDates.length - 1) {
+      const prevDate = allDates[currentIndex + 1]; // Next item in desc list is previous date
+      prevHoldings = await getHoldings(prevDate.date);
+  }
+
+  // Calculate changes
+  const picksWithChange = holdings.map(h => {
+      const prev = prevHoldings.find(p => p.ticker === h.ticker);
+      return {
+          ...h,
+          weight_change: prev ? h.weight - prev.weight : undefined // undefined means NEW
+      };
+  });
 
   if (!summary) {
     return notFound();
   }
+
+  // Filter performance data for the month
+  const monthlyData = performanceData?.data.filter(d => d.date.startsWith(`${year}-${month}`)) || [];
 
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans pb-20">
@@ -42,7 +69,7 @@ export default async function DashboardPage(props: PageProps) {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <div className="flex items-center space-x-4">
             <Link href="/" className="text-xl font-bold text-slate-800 tracking-tight hover:text-blue-600 transition-colors">
-              Alfred
+              PortfolioZero
             </Link>
             <div className="relative group">
                 <button className="bg-slate-100 text-slate-700 px-3 py-1 rounded text-xs font-mono font-medium hover:bg-slate-200 transition-colors flex items-center">
@@ -52,7 +79,7 @@ export default async function DashboardPage(props: PageProps) {
           </div>
           <div className="flex items-center space-x-4">
              <Link href="/" className="text-sm font-medium text-slate-500 hover:text-slate-800">
-                Back to Overview
+                Back to Archive
              </Link>
              <DateSelector currentDate={dateStr} allDates={allDates} />
           </div>
@@ -63,12 +90,6 @@ export default async function DashboardPage(props: PageProps) {
         
         {/* Top Stats */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-          <StatCard 
-            label="Alfred Score" 
-            value={summary.alfred_score.toFixed(2)} 
-            icon={<Activity className="text-blue-500" />} 
-            subValue={summary.market_mood}
-          />
           <StatCard 
             label="Sortino Ratio" 
             value={summary.sortino_ratio === 0.0 ? "N/A" : summary.sortino_ratio.toFixed(2)} 
@@ -82,8 +103,32 @@ export default async function DashboardPage(props: PageProps) {
             subValue="YTD Outperformance"
             positive={summary.alpha_vs_spy_ytd > 0}
           />
-
+           <StatCard 
+            label="Alpha vs MAG7" 
+            value={summary.alpha_vs_mag7_ytd === 0.0 ? "N/A" : `${(summary.alpha_vs_mag7_ytd * 100).toFixed(1)}%`} 
+            icon={<Activity className="text-blue-500" />} 
+            subValue="YTD Outperformance"
+            positive={summary.alpha_vs_mag7_ytd > 0}
+          />
+           <StatCard 
+            label="Max Drawdown" 
+            value={summary.max_drawdown === 0.0 ? "N/A" : `${(summary.max_drawdown * 100).toFixed(1)}%`} 
+            icon={<Shield className="text-rose-500" />} 
+            subValue="Peak to Trough"
+            positive={summary.max_drawdown > -0.1} 
+          />
         </div>
+
+        {/* Monthly Chart */}
+        {monthlyData.length > 0 && (
+          <section className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
+            <h2 className="text-lg font-semibold mb-4 flex items-center">
+              <TrendingUp className="w-5 h-5 mr-2 text-slate-400" />
+              Monthly Performance
+            </h2>
+             <PerformanceChart data={monthlyData} />
+          </section>
+        )}
 
         {/* Manager Commentary */}
         <section className="bg-white rounded-xl shadow-sm border border-slate-200 p-6">
@@ -111,53 +156,14 @@ export default async function DashboardPage(props: PageProps) {
           </div>
         </section>
 
-        {/* Holdings Table */}
-        <section className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
-          <div className="px-6 py-4 border-b border-slate-100">
-            <h2 className="text-lg font-semibold">Current Holdings</h2>
-          </div>
-          <div className="overflow-x-auto">
-            <table className="w-full text-left text-sm">
-              <thead className="bg-slate-50 text-slate-500">
-                <tr>
-                  <th className="px-6 py-3 font-medium">Ticker</th>
-                  <th className="px-6 py-3 font-medium">Name</th>
-                  <th className="px-6 py-3 font-medium">Sector</th>
-                  <th className="px-6 py-3 font-medium text-right">Weight</th>
-                  <th className="px-6 py-3 font-medium text-right">Score</th>
-                  <th className="px-6 py-3 font-medium text-center">Bin</th>
-                </tr>
-              </thead>
-              <tbody className="divide-y divide-slate-100">
-                {holdings.map((h) => (
-                  <tr key={h.ticker} className="hover:bg-slate-50 transition-colors">
-                    <td className="px-6 py-3 font-medium text-blue-600 underline">
-                      <Link href={`/v1/${year}/${month}/${day}/tickers/${h.ticker}`}>
-                        {h.ticker}
-                      </Link>
-                    </td>
-                    <td className="px-6 py-3 text-slate-600">{h.name}</td>
-                    <td className="px-6 py-3 text-slate-500">{h.sector}</td>
-                    <td className="px-6 py-3 text-right font-mono">{(h.weight * 100).toFixed(1)}%</td>
-                    <td className="px-6 py-3 text-right font-mono">
-                      <span className={h.score > 0.9 ? "text-emerald-600 font-bold" : "text-slate-600"}>
-                        {h.score.toFixed(2)}
-                      </span>
-                    </td>
-                    <td className="px-6 py-3 text-center">
-                      <span className={`inline-block px-2 py-0.5 rounded text-xs font-medium ${
-                        h.bin === 3 ? 'bg-emerald-100 text-emerald-700' : 
-                        h.bin === 2 ? 'bg-blue-100 text-blue-700' : 'bg-slate-100 text-slate-600'
-                      }`}>
-                        Bin {h.bin}
-                      </span>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </section>
+        {/* Ledger & Picks Toggle Section */}
+        <LedgerPicksSection 
+            ledgerEvents={ledgerEvents} 
+            picks={picksWithChange} 
+            year={year} 
+            month={month} 
+            day={day} 
+        />
 
       </main>
     </div>

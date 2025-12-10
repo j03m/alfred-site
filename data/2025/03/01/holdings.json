@@ -1,0 +1,202 @@
+[
+  {
+    "ticker": "CCU",
+    "name": "CCU",
+    "sector": "Unknown",
+    "weight": 0.2642,
+    "score": 0.9992,
+    "bin": 3
+  },
+  {
+    "ticker": "ABEV",
+    "name": "ABEV",
+    "sector": "Unknown",
+    "weight": 0.1483,
+    "score": 0.9957,
+    "bin": 3
+  },
+  {
+    "ticker": "EVER",
+    "name": "EVER",
+    "sector": "Unknown",
+    "weight": 0.0988,
+    "score": 0.9954,
+    "bin": 3
+  },
+  {
+    "ticker": "INVX",
+    "name": "INVX",
+    "sector": "Unknown",
+    "weight": 0.0745,
+    "score": 0.9934,
+    "bin": 3
+  },
+  {
+    "ticker": "DRD",
+    "name": "DRD",
+    "sector": "Unknown",
+    "weight": 0.0742,
+    "score": 0.9874,
+    "bin": 3
+  },
+  {
+    "ticker": "DGICA",
+    "name": "DGICA",
+    "sector": "Unknown",
+    "weight": 0.0626,
+    "score": 0.9972,
+    "bin": 3
+  },
+  {
+    "ticker": "THG",
+    "name": "THG",
+    "sector": "Unknown",
+    "weight": 0.0386,
+    "score": 0.9982,
+    "bin": 3
+  },
+  {
+    "ticker": "NXST",
+    "name": "NXST",
+    "sector": "Unknown",
+    "weight": 0.0325,
+    "score": 0.9807,
+    "bin": 3
+  },
+  {
+    "ticker": "DDI",
+    "name": "DDI",
+    "sector": "Unknown",
+    "weight": 0.0226,
+    "score": 0.9909,
+    "bin": 3
+  },
+  {
+    "ticker": "HMN",
+    "name": "HMN",
+    "sector": "Unknown",
+    "weight": 0.0202,
+    "score": 0.9933,
+    "bin": 3
+  },
+  {
+    "ticker": "SIRI",
+    "name": "SIRI",
+    "sector": "Unknown",
+    "weight": 0.0188,
+    "score": 0.9964,
+    "bin": 3
+  },
+  {
+    "ticker": "TIPT",
+    "name": "TIPT",
+    "sector": "Unknown",
+    "weight": 0.018,
+    "score": 0.9688,
+    "bin": 3
+  },
+  {
+    "ticker": "GT",
+    "name": "GT",
+    "sector": "Unknown",
+    "weight": 0.0169,
+    "score": 0.9827,
+    "bin": 3
+  },
+  {
+    "ticker": "HALO",
+    "name": "HALO",
+    "sector": "Unknown",
+    "weight": 0.0143,
+    "score": 0.9849,
+    "bin": 3
+  },
+  {
+    "ticker": "OKE",
+    "name": "OKE",
+    "sector": "Unknown",
+    "weight": 0.0132,
+    "score": 0.9926,
+    "bin": 3
+  },
+  {
+    "ticker": "DGICB",
+    "name": "DGICB",
+    "sector": "Unknown",
+    "weight": 0.0129,
+    "score": 0.9945,
+    "bin": 3
+  },
+  {
+    "ticker": "EVTC",
+    "name": "EVTC",
+    "sector": "Unknown",
+    "weight": 0.0103,
+    "score": 0.9971,
+    "bin": 3
+  },
+  {
+    "ticker": "RERE",
+    "name": "RERE",
+    "sector": "Unknown",
+    "weight": 0.0094,
+    "score": 0.9789,
+    "bin": 3
+  },
+  {
+    "ticker": "ORGO",
+    "name": "ORGO",
+    "sector": "Unknown",
+    "weight": 0.008,
+    "score": 0.9633,
+    "bin": 3
+  },
+  {
+    "ticker": "ATEX",
+    "name": "ATEX",
+    "sector": "Unknown",
+    "weight": 0.0078,
+    "score": 0.9961,
+    "bin": 3
+  },
+  {
+    "ticker": "GILD",
+    "name": "GILD",
+    "sector": "Unknown",
+    "weight": 0.0074,
+    "score": 0.9967,
+    "bin": 3
+  },
+  {
+    "ticker": "CHTR",
+    "name": "CHTR",
+    "sector": "Unknown",
+    "weight": 0.0072,
+    "score": 0.9873,
+    "bin": 3
+  },
+  {
+    "ticker": "PGR",
+    "name": "PGR",
+    "sector": "Unknown",
+    "weight": 0.0067,
+    "score": 0.9953,
+    "bin": 3
+  },
+  {
+    "ticker": "ATAT",
+    "name": "ATAT",
+    "sector": "Unknown",
+    "weight": 0.0063,
+    "score": 0.9587,
+    "bin": 3
+  },
+  {
+    "ticker": "CI",
+    "name": "CI",
+    "sector": "Unknown",
+    "weight": 0.0062,
+    "score": 0.9872,
+    "bin": 3
+  }
+]

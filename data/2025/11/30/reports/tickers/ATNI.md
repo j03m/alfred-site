@@ -1,9 +1,9 @@
 **Rank:** -4.50 | **Signal Strength:** 0.99
 
 ## Investment Thesis
-I selected ATNI primarily for its exceptional technical strength and predictive momentum. My models forecast a powerful upward trajectory over both the short and medium term, creating a "perfect storm" of price acceleration. Crucially, this is not a speculative growth play; the stock is underpinned by a robust valuation profile, suggesting that the market is currently mispricing its potential. I am capitalizing on this dislocation, anticipating that the strong trend will continue as the market recognizes this value.
+I selected ATNI for the portfolio today primarily due to its exceptional momentum signal. My analysis indicates a very high likelihood (0.99) of ATNI being a top performer, driven by significant upward price momentum. While other fundamental factors are not currently the leading contributors, the strength of its trend acceleration and market conviction makes it a strategic addition to capitalize on potential near-term gains.
 
 ## Factor Analysis
-*   **Predictive Momentum (Dominant Driver):** My confidence in this selection is driven by near-perfect scores in my short-term (Monthly) and medium-term (Quarterly) price forecasting models. The stock is exhibiting top-tier relative strength, signaling a high probability of continued outperformance against the broader market.
-*   **Value Proposition:** Complementing the momentum is a very strong Valuation profile (Cheapness). The stock scores highly here, indicating it is trading at a discount relative to its intrinsic worth. This "Momentum at a Reasonable Price" dynamic is highly attractive in the current regime.
-*   **Fundamental Context:** While Growth and Quality metrics are stable, they are not the primary catalysts for this trade. The decision is heavily weighted towards the convergence of extreme price velocity and attractive valuation.
+ATNI exhibits remarkable trend acceleration, as reflected in its outstanding momentum signal. This strong upward price trajectory is the core driver behind my decision.
+
+The projected quarterly price momentum for ATNI is exceptionally strong, with a near-perfect score, suggesting a robust and sustained upward path. Although ATNI's current valuation, growth prospects, and operational quality are not the primary strengths driving this selection, the powerful market conviction indicated by its momentum signal and forward-looking price velocity present a compelling case for its inclusion.

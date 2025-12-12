@@ -3,7 +3,7 @@
     "ticker": "EVR",
     "name": "EVR",
     "sector": "Unknown",
-    "weight": 0.2166,
+    "weight": 0.22,
     "score": 0.9946,
     "bin": 3
   },
@@ -11,7 +11,7 @@
     "ticker": "TTI",
     "name": "TTI",
     "sector": "Unknown",
-    "weight": 0.1613,
+    "weight": 0.16,
     "score": 0.9796,
     "bin": 3
   },
@@ -19,7 +19,7 @@
     "ticker": "WDC",
     "name": "WDC",
     "sector": "Unknown",
-    "weight": 0.0789,
+    "weight": 0.08,
     "score": 0.9897,
     "bin": 3
   },
@@ -27,7 +27,7 @@
     "ticker": "KEQU",
     "name": "KEQU",
     "sector": "Unknown",
-    "weight": 0.078,
+    "weight": 0.08,
     "score": 0.988,
     "bin": 3
   },
@@ -35,7 +35,7 @@
     "ticker": "FLXS",
     "name": "FLXS",
     "sector": "Unknown",
-    "weight": 0.0682,
+    "weight": 0.07,
     "score": 0.9939,
     "bin": 3
   },
@@ -43,7 +43,7 @@
     "ticker": "LXRX",
     "name": "LXRX",
     "sector": "Unknown",
-    "weight": 0.0435,
+    "weight": 0.04,
     "score": 0.9463,
     "bin": 3
   },
@@ -51,7 +51,7 @@
     "ticker": "TER",
     "name": "TER",
     "sector": "Unknown",
-    "weight": 0.0327,
+    "weight": 0.03,
     "score": 0.9884,
     "bin": 3
   },
@@ -59,7 +59,7 @@
     "ticker": "BTMD",
     "name": "BTMD",
     "sector": "Unknown",
-    "weight": 0.0313,
+    "weight": 0.03,
     "score": 0.9875,
     "bin": 3
   },
@@ -67,7 +67,7 @@
     "ticker": "ANET",
     "name": "ANET",
     "sector": "Unknown",
-    "weight": 0.0304,
+    "weight": 0.03,
     "score": 0.9866,
     "bin": 3
   },
@@ -75,7 +75,7 @@
     "ticker": "WBD",
     "name": "WBD",
     "sector": "Unknown",
-    "weight": 0.0289,
+    "weight": 0.03,
     "score": 0.9989,
     "bin": 3
   },
@@ -83,7 +83,7 @@
     "ticker": "ZDGE",
     "name": "ZDGE",
     "sector": "Unknown",
-    "weight": 0.0265,
+    "weight": 0.03,
     "score": 0.9921,
     "bin": 3
   },
@@ -91,7 +91,7 @@
     "ticker": "BELFA",
     "name": "BELFA",
     "sector": "Unknown",
-    "weight": 0.0263,
+    "weight": 0.03,
     "score": 0.9742,
     "bin": 3
   },
@@ -99,7 +99,7 @@
     "ticker": "POWL",
     "name": "POWL",
     "sector": "Unknown",
-    "weight": 0.0241,
+    "weight": 0.02,
     "score": 0.9429,
     "bin": 3
   },
@@ -107,7 +107,7 @@
     "ticker": "AVAV",
     "name": "AVAV",
     "sector": "Unknown",
-    "weight": 0.023,
+    "weight": 0.02,
     "score": 0.9526,
     "bin": 3
   },
@@ -115,7 +115,7 @@
     "ticker": "RDDT",
     "name": "RDDT",
     "sector": "Unknown",
-    "weight": 0.0197,
+    "weight": 0.02,
     "score": 0.9902,
     "bin": 3
   },
@@ -123,7 +123,7 @@
     "ticker": "OWLT",
     "name": "OWLT",
     "sector": "Unknown",
-    "weight": 0.0179,
+    "weight": 0.02,
     "score": 0.9424,
     "bin": 3
   },
@@ -131,7 +131,7 @@
     "ticker": "VSAT",
     "name": "VSAT",
     "sector": "Unknown",
-    "weight": 0.0138,
+    "weight": 0.01,
     "score": 0.9828,
     "bin": 3
   },
@@ -139,7 +139,7 @@
     "ticker": "COOK",
     "name": "COOK",
     "sector": "Unknown",
-    "weight": 0.0123,
+    "weight": 0.01,
     "score": 0.9717,
     "bin": 3
   },
@@ -147,7 +147,7 @@
     "ticker": "AENT",
     "name": "AENT",
     "sector": "Unknown",
-    "weight": 0.0112,
+    "weight": 0.01,
     "score": 0.9653,
     "bin": 3
   },
@@ -155,7 +155,7 @@
     "ticker": "RAIL",
     "name": "RAIL",
     "sector": "Unknown",
-    "weight": 0.0104,
+    "weight": 0.01,
     "score": 0.9376,
     "bin": 3
   },
@@ -163,7 +163,7 @@
     "ticker": "COE",
     "name": "COE",
     "sector": "Unknown",
-    "weight": 0.0103,
+    "weight": 0.01,
     "score": 0.9903,
     "bin": 3
   },
@@ -171,7 +171,7 @@
     "ticker": "AFRM",
     "name": "AFRM",
     "sector": "Unknown",
-    "weight": 0.0097,
+    "weight": 0.01,
     "score": 0.9085,
     "bin": 3
   },
@@ -179,7 +179,7 @@
     "ticker": "BLBD",
     "name": "BLBD",
     "sector": "Unknown",
-    "weight": 0.0086,
+    "weight": 0.01,
     "score": 0.9616,
     "bin": 3
   },
@@ -187,7 +187,7 @@
     "ticker": "HL",
     "name": "HL",
     "sector": "Unknown",
-    "weight": 0.0082,
+    "weight": 0.01,
     "score": 0.9643,
     "bin": 3
   },
@@ -195,7 +195,7 @@
     "ticker": "MDB",
     "name": "MDB",
     "sector": "Unknown",
-    "weight": 0.0082,
+    "weight": 0.01,
     "score": 0.9866,
     "bin": 3
   }

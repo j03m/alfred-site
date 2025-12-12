@@ -3,7 +3,7 @@
     "ticker": "IRWD",
     "name": "IRWD",
     "sector": "Unknown",
-    "weight": 0.2287,
+    "weight": 0.23,
     "score": 0.9662,
     "bin": 3
   },
@@ -11,7 +11,7 @@
     "ticker": "PHAR",
     "name": "PHAR",
     "sector": "Unknown",
-    "weight": 0.0731,
+    "weight": 0.07,
     "score": 0.9734,
     "bin": 3
   },
@@ -19,7 +19,7 @@
     "ticker": "ATNI",
     "name": "ATNI",
     "sector": "Unknown",
-    "weight": 0.0622,
+    "weight": 0.06,
     "score": 0.9865,
     "bin": 3
   },
@@ -27,7 +27,7 @@
     "ticker": "BODI",
     "name": "BODI",
     "sector": "Unknown",
-    "weight": 0.0543,
+    "weight": 0.05,
     "score": 0.9896,
     "bin": 3
   },
@@ -35,7 +35,7 @@
     "ticker": "NATR",
     "name": "NATR",
     "sector": "Unknown",
-    "weight": 0.052,
+    "weight": 0.05,
     "score": 0.985,
     "bin": 3
   },
@@ -43,7 +43,7 @@
     "ticker": "COHN",
     "name": "COHN",
     "sector": "Unknown",
-    "weight": 0.051,
+    "weight": 0.05,
     "score": 0.9598,
     "bin": 3
   },
@@ -51,7 +51,7 @@
     "ticker": "MBI",
     "name": "MBI",
     "sector": "Unknown",
-    "weight": 0.0486,
+    "weight": 0.05,
     "score": 0.9898,
     "bin": 3
   },
@@ -59,7 +59,7 @@
     "ticker": "STC",
     "name": "STC",
     "sector": "Unknown",
-    "weight": 0.0412,
+    "weight": 0.04,
     "score": 0.9593,
     "bin": 3
   },
@@ -67,7 +67,7 @@
     "ticker": "HTHT",
     "name": "HTHT",
     "sector": "Unknown",
-    "weight": 0.0371,
+    "weight": 0.04,
     "score": 0.9824,
     "bin": 3
   },
@@ -75,7 +75,7 @@
     "ticker": "TCMD",
     "name": "TCMD",
     "sector": "Unknown",
-    "weight": 0.0331,
+    "weight": 0.03,
     "score": 0.9747,
     "bin": 3
   },
@@ -83,7 +83,7 @@
     "ticker": "ARMN",
     "name": "ARMN",
     "sector": "Unknown",
-    "weight": 0.0324,
+    "weight": 0.03,
     "score": 0.9944,
     "bin": 3
   },
@@ -91,7 +91,7 @@
     "ticker": "DVAX",
     "name": "DVAX",
     "sector": "Unknown",
-    "weight": 0.0319,
+    "weight": 0.03,
     "score": 0.8911,
     "bin": 3
   },
@@ -99,7 +99,7 @@
     "ticker": "MATV",
     "name": "MATV",
     "sector": "Unknown",
-    "weight": 0.031,
+    "weight": 0.03,
     "score": 0.9917,
     "bin": 3
   },
@@ -107,7 +107,7 @@
     "ticker": "ALTO",
     "name": "ALTO",
     "sector": "Unknown",
-    "weight": 0.0273,
+    "weight": 0.03,
     "score": 0.9787,
     "bin": 3
   },
@@ -115,7 +115,7 @@
     "ticker": "BWEN",
     "name": "BWEN",
     "sector": "Unknown",
-    "weight": 0.0269,
+    "weight": 0.03,
     "score": 0.9688,
     "bin": 3
   },
@@ -123,7 +123,7 @@
     "ticker": "HALO",
     "name": "HALO",
     "sector": "Unknown",
-    "weight": 0.0263,
+    "weight": 0.03,
     "score": 0.9883,
     "bin": 3
   },
@@ -131,7 +131,7 @@
     "ticker": "APPN",
     "name": "APPN",
     "sector": "Unknown",
-    "weight": 0.0248,
+    "weight": 0.02,
     "score": 0.9661,
     "bin": 3
   },
@@ -139,7 +139,7 @@
     "ticker": "SKY",
     "name": "SKY",
     "sector": "Unknown",
-    "weight": 0.0181,
+    "weight": 0.02,
     "score": 0.9881,
     "bin": 3
   },
@@ -147,7 +147,7 @@
     "ticker": "MD",
     "name": "MD",
     "sector": "Unknown",
-    "weight": 0.0177,
+    "weight": 0.02,
     "score": 0.9953,
     "bin": 3
   },
@@ -155,7 +155,7 @@
     "ticker": "EXAS",
     "name": "EXAS",
     "sector": "Unknown",
-    "weight": 0.016,
+    "weight": 0.02,
     "score": 0.9917,
     "bin": 3
   },
@@ -163,7 +163,7 @@
     "ticker": "QLYS",
     "name": "QLYS",
     "sector": "Unknown",
-    "weight": 0.0155,
+    "weight": 0.02,
     "score": 0.9315,
     "bin": 3
   },
@@ -171,7 +171,7 @@
     "ticker": "SD",
     "name": "SD",
     "sector": "Unknown",
-    "weight": 0.0154,
+    "weight": 0.02,
     "score": 0.972,
     "bin": 3
   },
@@ -179,7 +179,7 @@
     "ticker": "FSLY",
     "name": "FSLY",
     "sector": "Unknown",
-    "weight": 0.0125,
+    "weight": 0.01,
     "score": 0.9829,
     "bin": 3
   },
@@ -187,7 +187,7 @@
     "ticker": "AMGN",
     "name": "AMGN",
     "sector": "Unknown",
-    "weight": 0.0118,
+    "weight": 0.01,
     "score": 0.9882,
     "bin": 3
   },
@@ -195,7 +195,7 @@
     "ticker": "SPRU",
     "name": "SPRU",
     "sector": "Unknown",
-    "weight": 0.0112,
+    "weight": 0.01,
     "score": 0.9904,
     "bin": 3
   }

@@ -3,7 +3,7 @@
     "ticker": "BDTX",
     "name": "BDTX",
     "sector": "Unknown",
-    "weight": 0.1625,
+    "weight": 0.16,
     "score": 0.9543,
     "bin": 3
   },
@@ -11,7 +11,7 @@
     "ticker": "LOOP",
     "name": "LOOP",
     "sector": "Unknown",
-    "weight": 0.1275,
+    "weight": 0.13,
     "score": 0.978,
     "bin": 3
   },
@@ -19,7 +19,7 @@
     "ticker": "OPRT",
     "name": "OPRT",
     "sector": "Unknown",
-    "weight": 0.1198,
+    "weight": 0.12,
     "score": 0.9926,
     "bin": 3
   },
@@ -27,7 +27,7 @@
     "ticker": "GOTU",
     "name": "GOTU",
     "sector": "Unknown",
-    "weight": 0.0685,
+    "weight": 0.07,
     "score": 0.9762,
     "bin": 3
   },
@@ -35,7 +35,7 @@
     "ticker": "GOOS",
     "name": "GOOS",
     "sector": "Unknown",
-    "weight": 0.058,
+    "weight": 0.06,
     "score": 0.975,
     "bin": 3
   },
@@ -43,7 +43,7 @@
     "ticker": "FIVE",
     "name": "FIVE",
     "sector": "Unknown",
-    "weight": 0.0547,
+    "weight": 0.05,
     "score": 0.9971,
     "bin": 3
   },
@@ -51,7 +51,7 @@
     "ticker": "BTM",
     "name": "BTM",
     "sector": "Unknown",
-    "weight": 0.0443,
+    "weight": 0.04,
     "score": 0.9448,
     "bin": 3
   },
@@ -59,7 +59,7 @@
     "ticker": "RRGB",
     "name": "RRGB",
     "sector": "Unknown",
-    "weight": 0.0369,
+    "weight": 0.04,
     "score": 0.9889,
     "bin": 3
   },
@@ -67,7 +67,7 @@
     "ticker": "ISSC",
     "name": "ISSC",
     "sector": "Unknown",
-    "weight": 0.0344,
+    "weight": 0.03,
     "score": 0.9799,
     "bin": 3
   },
@@ -75,7 +75,7 @@
     "ticker": "PAHC",
     "name": "PAHC",
     "sector": "Unknown",
-    "weight": 0.0322,
+    "weight": 0.03,
     "score": 0.9963,
     "bin": 3
   },
@@ -83,7 +83,7 @@
     "ticker": "CRCT",
     "name": "CRCT",
     "sector": "Unknown",
-    "weight": 0.0251,
+    "weight": 0.03,
     "score": 0.9481,
     "bin": 3
   },
@@ -91,7 +91,7 @@
     "ticker": "STRT",
     "name": "STRT",
     "sector": "Unknown",
-    "weight": 0.0239,
+    "weight": 0.02,
     "score": 0.9894,
     "bin": 3
   },
@@ -99,7 +99,7 @@
     "ticker": "HNRG",
     "name": "HNRG",
     "sector": "Unknown",
-    "weight": 0.0211,
+    "weight": 0.02,
     "score": 0.9686,
     "bin": 3
   },
@@ -107,7 +107,7 @@
     "ticker": "FTK",
     "name": "FTK",
     "sector": "Unknown",
-    "weight": 0.0206,
+    "weight": 0.02,
     "score": 0.9793,
     "bin": 3
   },
@@ -115,7 +115,7 @@
     "ticker": "EYE",
     "name": "EYE",
     "sector": "Unknown",
-    "weight": 0.0205,
+    "weight": 0.02,
     "score": 0.9985,
     "bin": 3
   },
@@ -123,7 +123,7 @@
     "ticker": "FUTU",
     "name": "FUTU",
     "sector": "Unknown",
-    "weight": 0.0189,
+    "weight": 0.02,
     "score": 0.9646,
     "bin": 3
   },
@@ -131,7 +131,7 @@
     "ticker": "OPXS",
     "name": "OPXS",
     "sector": "Unknown",
-    "weight": 0.0168,
+    "weight": 0.02,
     "score": 0.9888,
     "bin": 3
   },
@@ -139,7 +139,7 @@
     "ticker": "RCMT",
     "name": "RCMT",
     "sector": "Unknown",
-    "weight": 0.0155,
+    "weight": 0.02,
     "score": 0.9862,
     "bin": 3
   },
@@ -147,7 +147,7 @@
     "ticker": "TME",
     "name": "TME",
     "sector": "Unknown",
-    "weight": 0.015,
+    "weight": 0.01,
     "score": 0.9837,
     "bin": 3
   },
@@ -155,7 +155,7 @@
     "ticker": "SMG",
     "name": "SMG",
     "sector": "Unknown",
-    "weight": 0.0147,
+    "weight": 0.01,
     "score": 0.9867,
     "bin": 3
   },
@@ -163,7 +163,7 @@
     "ticker": "ATRO",
     "name": "ATRO",
     "sector": "Unknown",
-    "weight": 0.0147,
+    "weight": 0.01,
     "score": 0.9929,
     "bin": 3
   },
@@ -171,7 +171,7 @@
     "ticker": "EHAB",
     "name": "EHAB",
     "sector": "Unknown",
-    "weight": 0.0144,
+    "weight": 0.01,
     "score": 0.9977,
     "bin": 3
   },
@@ -179,7 +179,7 @@
     "ticker": "FTDR",
     "name": "FTDR",
     "sector": "Unknown",
-    "weight": 0.014,
+    "weight": 0.01,
     "score": 0.9665,
     "bin": 3
   },
@@ -187,7 +187,7 @@
     "ticker": "NRG",
     "name": "NRG",
     "sector": "Unknown",
-    "weight": 0.0137,
+    "weight": 0.01,
     "score": 0.9944,
     "bin": 3
   },
@@ -195,7 +195,7 @@
     "ticker": "ARLO",
     "name": "ARLO",
     "sector": "Unknown",
-    "weight": 0.0122,
+    "weight": 0.01,
     "score": 0.9741,
     "bin": 3
   }

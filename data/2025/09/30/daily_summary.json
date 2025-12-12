@@ -4,10 +4,10 @@
   "alfred_score": 21.66,
   "market_mood": "Aggressive Growth",
   "top_sectors": [],
-  "alpha_vs_spy_ytd": 0.6166462526011465,
-  "alpha_vs_mag7_ytd": 0.5333991924810999,
-  "portfolio_nav": 174693.34987369814,
+  "alpha_vs_spy_ytd": 0.602382346028947,
+  "alpha_vs_mag7_ytd": 0.5191352859089005,
+  "portfolio_nav": 173266.95921647822,
   "benchmark_nav": 113028.72461358352,
-  "sortino_ratio": 9.322634851201746,
-  "max_drawdown": -0.10362219299320093
+  "sortino_ratio": 9.06597274257689,
+  "max_drawdown": -0.10501721015806603
 }

@@ -107,9 +107,9 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                     const isSell = event.event_type === 'sell' || event.event_type === 'rebalance_sell';
                     const price = isBuy ? event.entry_price : event.exit_price;
                     
-                    // Sell events refer to positions opened in the past, so we link to the previous period's thesis.
-                    // Buy events refer to new positions, linking to the current thesis.
-                    const linkUrl = getTickerLink(event.ticker || '', isSell);
+                    // Transactions in the monthly ledger usually stem from the previous period's signal (e.g. rebalance).
+                    // So we link to the previous date's thesis if available.
+                    const linkUrl = getTickerLink(event.ticker || '', true);
 
                     return (
                       <tr key={idx} className="hover:bg-slate-50 transition-colors">

@@ -1,0 +1,202 @@
+[
+  {
+    "ticker": "RIGL",
+    "name": "RIGL",
+    "sector": "Unknown",
+    "weight": 0.4218,
+    "score": 0.9955,
+    "bin": 3
+  },
+  {
+    "ticker": "SSRM",
+    "name": "SSRM",
+    "sector": "Unknown",
+    "weight": 0.0716,
+    "score": 0.9872,
+    "bin": 3
+  },
+  {
+    "ticker": "KGC",
+    "name": "KGC",
+    "sector": "Unknown",
+    "weight": 0.063,
+    "score": 0.9972,
+    "bin": 3
+  },
+  {
+    "ticker": "VFF",
+    "name": "VFF",
+    "sector": "Unknown",
+    "weight": 0.0609,
+    "score": 0.9044,
+    "bin": 3
+  },
+  {
+    "ticker": "DRD",
+    "name": "DRD",
+    "sector": "Unknown",
+    "weight": 0.0517,
+    "score": 0.9939,
+    "bin": 3
+  },
+  {
+    "ticker": "SMP",
+    "name": "SMP",
+    "sector": "Unknown",
+    "weight": 0.0348,
+    "score": 0.9966,
+    "bin": 3
+  },
+  {
+    "ticker": "HBI",
+    "name": "HBI",
+    "sector": "Unknown",
+    "weight": 0.0315,
+    "score": 0.9897,
+    "bin": 3
+  },
+  {
+    "ticker": "HL",
+    "name": "HL",
+    "sector": "Unknown",
+    "weight": 0.0276,
+    "score": 0.9494,
+    "bin": 3
+  },
+  {
+    "ticker": "TILE",
+    "name": "TILE",
+    "sector": "Unknown",
+    "weight": 0.027,
+    "score": 0.9887,
+    "bin": 3
+  },
+  {
+    "ticker": "EMBC",
+    "name": "EMBC",
+    "sector": "Unknown",
+    "weight": 0.0243,
+    "score": 0.9694,
+    "bin": 3
+  },
+  {
+    "ticker": "COMM",
+    "name": "COMM",
+    "sector": "Unknown",
+    "weight": 0.0219,
+    "score": 0.9616,
+    "bin": 3
+  },
+  {
+    "ticker": "CDE",
+    "name": "CDE",
+    "sector": "Unknown",
+    "weight": 0.0196,
+    "score": 0.962,
+    "bin": 3
+  },
+  {
+    "ticker": "CCLD",
+    "name": "CCLD",
+    "sector": "Unknown",
+    "weight": 0.017,
+    "score": 0.9638,
+    "bin": 3
+  },
+  {
+    "ticker": "FLXS",
+    "name": "FLXS",
+    "sector": "Unknown",
+    "weight": 0.0145,
+    "score": 0.9938,
+    "bin": 3
+  },
+  {
+    "ticker": "XOMA",
+    "name": "XOMA",
+    "sector": "Unknown",
+    "weight": 0.0137,
+    "score": 0.9914,
+    "bin": 3
+  },
+  {
+    "ticker": "SBH",
+    "name": "SBH",
+    "sector": "Unknown",
+    "weight": 0.0135,
+    "score": 0.9953,
+    "bin": 3
+  },
+  {
+    "ticker": "MATV",
+    "name": "MATV",
+    "sector": "Unknown",
+    "weight": 0.012,
+    "score": 0.9842,
+    "bin": 3
+  },
+  {
+    "ticker": "SIGA",
+    "name": "SIGA",
+    "sector": "Unknown",
+    "weight": 0.0116,
+    "score": 0.7938,
+    "bin": 3
+  },
+  {
+    "ticker": "HIVE",
+    "name": "HIVE",
+    "sector": "Unknown",
+    "weight": 0.0109,
+    "score": 0.9819,
+    "bin": 3
+  },
+  {
+    "ticker": "SHCO",
+    "name": "SHCO",
+    "sector": "Unknown",
+    "weight": 0.0102,
+    "score": 0.9707,
+    "bin": 3
+  },
+  {
+    "ticker": "TPC",
+    "name": "TPC",
+    "sector": "Unknown",
+    "weight": 0.0099,
+    "score": 0.9566,
+    "bin": 3
+  },
+  {
+    "ticker": "RDDT",
+    "name": "RDDT",
+    "sector": "Unknown",
+    "weight": 0.0084,
+    "score": 0.9627,
+    "bin": 3
+  },
+  {
+    "ticker": "AORT",
+    "name": "AORT",
+    "sector": "Unknown",
+    "weight": 0.0083,
+    "score": 0.9962,
+    "bin": 3
+  },
+  {
+    "ticker": "INFU",
+    "name": "INFU",
+    "sector": "Unknown",
+    "weight": 0.008,
+    "score": 0.9914,
+    "bin": 3
+  },
+  {
+    "ticker": "LIVE",
+    "name": "LIVE",
+    "sector": "Unknown",
+    "weight": 0.0064,
+    "score": 0.9618,
+    "bin": 3
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "ticker": "BDTX",
+    "name": "BDTX",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 2.2,
+    "exit_price": 2.48,
+    "return": 0.12727272727272718,
+    "relative_return": 0.07898551507028051
+  },
+  {
+    "ticker": "LOOP",
+    "name": "LOOP",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 1.3,
+    "exit_price": 1.42,
+    "return": 0.09230769230769222,
+    "relative_return": 0.044020480105245556
+  },
+  {
+    "ticker": "OPRT",
+    "name": "OPRT",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 6.65,
+    "exit_price": 7.16,
+    "return": 0.07669172932330824,
+    "relative_return": 0.028404517120861582
+  },
+  {
+    "ticker": "GOTU",
+    "name": "GOTU",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 3.81,
+    "exit_price": 3.61,
+    "return": -0.05249343832021002,
+    "relative_return": -0.10078065052265668
+  },
+  {
+    "ticker": "GOOS",
+    "name": "GOOS",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 12.07,
+    "exit_price": 11.19,
+    "return": -0.07290803645401829,
+    "relative_return": -0.12119524865646494
+  },
+  {
+    "ticker": "FIVE",
+    "name": "FIVE",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 116.57,
+    "exit_price": 131.18,
+    "return": 0.12533241828943995,
+    "relative_return": 0.07704520608699328
+  },
+  {
+    "ticker": "BTM",
+    "name": "BTM",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 3.9,
+    "exit_price": 5.07,
+    "return": 0.3000000000000001,
+    "relative_return": 0.25171278779755346
+  },
+  {
+    "ticker": "RRGB",
+    "name": "RRGB",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 5.1,
+    "exit_price": 5.79,
+    "return": 0.1352941176470589,
+    "relative_return": 0.08700690544461223
+  },
+  {
+    "ticker": "ISSC",
+    "name": "ISSC",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 11.19,
+    "exit_price": 13.88,
+    "return": 0.24039320822162658,
+    "relative_return": 0.1921059960191799
+  },
+  {
+    "ticker": "PAHC",
+    "name": "PAHC",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 24.42,
+    "exit_price": 25.54,
+    "return": 0.04586404586404576,
+    "relative_return": -0.002423166338400902
+  },
+  {
+    "ticker": "CRCT",
+    "name": "CRCT",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 6.06,
+    "exit_price": 6.77,
+    "return": 0.11716171617161716,
+    "relative_return": 0.0688745039691705
+  },
+  {
+    "ticker": "STRT",
+    "name": "STRT",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 55.98,
+    "exit_price": 62.21,
+    "return": 0.11128974633797793,
+    "relative_return": 0.06300253413553128
+  },
+  {
+    "ticker": "HNRG",
+    "name": "HNRG",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 17.25,
+    "exit_price": 15.83,
+    "return": -0.08231884057971015,
+    "relative_return": -0.1306060527821568
+  },
+  {
+    "ticker": "FTK",
+    "name": "FTK",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 14.67,
+    "exit_price": 14.76,
+    "return": 0.006134969325153365,
+    "relative_return": -0.04215224287729329
+  },
+  {
+    "ticker": "EYE",
+    "name": "EYE",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 19.81,
+    "exit_price": 23.01,
+    "return": 0.1615345784957094,
+    "relative_return": 0.11324736629326274
+  },
+  {
+    "ticker": "FUTU",
+    "name": "FUTU",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 101.93,
+    "exit_price": 123.59,
+    "return": 0.21249877366820363,
+    "relative_return": 0.16421156146575697
+  },
+  {
+    "ticker": "OPXS",
+    "name": "OPXS",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 8.53,
+    "exit_price": 11.49,
+    "return": 0.34701055099648315,
+    "relative_return": 0.2987233387940365
+  },
+  {
+    "ticker": "RCMT",
+    "name": "RCMT",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 22.89,
+    "exit_price": 23.57,
+    "return": 0.029707295762341622,
+    "relative_return": -0.018579916440105038
+  },
+  {
+    "ticker": "TME",
+    "name": "TME",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 16.84,
+    "exit_price": 19.49,
+    "return": 0.15736342042755336,
+    "relative_return": 0.10907620822510669
+  },
+  {
+    "ticker": "SMG",
+    "name": "SMG",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 59.56,
+    "exit_price": 65.96,
+    "return": 0.10745466756212209,
+    "relative_return": 0.05916745535967543
+  },
+  {
+    "ticker": "ATRO",
+    "name": "ATRO",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 31.22,
+    "exit_price": 33.48,
+    "return": 0.07238949391415753,
+    "relative_return": 0.024102281711710867
+  },
+  {
+    "ticker": "EHAB",
+    "name": "EHAB",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 10.5,
+    "exit_price": 9.64,
+    "return": -0.08190476190476186,
+    "relative_return": -0.1301919741072085
+  },
+  {
+    "ticker": "FTDR",
+    "name": "FTDR",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 55.01,
+    "exit_price": 58.94,
+    "return": 0.07144155608071259,
+    "relative_return": 0.023154343878265933
+  },
+  {
+    "ticker": "NRG",
+    "name": "NRG",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 155.9,
+    "exit_price": 160.58,
+    "return": 0.030019243104554245,
+    "relative_return": -0.018267969097892415
+  },
+  {
+    "ticker": "ARLO",
+    "name": "ARLO",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 14.32,
+    "exit_price": 16.96,
+    "return": 0.18435754189944137,
+    "relative_return": 0.1360703296969947
+  }
+]

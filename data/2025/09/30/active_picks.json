@@ -1,0 +1,252 @@
+[
+  {
+    "ticker": "RIGL",
+    "name": "RIGL",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 38.85,
+    "exit_price": 28.33,
+    "return": -0.27078507078507086,
+    "relative_return": -0.3035422213935508
+  },
+  {
+    "ticker": "SSRM",
+    "name": "SSRM",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 19.31,
+    "exit_price": 24.42,
+    "return": 0.2646297255308132,
+    "relative_return": 0.23187257492233326
+  },
+  {
+    "ticker": "KGC",
+    "name": "KGC",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 20.9,
+    "exit_price": 24.85,
+    "return": 0.18899521531100494,
+    "relative_return": 0.156238064702525
+  },
+  {
+    "ticker": "VFF",
+    "name": "VFF",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 3.27,
+    "exit_price": 3.13,
+    "return": -0.042813455657492394,
+    "relative_return": -0.07557060626597235
+  },
+  {
+    "ticker": "DRD",
+    "name": "DRD",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 18.48,
+    "exit_price": 27.6,
+    "return": 0.49350649350649356,
+    "relative_return": 0.4607493428980136
+  },
+  {
+    "ticker": "SMP",
+    "name": "SMP",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 38.81,
+    "exit_price": 40.82,
+    "return": 0.051790775573305796,
+    "relative_return": 0.019033624964825836
+  },
+  {
+    "ticker": "HBI",
+    "name": "HBI",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 6.31,
+    "exit_price": 6.59,
+    "return": 0.04437400950871637,
+    "relative_return": 0.011616858900236407
+  },
+  {
+    "ticker": "HL",
+    "name": "HL",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 8.51,
+    "exit_price": 12.1,
+    "return": 0.4218566392479436,
+    "relative_return": 0.38909948863946364
+  },
+  {
+    "ticker": "TILE",
+    "name": "TILE",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 26.72,
+    "exit_price": 28.94,
+    "return": 0.08308383233532944,
+    "relative_return": 0.05032668172684948
+  },
+  {
+    "ticker": "EMBC",
+    "name": "EMBC",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 14.48,
+    "exit_price": 14.11,
+    "return": -0.02555248618784537,
+    "relative_return": -0.05830963679632533
+  },
+  {
+    "ticker": "COMM",
+    "name": "COMM",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 16.04,
+    "exit_price": 15.48,
+    "return": -0.0349127182044887,
+    "relative_return": -0.06766986881296866
+  },
+  {
+    "ticker": "CDE",
+    "name": "CDE",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 13.15,
+    "exit_price": 18.76,
+    "return": 0.42661596958174913,
+    "relative_return": 0.3938588189732692
+  },
+  {
+    "ticker": "CCLD",
+    "name": "CCLD",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 3.84,
+    "exit_price": 3.21,
+    "return": -0.16406249999999997,
+    "relative_return": -0.19681965060847995
+  },
+  {
+    "ticker": "FLXS",
+    "name": "FLXS",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 46.38,
+    "exit_price": 46.35,
+    "return": -0.0006468305304010594,
+    "relative_return": -0.03340398113888102
+  },
+  {
+    "ticker": "XOMA",
+    "name": "XOMA",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 32.47,
+    "exit_price": 38.54,
+    "return": 0.18694179242377582,
+    "relative_return": 0.15418464181529584
+  },
+  {
+    "ticker": "SBH",
+    "name": "SBH",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 13.86,
+    "exit_price": 16.28,
+    "return": 0.17460317460317473,
+    "relative_return": 0.14184602399469476
+  },
+  {
+    "ticker": "MATV",
+    "name": "MATV",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 12.57,
+    "exit_price": 11.31,
+    "return": -0.10023866348448686,
+    "relative_return": -0.13299581409296682
+  },
+  {
+    "ticker": "SIGA",
+    "name": "SIGA",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 8.39,
+    "exit_price": 9.15,
+    "return": 0.09058402860548269,
+    "relative_return": 0.05782687799700273
+  },
+  {
+    "ticker": "HIVE",
+    "name": "HIVE",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 2.95,
+    "exit_price": 4.03,
+    "return": 0.36610169491525424,
+    "relative_return": 0.3333445443067743
+  },
+  {
+    "ticker": "SHCO",
+    "name": "SHCO",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 8.83,
+    "exit_price": 8.85,
+    "return": 0.002265005662514108,
+    "relative_return": -0.030492144945965853
+  },
+  {
+    "ticker": "TPC",
+    "name": "TPC",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 58.94,
+    "exit_price": 65.59,
+    "return": 0.11282660332541578,
+    "relative_return": 0.08006945271693582
+  },
+  {
+    "ticker": "RDDT",
+    "name": "RDDT",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 225.08,
+    "exit_price": 229.99,
+    "return": 0.02181446596765593,
+    "relative_return": -0.01094268464082403
+  },
+  {
+    "ticker": "AORT",
+    "name": "AORT",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 43.93,
+    "exit_price": 42.34,
+    "return": -0.03619394491236049,
+    "relative_return": -0.06895109552084044
+  },
+  {
+    "ticker": "INFU",
+    "name": "INFU",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 10.78,
+    "exit_price": 10.36,
+    "return": -0.03896103896103896,
+    "relative_return": -0.07171818956951892
+  },
+  {
+    "ticker": "LIVE",
+    "name": "LIVE",
+    "sector": "Unknown",
+    "weight": 0.0,
+    "entry_price": 19.8,
+    "exit_price": 18.37,
+    "return": -0.0722222222222222,
+    "relative_return": -0.10497937283070216
+  }
+]

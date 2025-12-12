@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { DollarSign, ArrowUpRight, ArrowDownRight, Layers, ArrowRight, History, Zap } from 'lucide-react';
 import { LedgerEvent, ActivePick, NextPick } from '@/lib/api';
@@ -20,7 +20,22 @@ interface LedgerPicksSectionProps {
 }
 
 export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPicks, year, month, day, previousDate }: LedgerPicksSectionProps) {
+  // Default to 'ledger', but try to hydrate from localStorage on mount
   const [view, setView] = useState<'ledger' | 'active' | 'next'>('ledger');
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+    const saved = localStorage.getItem('alfred_ledger_view_pref');
+    if (saved && (saved === 'ledger' || saved === 'active' || saved === 'next')) {
+        setView(saved as 'ledger' | 'active' | 'next');
+    }
+  }, []);
+
+  const handleSetView = (newView: 'ledger' | 'active' | 'next') => {
+      setView(newView);
+      localStorage.setItem('alfred_ledger_view_pref', newView);
+  };
 
   const getTickerLink = (ticker: string, usePreviousDate: boolean) => {
     if (usePreviousDate && previousDate) {
@@ -30,6 +45,10 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
     return `/v1/${year}/${month}/${day}/tickers/${ticker}`;
   };
 
+  // Prevent hydration mismatch by rendering default until mounted, 
+  // OR just render (it's fine if it switches quickly). 
+  // But for a cleaner UI, we can just let it update.
+  
   return (
     <section className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
       <div className="px-6 py-4 border-b border-slate-100 flex flex-col md:flex-row justify-between items-center gap-4">
@@ -56,7 +75,7 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
         
         <div className="flex bg-slate-100 p-1 rounded-lg">
             <button
-                onClick={() => setView('ledger')}
+                onClick={() => handleSetView('ledger')}
                 className={`px-3 py-1 rounded-md text-sm font-medium transition-all ${
                     view === 'ledger' 
                     ? 'bg-white text-slate-900 shadow-sm' 
@@ -66,7 +85,7 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                 Ledger
             </button>
             <button
-                onClick={() => setView('active')}
+                onClick={() => handleSetView('active')}
                 className={`px-3 py-1 rounded-md text-sm font-medium transition-all ${
                     view === 'active' 
                     ? 'bg-white text-slate-900 shadow-sm' 
@@ -76,7 +95,7 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                 Current Period
             </button>
             <button
-                onClick={() => setView('next')}
+                onClick={() => handleSetView('next')}
                 className={`px-3 py-1 rounded-md text-sm font-medium transition-all ${
                     view === 'next' 
                     ? 'bg-white text-slate-900 shadow-sm' 

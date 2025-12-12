@@ -1,8 +1,10 @@
+**Morning Brief: May 31, 2025**
+
 ## Market Regime
-My analysis indicates we are entering a more cautious market regime. While my predictive frameworks remain central, the prevailing macro indicators suggest a shift towards elevated uncertainty and a reduced appetite for speculative assets.
+The current market environment is characterized by heightened volatility, as signaled by a rising VIX. My strategy is adapting to this regime by prioritizing predictive performance and specific valuation opportunities that tend to perform well amidst uncertainty.
 
 ## Macro Drivers
-The increasing influence of market fear, measured by the VIX, is a key signal. I am therefore increasing my strategic exposure to factors that historically perform well amidst rising volatility. This defensive adjustment is complemented by a reduced emphasis on speculative digital assets like Bitcoin and a de-prioritization of commodity-driven plays, reflecting a cautious outlook on demand and price stability. My core predictive models are now being guided by these more defensive macro trends.
+My investment decisions are being guided by key macro indicators. The increasing VIX, alongside supportive latent macro factors (PCA Factors 1 and 2), is strengthening my conviction in forward-looking predictive models and compelling valuations. While Bitcoin and oil prices are not currently acting as tailwinds for my core strategies, the prevailing volatility underscores the importance of the factors I am emphasizing.
 
 ## Strategy Outlook
-Today, my focus is on identifying opportunities with robust predictive profitability and sound current valuations that can offer resilience in this environment. I am actively rotating into strategies that provide a valuation guardrail and are less susceptible to speculative swings. My conviction is strongest in assets that demonstrate stability and potential for outperformance amidst market uncertainty, rather than those driven by pure momentum or growth narratives.
+My highest conviction lies with companies demonstrating robust forward-looking predictive performance, particularly on a monthly and quarterly basis. I also maintain a moderate emphasis on valuation, seeking opportunities that offer an attractive margin of safety. My current focus is weighted towards these predictive and valuation-driven segments, reflecting a strategic allocation designed to navigate the current volatile landscape.

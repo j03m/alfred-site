@@ -8,7 +8,9 @@ import {
   CartesianGrid, 
   Tooltip, 
   Legend, 
-  ResponsiveContainer 
+  ResponsiveContainer,
+  ReferenceLine,
+  Label
 } from 'recharts';
 
 interface ChartDataItem {
@@ -22,6 +24,10 @@ interface PerformanceChartProps {
   data: ChartDataItem[];
   mode?: 'growth' | 'relative';
 }
+
+// Hardcoded dates matching metadata/provenance-config.json
+const TRAINING_CUTOFF = "2025-03-31";
+const SIMULATION_CUTOFF = "2025-12-11";
 
 export default function PerformanceChart({ data, mode = 'growth' }: PerformanceChartProps) {
   const isRelative = mode === 'relative';
@@ -58,7 +64,7 @@ export default function PerformanceChart({ data, mode = 'growth' }: PerformanceC
         <LineChart
           data={chartData}
           margin={{
-            top: 5,
+            top: 20,
             right: 30,
             left: 20,
             bottom: 5,
@@ -84,6 +90,15 @@ export default function PerformanceChart({ data, mode = 'growth' }: PerformanceC
             formatter={tooltipFormatter}
           />
           <Legend wrapperStyle={{paddingTop: '20px'}} />
+          
+          <ReferenceLine x={TRAINING_CUTOFF} stroke="#94a3b8" strokeDasharray="3 3">
+            <Label value="Training Ends" position="insideTopLeft" fill="#64748b" fontSize={12} />
+          </ReferenceLine>
+          
+          <ReferenceLine x={SIMULATION_CUTOFF} stroke="#6366f1" strokeDasharray="3 3">
+            <Label value="Live Begins" position="insideTopLeft" fill="#6366f1" fontSize={12} />
+          </ReferenceLine>
+
           <Line 
             type="monotone" 
             dataKey="PortfolioZero" 

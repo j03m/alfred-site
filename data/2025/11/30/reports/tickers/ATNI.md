@@ -1,9 +1,10 @@
 **Rank:** -4.50 | **Signal Strength:** 0.99
 
 ## Investment Thesis
-I selected ATNI for the portfolio today primarily due to its exceptional momentum signal. My analysis indicates a very high likelihood (0.99) of ATNI being a top performer, driven by significant upward price momentum. While other fundamental factors are not currently the leading contributors, the strength of its trend acceleration and market conviction makes it a strategic addition to capitalize on potential near-term gains.
+I selected ATNI for the portfolio due to its compelling combination of strong positive momentum and deeply attractive valuation. My analysis indicates a high probability of this stock being a top performer, driven by robust predictive value signals and a current undervaluation that I expect the market to recognize.
 
 ## Factor Analysis
-ATNI exhibits remarkable trend acceleration, as reflected in its outstanding momentum signal. This strong upward price trajectory is the core driver behind my decision.
+ATNI demonstrates exceptional alignment with my predictive value models, indicating a strong outlook for future earnings. My analysis reveals a pronounced positive signal regarding its current valuation, suggesting it is significantly undervalued. The stock also aligns well with my metrics for current intrinsic value. While its growth prospects and operational efficiency are moderately favorable, the core thesis rests on its robust predictive value and compelling cheapness.
 
-The projected quarterly price momentum for ATNI is exceptionally strong, with a near-perfect score, suggesting a robust and sustained upward path. Although ATNI's current valuation, growth prospects, and operational quality are not the primary strengths driving this selection, the powerful market conviction indicated by its momentum signal and forward-looking price velocity present a compelling case for its inclusion.
+## Outlook
+Given the current market regime, ATNI's profile of strong predictive value and undervaluation positions it favorably for continued appreciation. I am confident that its fundamental strengths will translate into portfolio gains.

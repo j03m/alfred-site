@@ -6,7 +6,7 @@
     },
     "ledger": [
         {
-            "date": "2025-05-01",
+            "date": "2025-05-31",
             "event_type": "portfolio_snapshot",
             "total_portfolio_value": 10000.0,
             "cash_balance": 10000.0,

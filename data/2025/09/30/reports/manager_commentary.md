@@ -1,8 +1,1 @@
-## Market Regime
-The current market regime is characterized by a discerning approach to predictive power, influenced by evolving risk appetite. While a declining VIX and rising Bitcoin signal favorable conditions for forward-looking growth estimates, my strategy also accounts for periods of heightened market uncertainty. This suggests a landscape where identifying robust predictive signals is paramount, regardless of whether the broader sentiment is unequivocally risk-on or leaning towards caution.
-
-## Macro Drivers
-My investment decisions are being shaped by key macro indicators. The rise in Bitcoin and a concurrent fall in market volatility (VIX) are strengthening my conviction in quarterly predictive models, signaling a fertile ground for forward-looking growth opportunities. My focus is on companies exhibiting strong estimated future performance based on these forward-looking trends. Concurrently, while a declining VIX supports my quarterly outlook, I observe that a *rising* VIX appears to increase my conviction in monthly predictive metrics and other core factors. This suggests I am maintaining exposure to indicators that can adapt to periods of increased market uncertainty, ensuring robustness across different environments. The influence of crude oil prices and evolving principal components also guides my tactical adjustments.
-
-## Strategy Outlook
-My primary focus remains on predictive indicators, both monthly and quarterly, where I hold strong conviction. I am prioritizing investments that demonstrate robust estimated future performance. While I am favoring opportunities that align with a risk-on sentiment, signaled by rising Bitcoin and falling market fear, I am also maintaining a strategic exposure to factors that can adapt to periods of higher market uncertainty. My allocation is de-emphasizing purely growth and quality metrics in favor of predictive power and valuation guardrails.
+Analysis unavailable.

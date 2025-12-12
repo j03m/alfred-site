@@ -1,7 +1,7 @@
 **Rank:** -4.84 | **Signal Strength:** 0.98
 
 ## Investment Thesis
-I selected TTI for the portfolio due to its exceptionally strong Alpha Profile, indicating a high probability of outperformance in the current market environment. This compelling momentum is supported by robust underlying fundamentals and attractive valuation metrics.
+I selected TTI for the portfolio primarily due to its exceptionally strong momentum signal, indicating a high likelihood of it being a top performer. My analysis shows that its current upward trajectory is robust and expected to continue, making it a fitting addition to the portfolio, especially in a market regime that favors strong trending assets.
 
 ## Factor Analysis
-My analysis reveals that TTI exhibits a highly attractive valuation profile. It demonstrates a strong predictive outlook for future profitability, with exceptionally high scores on both monthly and quarterly bases. The stock is also favorably valued based on its current metrics and presents significant undervaluation. While its growth potential and fundamental quality are more moderate, they are solid and do not detract from the overall positive investment case. The combination of exceptional price momentum and these strong valuation characteristics makes TTI a strategic addition that aligns well with our current market regime.
+TTI exhibits exceptional "Trend Acceleration," a powerful signal of sustained upward price movement, which is the primary reason for its selection. While the stock also displays strength in its "Alpha Profile" and "Relative Strength," these are direct reflections of its strong momentum. My analysis of TTI's fundamental value, growth trajectory, and quality metrics shows that these factors, despite being present, did not drive the decision to include it in the portfolio. The overwhelming momentum signal is the decisive factor in this selection.

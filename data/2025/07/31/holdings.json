@@ -5,7 +5,8 @@
     "sector": "Unknown",
     "weight": 0.3284,
     "score": 0.992,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0199
   },
   {
     "ticker": "EMBC",
@@ -13,7 +14,8 @@
     "sector": "Unknown",
     "weight": 0.1505,
     "score": 0.9898,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.004
   },
   {
     "ticker": "FGEN",
@@ -21,7 +23,8 @@
     "sector": "Unknown",
     "weight": 0.1043,
     "score": 0.9765,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0102
   },
   {
     "ticker": "GMAB",
@@ -29,7 +32,8 @@
     "sector": "Unknown",
     "weight": 0.0686,
     "score": 0.9483,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0117
   },
   {
     "ticker": "SNDL",
@@ -37,7 +41,8 @@
     "sector": "Unknown",
     "weight": 0.058,
     "score": 0.9757,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0118
   },
   {
     "ticker": "COIN",
@@ -45,7 +50,8 @@
     "sector": "Unknown",
     "weight": 0.0315,
     "score": 0.9908,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.1272
   },
   {
     "ticker": "CGNX",
@@ -53,7 +59,8 @@
     "sector": "Unknown",
     "weight": 0.0296,
     "score": 0.9781,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0038
   },
   {
     "ticker": "TVTX",
@@ -61,7 +68,8 @@
     "sector": "Unknown",
     "weight": 0.0278,
     "score": 0.9648,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0164
   },
   {
     "ticker": "W",
@@ -69,7 +77,8 @@
     "sector": "Unknown",
     "weight": 0.0172,
     "score": 0.9904,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0256
   },
   {
     "ticker": "NTWK",
@@ -77,7 +86,8 @@
     "sector": "Unknown",
     "weight": 0.0172,
     "score": 0.9714,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "JOUT",
@@ -85,7 +95,8 @@
     "sector": "Unknown",
     "weight": 0.0164,
     "score": 0.99,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0864
   },
   {
     "ticker": "TRS",
@@ -93,7 +104,8 @@
     "sector": "Unknown",
     "weight": 0.0151,
     "score": 0.9894,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0062
   },
   {
     "ticker": "GIC",
@@ -101,7 +113,8 @@
     "sector": "Unknown",
     "weight": 0.0144,
     "score": 0.7519,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0134
   },
   {
     "ticker": "RYTM",
@@ -109,7 +122,8 @@
     "sector": "Unknown",
     "weight": 0.0127,
     "score": 0.9793,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0011
   },
   {
     "ticker": "WWW",
@@ -117,7 +131,8 @@
     "sector": "Unknown",
     "weight": 0.012,
     "score": 0.989,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0367
   },
   {
     "ticker": "ALAB",
@@ -125,7 +140,8 @@
     "sector": "Unknown",
     "weight": 0.0117,
     "score": 0.9456,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0803
   },
   {
     "ticker": "GFI",
@@ -133,7 +149,8 @@
     "sector": "Unknown",
     "weight": 0.0114,
     "score": 0.9673,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0375
   },
   {
     "ticker": "ATRA",
@@ -141,7 +158,8 @@
     "sector": "Unknown",
     "weight": 0.0113,
     "score": 0.9895,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0105
   },
   {
     "ticker": "KSS",
@@ -149,7 +167,8 @@
     "sector": "Unknown",
     "weight": 0.0108,
     "score": 0.9901,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0348
   },
   {
     "ticker": "PI",
@@ -157,7 +176,8 @@
     "sector": "Unknown",
     "weight": 0.0105,
     "score": 0.9933,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0303
   },
   {
     "ticker": "JFU",
@@ -165,7 +185,8 @@
     "sector": "Unknown",
     "weight": 0.0099,
     "score": 0.9873,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0119
   },
   {
     "ticker": "ADTN",
@@ -173,7 +194,8 @@
     "sector": "Unknown",
     "weight": 0.009,
     "score": 0.9635,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0209
   },
   {
     "ticker": "REZI",
@@ -181,7 +203,8 @@
     "sector": "Unknown",
     "weight": 0.0084,
     "score": 0.9811,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0225
   },
   {
     "ticker": "STOK",
@@ -189,7 +212,8 @@
     "sector": "Unknown",
     "weight": 0.0074,
     "score": 0.9811,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0264
   },
   {
     "ticker": "MTRN",
@@ -197,6 +221,7 @@
     "sector": "Unknown",
     "weight": 0.0056,
     "score": 0.9004,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0154
   }
 ]

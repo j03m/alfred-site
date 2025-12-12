@@ -1,12 +1,13 @@
 {
   "date": "2025-05-31",
+  "provenance": "simulation",
   "alfred_score": 21.58,
   "market_mood": "Aggressive Growth",
   "top_sectors": [],
-  "alpha_vs_spy_ytd": 0.031064756544079808,
-  "alpha_vs_mag7_ytd": -0.03385129476545101,
-  "portfolio_nav": 102300.32263680398,
-  "benchmark_nav": 99193.84698239599,
-  "sortino_ratio": 0.6621226126942152,
-  "max_drawdown": -0.13711030916454894
+  "alpha_vs_spy_ytd": 0.0,
+  "alpha_vs_mag7_ytd": 0.0,
+  "portfolio_nav": 100000.0,
+  "benchmark_nav": 100000.0,
+  "sortino_ratio": 0.0,
+  "max_drawdown": 0.0
 }

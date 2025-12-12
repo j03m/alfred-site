@@ -1,8 +1,9 @@
-import { getTickerReport, getAllDates, getAllTickersForDate } from '@/lib/api';
+import { getTickerReport, getTickerDetail, getAllDates, getAllTickersForDate } from '@/lib/api';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
+import TickerPriceChart from '@/app/components/TickerPriceChart';
 
 interface PageProps {
   params: Promise<{
@@ -36,6 +37,7 @@ export default async function TickerPage(props: PageProps) {
   const dateStr = `${year}-${month}-${day}`;
   
   const report = await getTickerReport(dateStr, ticker);
+  const details = await getTickerDetail(dateStr, ticker);
 
   if (!report) {
     return notFound();
@@ -56,6 +58,11 @@ export default async function TickerPage(props: PageProps) {
       </header>
 
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        
+        {details && details.history && details.history.length > 0 && (
+            <TickerPriceChart history={details.history} markers={details.markers || []} />
+        )}
+
         <div className="bg-white p-8 rounded-xl shadow-sm border border-slate-200 text-slate-800">
           <ReactMarkdown
             components={{

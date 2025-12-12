@@ -1,13 +1,17 @@
-import { getPerformanceData, getAllDates, getBacktestSummary } from '@/lib/api';
+import { getPerformanceData, getAllDates, getBacktestSummary, getLatestDate, getDailySummary } from '@/lib/api';
 import Link from 'next/link';
 import PerformanceChart from './components/PerformanceChart';
-import { ArrowRight, Calendar, Activity } from 'lucide-react';
+import { ArrowRight, Calendar, Activity, Info, Radio } from 'lucide-react';
 
 export default async function LandingPage() {
   const performanceData = await getPerformanceData();
   const dates = await getAllDates();
   const backtestSummary = await getBacktestSummary();
+  const latestDate = await getLatestDate();
+  const latestSummary = await getDailySummary(latestDate);
   
+  const provenance = latestSummary?.provenance || 'simulation';
+
   const datesWithStr = dates.map(d => ({
     ...d,
     date: `${d.year}-${d.month}-${d.day}`
@@ -27,16 +31,49 @@ export default async function LandingPage() {
   const sortino = backtestSummary?.sortino_ratio ?? 0;
   const maxDrawdown = backtestSummary?.max_drawdown ?? 0;
 
+  // Banner Logic
+  let Banner = null;
+  if (provenance === 'in_sample') {
+    Banner = (
+      <div className="bg-amber-50 border-b border-amber-200 py-3 px-4">
+        <div className="max-w-7xl mx-auto flex items-center justify-center text-amber-800 text-sm font-medium">
+          <Info className="w-4 h-4 mr-2" />
+          Current Data Source: In-Sample Training Data. Performance metrics are for reference only.
+        </div>
+      </div>
+    );
+  } else if (provenance === 'simulation') {
+    Banner = (
+      <div className="bg-indigo-50 border-b border-indigo-200 py-3 px-4">
+        <div className="max-w-7xl mx-auto flex items-center justify-center text-indigo-800 text-sm font-medium">
+          <Info className="w-4 h-4 mr-2" />
+          Current Data Source: Historical Simulation (Out-of-Sample).
+        </div>
+      </div>
+    );
+  }
+
+  const LiveIndicator = provenance === 'live' ? (
+    <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800 ml-4 animate-pulse">
+      <Radio className="w-3 h-3 mr-1" />
+      Live Market Data
+    </span>
+  ) : null;
+
   return (
     <div className="min-h-screen bg-slate-50 font-sans">
+      {Banner}
       {/* Hero Section */}
       <header className="bg-white border-b border-slate-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="flex flex-col md:flex-row justify-between items-center gap-8">
             <div>
-              <h1 className="text-4xl font-bold text-slate-900 tracking-tight mb-2">
-                PortfolioZero
-              </h1>
+              <div className="flex items-center">
+                <h1 className="text-4xl font-bold text-slate-900 tracking-tight mb-2">
+                  PortfolioZero
+                </h1>
+                {LiveIndicator}
+              </div>
               <p className="text-lg text-slate-600 max-w-2xl">
                 Trust & Verification Dashboard
               </p>

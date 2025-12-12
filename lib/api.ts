@@ -5,6 +5,7 @@ const DATA_ROOT = path.join(process.cwd(), 'data');
 
 export interface DailySummary {
   date: string;
+  provenance?: "in_sample" | "simulation" | "live";
   alfred_score: number;
   market_mood: string;
   top_sectors: string[];
@@ -28,6 +29,7 @@ export interface Holding {
 
 export interface PerformanceRecord {
   date: string;
+  provenance?: "in_sample" | "simulation" | "live";
   model: number;
   spy: number;
   mag7: number;
@@ -46,6 +48,7 @@ export interface BacktestSummary {
 
 export interface LedgerEvent {
   date: string;
+  provenance?: "in_sample" | "simulation" | "live";
   event_type: 'buy' | 'sell' | 'rebalance_sell' | 'portfolio_snapshot';
   ticker?: string;
   shares?: number;
@@ -69,6 +72,7 @@ export interface LedgerEvent {
 
 export interface TickerHistoryItem {
   date: string;
+  provenance?: "in_sample" | "simulation" | "live";
   open: number;
   high: number;
   low: number;
@@ -77,6 +81,7 @@ export interface TickerHistoryItem {
 
 export interface TickerMarker {
   date: string;
+  provenance?: "in_sample" | "simulation" | "live";
   type: string;
   price: number;
 }

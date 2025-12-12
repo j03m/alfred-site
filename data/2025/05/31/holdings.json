@@ -5,7 +5,8 @@
     "sector": "Unknown",
     "weight": 0.1625,
     "score": 0.9543,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0
   },
   {
     "ticker": "LOOP",
@@ -13,7 +14,8 @@
     "sector": "Unknown",
     "weight": 0.1275,
     "score": 0.978,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0236
   },
   {
     "ticker": "OPRT",
@@ -21,7 +23,8 @@
     "sector": "Unknown",
     "weight": 0.1198,
     "score": 0.9926,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0015
   },
   {
     "ticker": "GOTU",
@@ -29,7 +32,8 @@
     "sector": "Unknown",
     "weight": 0.0685,
     "score": 0.9762,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0106
   },
   {
     "ticker": "GOOS",
@@ -37,7 +41,8 @@
     "sector": "Unknown",
     "weight": 0.058,
     "score": 0.975,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0025
   },
   {
     "ticker": "FIVE",
@@ -45,7 +50,8 @@
     "sector": "Unknown",
     "weight": 0.0547,
     "score": 0.9971,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0018
   },
   {
     "ticker": "BTM",
@@ -53,7 +59,8 @@
     "sector": "Unknown",
     "weight": 0.0443,
     "score": 0.9448,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0335
   },
   {
     "ticker": "RRGB",
@@ -61,7 +68,8 @@
     "sector": "Unknown",
     "weight": 0.0369,
     "score": 0.9889,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0039
   },
   {
     "ticker": "ISSC",
@@ -69,7 +77,8 @@
     "sector": "Unknown",
     "weight": 0.0344,
     "score": 0.9799,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0053
   },
   {
     "ticker": "PAHC",
@@ -77,7 +86,8 @@
     "sector": "Unknown",
     "weight": 0.0322,
     "score": 0.9963,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0029
   },
   {
     "ticker": "CRCT",
@@ -85,7 +95,8 @@
     "sector": "Unknown",
     "weight": 0.0251,
     "score": 0.9481,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0033
   },
   {
     "ticker": "STRT",
@@ -93,7 +104,8 @@
     "sector": "Unknown",
     "weight": 0.0239,
     "score": 0.9894,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0132
   },
   {
     "ticker": "HNRG",
@@ -101,7 +113,8 @@
     "sector": "Unknown",
     "weight": 0.0211,
     "score": 0.9686,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0216
   },
   {
     "ticker": "FTK",
@@ -109,7 +122,8 @@
     "sector": "Unknown",
     "weight": 0.0206,
     "score": 0.9793,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.022
   },
   {
     "ticker": "EYE",
@@ -117,7 +131,8 @@
     "sector": "Unknown",
     "weight": 0.0205,
     "score": 0.9985,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0015
   },
   {
     "ticker": "FUTU",
@@ -125,7 +140,8 @@
     "sector": "Unknown",
     "weight": 0.0189,
     "score": 0.9646,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0199
   },
   {
     "ticker": "OPXS",
@@ -133,7 +149,8 @@
     "sector": "Unknown",
     "weight": 0.0168,
     "score": 0.9888,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0173
   },
   {
     "ticker": "RCMT",
@@ -141,7 +158,8 @@
     "sector": "Unknown",
     "weight": 0.0155,
     "score": 0.9862,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0197
   },
   {
     "ticker": "TME",
@@ -149,7 +167,8 @@
     "sector": "Unknown",
     "weight": 0.015,
     "score": 0.9837,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0181
   },
   {
     "ticker": "SMG",
@@ -157,7 +176,8 @@
     "sector": "Unknown",
     "weight": 0.0147,
     "score": 0.9867,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.001
   },
   {
     "ticker": "ATRO",
@@ -165,7 +185,8 @@
     "sector": "Unknown",
     "weight": 0.0147,
     "score": 0.9929,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0032
   },
   {
     "ticker": "EHAB",
@@ -173,7 +194,8 @@
     "sector": "Unknown",
     "weight": 0.0144,
     "score": 0.9977,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0057
   },
   {
     "ticker": "FTDR",
@@ -181,7 +203,8 @@
     "sector": "Unknown",
     "weight": 0.014,
     "score": 0.9665,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0015
   },
   {
     "ticker": "NRG",
@@ -189,7 +212,8 @@
     "sector": "Unknown",
     "weight": 0.0137,
     "score": 0.9944,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": -0.0041
   },
   {
     "ticker": "ARLO",
@@ -197,6 +221,7 @@
     "sector": "Unknown",
     "weight": 0.0122,
     "score": 0.9741,
-    "bin": 3
+    "bin": 3,
+    "unrealized_pl": 0.0049
   }
 ]

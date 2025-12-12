@@ -1,7 +1,11 @@
 **Rank:** -4.34 | **Signal Strength:** 0.97
 
 ## Investment Thesis
-I selected PHAR for the portfolio because of its exceptionally strong momentum signal, indicating a high likelihood of sustained outperformance. The stock is demonstrating significant upward price trajectory and robust investor interest, suggesting it is well-positioned to capitalize on current market dynamics. While other strategic factors were considered, the compelling momentum characteristic is the primary driver for its inclusion at this time.
+I selected PHAR for the portfolio due to its exceptionally strong momentum signal, indicating a high likelihood of it being a top-performing stock in the current market environment. While PHAR exhibits positive underlying characteristics, its inclusion is predominantly driven by this powerful trend acceleration. I anticipate PHAR will continue to outperform its peers, capitalizing on current market dynamics.
 
 ## Factor Analysis
-The stock exhibits a strong "Trend Acceleration" and "Relative Strength," backed by an exceptional "Momentum Signal" of 0.97, indicating a high probability of outperformance. My analysis of PHAR's strategic fit shows strong underlying indicators in its "Predictive Price Velocity" (both quarterly and monthly) and "Current Price Velocity," suggesting inherent strength in these forward-looking metrics. While components related to "Growth Potential," "Operational Quality," and "Valuation Attractiveness" were evaluated, they did not significantly drive the decision for this stock. The decisive factor remains its powerful market momentum.
+My analysis shows that PHAR presents a compelling profile, despite the nuances in its factor alignment. The stock demonstrates strong predicted quarterly and monthly profitability, with current profitability also appearing robust. Furthermore, its growth prospects are noteworthy, as indicated by high raw scores across these metrics.
+
+However, it's important to note that these fundamental strengths, while present, did not serve as the primary drivers for PHAR's selection. The model's assessment of how these factors contribute to the overall decision showed a negative impact, suggesting that while PHAR possesses these desirable traits, they were not the decisive elements in this particular instance. The overwhelming momentum signal is the most significant factor driving this decision.
+
+The predictive model did not highlight specific micro-features as key drivers for PHAR. Instead, the decision was made based on the confluence of its strong momentum and its solid underlying profitability and growth potential, even if these foundational aspects were not the primary *discriminators* for its inclusion.

@@ -6,7 +6,7 @@
     "weight": 0.3,
     "score": 0.9783,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0036
   },
   {
     "ticker": "WBD",
@@ -24,7 +24,7 @@
     "weight": 0.0773,
     "score": 0.9548,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0017
   },
   {
     "ticker": "FBIO",
@@ -33,7 +33,7 @@
     "weight": 0.0477,
     "score": 0.8955,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.4899
   },
   {
     "ticker": "CCO",
@@ -51,7 +51,7 @@
     "weight": 0.0349,
     "score": 0.9371,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": -0.0234
   },
   {
     "ticker": "HOUS",
@@ -60,7 +60,7 @@
     "weight": 0.032,
     "score": 0.9686,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": -0.0094
   },
   {
     "ticker": "EGAN",
@@ -69,7 +69,7 @@
     "weight": 0.0316,
     "score": 0.8953,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0035
   },
   {
     "ticker": "M",
@@ -78,7 +78,7 @@
     "weight": 0.0311,
     "score": 0.9836,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0056
   },
   {
     "ticker": "UROY",
@@ -87,7 +87,7 @@
     "weight": 0.0273,
     "score": 0.9444,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0118
   },
   {
     "ticker": "PFSI",
@@ -96,7 +96,7 @@
     "weight": 0.0264,
     "score": 0.9945,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": -0.003
   },
   {
     "ticker": "ITRG",
@@ -105,7 +105,7 @@
     "weight": 0.0259,
     "score": 0.9264,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": -0.0328
   },
   {
     "ticker": "W",
@@ -114,7 +114,7 @@
     "weight": 0.0256,
     "score": 0.9724,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0043
   },
   {
     "ticker": "TACT",
@@ -123,7 +123,7 @@
     "weight": 0.0248,
     "score": 0.9809,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0018
   },
   {
     "ticker": "TYGO",
@@ -141,7 +141,7 @@
     "weight": 0.0215,
     "score": 0.9881,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": -0.0211
   },
   {
     "ticker": "LITB",
@@ -150,7 +150,7 @@
     "weight": 0.021,
     "score": 0.994,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0269
   },
   {
     "ticker": "GLUE",
@@ -159,7 +159,7 @@
     "weight": 0.0208,
     "score": 0.9778,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0027
   },
   {
     "ticker": "STRW",
@@ -168,7 +168,7 @@
     "weight": 0.0195,
     "score": 0.9789,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0016
   },
   {
     "ticker": "MKSI",
@@ -177,7 +177,7 @@
     "weight": 0.019,
     "score": 0.98,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0133
   },
   {
     "ticker": "REAL",
@@ -186,7 +186,7 @@
     "weight": 0.0167,
     "score": 0.9936,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0095
   },
   {
     "ticker": "CDRE",
@@ -195,7 +195,7 @@
     "weight": 0.0147,
     "score": 0.9332,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0091
   },
   {
     "ticker": "SPRU",
@@ -213,7 +213,7 @@
     "weight": 0.0137,
     "score": 0.9662,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": -0.0026
   },
   {
     "ticker": "OESX",
@@ -222,6 +222,6 @@
     "weight": 0.0115,
     "score": 0.9613,
     "bin": 3,
-    "unrealized_pl": 0.0
+    "unrealized_pl": 0.0318
   }
 ]

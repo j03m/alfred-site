@@ -27,6 +27,26 @@ export interface Holding {
   unrealized_pl?: number;
 }
 
+export interface ActivePick {
+  ticker: string;
+  name: string;
+  sector: string;
+  weight: number;
+  entry_price?: number;
+  exit_price?: number;
+  return?: number;
+  relative_return?: number;
+}
+
+export interface NextPick {
+  ticker: string;
+  name: string;
+  sector: string;
+  weight: number;
+  score: number;
+  bin: number;
+}
+
 export interface PerformanceRecord {
   date: string;
   provenance?: "in_sample" | "simulation" | "live";
@@ -154,6 +174,22 @@ export async function getDailySummary(dateStr: string): Promise<DailySummary | n
 export async function getHoldings(dateStr: string): Promise<Holding[]> {
   const [y, m, d] = dateStr.split('-');
   const filePath = path.join(DATA_ROOT, y, m, d, 'holdings.json');
+  
+  if (!fs.existsSync(filePath)) return [];
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+}
+
+export async function getActivePicks(dateStr: string): Promise<ActivePick[]> {
+  const [y, m, d] = dateStr.split('-');
+  const filePath = path.join(DATA_ROOT, y, m, d, 'active_picks.json');
+  
+  if (!fs.existsSync(filePath)) return [];
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+}
+
+export async function getNextPicks(dateStr: string): Promise<NextPick[]> {
+  const [y, m, d] = dateStr.split('-');
+  const filePath = path.join(DATA_ROOT, y, m, d, 'next_picks.json');
   
   if (!fs.existsSync(filePath)) return [];
   return JSON.parse(fs.readFileSync(filePath, 'utf-8'));

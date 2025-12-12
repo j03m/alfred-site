@@ -1,4 +1,4 @@
-import { getDailySummary, getManagerCommentary, getAllDates, getPerformanceData, getMonthlyPerformance, getMonthlyLedger, getActivePicks, getNextPicks, getPortfolioSnapshot, ActivePick, NextPick } from '@/lib/api';
+import { getDailySummary, getManagerCommentary, getAllDates, getPerformanceData, getMonthlyPerformance, getMonthlyLedger, getActivePicks, getNextPicks, getPortfolioSnapshot, ActivePick, NextPick, Holding } from '@/lib/api';
 import { notFound } from 'next/navigation';
 import { Activity, TrendingUp, Shield, BarChart3 } from 'lucide-react';
 import Link from 'next/link';
@@ -6,6 +6,7 @@ import ReactMarkdown from 'react-markdown';
 import DateSelector from '@/app/components/DateSelector';
 import PerformanceChart from '@/app/components/PerformanceChart';
 import LedgerPicksSection from '@/app/components/LedgerPicksSection';
+import { getHoldings } from '@/lib/api';
 
 interface PageProps {
   params: Promise<{
@@ -38,6 +39,17 @@ export default async function DashboardPage(props: PageProps) {
     ...d,
     date: `${d.year}-${d.month}-${d.day}`
   })).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+  // Find previous date
+  const currentIndex = allDates.findIndex(d => d.date === dateStr);
+  let prevHoldings: Holding[] = []; // Kept for potential future use if we need weight diffs again
+  let previousDate: { year: string; month: string; day: string } | undefined;
+  
+  if (currentIndex !== -1 && currentIndex < allDates.length - 1) {
+      const p = allDates[currentIndex + 1]; // Next item in desc list is previous date
+      previousDate = { year: p.year, month: p.month, day: p.day };
+      prevHoldings = await getHoldings(p.date);
+  }
 
   if (!summary) {
     return notFound();
@@ -148,6 +160,7 @@ export default async function DashboardPage(props: PageProps) {
             year={year} 
             month={month} 
             day={day} 
+            previousDate={previousDate}
         />
 
       </main>

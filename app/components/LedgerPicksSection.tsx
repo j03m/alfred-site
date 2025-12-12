@@ -12,10 +12,23 @@ interface LedgerPicksSectionProps {
   year: string;
   month: string;
   day: string;
+  previousDate?: {
+      year: string;
+      month: string;
+      day: string;
+  };
 }
 
-export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPicks, year, month, day }: LedgerPicksSectionProps) {
+export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPicks, year, month, day, previousDate }: LedgerPicksSectionProps) {
   const [view, setView] = useState<'ledger' | 'active' | 'next'>('ledger');
+
+  const getTickerLink = (ticker: string, usePreviousDate: boolean) => {
+    if (usePreviousDate && previousDate) {
+        return `/v1/${previousDate.year}/${previousDate.month}/${previousDate.day}/tickers/${ticker}`;
+    }
+    // Fallback to current date if previous date requested but not available, or if current date requested
+    return `/v1/${year}/${month}/${day}/tickers/${ticker}`;
+  };
 
   return (
     <section className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
@@ -94,6 +107,10 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                     const isSell = event.event_type === 'sell' || event.event_type === 'rebalance_sell';
                     const price = isBuy ? event.entry_price : event.exit_price;
                     
+                    // Sell events refer to positions opened in the past, so we link to the previous period's thesis.
+                    // Buy events refer to new positions, linking to the current thesis.
+                    const linkUrl = getTickerLink(event.ticker || '', isSell);
+
                     return (
                       <tr key={idx} className="hover:bg-slate-50 transition-colors">
                         <td className="px-6 py-3 text-slate-500 whitespace-nowrap">{event.date}</td>
@@ -107,7 +124,7 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                         </td>
                         <td className="px-6 py-3 font-medium text-blue-600 underline">
                           {event.ticker && (
-                              <Link href={`/v1/${year}/${month}/${day}/tickers/${event.ticker}`}>
+                              <Link href={linkUrl}>
                                 {event.ticker}
                               </Link>
                           )}
@@ -161,7 +178,8 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                 {activePicks.map((h) => (
                   <tr key={h.ticker} className="hover:bg-slate-50 transition-colors">
                     <td className="px-6 py-3 font-medium text-blue-600 underline">
-                      <Link href={`/v1/${year}/${month}/${day}/tickers/${h.ticker}`}>
+                      {/* Active Picks are retrospective (from previous period), so link to previous date */}
+                      <Link href={getTickerLink(h.ticker, true)}>
                         {h.ticker}
                       </Link>
                     </td>
@@ -206,7 +224,8 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                 {nextPicks.map((h) => (
                   <tr key={h.ticker} className="hover:bg-slate-50 transition-colors">
                     <td className="px-6 py-3 font-medium text-blue-600 underline">
-                      <Link href={`/v1/${year}/${month}/${day}/tickers/${h.ticker}`}>
+                      {/* Next Picks are for the current period, so link to current date */}
+                      <Link href={getTickerLink(h.ticker, false)}>
                         {h.ticker}
                       </Link>
                     </td>

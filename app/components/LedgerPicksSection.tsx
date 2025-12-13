@@ -187,7 +187,6 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                 <tr>
                   <th className="px-6 py-3 font-medium">Ticker</th>
                   <th className="px-6 py-3 font-medium">Name</th>
-                  <th className="px-6 py-3 font-medium">Sector</th>
                   <th className="px-6 py-3 font-medium text-right">Weight</th>
                   <th className="px-6 py-3 font-medium text-right">Return</th>
                   <th className="px-6 py-3 font-medium text-right">Rel. SPY</th>
@@ -203,7 +202,6 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                       </Link>
                     </td>
                     <td className="px-6 py-3 text-slate-600">{h.name}</td>
-                    <td className="px-6 py-3 text-slate-500">{h.sector}</td>
                     <td className="px-6 py-3 text-right font-mono">{(h.weight * 100).toFixed(1)}%</td>
                     <td className={`px-6 py-3 text-right font-mono font-medium ${
                         (h.return || 0) > 0 ? 'text-emerald-600' : (h.return || 0) < 0 ? 'text-rose-600' : 'text-slate-400'
@@ -219,7 +217,7 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                 ))}
                 {activePicks.length === 0 && (
                     <tr>
-                        <td colSpan={6} className="px-6 py-8 text-center text-slate-400 italic">
+                        <td colSpan={5} className="px-6 py-8 text-center text-slate-400 italic">
                             No active picks data available for this period.
                         </td>
                     </tr>
@@ -234,7 +232,6 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                 <tr>
                   <th className="px-6 py-3 font-medium">Ticker</th>
                   <th className="px-6 py-3 font-medium">Name</th>
-                  <th className="px-6 py-3 font-medium">Sector</th>
                   <th className="px-6 py-3 font-medium text-right">Target Weight</th>
                   <th className="px-6 py-3 font-medium text-right">Conviction Score</th>
                 </tr>
@@ -249,7 +246,6 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                       </Link>
                     </td>
                     <td className="px-6 py-3 text-slate-600">{h.name}</td>
-                    <td className="px-6 py-3 text-slate-500">{h.sector}</td>
                     <td className="px-6 py-3 text-right font-mono">{(h.weight * 100).toFixed(1)}%</td>
                     <td className="px-6 py-3 text-right font-mono">
                         {(h.score).toFixed(2)}
@@ -258,7 +254,7 @@ export default function LedgerPicksSection({ ledgerEvents, activePicks, nextPick
                 ))}
                 {nextPicks.length === 0 && (
                     <tr>
-                        <td colSpan={5} className="px-6 py-8 text-center text-slate-400 italic">
+                        <td colSpan={4} className="px-6 py-8 text-center text-slate-400 italic">
                             No next period picks available.
                         </td>
                     </tr>

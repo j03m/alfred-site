@@ -1,0 +1,252 @@
+[
+  {
+    "ticker": "IRS",
+    "name": "IRS",
+    "sector": "Unknown",
+    "weight": 0.19,
+    "entry_price": 15.5,
+    "exit_price": 15.45,
+    "return": -0.003225806451612949,
+    "relative_return": -0.005175781527119563
+  },
+  {
+    "ticker": "CRESY",
+    "name": "CRESY",
+    "sector": "Unknown",
+    "weight": 0.11,
+    "entry_price": 12.37,
+    "exit_price": 11.93,
+    "return": -0.0355699272433306,
+    "relative_return": -0.037519902318837214
+  },
+  {
+    "ticker": "IRWD",
+    "name": "IRWD",
+    "sector": "Unknown",
+    "weight": 0.1,
+    "entry_price": 1.92,
+    "exit_price": 3.5,
+    "return": 0.8229166666666667,
+    "relative_return": 0.8209666915911601
+  },
+  {
+    "ticker": "PHI",
+    "name": "PHI",
+    "sector": "Unknown",
+    "weight": 0.08,
+    "entry_price": 19.38,
+    "exit_price": 22.34,
+    "return": 0.15273477812177508,
+    "relative_return": 0.15078480304626846
+  },
+  {
+    "ticker": "BIIB",
+    "name": "BIIB",
+    "sector": "Unknown",
+    "weight": 0.07,
+    "entry_price": 154.27,
+    "exit_price": 182.09,
+    "return": 0.1803331820833603,
+    "relative_return": 0.17838320700785368
+  },
+  {
+    "ticker": "CEPU",
+    "name": "CEPU",
+    "sector": "Unknown",
+    "weight": 0.06,
+    "entry_price": 15.56,
+    "exit_price": 15.9,
+    "return": 0.02185089974293058,
+    "relative_return": 0.019900924667423967
+  },
+  {
+    "ticker": "JOE",
+    "name": "JOE",
+    "sector": "Unknown",
+    "weight": 0.04,
+    "entry_price": 56.78,
+    "exit_price": 60.33,
+    "return": 0.06252201479394148,
+    "relative_return": 0.06057203971843487
+  },
+  {
+    "ticker": "AMGN",
+    "name": "AMGN",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 298.43,
+    "exit_price": 345.46,
+    "return": 0.15759139496699384,
+    "relative_return": 0.15564141989148722
+  },
+  {
+    "ticker": "TVTX",
+    "name": "TVTX",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 35.16,
+    "exit_price": 35.41,
+    "return": 0.007110352673492606,
+    "relative_return": 0.005160377597985992
+  },
+  {
+    "ticker": "HAE",
+    "name": "HAE",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 50.01,
+    "exit_price": 81.35,
+    "return": 0.6266746650669865,
+    "relative_return": 0.6247246899914799
+  },
+  {
+    "ticker": "VICR",
+    "name": "VICR",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 90.73,
+    "exit_price": 89.35,
+    "return": -0.015209963628347952,
+    "relative_return": -0.017159938703854564
+  },
+  {
+    "ticker": "DVAX",
+    "name": "DVAX",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 10.26,
+    "exit_price": 11.37,
+    "return": 0.10818713450292393,
+    "relative_return": 0.10623715942741732
+  },
+  {
+    "ticker": "AUPH",
+    "name": "AUPH",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 13.17,
+    "exit_price": 16.12,
+    "return": 0.2239939255884587,
+    "relative_return": 0.2220439505129521
+  },
+  {
+    "ticker": "HRZN",
+    "name": "HRZN",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 6.48,
+    "exit_price": 6.68,
+    "return": 0.030864197530864085,
+    "relative_return": 0.02891422245535747
+  },
+  {
+    "ticker": "JBHT",
+    "name": "JBHT",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 168.86,
+    "exit_price": 173.96,
+    "return": 0.03020253464408382,
+    "relative_return": 0.028252559568577206
+  },
+  {
+    "ticker": "ISRG",
+    "name": "ISRG",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 534.28,
+    "exit_price": 573.48,
+    "return": 0.07336976866062747,
+    "relative_return": 0.07141979358512086
+  },
+  {
+    "ticker": "WU",
+    "name": "WU",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 9.33,
+    "exit_price": 8.79,
+    "return": -0.05787781350482325,
+    "relative_return": -0.05982778858032987
+  },
+  {
+    "ticker": "SUPV",
+    "name": "SUPV",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 12.42,
+    "exit_price": 11.24,
+    "return": -0.09500805152979064,
+    "relative_return": -0.09695802660529725
+  },
+  {
+    "ticker": "VSCO",
+    "name": "VSCO",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 35.25,
+    "exit_price": 41.33,
+    "return": 0.17248226950354606,
+    "relative_return": 0.17053229442803944
+  },
+  {
+    "ticker": "DX",
+    "name": "DX",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "entry_price": 13.24,
+    "exit_price": 14.01,
+    "return": 0.05815709969788516,
+    "relative_return": 0.05620712462237855
+  },
+  {
+    "ticker": "EVAX",
+    "name": "EVAX",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "entry_price": 5.75,
+    "exit_price": 5.935,
+    "return": 0.03217391304347819,
+    "relative_return": 0.030223937967971577
+  },
+  {
+    "ticker": "ARQT",
+    "name": "ARQT",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "entry_price": 25.31,
+    "exit_price": 30.65,
+    "return": 0.21098380086922167,
+    "relative_return": 0.20903382579371504
+  },
+  {
+    "ticker": "SND",
+    "name": "SND",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "entry_price": 2.15,
+    "exit_price": 2.95,
+    "return": 0.3720930232558141,
+    "relative_return": 0.3701430481803075
+  },
+  {
+    "ticker": "IQV",
+    "name": "IQV",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "entry_price": 216.46,
+    "exit_price": 230.01,
+    "return": 0.06259817056269049,
+    "relative_return": 0.06064819548718387
+  },
+  {
+    "ticker": "REGN",
+    "name": "REGN",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "entry_price": 651.8,
+    "exit_price": 780.19,
+    "return": 0.1969776004909483,
+    "relative_return": 0.1950276254154417
+  }
+]

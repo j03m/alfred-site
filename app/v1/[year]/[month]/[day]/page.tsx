@@ -1,4 +1,4 @@
-import { getDailySummary, getManagerCommentary, getAllDates, getPerformanceData, getMonthlyPerformance, getMonthlyLedger, getActivePicks, getNextPicks, getPortfolioSnapshot, ActivePick, NextPick, Holding } from '@/lib/api';
+import { getDailySummary, getManagerCommentary, getAllDates, getPerformanceData, getMonthlyPerformance, getMonthlyLedger, getActivePicks, getNextPicks, getPortfolioSnapshot, getActivityLog, getHoldings, ActivePick, NextPick, Holding } from '@/lib/api';
 import { notFound } from 'next/navigation';
 import { Activity, TrendingUp, Shield, BarChart3 } from 'lucide-react';
 import Link from 'next/link';
@@ -6,7 +6,7 @@ import ReactMarkdown from 'react-markdown';
 import DateSelector from '@/app/components/DateSelector';
 import PerformanceChart from '@/app/components/PerformanceChart';
 import LedgerPicksSection from '@/app/components/LedgerPicksSection';
-import { getHoldings } from '@/lib/api';
+import LiveDashboard from '@/app/components/LiveDashboard';
 
 interface PageProps {
   params: Promise<{
@@ -32,6 +32,8 @@ export default async function DashboardPage(props: PageProps) {
   const ledgerEvents = await getMonthlyLedger(year, month);
   const activePicks = await getActivePicks(dateStr);
   const nextPicks = await getNextPicks(dateStr);
+  const holdings = await getHoldings(dateStr);
+  const activityLog = await getActivityLog();
   
   const rawDates = await getAllDates();
   // Sort rawDates by date string descending
@@ -42,13 +44,11 @@ export default async function DashboardPage(props: PageProps) {
 
   // Find previous date
   const currentIndex = allDates.findIndex(d => d.date === dateStr);
-  let prevHoldings: Holding[] = []; // Kept for potential future use if we need weight diffs again
   let previousDate: { year: string; month: string; day: string } | undefined;
   
   if (currentIndex !== -1 && currentIndex < allDates.length - 1) {
       const p = allDates[currentIndex + 1]; // Next item in desc list is previous date
       previousDate = { year: p.year, month: p.month, day: p.day };
-      prevHoldings = await getHoldings(p.date);
   }
 
   if (!summary) {
@@ -57,6 +57,7 @@ export default async function DashboardPage(props: PageProps) {
 
   // Use new Monthly Performance artifact if available, otherwise fallback to global slice
   const monthlyData = monthlyPerformance || (performanceData?.data.filter(d => d.date.startsWith(`${year}-${month}`)) || []);
+  const isLive = summary.provenance === 'live';
 
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans pb-20">
@@ -68,8 +69,10 @@ export default async function DashboardPage(props: PageProps) {
               PortfolioZero
             </Link>
             <div className="relative group">
-                <button className="bg-slate-100 text-slate-700 px-3 py-1 rounded text-xs font-mono font-medium hover:bg-slate-200 transition-colors flex items-center">
-                    v1
+                <button className={`px-3 py-1 rounded text-xs font-mono font-medium flex items-center transition-colors ${
+                  isLive ? 'bg-emerald-100 text-emerald-800 border border-emerald-200' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+                }`}>
+                    {isLive ? 'LIVE' : 'v1'}
                 </button>
             </div>
           </div>
@@ -152,16 +155,26 @@ export default async function DashboardPage(props: PageProps) {
           </div>
         </section>
 
-        {/* Ledger & Picks Toggle Section */}
-        <LedgerPicksSection 
-            ledgerEvents={ledgerEvents} 
-            activePicks={activePicks}
-            nextPicks={nextPicks}
-            year={year} 
-            month={month} 
-            day={day} 
-            previousDate={previousDate}
-        />
+        {/* Live Dashboard or Backtest Ledger/Picks */}
+        {isLive ? (
+            <LiveDashboard 
+                holdings={holdings}
+                nextPicks={nextPicks}
+                ledgerEvents={ledgerEvents}
+                activityLog={activityLog}
+                dateStr={dateStr}
+            />
+        ) : (
+            <LedgerPicksSection 
+                ledgerEvents={ledgerEvents} 
+                activePicks={activePicks}
+                nextPicks={nextPicks}
+                year={year} 
+                month={month} 
+                day={day} 
+                previousDate={previousDate}
+            />
+        )}
 
       </main>
     </div>

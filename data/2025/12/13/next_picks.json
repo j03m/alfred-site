@@ -1,0 +1,202 @@
+[
+  {
+    "ticker": "IRWD",
+    "name": "IRWD",
+    "sector": "Unknown",
+    "weight": 0.23,
+    "score": 0.9657,
+    "bin": 3
+  },
+  {
+    "ticker": "PHAR",
+    "name": "PHAR",
+    "sector": "Unknown",
+    "weight": 0.07,
+    "score": 0.9737,
+    "bin": 3
+  },
+  {
+    "ticker": "ATNI",
+    "name": "ATNI",
+    "sector": "Unknown",
+    "weight": 0.06,
+    "score": 0.9857,
+    "bin": 3
+  },
+  {
+    "ticker": "BODI",
+    "name": "BODI",
+    "sector": "Unknown",
+    "weight": 0.05,
+    "score": 0.9897,
+    "bin": 3
+  },
+  {
+    "ticker": "NATR",
+    "name": "NATR",
+    "sector": "Unknown",
+    "weight": 0.05,
+    "score": 0.9856,
+    "bin": 3
+  },
+  {
+    "ticker": "COHN",
+    "name": "COHN",
+    "sector": "Unknown",
+    "weight": 0.05,
+    "score": 0.9604,
+    "bin": 3
+  },
+  {
+    "ticker": "MBI",
+    "name": "MBI",
+    "sector": "Unknown",
+    "weight": 0.05,
+    "score": 0.9893,
+    "bin": 3
+  },
+  {
+    "ticker": "STC",
+    "name": "STC",
+    "sector": "Unknown",
+    "weight": 0.04,
+    "score": 0.9666,
+    "bin": 3
+  },
+  {
+    "ticker": "HTHT",
+    "name": "HTHT",
+    "sector": "Unknown",
+    "weight": 0.04,
+    "score": 0.976,
+    "bin": 3
+  },
+  {
+    "ticker": "TCMD",
+    "name": "TCMD",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "score": 0.9757,
+    "bin": 3
+  },
+  {
+    "ticker": "ARMN",
+    "name": "ARMN",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "score": 0.9943,
+    "bin": 3
+  },
+  {
+    "ticker": "DVAX",
+    "name": "DVAX",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "score": 0.9044,
+    "bin": 3
+  },
+  {
+    "ticker": "MATV",
+    "name": "MATV",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "score": 0.992,
+    "bin": 3
+  },
+  {
+    "ticker": "ALTO",
+    "name": "ALTO",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "score": 0.979,
+    "bin": 3
+  },
+  {
+    "ticker": "BWEN",
+    "name": "BWEN",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "score": 0.968,
+    "bin": 3
+  },
+  {
+    "ticker": "HALO",
+    "name": "HALO",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "score": 0.9884,
+    "bin": 3
+  },
+  {
+    "ticker": "APPN",
+    "name": "APPN",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "score": 0.9651,
+    "bin": 3
+  },
+  {
+    "ticker": "SKY",
+    "name": "SKY",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "score": 0.9894,
+    "bin": 3
+  },
+  {
+    "ticker": "MD",
+    "name": "MD",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "score": 0.9958,
+    "bin": 3
+  },
+  {
+    "ticker": "EXAS",
+    "name": "EXAS",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "score": 0.9919,
+    "bin": 3
+  },
+  {
+    "ticker": "QLYS",
+    "name": "QLYS",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "score": 0.9366,
+    "bin": 3
+  },
+  {
+    "ticker": "SD",
+    "name": "SD",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "score": 0.9719,
+    "bin": 3
+  },
+  {
+    "ticker": "FSLY",
+    "name": "FSLY",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "score": 0.983,
+    "bin": 3
+  },
+  {
+    "ticker": "AMGN",
+    "name": "AMGN",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "score": 0.9825,
+    "bin": 3
+  },
+  {
+    "ticker": "SPRU",
+    "name": "SPRU",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "score": 0.9903,
+    "bin": 3
+  }
+]

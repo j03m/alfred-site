@@ -20,11 +20,18 @@ export interface DailySummary {
 export interface Holding {
   ticker: string;
   name: string;
-  weight: number;
-  score: number;
-  bin: number;
   sector: string;
-  unrealized_pl?: number;
+  // Legacy / Backtest Fields
+  weight?: number;
+  score?: number;
+  bin?: number;
+  // Live Fields
+  shares?: number;
+  cost_basis?: number;
+  current_price?: number;
+  market_value?: number;
+  unrealized_pnl?: number;
+  unrealized_pl?: number; // Legacy alias
 }
 
 export interface ActivePick {
@@ -72,6 +79,7 @@ export interface LedgerEvent {
   event_type: 'buy' | 'sell' | 'rebalance_sell' | 'portfolio_snapshot';
   ticker?: string;
   shares?: number;
+  price?: number; // Generic price field
   entry_price?: number;
   exit_price?: number;
   cost_basis?: number;
@@ -288,4 +296,21 @@ export function getAllTickersForDate(year: string, month: string, day: string): 
   return fs.readdirSync(tickersDir)
     .filter(f => f.endsWith('.md'))
     .map(f => f.replace('.md', ''));
+}
+
+export interface ActivityLogItem {
+  date: string;
+  type: string;
+  description: string;
+  details?: any;
+}
+
+export async function getActivityLog(): Promise<ActivityLogItem[]> {
+  const filePath = path.join(DATA_ROOT, 'activity_log.json');
+  if (!fs.existsSync(filePath)) return [];
+  const content = await fs.promises.readFile(filePath, 'utf-8');
+  const json = JSON.parse(content);
+  return json.sort((a: ActivityLogItem, b: ActivityLogItem) => {
+      return new Date(b.date).getTime() - new Date(a.date).getTime();
+  });
 }

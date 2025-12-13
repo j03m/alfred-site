@@ -1,6 +1,7 @@
-import { getPerformanceData, getAllDates, getBacktestSummary, getLatestDate, getDailySummary } from '@/lib/api';
+import { getPerformanceData, getAllDates, getBacktestSummary, getLatestDate, getDailySummary, getActivityLog } from '@/lib/api';
 import Link from 'next/link';
 import PerformanceChart from './components/PerformanceChart';
+import ActivityLog from './components/ActivityLog';
 import { ArrowRight, Calendar, Activity, Info, Radio } from 'lucide-react';
 
 export default async function LandingPage() {
@@ -9,16 +10,24 @@ export default async function LandingPage() {
   const backtestSummary = await getBacktestSummary();
   const latestDate = await getLatestDate();
   const latestSummary = await getDailySummary(latestDate);
+  const activityLog = await getActivityLog();
   
   const provenance = latestSummary?.provenance || 'simulation';
 
-  const datesWithStr = dates.map(d => ({
-    ...d,
-    date: `${d.year}-${d.month}-${d.day}`
+  // Fetch metadata for all dates to determine live status
+  const datesWithMeta = await Promise.all(dates.map(async (d) => {
+      const dateStr = `${d.year}-${d.month}-${d.day}`;
+      // Optimize: We only need provenance. getDailySummary reads a small JSON. Should be fast enough for <100 dates.
+      const summary = await getDailySummary(dateStr);
+      return {
+          ...d,
+          date: dateStr,
+          isLive: summary?.provenance === 'live'
+      };
   }));
 
   // Sort dates descending
-  const sortedDates = datesWithStr.sort((a, b) => {
+  const sortedDates = datesWithMeta.sort((a, b) => {
     return new Date(b.date).getTime() - new Date(a.date).getTime();
   });
 
@@ -54,7 +63,7 @@ export default async function LandingPage() {
   }
 
   const LiveIndicator = provenance === 'live' ? (
-    <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800 ml-4 animate-pulse">
+    <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-emerald-100 text-emerald-800 ml-4 animate-pulse">
       <Radio className="w-3 h-3 mr-1" />
       Live Market Data
     </span>
@@ -119,6 +128,11 @@ export default async function LandingPage() {
           {performanceData && <PerformanceChart data={performanceData.data} />}
         </section>
 
+        {/* Activity Log */}
+        <section>
+             <ActivityLog data={activityLog} />
+        </section>
+
         {/* Recent Analysis Grid */}
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-6 flex items-center">
@@ -130,11 +144,20 @@ export default async function LandingPage() {
               <Link 
                 key={dateObj.date} 
                 href={`/v1/${dateObj.year}/${dateObj.month}/${dateObj.day}`}
-                className="group block bg-white rounded-xl border border-slate-200 p-6 hover:shadow-md transition-all hover:border-blue-300"
+                className={`group block bg-white rounded-xl border p-6 hover:shadow-md transition-all ${
+                    dateObj.isLive 
+                    ? 'border-emerald-200 hover:border-emerald-400 bg-emerald-50/10' 
+                    : 'border-slate-200 hover:border-blue-300'
+                }`}
               >
                 <div className="flex justify-between items-start mb-4">
-                  <div className="text-lg font-semibold text-slate-800 group-hover:text-blue-600 transition-colors">
+                  <div className="text-lg font-semibold text-slate-800 group-hover:text-blue-600 transition-colors flex items-center">
                     {dateObj.date}
+                    {dateObj.isLive && (
+                        <span className="ml-2 inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider bg-emerald-100 text-emerald-800">
+                            LIVE
+                        </span>
+                    )}
                   </div>
                   <ArrowRight className="w-5 h-5 text-slate-300 group-hover:text-blue-500 transition-colors" />
                 </div>

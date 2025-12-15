@@ -1780,12 +1780,14 @@
     {
       "date": "2025-08-01",
       "type": "buy",
-      "price": 4.07
+      "price": 4.07,
+      "notes": null
     },
     {
       "date": "2025-09-01",
       "type": "sell",
-      "price": 0
+      "price": 0,
+      "notes": null
     }
   ]
 }

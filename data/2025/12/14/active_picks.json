@@ -1,0 +1,252 @@
+[
+  {
+    "ticker": "IRWD",
+    "name": "IRWD",
+    "sector": "Unknown",
+    "weight": 0.23,
+    "entry_price": 3.5,
+    "exit_price": 3.58,
+    "return": 0.022857142857142878,
+    "relative_return": 0.025242310916376985
+  },
+  {
+    "ticker": "PHAR",
+    "name": "PHAR",
+    "sector": "Unknown",
+    "weight": 0.07,
+    "entry_price": 17.5,
+    "exit_price": 17.98,
+    "return": 0.02742857142857145,
+    "relative_return": 0.02981373948780556
+  },
+  {
+    "ticker": "ATNI",
+    "name": "ATNI",
+    "sector": "Unknown",
+    "weight": 0.06,
+    "entry_price": 21.09,
+    "exit_price": 21.85,
+    "return": 0.03603603603603611,
+    "relative_return": 0.038421204095270216
+  },
+  {
+    "ticker": "BODI",
+    "name": "BODI",
+    "sector": "Unknown",
+    "weight": 0.05,
+    "entry_price": 8.83,
+    "exit_price": 11.58,
+    "return": 0.3114382785956965,
+    "relative_return": 0.3138234466549306
+  },
+  {
+    "ticker": "NATR",
+    "name": "NATR",
+    "sector": "Unknown",
+    "weight": 0.05,
+    "entry_price": 20.58,
+    "exit_price": 22.74,
+    "return": 0.10495626822157436,
+    "relative_return": 0.10734143628080847
+  },
+  {
+    "ticker": "COHN",
+    "name": "COHN",
+    "sector": "Unknown",
+    "weight": 0.05,
+    "entry_price": 15.3585,
+    "exit_price": 19.0183,
+    "return": 0.2382914998209461,
+    "relative_return": 0.24067666788018022
+  },
+  {
+    "ticker": "MBI",
+    "name": "MBI",
+    "sector": "Unknown",
+    "weight": 0.05,
+    "entry_price": 7.55,
+    "exit_price": 7.55,
+    "return": 0.0,
+    "relative_return": 0.0023851680592341055
+  },
+  {
+    "ticker": "STC",
+    "name": "STC",
+    "sector": "Unknown",
+    "weight": 0.04,
+    "entry_price": 76.63,
+    "exit_price": 73.42,
+    "return": -0.04188959937361339,
+    "relative_return": -0.039504431314379286
+  },
+  {
+    "ticker": "HTHT",
+    "name": "HTHT",
+    "sector": "Unknown",
+    "weight": 0.04,
+    "entry_price": 46.1,
+    "exit_price": 47.98,
+    "return": 0.04078091106290663,
+    "relative_return": 0.04316607912214073
+  },
+  {
+    "ticker": "TCMD",
+    "name": "TCMD",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 25.71,
+    "exit_price": 27.82,
+    "return": 0.0820692337611824,
+    "relative_return": 0.08445440182041651
+  },
+  {
+    "ticker": "ARMN",
+    "name": "ARMN",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 14.04,
+    "exit_price": 15.71,
+    "return": 0.11894586894586907,
+    "relative_return": 0.12133103700510318
+  },
+  {
+    "ticker": "DVAX",
+    "name": "DVAX",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 11.37,
+    "exit_price": 10.8,
+    "return": -0.050131926121371906,
+    "relative_return": -0.0477467580621378
+  },
+  {
+    "ticker": "MATV",
+    "name": "MATV",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 12.49,
+    "exit_price": 12.62,
+    "return": 0.010408326661328984,
+    "relative_return": 0.012793494720563089
+  },
+  {
+    "ticker": "ALTO",
+    "name": "ALTO",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 2.55,
+    "exit_price": 2.5,
+    "return": -0.019607843137254832,
+    "relative_return": -0.01722267507802073
+  },
+  {
+    "ticker": "BWEN",
+    "name": "BWEN",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 3.03,
+    "exit_price": 3.26,
+    "return": 0.07590759075907591,
+    "relative_return": 0.07829275881831002
+  },
+  {
+    "ticker": "HALO",
+    "name": "HALO",
+    "sector": "Unknown",
+    "weight": 0.03,
+    "entry_price": 71.4,
+    "exit_price": 62.21,
+    "return": -0.1287114845938376,
+    "relative_return": -0.1263263165346035
+  },
+  {
+    "ticker": "APPN",
+    "name": "APPN",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 40.4,
+    "exit_price": 37.83,
+    "return": -0.06361386138613863,
+    "relative_return": -0.061228693326904525
+  },
+  {
+    "ticker": "SKY",
+    "name": "SKY",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 85.84,
+    "exit_price": 87.94,
+    "return": 0.02446411929170543,
+    "relative_return": 0.026849287350939534
+  },
+  {
+    "ticker": "MD",
+    "name": "MD",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 24.09,
+    "exit_price": 22.5,
+    "return": -0.0660024906600249,
+    "relative_return": -0.0636173226007908
+  },
+  {
+    "ticker": "EXAS",
+    "name": "EXAS",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 101.29,
+    "exit_price": 101.5,
+    "return": 0.002073255010366213,
+    "relative_return": 0.004458423069600318
+  },
+  {
+    "ticker": "QLYS",
+    "name": "QLYS",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 140.85,
+    "exit_price": 152.53,
+    "return": 0.0829250976215833,
+    "relative_return": 0.08531026568081741
+  },
+  {
+    "ticker": "SD",
+    "name": "SD",
+    "sector": "Unknown",
+    "weight": 0.02,
+    "entry_price": 14.14,
+    "exit_price": 14.64,
+    "return": 0.03536067892503536,
+    "relative_return": 0.037745846984269464
+  },
+  {
+    "ticker": "FSLY",
+    "name": "FSLY",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "entry_price": 11.66,
+    "exit_price": 10.08,
+    "return": -0.13550600343053174,
+    "relative_return": -0.13312083537129762
+  },
+  {
+    "ticker": "AMGN",
+    "name": "AMGN",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "entry_price": 345.46,
+    "exit_price": 317.74,
+    "return": -0.08024083830255303,
+    "relative_return": -0.07785567024331892
+  },
+  {
+    "ticker": "SPRU",
+    "name": "SPRU",
+    "sector": "Unknown",
+    "weight": 0.01,
+    "entry_price": 4.97,
+    "exit_price": 5.33,
+    "return": 0.07243460764587532,
+    "relative_return": 0.07481977570510943
+  }
+]

@@ -1801,12 +1801,14 @@
     {
       "date": "2025-07-01",
       "type": "buy",
-      "price": 42.94
+      "price": 42.94,
+      "notes": null
     },
     {
       "date": "2025-08-01",
       "type": "sell",
-      "price": 0
+      "price": 0,
+      "notes": null
     }
   ]
 }

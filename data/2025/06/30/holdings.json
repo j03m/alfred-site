@@ -1,0 +1,252 @@
+[
+  {
+    "ticker": "MDB",
+    "name": "MDB",
+    "sector": "Unknown",
+    "shares": 2.403112366781768,
+    "cost_basis": 504.65359702417135,
+    "current_price": 209.99,
+    "market_value": 504.6295659005035,
+    "unrealized_pnl": -0.024031123667839438
+  },
+  {
+    "ticker": "HL",
+    "name": "HL",
+    "sector": "Unknown",
+    "shares": 84.04434325433454,
+    "cost_basis": 504.2660595260072,
+    "current_price": 5.99,
+    "market_value": 503.4256160934639,
+    "unrealized_pnl": -0.8404434325433385
+  },
+  {
+    "ticker": "BLBD",
+    "name": "BLBD",
+    "sector": "Unknown",
+    "shares": 11.67289198102412,
+    "cost_basis": 501.2339816651757,
+    "current_price": 43.16,
+    "market_value": 503.802017901001,
+    "unrealized_pnl": 2.568036235825332
+  },
+  {
+    "ticker": "AFRM",
+    "name": "AFRM",
+    "sector": "Unknown",
+    "shares": 7.249346763110305,
+    "cost_basis": 493.825501503074,
+    "current_price": 69.14,
+    "market_value": 501.2198352014465,
+    "unrealized_pnl": 7.3943336983724635
+  },
+  {
+    "ticker": "COE",
+    "name": "COE",
+    "sector": "Unknown",
+    "shares": 14.938648486056268,
+    "cost_basis": 490.13705682750617,
+    "current_price": 33.0,
+    "market_value": 492.9754000398568,
+    "unrealized_pnl": 2.838343212350651
+  },
+  {
+    "ticker": "RAIL",
+    "name": "RAIL",
+    "sector": "Unknown",
+    "shares": 56.64773321849372,
+    "cost_basis": 489.4364150077858,
+    "current_price": 8.62,
+    "market_value": 488.3034603434158,
+    "unrealized_pnl": -1.1329546643700041
+  },
+  {
+    "ticker": "AENT",
+    "name": "AENT",
+    "sector": "Unknown",
+    "shares": 125.26122057734551,
+    "cost_basis": 484.7609236343271,
+    "current_price": 3.77,
+    "market_value": 472.2348015765926,
+    "unrealized_pnl": -12.52612205773454
+  },
+  {
+    "ticker": "COOK",
+    "name": "COOK",
+    "sector": "Unknown",
+    "shares": 281.3511958805932,
+    "cost_basis": 478.29703299700844,
+    "current_price": 1.71,
+    "market_value": 481.11054495581436,
+    "unrealized_pnl": 2.8135119588059183
+  },
+  {
+    "ticker": "VSAT",
+    "name": "VSAT",
+    "sector": "Unknown",
+    "shares": 32.138483739536674,
+    "cost_basis": 471.1501716216076,
+    "current_price": 14.6,
+    "market_value": 469.22186259723543,
+    "unrealized_pnl": -1.9283090243721972
+  },
+  {
+    "ticker": "OWLT",
+    "name": "OWLT",
+    "sector": "Unknown",
+    "shares": 54.07450620953948,
+    "cost_basis": 454.22585216013164,
+    "current_price": 8.4,
+    "market_value": 454.22585216013164,
+    "unrealized_pnl": 0.0
+  },
+  {
+    "ticker": "RDDT",
+    "name": "RDDT",
+    "sector": "Unknown",
+    "shares": 2.951348483864119,
+    "cost_basis": 448.0737268202505,
+    "current_price": 150.57,
+    "market_value": 444.38454121542037,
+    "unrealized_pnl": -3.6891856048301293
+  },
+  {
+    "ticker": "AVAV",
+    "name": "AVAV",
+    "sector": "Unknown",
+    "shares": 1.664572766591992,
+    "cost_basis": 437.982386345685,
+    "current_price": 284.95,
+    "market_value": 474.32000984038814,
+    "unrealized_pnl": 36.337623494703166
+  },
+  {
+    "ticker": "POWL",
+    "name": "POWL",
+    "sector": "Unknown",
+    "shares": 2.0996560386275425,
+    "cost_basis": 435.0487312036268,
+    "current_price": 210.45,
+    "market_value": 441.8726133291663,
+    "unrealized_pnl": 6.823882125539512
+  },
+  {
+    "ticker": "BELFA",
+    "name": "BELFA",
+    "sector": "Unknown",
+    "shares": 4.835675595245327,
+    "cost_basis": 429.4563496137375,
+    "current_price": 89.85,
+    "market_value": 434.4854522327926,
+    "unrealized_pnl": 5.029102619055152
+  },
+  {
+    "ticker": "ZDGE",
+    "name": "ZDGE",
+    "sector": "Unknown",
+    "shares": 108.59372752923255,
+    "cost_basis": 428.9452237404686,
+    "current_price": 4.01,
+    "market_value": 435.4608473922225,
+    "unrealized_pnl": 6.515623651753913
+  },
+  {
+    "ticker": "WBD",
+    "name": "WBD",
+    "sector": "Unknown",
+    "shares": 38.65337638669607,
+    "cost_basis": 423.2544714343219,
+    "current_price": 11.46,
+    "market_value": 442.96769339153695,
+    "unrealized_pnl": 19.71322195721507
+  },
+  {
+    "ticker": "ANET",
+    "name": "ANET",
+    "sector": "Unknown",
+    "shares": 4.105594767945535,
+    "cost_basis": 420.04340070850765,
+    "current_price": 102.31,
+    "market_value": 420.04340070850765,
+    "unrealized_pnl": 0.0
+  },
+  {
+    "ticker": "BTMD",
+    "name": "BTMD",
+    "sector": "Unknown",
+    "shares": 103.77717731569965,
+    "cost_basis": 418.2220245822696,
+    "current_price": 4.02,
+    "market_value": 417.18425280911254,
+    "unrealized_pnl": -1.0377717731570897
+  },
+  {
+    "ticker": "TER",
+    "name": "TER",
+    "sector": "Unknown",
+    "shares": 4.639344390322098,
+    "cost_basis": 415.3141098216342,
+    "current_price": 89.92,
+    "market_value": 417.16984757776305,
+    "unrealized_pnl": 1.8557377561288604
+  },
+  {
+    "ticker": "LXRX",
+    "name": "LXRX",
+    "sector": "Unknown",
+    "shares": 431.08399018826566,
+    "cost_basis": 396.9852465643739,
+    "current_price": 0.9457,
+    "market_value": 407.6761295210428,
+    "unrealized_pnl": 10.69088295666893
+  },
+  {
+    "ticker": "FLXS",
+    "name": "FLXS",
+    "sector": "Unknown",
+    "shares": 10.276953196830936,
+    "cost_basis": 367.9149244465475,
+    "current_price": 36.03,
+    "market_value": 370.27862368181866,
+    "unrealized_pnl": 2.363699235271156
+  },
+  {
+    "ticker": "KEQU",
+    "name": "KEQU",
+    "sector": "Unknown",
+    "shares": 6.173764257138883,
+    "cost_basis": 359.2513421229116,
+    "current_price": 58.7,
+    "market_value": 362.39996189405247,
+    "unrealized_pnl": 3.1486197711408863
+  },
+  {
+    "ticker": "WDC",
+    "name": "WDC",
+    "sector": "Unknown",
+    "shares": 5.62971417959686,
+    "cost_basis": 358.500198956728,
+    "current_price": 63.99,
+    "market_value": 360.2454103524031,
+    "unrealized_pnl": 1.745211395675085
+  },
+  {
+    "ticker": "TTI",
+    "name": "TTI",
+    "sector": "Unknown",
+    "shares": 92.96544674733913,
+    "cost_basis": 312.36390107105944,
+    "current_price": 3.36,
+    "market_value": 312.36390107105944,
+    "unrealized_pnl": 0.0
+  },
+  {
+    "ticker": "EVR",
+    "name": "EVR",
+    "sector": "Unknown",
+    "shares": 1.0995801529281164,
+    "cost_basis": 293.36798480122144,
+    "current_price": 270.02,
+    "market_value": 296.90863289364995,
+    "unrealized_pnl": 3.540648092428512
+  }
+]

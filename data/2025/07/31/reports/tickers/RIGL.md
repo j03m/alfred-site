@@ -1,9 +1,7 @@
 **Rank:** -4.10 | **Signal Strength:** 0.99
 
 ## Investment Thesis
-I have selected RIGL for the portfolio because its exceptionally strong momentum signal indicates a high likelihood of outperformance. In the current market environment, pronounced trend acceleration is a critical indicator, and RIGL is demonstrating this powerfully.
+I selected RIGL for the portfolio primarily due to its exceptionally strong momentum signal. This indicates a high likelihood of it being a top performer in the current market environment, suggesting a powerful upward trend that I expect to continue. While RIGL does not align with traditional value or quality investment criteria, its current market trajectory is too compelling to ignore.
 
 ## Factor Analysis
-RIGL's inclusion is decisively driven by its robust momentum. My predictive model assigns a 0.99 probability that RIGL will be a top performer, signifying significant trend acceleration and strong investor conviction.
-
-While RIGL does not currently exhibit strong alignment with traditional predictive valuation signals, current valuation metrics, growth potential, quality characteristics, or value propositions, its exceptional momentum is the overriding factor. This suggests that market dynamics are currently favoring RIGL's upward trajectory, superseding less favorable underlying factor exposures. In a regime where directional strength is paramount, RIGL's potent momentum is the key attribute I am leveraging.
+My analysis indicates that RIGL's inclusion is not driven by traditional fundamental factors. It does not score favorably on metrics related to its current predictive value, predicted future value (both quarterly and monthly), growth prospects, or quality metrics. Similarly, the predictive model did not identify specific fundamental features supporting its selection. Instead, the decision is overwhelmingly based on its exceptional market momentum. This strong upward trend, often termed "Trend Acceleration," signifies robust investor interest and a prevailing positive market sentiment that I expect to sustain its performance.

@@ -1787,17 +1787,20 @@
     {
       "date": "2025-11-03",
       "type": "buy",
-      "price": 298.43
+      "price": 298.43,
+      "notes": null
     },
     {
       "date": "2025-12-01",
       "type": "rebalance_sell",
-      "price": 0
+      "price": 0,
+      "notes": null
     },
     {
       "date": "2025-12-01",
       "type": "buy",
-      "price": 343.07
+      "price": 343.07,
+      "notes": null
     }
   ]
 }

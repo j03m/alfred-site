@@ -40,5 +40,17 @@
     "type": "DAILY_START",
     "description": "Running update for 2025-12-13",
     "details": {}
+  },
+  {
+    "date": "2025-12-14",
+    "type": "DAILY_START",
+    "description": "Running update for 2025-12-14",
+    "details": {}
+  },
+  {
+    "date": "2025-12-14",
+    "type": "DAILY_START",
+    "description": "Running update for 2025-12-14",
+    "details": {}
   }
 ]

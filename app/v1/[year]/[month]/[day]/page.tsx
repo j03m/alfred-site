@@ -1,4 +1,4 @@
-import { getDailySummary, getManagerCommentary, getAllDates, getPerformanceData, getMonthlyPerformance, getMonthlyLedger, getActivePicks, getNextPicks, getPortfolioSnapshot, getActivityLog, getHoldings, ActivePick, NextPick, Holding } from '@/lib/api';
+import { getDailySummary, getManagerCommentary, getAllDates, getPerformanceData, getMonthlyPerformance, getMonthlyLedger, getActivePicks, getNextPicks, getPortfolioSnapshot, getActivityLog, getHoldings, getAllTickersForDate, ActivePick, NextPick, Holding } from '@/lib/api';
 import { notFound } from 'next/navigation';
 import { Activity, TrendingUp, Shield, BarChart3 } from 'lucide-react';
 import Link from 'next/link';
@@ -49,6 +49,13 @@ export default async function DashboardPage(props: PageProps) {
   if (currentIndex !== -1 && currentIndex < allDates.length - 1) {
       const p = allDates[currentIndex + 1]; // Next item in desc list is previous date
       previousDate = { year: p.year, month: p.month, day: p.day };
+  }
+
+  // Get available tickers for linking
+  const availableTickersCurrent = getAllTickersForDate(year, month, day);
+  let availableTickersPrevious: string[] = [];
+  if (previousDate) {
+      availableTickersPrevious = getAllTickersForDate(previousDate.year, previousDate.month, previousDate.day);
   }
 
   if (!summary) {
@@ -163,6 +170,9 @@ export default async function DashboardPage(props: PageProps) {
                 ledgerEvents={ledgerEvents}
                 activityLog={activityLog}
                 dateStr={dateStr}
+                previousDate={previousDate}
+                availableTickersCurrent={availableTickersCurrent}
+                availableTickersPrevious={availableTickersPrevious}
             />
         ) : (
             <LedgerPicksSection 

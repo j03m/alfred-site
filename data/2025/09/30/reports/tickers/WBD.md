@@ -1,7 +1,15 @@
 **Rank:** -5.86 | **Signal Strength:** 0.99
 
 ## Investment Thesis
-I selected Warner Bros. Discovery (WBD) for the portfolio primarily due to its exceptionally strong momentum signal. This indicates a very high likelihood of WBD becoming a top performer, reflecting powerful upward trend dynamics in its market performance that align with the current regime.
+I selected Warner Bros. Discovery (WBD) for the portfolio due to its exceptionally strong Momentum Signal, indicating a high likelihood of it being a top performer in the current market environment. My analysis reveals that WBD exhibits robust predictive indicators for both short-term and long-term price movements, alongside a compelling valuation. This combination suggests a favorable outlook for price appreciation.
 
 ## Factor Analysis
-My analysis shows that WBD was selected primarily for its robust momentum, signaling strong trend acceleration. While its growth prospects and operational quality did not directly drive this specific decision, the stock exhibits strong underlying valuation signals. Its predicted and current valuation metrics are exceptionally strong, and it presents as attractive from a cheapness perspective. This powerful momentum, combined with its supportive valuation characteristics, underpins my confidence in WBD's suitability for the portfolio in the current market environment.
+The decision to include WBD is primarily driven by its **Momentum Signal** of 0.99, which points to a strong probability of outperformance.
+
+Beyond momentum, WBD demonstrates significant underlying strength across several key strategic factors:
+
+*   **Valuation Attractiveness:** WBD scores highly in **Cheapness**, suggesting it is currently undervalued relative to its intrinsic worth. This is further supported by its strong **Current Valuation Strength** and positive **Predicted Monthly and Quarterly Performance Indicators**.
+*   **Growth Prospects:** The company also shows promising **Growth Prospects**, with a solid score indicating potential for expansion.
+*   **Company Quality:** WBD's **Company Quality** metrics are also respectable, suggesting a well-managed and fundamentally sound business.
+
+While the precise contribution of each factor to the portfolio's current tilt may vary, the aggregate strength of WBD's predictive signals and underlying fundamental value makes it a compelling addition. I am confident that WBD is well-positioned to capitalize on current market dynamics and contribute positively to the portfolio's objectives.

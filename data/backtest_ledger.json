@@ -3865,184 +3865,184 @@
     {
       "date": "2025-11-30",
       "event_type": "portfolio_snapshot",
-      "total_portfolio_value": 20145.15065642247,
-      "cash_balance": 2345.7925820625683,
-      "total_unrealized_pnl": 69.06423662116208,
+      "total_portfolio_value": 20145.151005709205,
+      "cash_balance": 2345.792582062575,
+      "total_unrealized_pnl": 69.06458590789687,
       "open_positions": [
         {
           "ticker": "SPRU",
-          "shares": 170.3081540636123,
+          "shares": 170.30798432271274,
           "cost_basis_per_share": 4.96,
           "current_price": 4.97,
-          "unrealized_pnl": 1.7030815406360869
+          "unrealized_pnl": 1.703079843227091
         },
         {
           "ticker": "AMGN",
-          "shares": 2.442780204850354,
+          "shares": 2.442753527078881,
           "cost_basis_per_share": 343.07,
           "current_price": 345.46,
-          "unrealized_pnl": 5.838244689592313
+          "unrealized_pnl": 5.838180929718493
         },
         {
           "ticker": "FSLY",
-          "shares": 72.46607474641878,
+          "shares": 72.46730626762648,
           "cost_basis_per_share": 11.45,
           "current_price": 11.66,
-          "unrealized_pnl": 15.217875696748006
+          "unrealized_pnl": 15.218134316201624
         },
         {
           "ticker": "SD",
-          "shares": 56.49612642598142,
+          "shares": 56.49501468914593,
           "cost_basis_per_share": 14.18,
           "current_price": 14.14,
-          "unrealized_pnl": -2.259845057039209
+          "unrealized_pnl": -2.259800587565789
         },
         {
           "ticker": "QLYS",
-          "shares": 5.663332147675195,
+          "shares": 5.66317958680126,
           "cost_basis_per_share": 141.4,
           "current_price": 140.85,
-          "unrealized_pnl": -3.1148326812214218
+          "unrealized_pnl": -3.1147487727407577
         },
         {
           "ticker": "EXAS",
-          "shares": 7.859459574942232,
+          "shares": 7.859525992615136,
           "cost_basis_per_share": 101.35,
           "current_price": 101.29,
-          "unrealized_pnl": -0.4715675744964401
+          "unrealized_pnl": -0.47157155955681435
         },
         {
           "ticker": "MD",
-          "shares": 32.53615659063131,
+          "shares": 32.535498744749574,
           "cost_basis_per_share": 24.04,
           "current_price": 24.09,
-          "unrealized_pnl": 1.6268078295315884
+          "unrealized_pnl": 1.6267749372375018
         },
         {
           "ticker": "SKY",
-          "shares": 9.178640056489252,
+          "shares": 9.178539577288113,
           "cost_basis_per_share": 84.9,
           "current_price": 85.84,
-          "unrealized_pnl": 8.627921653099875
+          "unrealized_pnl": 8.627827202650806
         },
         {
           "ticker": "APPN",
-          "shares": 18.52451341440432,
+          "shares": 18.524616499536915,
           "cost_basis_per_share": 39.77,
           "current_price": 40.4,
-          "unrealized_pnl": 11.670443451074638
+          "unrealized_pnl": 11.670508394708172
         },
         {
           "ticker": "HALO",
-          "shares": 10.125437226328888,
+          "shares": 10.12574107035683,
           "cost_basis_per_share": 71.97,
           "current_price": 71.4,
-          "unrealized_pnl": -5.771499219007397
+          "unrealized_pnl": -5.771672410103323
         },
         {
           "ticker": "BWEN",
-          "shares": 241.94398953725843,
+          "shares": 241.94293494916087,
           "cost_basis_per_share": 3.0,
           "current_price": 3.03,
-          "unrealized_pnl": 7.258319686117706
+          "unrealized_pnl": 7.258288048474779
         },
         {
           "ticker": "ALTO",
-          "shares": 285.9853793650884,
+          "shares": 285.97871718234904,
           "cost_basis_per_share": 2.53,
           "current_price": 2.55,
-          "unrealized_pnl": 5.719707587301773
+          "unrealized_pnl": 5.719574343646986
         },
         {
           "ticker": "MATV",
-          "shares": 56.79707370720251,
+          "shares": 56.797574219305886,
           "cost_basis_per_share": 12.44,
           "current_price": 12.49,
-          "unrealized_pnl": 2.8398536853601657
+          "unrealized_pnl": 2.8398787109653347
         },
         {
           "ticker": "DVAX",
-          "shares": 62.561464785237895,
+          "shares": 62.56245255813215,
           "cost_basis_per_share": 11.23,
           "current_price": 11.37,
-          "unrealized_pnl": 8.75860506993323
+          "unrealized_pnl": 8.758743358138425
         },
         {
           "ticker": "ARMN",
-          "shares": 48.91331607925054,
+          "shares": 48.912993307798644,
           "cost_basis_per_share": 14.32,
           "current_price": 14.04,
-          "unrealized_pnl": -13.695728502190207
+          "unrealized_pnl": -13.695638126183676
         },
         {
           "ticker": "TCMD",
-          "shares": 27.16134528499853,
+          "shares": 27.160857977896818,
           "cost_basis_per_share": 25.68,
           "current_price": 25.71,
-          "unrealized_pnl": 0.8148403585499867
+          "unrealized_pnl": 0.8148257393369354
         },
         {
           "ticker": "HTHT",
-          "shares": 14.79189879076201,
+          "shares": 14.791832617278088,
           "cost_basis_per_share": 46.1,
           "current_price": 46.1,
           "unrealized_pnl": 0.0
         },
         {
           "ticker": "STC",
-          "shares": 8.831568840634581,
+          "shares": 8.83179270059571,
           "cost_basis_per_share": 75.62,
           "current_price": 76.63,
-          "unrealized_pnl": 8.919884529040846
+          "unrealized_pnl": 8.920110627601586
         },
         {
           "ticker": "MBI",
-          "shares": 85.24592919306909,
+          "shares": 85.24903138127084,
           "cost_basis_per_share": 7.57,
           "current_price": 7.55,
-          "unrealized_pnl": -1.7049185838614211
+          "unrealized_pnl": -1.7049806276254562
         },
         {
           "ticker": "COHN",
-          "shares": 41.55159948306959,
+          "shares": 41.5512041636704,
           "cost_basis_per_share": 15.37,
           "current_price": 15.3585,
-          "unrealized_pnl": -0.47784339405529375
+          "unrealized_pnl": -0.4778388478822031
         },
         {
           "ticker": "NATR",
-          "shares": 30.900884588035456,
+          "shares": 30.90038954504105,
           "cost_basis_per_share": 20.58,
           "current_price": 20.58,
           "unrealized_pnl": 0.0
         },
         {
           "ticker": "BODI",
-          "shares": 69.16804107815624,
+          "shares": 69.16896934616696,
           "cost_basis_per_share": 9.11,
           "current_price": 8.83,
-          "unrealized_pnl": -19.3670515018837
+          "unrealized_pnl": -19.367311416926704
         },
         {
           "ticker": "ATNI",
-          "shares": 29.155483042286203,
+          "shares": 29.15576897596249,
           "cost_basis_per_share": 20.98,
           "current_price": 21.09,
-          "unrealized_pnl": 3.2071031346514656
+          "unrealized_pnl": 3.2071345873558577
         },
         {
           "ticker": "PHAR",
-          "shares": 35.484082333725546,
+          "shares": 35.4843377257778,
           "cost_basis_per_share": 16.62,
           "current_price": 17.5,
-          "unrealized_pnl": 31.225992453678444
+          "unrealized_pnl": 31.226217198684427
         },
         {
           "ticker": "IRWD",
-          "shares": 124.94208848005107,
+          "shares": 124.94350092667734,
           "cost_basis_per_share": 3.48,
           "current_price": 3.5,
-          "unrealized_pnl": 2.4988417696010234
+          "unrealized_pnl": 2.498870018533549
         }
       ]
     },
@@ -4270,11 +4270,11 @@
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "SPRU",
-      "shares": 170.3081540636123,
+      "shares": 170.30798432271274,
       "entry_price": 4.96,
-      "cost_basis": 844.7284441555171,
-      "manager_score": -6.216531475074589,
-      "cash_change": -844.7284441555171
+      "cost_basis": 844.7276022406552,
+      "manager_score": -6.218211209634319,
+      "cash_change": -844.7276022406552
     },
     {
       "date": "2025-12-01",
@@ -4290,121 +4290,121 @@
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "AMGN",
-      "shares": 2.442780204850354,
+      "shares": 2.442753527078881,
       "entry_price": 343.07,
-      "cost_basis": 838.0446048780109,
-      "manager_score": -6.167343718310349,
-      "cash_change": -838.0446048780109
+      "cost_basis": 838.0354525349518,
+      "manager_score": -6.16894893833387,
+      "cash_change": -838.0354525349518
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "FSLY",
-      "shares": 72.46607474641878,
+      "shares": 72.46730626762648,
       "entry_price": 11.45,
-      "cost_basis": 829.736555846495,
-      "manager_score": -6.106203065763111,
-      "cash_change": -829.736555846495
+      "cost_basis": 829.7506567643231,
+      "manager_score": -6.107962876325473,
+      "cash_change": -829.7506567643231
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "SD",
-      "shares": 56.49612642598142,
+      "shares": 56.49501468914593,
       "entry_price": 14.18,
-      "cost_basis": 801.1150727204166,
-      "manager_score": -5.895571646935423,
-      "cash_change": -801.1150727204166
+      "cost_basis": 801.0993082920893,
+      "manager_score": -5.897054489090806,
+      "cash_change": -801.0993082920893
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "QLYS",
-      "shares": 5.663332147675195,
+      "shares": 5.66317958680126,
       "entry_price": 141.4,
-      "cost_basis": 800.7951656812727,
-      "manager_score": -5.893217384815216,
-      "cash_change": -800.7951656812727
+      "cost_basis": 800.7735935736982,
+      "manager_score": -5.894656836986542,
+      "cash_change": -800.7735935736982
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "EXAS",
-      "shares": 7.859459574942232,
+      "shares": 7.859525992615136,
       "entry_price": 101.35,
-      "cost_basis": 796.5562279203951,
-      "manager_score": -5.862022164394148,
-      "cash_change": -796.5562279203951
+      "cost_basis": 796.562959351544,
+      "manager_score": -5.863661504467018,
+      "cash_change": -796.562959351544
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "MD",
-      "shares": 32.53615659063131,
+      "shares": 32.535498744749574,
       "entry_price": 24.04,
-      "cost_basis": 782.1692044387767,
-      "manager_score": -5.756145080551505,
-      "cash_change": -782.1692044387767
+      "cost_basis": 782.1533898237798,
+      "manager_score": -5.757589740592039,
+      "cash_change": -782.1533898237798
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "SKY",
-      "shares": 9.178640056489252,
+      "shares": 9.178539577288113,
       "entry_price": 84.9,
-      "cost_basis": 779.2665407959375,
-      "manager_score": -5.734783777967095,
-      "cash_change": -779.2665407959375
+      "cost_basis": 779.2580101117609,
+      "manager_score": -5.736276263284481,
+      "cash_change": -779.2580101117609
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "APPN",
-      "shares": 18.52451341440432,
+      "shares": 18.524616499536915,
       "entry_price": 39.77,
-      "cost_basis": 736.7198984908599,
-      "manager_score": -5.421674230303324,
-      "cash_change": -736.7198984908599
+      "cost_basis": 736.7239981865831,
+      "manager_score": -5.423174774659856,
+      "cash_change": -736.7239981865831
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "HALO",
-      "shares": 10.125437226328888,
+      "shares": 10.12574107035683,
       "entry_price": 71.97,
-      "cost_basis": 728.7277171788901,
-      "manager_score": -5.362858113687253,
-      "cash_change": -728.7277171788901
+      "cost_basis": 728.749584833581,
+      "manager_score": -5.364473500580061,
+      "cash_change": -728.749584833581
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "BWEN",
-      "shares": 241.94398953725843,
+      "shares": 241.94293494916087,
       "entry_price": 3.0,
-      "cost_basis": 725.8319686117753,
-      "manager_score": -5.341547700576484,
-      "cash_change": -725.8319686117753
+      "cost_basis": 725.8288048474826,
+      "manager_score": -5.342973046703264,
+      "cash_change": -725.8288048474826
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "ALTO",
-      "shares": 285.9853793650884,
+      "shares": 285.97871718234904,
       "entry_price": 2.53,
-      "cost_basis": 723.5430097936736,
-      "manager_score": -5.324702778831124,
-      "cash_change": -723.5430097936736
+      "cost_basis": 723.526154471343,
+      "manager_score": -5.326022770255804,
+      "cash_change": -723.526154471343
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "MATV",
-      "shares": 56.79707370720251,
+      "shares": 56.797574219305886,
       "entry_price": 12.44,
-      "cost_basis": 706.5555969175991,
-      "manager_score": -5.19968889116717,
-      "cash_change": -706.5555969175991
+      "cost_basis": 706.5618232881652,
+      "manager_score": -5.201144887672854,
+      "cash_change": -706.5618232881652
     },
     {
       "date": "2025-12-01",
@@ -4420,111 +4420,111 @@
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "DVAX",
-      "shares": 62.561464785237895,
+      "shares": 62.56245255813215,
       "entry_price": 11.23,
-      "cost_basis": 702.5652495382216,
-      "manager_score": -5.170323098820518,
-      "cash_change": -702.5652495382216
+      "cost_basis": 702.5763422278241,
+      "manager_score": -5.171806953243504,
+      "cash_change": -702.5763422278241
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "ARMN",
-      "shares": 48.91331607925054,
+      "shares": 48.912993307798644,
       "entry_price": 14.32,
-      "cost_basis": 700.4386862548678,
-      "manager_score": -5.154673279430426,
-      "cash_change": -700.4386862548678
+      "cost_basis": 700.4340641676766,
+      "manager_score": -5.1560372099411325,
+      "cash_change": -700.4340641676766
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "TCMD",
-      "shares": 27.16134528499853,
+      "shares": 27.160857977896818,
       "entry_price": 25.68,
-      "cost_basis": 697.5033469187622,
-      "manager_score": -5.133071509655565,
-      "cash_change": -697.5033469187622
+      "cost_basis": 697.4908328723902,
+      "manager_score": -5.134371487423778,
+      "cash_change": -697.4908328723902
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "HTHT",
-      "shares": 14.79189879076201,
+      "shares": 14.791832617278088,
       "entry_price": 46.1,
-      "cost_basis": 681.9065342541287,
-      "manager_score": -5.018291336794846,
-      "cash_change": -681.9065342541287
+      "cost_basis": 681.9034836565198,
+      "manager_score": -5.019629848384739,
+      "cash_change": -681.9034836565198
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "STC",
-      "shares": 8.831568840634581,
+      "shares": 8.83179270059571,
       "entry_price": 75.62,
-      "cost_basis": 667.8432357287871,
-      "manager_score": -4.9147966119148805,
-      "cash_change": -667.8432357287871
+      "cost_basis": 667.8601640190476,
+      "manager_score": -4.91625412423582,
+      "cash_change": -667.8601640190476
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "MBI",
-      "shares": 85.24592919306909,
+      "shares": 85.24903138127084,
       "entry_price": 7.57,
-      "cost_basis": 645.3116839915331,
-      "manager_score": -4.74898225876268,
-      "cash_change": -645.3116839915331
+      "cost_basis": 645.3351675562203,
+      "manager_score": -4.750443056702807,
+      "cash_change": -645.3351675562203
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "COHN",
-      "shares": 41.55159948306959,
+      "shares": 41.5512041636704,
       "entry_price": 15.37,
-      "cost_basis": 638.6480840547795,
-      "manager_score": -4.69994344749648,
-      "cash_change": -638.6480840547795
+      "cost_basis": 638.642007995614,
+      "manager_score": -4.701173351655598,
+      "cash_change": -638.642007995614
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "NATR",
-      "shares": 30.900884588035456,
+      "shares": 30.90038954504105,
       "entry_price": 20.58,
-      "cost_basis": 635.9402048217696,
-      "manager_score": -4.680015603703396,
-      "cash_change": -635.9402048217696
+      "cost_basis": 635.9300168369448,
+      "manager_score": -4.681209834684523,
+      "cash_change": -635.9300168369448
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "BODI",
-      "shares": 69.16804107815624,
+      "shares": 69.16896934616696,
       "entry_price": 9.11,
-      "cost_basis": 630.1208542220032,
-      "manager_score": -4.637189798063446,
-      "cash_change": -630.1208542220032
+      "cost_basis": 630.129310743581,
+      "manager_score": -4.638509660619093,
+      "cash_change": -630.129310743581
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "ATNI",
-      "shares": 29.155483042286203,
+      "shares": 29.15576897596249,
       "entry_price": 20.98,
-      "cost_basis": 611.6820342271645,
-      "manager_score": -4.5014947049785405,
-      "cash_change": -611.6820342271645
+      "cost_basis": 611.6880331156931,
+      "manager_score": -4.502759675699053,
+      "cash_change": -611.6880331156931
     },
     {
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "PHAR",
-      "shares": 35.484082333725546,
+      "shares": 35.4843377257778,
       "entry_price": 16.62,
-      "cost_basis": 589.7454483865187,
-      "manager_score": -4.340058829014424,
-      "cash_change": -589.7454483865187
+      "cost_basis": 589.7496930024271,
+      "manager_score": -4.341267104542112,
+      "cash_change": -589.7496930024271
     },
     {
       "date": "2025-12-01",
@@ -4540,11 +4540,11 @@
       "date": "2025-12-01",
       "event_type": "buy",
       "ticker": "IRWD",
-      "shares": 124.94208848005107,
+      "shares": 124.94350092667734,
       "entry_price": 3.48,
-      "cost_basis": 434.7984679105777,
-      "manager_score": -3.1997719264472835,
-      "cash_change": -434.7984679105777
+      "cost_basis": 434.80338322483715,
+      "manager_score": -3.200675891712308,
+      "cash_change": -434.80338322483715
     },
     {
       "date": "2025-12-13",

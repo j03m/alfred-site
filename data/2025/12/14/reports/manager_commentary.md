@@ -1,0 +1,8 @@
+## Market Regime
+The current market environment signals a distinct risk-on appetite. The robust positive correlation between Bitcoin's performance and key predictive metrics suggests a clear inclination towards growth-oriented assets. While certain latent macro factors present underlying challenges, the prevailing sentiment favors opportunities poised for upside momentum.
+
+## Macro Drivers
+My analysis indicates that the recent surge in Bitcoin has been a primary catalyst, reinforcing my conviction in predictive assets. Furthermore, the positive impact of the CBOE Volatility Index (VIX) on my holdings suggests that receding market fear is a tailwind. However, I remain watchful of commodity prices, such as Oil, which indicate persistent inflationary pressures or demand concerns that temper the risk-on sentiment.
+
+## Strategy Outlook
+Today, my strategy prioritizes companies that exhibit strong predictive signals for future outperformance, coupled with attractive current valuations. I am heavily emphasizing these forward-looking indicators, seeking opportunities that are currently undervalued yet demonstrate clear potential for robust expansion. My primary focus is on these promising opportunities, while I also maintain a keen eye on underlying quality and resilience to navigate any lingering macro uncertainties. I am positioning the portfolio to capitalize on this favorable risk appetite, prioritizing assets that marry speculative upside with fundamental soundness.

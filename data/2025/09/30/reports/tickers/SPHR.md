@@ -1,7 +1,9 @@
 **Rank:** -4.56 | **Signal Strength:** 0.98
 
 ## Investment Thesis
-I have selected SPHR for the portfolio due to its exceptionally strong upward price momentum. My analysis indicates a high likelihood (0.98 probability) of this stock being a top performer, driven by significant and sustained positive price velocity. In the current market regime, where trend acceleration is a key indicator of outperformance, SPHR's performance characteristics stand out.
+I have selected SPHR for the portfolio due to its exceptionally strong forward-looking predictive signals and a compelling current valuation. My analysis indicates a very high likelihood of it becoming a top performer in the near term, underpinned by robust market momentum.
 
 ## Factor Analysis
-While SPHR's current valuation and underlying quality metrics did not strongly support its selection, its predicted and current price velocity trends, alongside its overall momentum, are exceptionally strong. This robust price action suggests a significant trend is in play, which is a key indicator of future outperformance in the current market environment. The overwhelming positive momentum signal overshadows less favorable alignments in other factors, making SPHR a compelling candidate for its strong upward trajectory.
+The stock exhibits outstanding predictive value, particularly for both quarterly and monthly horizons, with my models showing a very high alignment with its predicted future performance. This is complemented by a strong current intrinsic value assessment, indicating it is trading attractively relative to its fundamentals, and a generally favorable valuation profile. While its growth prospects are solid and its quality is moderate, the core strengths lie in its predictive power and valuation. The significant market momentum, reflected in a strong trend acceleration signal, confirms robust investor conviction and positive price action, making it a well-rounded pick. Specific feature-level drivers were not highlighted by the model for this particular stock, but its overall factor alignment is exceptionally strong.
+
+In the current market regime, which favors companies demonstrating strong forward-looking indicators and clear price momentum, SPHR stands out as a strategic fit for driving portfolio outperformance.

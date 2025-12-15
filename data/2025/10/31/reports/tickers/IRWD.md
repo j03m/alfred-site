@@ -1,7 +1,17 @@
 **Signal Strength:** 0.93
 
 ## Investment Thesis
-I've selected IRWD for the portfolio due to its compelling blend of fundamental value and strong future potential, amplified by a robust momentum signal. My analysis indicates that IRWD is positioned for significant outperformance, making it a strategic fit for our current investment approach.
+I selected IRWD for the portfolio due to its exceptionally strong upward momentum and promising underlying value indicators. My analysis suggests IRWD is poised for continued outperformance in the current market environment.
 
 ## Factor Analysis
-My evaluation reveals IRWD excels across several key investment dimensions. It exhibits a powerful future value profile, with particularly strong predictions for its earnings potential in both the near-term and over the coming quarters. This is underpinned by an attractive current valuation, suggesting the stock is presently undervalued. Furthermore, the company demonstrates promising growth prospects and a solid foundation of operational efficiency. The exceptionally high momentum signal provides further conviction that IRWD is poised for upward price movement and aligns perfectly with the current market regime.
+The primary driver for selecting IRWD is its exceptionally strong **Momentum Signal** of 0.93, indicating a high likelihood of it being a top performer. This significant upward trend is further supported by robust underlying fundamental signals.
+
+My analysis of IRWD's **Strategic Fit** reveals promising aspects:
+*   It shows a near-perfect alignment with its **predictive quarterly valuation**.
+*   Its **predictive monthly valuation** and **current intrinsic value** are also notably strong, suggesting the stock is fundamentally sound.
+*   IRWD presents an **attractive valuation**, indicating it is trading at a favorable price relative to its fundamentals.
+
+While the company demonstrates good **growth potential** and solid **operational efficiency and financial health**, these factors are secondary to the overwhelming momentum and valuation signals in this particular selection. The model did not identify specific company-specific features from the Scout Model as key drivers for this decision.
+
+## Outlook
+IRWD fits the current market regime, which favors stocks exhibiting strong upward trends and attractive fundamental valuations. I am confident in its potential to contribute positively to the portfolio's performance.

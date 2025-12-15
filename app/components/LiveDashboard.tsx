@@ -1,6 +1,7 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import Link from 'next/link';
 import { Holding, NextPick, LedgerEvent, ActivityLogItem } from '@/lib/api';
 import { DollarSign, TrendingUp, List, Activity, ArrowUpRight, ArrowDownRight } from 'lucide-react';
 
@@ -10,11 +11,26 @@ interface LiveDashboardProps {
   ledgerEvents: LedgerEvent[];
   activityLog: ActivityLogItem[];
   dateStr: string;
+  previousDate?: { year: string; month: string; day: string };
+  availableTickersCurrent: string[];
+  availableTickersPrevious: string[];
 }
 
-export default function LiveDashboard({ holdings, nextPicks, ledgerEvents, activityLog, dateStr }: LiveDashboardProps) {
+export default function LiveDashboard({ holdings, nextPicks, ledgerEvents, activityLog, dateStr, previousDate, availableTickersCurrent, availableTickersPrevious }: LiveDashboardProps) {
   
   const [activeTab, setActiveTab] = useState<'holdings' | 'predictions' | 'ledger' | 'activity'>('holdings');
+
+  useEffect(() => {
+    const saved = localStorage.getItem('live_dashboard_tab');
+    if (saved && ['holdings', 'predictions', 'ledger', 'activity'].includes(saved)) {
+      setActiveTab(saved as any);
+    }
+  }, []);
+
+  const handleTabChange = (tab: 'holdings' | 'predictions' | 'ledger' | 'activity') => {
+    setActiveTab(tab);
+    localStorage.setItem('live_dashboard_tab', tab);
+  };
 
   // Filter activity log for relevant dates (e.g., this month or last 7 days from dateStr)
   // For now, let's show items from the specific date
@@ -23,13 +39,33 @@ export default function LiveDashboard({ holdings, nextPicks, ledgerEvents, activ
   // Ledger is passed as "Monthly Ledger", so we use it directly to show full month history
   const monthlyLedger = ledgerEvents;
 
+  const getTickerLink = (ticker: string, type: 'current' | 'previous') => {
+      // If we want the previous date's analysis (e.g. for current holdings entered yesterday)
+      if (type === 'previous' && previousDate) {
+          if (availableTickersPrevious.includes(ticker)) {
+              return `/v1/${previousDate.year}/${previousDate.month}/${previousDate.day}/tickers/${ticker}`;
+          }
+      }
+      
+      // Default to current date (e.g. for new predictions)
+      if (type === 'current') {
+          // Parse dateStr "YYYY-MM-DD" -> "YYYY/MM/DD"
+          const [y, m, d] = dateStr.split('-');
+          if (availableTickersCurrent.includes(ticker)) {
+             return `/v1/${y}/${m}/${d}/tickers/${ticker}`;
+          }
+      }
+
+      return null;
+  };
+
   return (
     <div className="space-y-6">
       
       {/* Tab Navigation */}
       <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-2 flex flex-wrap gap-2">
         <button
-            onClick={() => setActiveTab('holdings')}
+            onClick={() => handleTabChange('holdings')}
             className={`flex items-center px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
                 activeTab === 'holdings' 
                 ? 'bg-emerald-50 text-emerald-700 border border-emerald-200' 
@@ -40,7 +76,7 @@ export default function LiveDashboard({ holdings, nextPicks, ledgerEvents, activ
             Current Holdings
         </button>
         <button
-            onClick={() => setActiveTab('predictions')}
+            onClick={() => handleTabChange('predictions')}
             className={`flex items-center px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
                 activeTab === 'predictions' 
                 ? 'bg-blue-50 text-blue-700 border border-blue-200' 
@@ -51,7 +87,7 @@ export default function LiveDashboard({ holdings, nextPicks, ledgerEvents, activ
             Predictions
         </button>
         <button
-            onClick={() => setActiveTab('ledger')}
+            onClick={() => handleTabChange('ledger')}
             className={`flex items-center px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
                 activeTab === 'ledger' 
                 ? 'bg-purple-50 text-purple-700 border border-purple-200' 
@@ -62,7 +98,7 @@ export default function LiveDashboard({ holdings, nextPicks, ledgerEvents, activ
             Monthly Ledger
         </button>
         <button
-            onClick={() => setActiveTab('activity')}
+            onClick={() => handleTabChange('activity')}
             className={`flex items-center px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
                 activeTab === 'activity' 
                 ? 'bg-amber-50 text-amber-700 border border-amber-200' 
@@ -110,10 +146,17 @@ export default function LiveDashboard({ holdings, nextPicks, ledgerEvents, activ
                     const marketValue = shares * currentPrice;
                     const pnl = h.unrealized_pnl || 0;
                     const pnlPercent = costBasis > 0 ? (pnl / costBasis) * 100 : 0;
+                    const linkUrl = getTickerLink(h.ticker, 'previous');
                     
                     return (
                         <tr key={h.ticker} className="hover:bg-slate-50 transition-colors">
-                        <td className="px-6 py-3 font-medium text-slate-900">{h.ticker}</td>
+                        <td className={`px-6 py-3 font-medium ${linkUrl ? 'text-blue-600 underline' : 'text-slate-900'}`}>
+                            {linkUrl ? (
+                                <Link href={linkUrl}>{h.ticker}</Link>
+                            ) : (
+                                h.ticker
+                            )}
+                        </td>
                         <td className="px-6 py-3 text-right text-slate-600">{shares.toFixed(2)}</td>
                         <td className="px-6 py-3 text-right text-slate-600">${costBasis.toFixed(2)}</td>
                         <td className="px-6 py-3 text-right text-slate-600">${currentPrice.toFixed(2)}</td>
@@ -149,13 +192,21 @@ export default function LiveDashboard({ holdings, nextPicks, ledgerEvents, activ
                     </tr>
                 </thead>
                 <tbody className="divide-y divide-slate-100">
-                    {nextPicks.map((p, i) => (
+                    {nextPicks.map((p, i) => {
+                    const linkUrl = getTickerLink(p.ticker, 'current');
+                    return (
                     <tr key={p.ticker} className="hover:bg-slate-50 transition-colors">
                         <td className="px-6 py-3 text-slate-500 font-mono">#{i + 1}</td>
-                        <td className="px-6 py-3 font-medium text-slate-900">{p.ticker}</td>
+                        <td className={`px-6 py-3 font-medium ${linkUrl ? 'text-blue-600 underline' : 'text-slate-900'}`}>
+                            {linkUrl ? (
+                                <Link href={linkUrl}>{p.ticker}</Link>
+                            ) : (
+                                p.ticker
+                            )}
+                        </td>
                         <td className="px-6 py-3 text-right text-slate-600">{p.score.toFixed(4)}</td>
                     </tr>
-                    ))}
+                    )})}
                 </tbody>
                 </table>
             </div>
@@ -189,10 +240,22 @@ export default function LiveDashboard({ holdings, nextPicks, ledgerEvents, activ
                             </td>
                         </tr>
                     ) : (
-                        monthlyLedger.map((e, i) => (
+                        monthlyLedger.map((e, i) => {
+                            const linkUrl = e.ticker ? getTickerLink(e.ticker, 'previous') : null;
+                            return (
                             <tr key={i} className="hover:bg-slate-50">
                                 <td className="px-6 py-3 text-slate-500 whitespace-nowrap">{e.date}</td>
-                                <td className="px-6 py-3 font-medium text-slate-900">{e.ticker}</td>
+                                <td className={`px-6 py-3 font-medium ${linkUrl ? 'text-blue-600 underline' : 'text-slate-900'}`}>
+                                    {e.ticker ? (
+                                        linkUrl ? (
+                                            <Link href={linkUrl}>{e.ticker}</Link>
+                                        ) : (
+                                            e.ticker
+                                        )
+                                    ) : (
+                                        <span className="text-slate-400">--</span>
+                                    )}
+                                </td>
                                 <td className="px-6 py-3">
                                     <span className={`inline-flex items-center px-2 py-0.5 rounded text-xs font-bold ${
                                         e.event_type.toLowerCase().includes('buy') ? 'bg-emerald-100 text-emerald-800' : 'bg-rose-100 text-rose-800'
@@ -204,7 +267,7 @@ export default function LiveDashboard({ holdings, nextPicks, ledgerEvents, activ
                                 <td className="px-6 py-3 text-right text-slate-600">{e.shares?.toFixed(2)}</td>
                                 <td className="px-6 py-3 text-right text-slate-600">${e.price?.toFixed(2)}</td>
                             </tr>
-                        ))
+                        )})
                     )}
                 </tbody>
                 </table>

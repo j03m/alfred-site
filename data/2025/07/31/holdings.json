@@ -1,0 +1,252 @@
+[
+  {
+    "ticker": "MTRN",
+    "name": "MTRN",
+    "sector": "Unknown",
+    "shares": 5.2997510218034165,
+    "cost_basis": 549.5841809610143,
+    "current_price": 105.3,
+    "market_value": 558.0637825958997,
+    "unrealized_pnl": 8.479601634885398
+  },
+  {
+    "ticker": "STOK",
+    "name": "STOK",
+    "sector": "Unknown",
+    "shares": 42.373464644343315,
+    "cost_basis": 530.5157773471783,
+    "current_price": 12.85,
+    "market_value": 544.4990206798116,
+    "unrealized_pnl": 13.983243332633265
+  },
+  {
+    "ticker": "REZI",
+    "name": "REZI",
+    "sector": "Unknown",
+    "shares": 19.56496755456887,
+    "cost_basis": 522.3846337069888,
+    "current_price": 27.3,
+    "market_value": 534.1236142397302,
+    "unrealized_pnl": 11.73898053274138
+  },
+  {
+    "ticker": "ADTN",
+    "name": "ADTN",
+    "sector": "Unknown",
+    "shares": 56.87153170938499,
+    "cost_basis": 517.5309385554034,
+    "current_price": 9.29,
+    "market_value": 528.3365295801865,
+    "unrealized_pnl": 10.805591024783098
+  },
+  {
+    "ticker": "JFU",
+    "name": "JFU",
+    "sector": "Unknown",
+    "shares": 319.1877764193005,
+    "cost_basis": 511.0196300473001,
+    "current_price": 1.62,
+    "market_value": 517.0841977992669,
+    "unrealized_pnl": 6.06456775196682
+  },
+  {
+    "ticker": "PI",
+    "name": "PI",
+    "sector": "Unknown",
+    "shares": 3.3805080020512746,
+    "cost_basis": 507.2114206277732,
+    "current_price": 154.58,
+    "market_value": 522.5589269570861,
+    "unrealized_pnl": 15.347506329312921
+  },
+  {
+    "ticker": "KSS",
+    "name": "KSS",
+    "sector": "Unknown",
+    "shares": 48.22251623703726,
+    "cost_basis": 505.1308575829653,
+    "current_price": 10.84,
+    "market_value": 522.7320760094839,
+    "unrealized_pnl": 17.601218426518585
+  },
+  {
+    "ticker": "ATRA",
+    "name": "ATRA",
+    "sector": "Unknown",
+    "shares": 44.06832509314901,
+    "cost_basis": 502.3789060618987,
+    "current_price": 11.52,
+    "market_value": 507.6671050730765,
+    "unrealized_pnl": 5.288199011177824
+  },
+  {
+    "ticker": "GFI",
+    "name": "GFI",
+    "sector": "Unknown",
+    "shares": 19.818432026651422,
+    "cost_basis": 501.6045145945475,
+    "current_price": 24.36,
+    "market_value": 482.77700416922863,
+    "unrealized_pnl": -18.82751042531885
+  },
+  {
+    "ticker": "ALAB",
+    "name": "ALAB",
+    "sector": "Unknown",
+    "shares": 3.948961566210608,
+    "cost_basis": 499.80032062744556,
+    "current_price": 136.73,
+    "market_value": 539.9415149479764,
+    "unrealized_pnl": 40.14119432053087
+  },
+  {
+    "ticker": "WWW",
+    "name": "WWW",
+    "sector": "Unknown",
+    "shares": 22.887038322813687,
+    "cost_basis": 498.4796946708821,
+    "current_price": 22.58,
+    "market_value": 516.789325329133,
+    "unrealized_pnl": 18.30963065825091
+  },
+  {
+    "ticker": "RYTM",
+    "name": "RYTM",
+    "sector": "Unknown",
+    "shares": 5.805281905939299,
+    "cost_basis": 494.26170147167187,
+    "current_price": 85.23,
+    "market_value": 494.78417684320647,
+    "unrealized_pnl": 0.5224753715345969
+  },
+  {
+    "ticker": "GIC",
+    "name": "GIC",
+    "sector": "Unknown",
+    "shares": 14.468403489487837,
+    "cost_basis": 486.2830412816862,
+    "current_price": 34.06,
+    "market_value": 492.7938228519558,
+    "unrealized_pnl": 6.5107815702695575
+  },
+  {
+    "ticker": "TRS",
+    "name": "TRS",
+    "sector": "Unknown",
+    "shares": 13.592277225476993,
+    "cost_basis": 482.66176427668796,
+    "current_price": 35.73,
+    "market_value": 485.65206526629294,
+    "unrealized_pnl": 2.9903009896049753
+  },
+  {
+    "ticker": "JOUT",
+    "name": "JOUT",
+    "sector": "Unknown",
+    "shares": 13.133248497041404,
+    "cost_basis": 477.26225038248464,
+    "current_price": 33.2,
+    "market_value": 436.02385010177466,
+    "unrealized_pnl": -41.23840028070998
+  },
+  {
+    "ticker": "NTWK",
+    "name": "NTWK",
+    "sector": "Unknown",
+    "shares": 116.46941226557378,
+    "cost_basis": 474.0305079208853,
+    "current_price": 4.07,
+    "market_value": 474.0305079208853,
+    "unrealized_pnl": 0.0
+  },
+  {
+    "ticker": "W",
+    "name": "W",
+    "sector": "Unknown",
+    "shares": 7.405815520691856,
+    "cost_basis": 473.9721933242788,
+    "current_price": 65.64,
+    "market_value": 486.11773077821346,
+    "unrealized_pnl": 12.14553745393465
+  },
+  {
+    "ticker": "TVTX",
+    "name": "TVTX",
+    "sector": "Unknown",
+    "shares": 29.060505177813805,
+    "cost_basis": 441.71967870276984,
+    "current_price": 15.45,
+    "market_value": 448.98480499722325,
+    "unrealized_pnl": 7.26512629445341
+  },
+  {
+    "ticker": "CGNX",
+    "name": "CGNX",
+    "sector": "Unknown",
+    "shares": 10.692436821810805,
+    "cost_basis": 437.58797693260715,
+    "current_price": 40.77,
+    "market_value": 435.93064922522655,
+    "unrealized_pnl": -1.6573277073806025
+  },
+  {
+    "ticker": "COIN",
+    "name": "COIN",
+    "sector": "Unknown",
+    "shares": 1.2931093740358206,
+    "cost_basis": 433.3726756143649,
+    "current_price": 377.76,
+    "market_value": 488.4849971357716,
+    "unrealized_pnl": 55.11232152140673
+  },
+  {
+    "ticker": "SNDL",
+    "name": "SNDL",
+    "sector": "Unknown",
+    "shares": 230.76888602473093,
+    "cost_basis": 392.30710624204255,
+    "current_price": 1.72,
+    "market_value": 396.92248396253717,
+    "unrealized_pnl": 4.615377720494621
+  },
+  {
+    "ticker": "GMAB",
+    "name": "GMAB",
+    "sector": "Unknown",
+    "shares": 17.791320673639852,
+    "cost_basis": 381.09008882936564,
+    "current_price": 21.67,
+    "market_value": 385.53791899777565,
+    "unrealized_pnl": 4.4478301684100074
+  },
+  {
+    "ticker": "FGEN",
+    "name": "FGEN",
+    "sector": "Unknown",
+    "shares": 51.5203523185732,
+    "cost_basis": 352.9144133822264,
+    "current_price": 6.92,
+    "market_value": 356.52083804452656,
+    "unrealized_pnl": 3.606424662300128
+  },
+  {
+    "ticker": "EMBC",
+    "name": "EMBC",
+    "sector": "Unknown",
+    "shares": 32.43512463212909,
+    "cost_basis": 328.24346127714637,
+    "current_price": 10.16,
+    "market_value": 329.54086626243156,
+    "unrealized_pnl": 1.2974049852851977
+  },
+  {
+    "ticker": "RIGL",
+    "name": "RIGL",
+    "sector": "Unknown",
+    "shares": 13.354444411013265,
+    "cost_basis": 275.7692770874239,
+    "current_price": 21.06,
+    "market_value": 281.24459929593934,
+    "unrealized_pnl": 5.475322208515422
+  }
+]

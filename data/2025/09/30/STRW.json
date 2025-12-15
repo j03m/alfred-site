@@ -1801,7 +1801,8 @@
     {
       "date": "2025-10-01",
       "type": "buy",
-      "price": 12.28
+      "price": 12.28,
+      "notes": null
     }
   ]
 }

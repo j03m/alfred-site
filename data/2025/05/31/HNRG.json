@@ -1794,7 +1794,8 @@
     {
       "date": "2025-06-02",
       "type": "buy",
-      "price": 17.63
+      "price": 17.63,
+      "notes": null
     }
   ]
 }

@@ -1,0 +1,292 @@
+[
+  {
+    "ticker": "EMBC",
+    "name": "EMBC",
+    "sector": "Unknown",
+    "shares": 32.43512463212908,
+    "cost_basis": 403.11559163418735,
+    "current_price": 12.755,
+    "market_value": 413.71001468280645,
+    "unrealized_pnl": 10.594423048619092
+  },
+  {
+    "ticker": "RIGL",
+    "name": "RIGL",
+    "sector": "Unknown",
+    "shares": 13.354444411013263,
+    "cost_basis": 347.5643826198599,
+    "current_price": 50.49,
+    "market_value": 674.2658983120597,
+    "unrealized_pnl": 326.7015156921998
+  },
+  {
+    "ticker": "MATV",
+    "name": "MATV",
+    "sector": "Unknown",
+    "shares": 56.797574219305886,
+    "cost_basis": 706.5618232881652,
+    "current_price": 12.49,
+    "market_value": 709.4017019991305,
+    "unrealized_pnl": 2.8398787109653085
+  },
+  {
+    "ticker": "ARQT",
+    "name": "ARQT",
+    "sector": "Unknown",
+    "shares": 36.6567407879007,
+    "cost_basis": 794.5632161641885,
+    "current_price": 30.65,
+    "market_value": 1123.5291051491565,
+    "unrealized_pnl": 328.96588898496805
+  },
+  {
+    "ticker": "SPRU",
+    "name": "SPRU",
+    "sector": "Unknown",
+    "shares": 170.30798432271274,
+    "cost_basis": 844.7276022406552,
+    "current_price": 4.97,
+    "market_value": 846.4306820838823,
+    "unrealized_pnl": 1.7030798432271013
+  },
+  {
+    "ticker": "EVAX",
+    "name": "EVAX",
+    "sector": "Unknown",
+    "shares": 157.9266491767121,
+    "cost_basis": 750.0088839706744,
+    "current_price": 5.935,
+    "market_value": 937.2946628637862,
+    "unrealized_pnl": 187.2857788931118
+  },
+  {
+    "ticker": "BODI",
+    "name": "BODI",
+    "sector": "Unknown",
+    "shares": 69.16896934616696,
+    "cost_basis": 630.129310743581,
+    "current_price": 8.83,
+    "market_value": 610.7619993266543,
+    "unrealized_pnl": -19.36731141692667
+  },
+  {
+    "ticker": "DVAX",
+    "name": "DVAX",
+    "sector": "Unknown",
+    "shares": 127.41222728660377,
+    "cost_basis": 1365.3410399528038,
+    "current_price": 11.37,
+    "market_value": 1448.6770242486848,
+    "unrealized_pnl": 83.33598429588096
+  },
+  {
+    "ticker": "AMGN",
+    "name": "AMGN",
+    "sector": "Unknown",
+    "shares": 4.541451270052464,
+    "cost_basis": 1464.3498199705582,
+    "current_price": 345.46,
+    "market_value": 1568.8897557523242,
+    "unrealized_pnl": 104.53993578176596
+  },
+  {
+    "ticker": "IRWD",
+    "name": "IRWD",
+    "sector": "Unknown",
+    "shares": 382.85424149561,
+    "cost_basis": 940.3084347399451,
+    "current_price": 3.5,
+    "market_value": 1339.989845234635,
+    "unrealized_pnl": 399.68141049468977
+  },
+  {
+    "ticker": "FSLY",
+    "name": "FSLY",
+    "sector": "Unknown",
+    "shares": 72.46730626762648,
+    "cost_basis": 829.7506567643231,
+    "current_price": 11.66,
+    "market_value": 844.9687910805249,
+    "unrealized_pnl": 15.218134316201713
+  },
+  {
+    "ticker": "SD",
+    "name": "SD",
+    "sector": "Unknown",
+    "shares": 56.49501468914593,
+    "cost_basis": 801.0993082920893,
+    "current_price": 14.14,
+    "market_value": 798.8395077045235,
+    "unrealized_pnl": -2.259800587565792
+  },
+  {
+    "ticker": "QLYS",
+    "name": "QLYS",
+    "sector": "Unknown",
+    "shares": 5.66317958680126,
+    "cost_basis": 800.7735935736982,
+    "current_price": 140.85,
+    "market_value": 797.6588448009575,
+    "unrealized_pnl": -3.114748772740768
+  },
+  {
+    "ticker": "EXAS",
+    "name": "EXAS",
+    "sector": "Unknown",
+    "shares": 7.859525992615136,
+    "cost_basis": 796.562959351544,
+    "current_price": 101.29,
+    "market_value": 796.0913877919872,
+    "unrealized_pnl": -0.47157155955676444
+  },
+  {
+    "ticker": "MD",
+    "name": "MD",
+    "sector": "Unknown",
+    "shares": 32.535498744749574,
+    "cost_basis": 782.1533898237798,
+    "current_price": 24.09,
+    "market_value": 783.7801647610172,
+    "unrealized_pnl": 1.6267749372374283
+  },
+  {
+    "ticker": "SKY",
+    "name": "SKY",
+    "sector": "Unknown",
+    "shares": 9.178539577288113,
+    "cost_basis": 779.2580101117609,
+    "current_price": 85.84,
+    "market_value": 787.8858373144117,
+    "unrealized_pnl": 8.627827202650792
+  },
+  {
+    "ticker": "APPN",
+    "name": "APPN",
+    "sector": "Unknown",
+    "shares": 18.524616499536915,
+    "cost_basis": 736.7239981865831,
+    "current_price": 40.4,
+    "market_value": 748.3945065812914,
+    "unrealized_pnl": 11.670508394708236
+  },
+  {
+    "ticker": "HALO",
+    "name": "HALO",
+    "sector": "Unknown",
+    "shares": 10.12574107035683,
+    "cost_basis": 728.749584833581,
+    "current_price": 71.4,
+    "market_value": 722.9779124234776,
+    "unrealized_pnl": -5.771672410103406
+  },
+  {
+    "ticker": "BWEN",
+    "name": "BWEN",
+    "sector": "Unknown",
+    "shares": 241.94293494916087,
+    "cost_basis": 725.8288048474826,
+    "current_price": 3.03,
+    "market_value": 733.0870928959574,
+    "unrealized_pnl": 7.25828804847481
+  },
+  {
+    "ticker": "ALTO",
+    "name": "ALTO",
+    "sector": "Unknown",
+    "shares": 285.97871718234904,
+    "cost_basis": 723.526154471343,
+    "current_price": 2.55,
+    "market_value": 729.24572881499,
+    "unrealized_pnl": 5.719574343646968
+  },
+  {
+    "ticker": "ARMN",
+    "name": "ARMN",
+    "sector": "Unknown",
+    "shares": 48.912993307798644,
+    "cost_basis": 700.4340641676766,
+    "current_price": 14.04,
+    "market_value": 686.738426041493,
+    "unrealized_pnl": -13.695638126183667
+  },
+  {
+    "ticker": "TCMD",
+    "name": "TCMD",
+    "sector": "Unknown",
+    "shares": 27.160857977896818,
+    "cost_basis": 697.4908328723902,
+    "current_price": 25.71,
+    "market_value": 698.3056586117272,
+    "unrealized_pnl": 0.8148257393369249
+  },
+  {
+    "ticker": "HTHT",
+    "name": "HTHT",
+    "sector": "Unknown",
+    "shares": 14.791832617278088,
+    "cost_basis": 681.9034836565198,
+    "current_price": 46.1,
+    "market_value": 681.9034836565198,
+    "unrealized_pnl": 0.0
+  },
+  {
+    "ticker": "STC",
+    "name": "STC",
+    "sector": "Unknown",
+    "shares": 8.83179270059571,
+    "cost_basis": 667.8601640190476,
+    "current_price": 76.63,
+    "market_value": 676.7802746466492,
+    "unrealized_pnl": 8.920110627601616
+  },
+  {
+    "ticker": "MBI",
+    "name": "MBI",
+    "sector": "Unknown",
+    "shares": 85.24903138127084,
+    "cost_basis": 645.3351675562203,
+    "current_price": 7.55,
+    "market_value": 643.6301869285949,
+    "unrealized_pnl": -1.7049806276254458
+  },
+  {
+    "ticker": "COHN",
+    "name": "COHN",
+    "sector": "Unknown",
+    "shares": 41.5512041636704,
+    "cost_basis": 638.642007995614,
+    "current_price": 15.3585,
+    "market_value": 638.1641691477317,
+    "unrealized_pnl": -0.4778388478822535
+  },
+  {
+    "ticker": "NATR",
+    "name": "NATR",
+    "sector": "Unknown",
+    "shares": 30.90038954504105,
+    "cost_basis": 635.9300168369448,
+    "current_price": 20.58,
+    "market_value": 635.9300168369448,
+    "unrealized_pnl": 0.0
+  },
+  {
+    "ticker": "ATNI",
+    "name": "ATNI",
+    "sector": "Unknown",
+    "shares": 29.15576897596249,
+    "cost_basis": 611.6880331156931,
+    "current_price": 21.09,
+    "market_value": 614.895167703049,
+    "unrealized_pnl": 3.207134587355881
+  },
+  {
+    "ticker": "PHAR",
+    "name": "PHAR",
+    "sector": "Unknown",
+    "shares": 35.4843377257778,
+    "cost_basis": 589.7496930024271,
+    "current_price": 17.5,
+    "market_value": 620.9759102011114,
+    "unrealized_pnl": 31.226217198684367
+  }
+]

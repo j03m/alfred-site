@@ -4547,63 +4547,55 @@
       "cash_change": -434.80338322483715
     },
     {
-      "date": "2025-12-13",
-      "ticker": "IRWD",
-      "event_type": "buy",
-      "shares": 271.7391304347826,
-      "price": 3.68,
-      "cost_basis": 1000.0000000000001,
-      "notes": "Top 5 Conviction (Rank None)",
+      "date": "2025-12-14",
+      "ticker": "FSLY",
+      "event_type": "sell",
+      "shares": 72.46730626762648,
+      "price": 10.08,
+      "cost_basis": 730.4704471776749,
+      "notes": "Hit Fixed Stop (Price 10.08 < 10.30)",
       "context": {
-        "rank": null
+        "trigger_price": 10.305,
+        "atr": null
       }
     },
     {
-      "date": "2025-12-13",
-      "ticker": "PHAR",
-      "event_type": "buy",
-      "shares": 56.40157924421884,
-      "price": 17.73,
-      "cost_basis": 1000.0,
-      "notes": "Top 5 Conviction (Rank None)",
+      "date": "2025-12-14",
+      "ticker": "HALO",
+      "event_type": "sell",
+      "shares": 10.12574107035683,
+      "price": 62.21,
+      "cost_basis": 629.9223519868983,
+      "notes": "Hit Fixed Stop (Price 62.21 < 64.77)",
       "context": {
-        "rank": null
+        "trigger_price": 64.773,
+        "atr": null
       }
     },
     {
-      "date": "2025-12-13",
-      "ticker": "ATNI",
-      "event_type": "buy",
-      "shares": 46.18937644341802,
-      "price": 21.65,
-      "cost_basis": 1000.0000000000001,
-      "notes": "Top 5 Conviction (Rank None)",
+      "date": "2025-12-14",
+      "ticker": "FSLY",
+      "event_type": "sell",
+      "shares": 72.46730626762648,
+      "price": 10.08,
+      "cost_basis": 730.4704471776749,
+      "notes": "Hit Fixed Stop (Price 10.08 < 10.30)",
       "context": {
-        "rank": null
+        "trigger_price": 10.305,
+        "atr": null
       }
     },
     {
-      "date": "2025-12-13",
-      "ticker": "BODI",
-      "event_type": "buy",
-      "shares": 84.03361344537815,
-      "price": 11.9,
-      "cost_basis": 1000.0,
-      "notes": "Top 5 Conviction (Rank None)",
+      "date": "2025-12-14",
+      "ticker": "HALO",
+      "event_type": "sell",
+      "shares": 10.12574107035683,
+      "price": 62.21,
+      "cost_basis": 629.9223519868983,
+      "notes": "Hit Fixed Stop (Price 62.21 < 64.77)",
       "context": {
-        "rank": null
-      }
-    },
-    {
-      "date": "2025-12-13",
-      "ticker": "NATR",
-      "event_type": "buy",
-      "shares": 45.105999097880016,
-      "price": 22.17,
-      "cost_basis": 1000.0,
-      "notes": "Top 5 Conviction (Rank None)",
-      "context": {
-        "rank": null
+        "trigger_price": 64.773,
+        "atr": null
       }
     }
   ]

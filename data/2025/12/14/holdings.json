@@ -63,11 +63,11 @@
     "ticker": "BODI",
     "name": "BODI",
     "sector": "Unknown",
-    "shares": 153.20258279154513,
-    "cost_basis": 1630.1293107435808,
+    "shares": 69.16896934616696,
+    "cost_basis": 630.129310743581,
     "current_price": 11.58,
-    "market_value": 1774.0859087260926,
-    "unrealized_pnl": 143.95659798251177
+    "market_value": 800.9766650286134,
+    "unrealized_pnl": 170.84735428503245
   },
   {
     "ticker": "DVAX",
@@ -93,21 +93,11 @@
     "ticker": "IRWD",
     "name": "IRWD",
     "sector": "Unknown",
-    "shares": 654.5933719303925,
-    "cost_basis": 1940.3084347399454,
+    "shares": 382.85424149561,
+    "cost_basis": 940.3084347399451,
     "current_price": 3.58,
-    "market_value": 2343.4442715108053,
-    "unrealized_pnl": 403.1358367708599
-  },
-  {
-    "ticker": "FSLY",
-    "name": "FSLY",
-    "sector": "Unknown",
-    "shares": 72.46730626762648,
-    "cost_basis": 829.7506567643231,
-    "current_price": 10.08,
-    "market_value": 730.4704471776749,
-    "unrealized_pnl": -99.2802095866482
+    "market_value": 1370.6181845542837,
+    "unrealized_pnl": 430.3097498143386
   },
   {
     "ticker": "SD",
@@ -168,16 +158,6 @@
     "current_price": 37.83,
     "market_value": 700.7862421774814,
     "unrealized_pnl": -35.93775600910169
-  },
-  {
-    "ticker": "HALO",
-    "name": "HALO",
-    "sector": "Unknown",
-    "shares": 10.12574107035683,
-    "cost_basis": 728.749584833581,
-    "current_price": 62.21,
-    "market_value": 629.9223519868983,
-    "unrealized_pnl": -98.8272328466827
   },
   {
     "ticker": "BWEN",
@@ -263,30 +243,30 @@
     "ticker": "NATR",
     "name": "NATR",
     "sector": "Unknown",
-    "shares": 76.00638864292107,
-    "cost_basis": 1635.9300168369448,
+    "shares": 30.90038954504105,
+    "cost_basis": 635.9300168369448,
     "current_price": 22.74,
-    "market_value": 1728.385277740025,
-    "unrealized_pnl": 92.45526090308022
+    "market_value": 702.6748582542334,
+    "unrealized_pnl": 66.74484141728863
   },
   {
     "ticker": "ATNI",
     "name": "ATNI",
     "sector": "Unknown",
-    "shares": 75.34514541938051,
-    "cost_basis": 1611.688033115693,
+    "shares": 29.15576897596249,
+    "cost_basis": 611.6880331156931,
     "current_price": 21.85,
-    "market_value": 1646.2914274134644,
-    "unrealized_pnl": 34.603394297771274
+    "market_value": 637.0535521247805,
+    "unrealized_pnl": 25.365519009087393
   },
   {
     "ticker": "PHAR",
     "name": "PHAR",
     "sector": "Unknown",
-    "shares": 91.88591696999663,
-    "cost_basis": 1589.7496930024272,
+    "shares": 35.4843377257778,
+    "cost_basis": 589.7496930024271,
     "current_price": 17.98,
-    "market_value": 1652.1087871205393,
-    "unrealized_pnl": 62.359094118112125
+    "market_value": 638.0083923094849,
+    "unrealized_pnl": 48.25869930705778
   }
 ]

@@ -1,0 +1,8 @@
+## Market Regime
+I assess the current environment as a Pragmatic Risk-On regime. The strength in speculative assets, particularly Bitcoin, aligns with my increased conviction in forward-looking predictive models. While not a wholesale speculative fervor, the market currently favors opportunities that my models project for future outperformance, balanced with a keen eye on valuation.
+
+## Macro Drivers
+The ascendant performance of risk-sensitive assets, as exemplified by Bitcoin, has reinforced my strategic allocation towards predictive factors that anticipate future market movements. My forward-looking models, both monthly and quarterly, are now central to my portfolio construction. Indicators such as the VIX are presenting a nuanced landscape, but they do not currently signal a broad risk-off sentiment that would impede this strategic direction. Commodity prices, like oil, are being monitored for potential headwinds but are not dictating a deviation from my core strategy at this juncture.
+
+## Strategy Outlook
+Today, my primary focus is on identifying companies that my predictive models highlight for significant future appreciation. This is coupled with a sustained emphasis on value, ensuring that I am acquiring opportunities at attractive valuations that offer a margin of safety. I am therefore prioritizing investments in undervalued companies that exhibit strong forward-looking performance indicators.

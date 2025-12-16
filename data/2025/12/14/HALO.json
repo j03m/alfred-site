@@ -1754,6 +1754,18 @@
       "type": "buy",
       "price": 71.97,
       "notes": null
+    },
+    {
+      "date": "2025-12-14",
+      "type": "sell",
+      "price": 62.21,
+      "notes": "Hit Fixed Stop (Price 62.21 < 64.77)"
+    },
+    {
+      "date": "2025-12-14",
+      "type": "sell",
+      "price": 62.21,
+      "notes": "Hit Fixed Stop (Price 62.21 < 64.77)"
     }
   ]
 }

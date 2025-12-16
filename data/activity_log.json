@@ -52,5 +52,35 @@
     "type": "DAILY_START",
     "description": "Running update for 2025-12-14",
     "details": {}
+  },
+  {
+    "date": "2025-12-14",
+    "type": "DAILY_START",
+    "description": "Running update for 2025-12-14",
+    "details": {}
+  },
+  {
+    "date": "2025-12-14",
+    "type": "DAILY_START",
+    "description": "Running update for 2025-12-14",
+    "details": {}
+  },
+  {
+    "date": "2025-12-14",
+    "type": "SELL_EXEC",
+    "description": "Sold FSLY: Hit Fixed Stop (Price 10.08 < 10.30)",
+    "details": {}
+  },
+  {
+    "date": "2025-12-14",
+    "type": "SELL_EXEC",
+    "description": "Sold HALO: Hit Fixed Stop (Price 62.21 < 64.77)",
+    "details": {}
+  },
+  {
+    "date": "2025-12-15",
+    "type": "DAILY_START",
+    "description": "Running update for 2025-12-15",
+    "details": {}
   }
 ]

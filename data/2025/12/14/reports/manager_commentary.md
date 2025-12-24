@@ -1,8 +1,0 @@
-## Market Regime
-I am sensing a cautiously optimistic environment. My strategy is currently prioritizing opportunities where predictive strength aligns with attractive valuations, reflecting a tactical approach to capital allocation rather than a broad risk-on or risk-off stance.
-
-## Macro Drivers
-The upward momentum observed in risk assets, particularly Bitcoin, has significantly reinforced my conviction in forward-looking predictive models and valuation attractiveness. This signal is a key driver in shaping my allocation decisions. Additionally, I am carefully interpreting market volatility dynamics. While typically a fear indicator, its current correlation with certain predictive strategies has bolstered my confidence in their efficacy. Broader economic signals, such as commodity prices, are also being integrated to ensure a balanced and adaptive portfolio construction.
-
-## Strategy Outlook
-My primary focus today is on leveraging predictive insights, with a particular emphasis on signals derived from monthly data, where I identify the most compelling opportunities for alpha generation. Concurrently, I am prioritizing attractive valuations as a fundamental anchor, serving both to mitigate downside risk and to identify robust investment candidates. In light of current market conditions and my predictive models, I am de-emphasizing purely growth-oriented or quality-focused metrics for the moment. My search is directed towards companies that exhibit strong forward-looking performance potential and compelling value propositions, rather than those solely defined by current growth trajectories or the highest quality scores.

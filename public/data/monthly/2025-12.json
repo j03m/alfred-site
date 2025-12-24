@@ -1,0 +1,57 @@
+{
+  "year": 2025,
+  "month": 12,
+  "chart": [
+    {
+      "date": "2025-12-01",
+      "rel_port": 1.0,
+      "rel_spy": 1.0,
+      "rel_mag7": 1.0
+    }
+  ],
+  "holdings": [
+    {
+      "Symbol": "IRWD",
+      "Shares": 3910.0,
+      "CostBasis": 3.517606138107417,
+      "CurrentPrice": 3.59,
+      "UnrealizedPnL": 283.05999999999955
+    }
+  ],
+  "predictions": {
+    "snapshot": [],
+    "log": []
+  },
+  "ledger": [
+    {
+      "date": "2025-12-01",
+      "symbol": "IRS",
+      "action": "SELL",
+      "quantity": -924.0,
+      "price": 14.8
+    },
+    {
+      "date": "2025-12-01",
+      "symbol": "CRESY",
+      "action": "SELL",
+      "quantity": -5.0,
+      "price": 11.27
+    },
+    {
+      "date": "2025-12-01",
+      "symbol": "IRWD",
+      "action": "BUY",
+      "quantity": 3904.0,
+      "price": 3.52
+    }
+  ],
+  "meta": {
+    "year": 2025,
+    "month": "December",
+    "month_num": 12,
+    "return_pct": -0.03872011810368926,
+    "ending_equity": 12658.22,
+    "start_date": "2025-12-01",
+    "end_date": "2025-12-31"
+  }
+}

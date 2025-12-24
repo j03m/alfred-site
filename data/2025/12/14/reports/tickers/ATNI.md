@@ -1,7 +1,0 @@
-**Signal Strength:** 0.99
-
-## Investment Thesis
-I've added ATNI to the portfolio because its robust momentum signal, a strong indicator of potential top performance, is exceptionally high at 0.99. My analysis shows ATNI is exhibiting significant current price velocity, and my models project this positive trend to continue across both monthly and quarterly horizons. This strong price momentum, combined with ATNI's attractive valuation that suggests it is currently undervalued, makes it a highly suitable addition given the prevailing market conditions.
-
-## Factor Analysis
-ATNI's inclusion is primarily driven by its outstanding **Momentum** characteristics. The stock demonstrates exceptional current price velocity, signaling strong upward price action and structural outperformance relative to its peers. This current strength is complemented by forward-looking predictions that anticipate sustained positive price momentum on both monthly and quarterly bases. Furthermore, ATNI presents a compelling **Value** proposition, exhibiting a high degree of cheapness that indicates it is presently undervalued. While it also shows moderate alignment with **Growth** and **Quality** factors, ATNI's core appeal lies in its powerful combination of accelerating price trends and attractive valuation, aligning well with our strategy to capture alpha from trending and fundamentally sound opportunities.

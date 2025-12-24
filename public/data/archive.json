@@ -1,0 +1,65 @@
+[
+  {
+    "year": 2025,
+    "month": "December",
+    "month_num": 12,
+    "return_pct": -0.03872011810368926,
+    "ending_equity": 12658.22,
+    "start_date": "2025-12-01",
+    "end_date": "2025-12-31"
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "month_num": 11,
+    "return_pct": 0.424541365291538,
+    "ending_equity": 13168.09000000001,
+    "start_date": "2025-11-01",
+    "end_date": "2025-11-30"
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "month_num": 10,
+    "return_pct": 0.00642588995636255,
+    "ending_equity": 9243.740000000005,
+    "start_date": "2025-10-01",
+    "end_date": "2025-10-31"
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "month_num": 9,
+    "return_pct": -0.4968183817821335,
+    "ending_equity": 9184.720000000003,
+    "start_date": "2025-09-01",
+    "end_date": "2025-09-30"
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "month_num": 8,
+    "return_pct": 0.7617645355570998,
+    "ending_equity": 18253.290000000005,
+    "start_date": "2025-08-01",
+    "end_date": "2025-08-31"
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "month_num": 7,
+    "return_pct": 0.03608000000000029,
+    "ending_equity": 10360.800000000003,
+    "start_date": "2025-07-01",
+    "end_date": "2025-07-31"
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "month_num": 6,
+    "return_pct": 0.0,
+    "ending_equity": 10000.0,
+    "start_date": "2025-06-01",
+    "end_date": "2025-06-30"
+  }
+]

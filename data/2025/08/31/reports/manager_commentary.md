@@ -1,8 +1,0 @@
-## Market Regime
-The current market sentiment appears to be shifting towards a risk-off environment. Declining cryptocurrency prices and concerns around commodity markets suggest a cautious approach is warranted. My strategy is adapting to this by prioritizing predictive performance metrics that can navigate this uncertainty.
-
-## Macro Drivers
-The prevailing macro landscape indicates a cautious risk appetite. Falling Bitcoin prices and headwinds in oil markets are exerting downward pressure, signaling a risk-off environment. While market volatility, as measured by the VIX, is rising, my strategy is focused on predictive indicators that demonstrate resilience or offer specific advantages within this uncertainty. I am interpreting these signals to identify where future earnings potential is most robust, irrespective of broader market apprehension.
-
-## Strategy Outlook
-In response to this risk-off regime, I am increasing my conviction in forward-looking performance metrics, with a particular emphasis on monthly and quarterly predictive indicators. My objective is to pinpoint companies where these models signal robust future potential and resilience amidst current market uncertainty. I am also maintaining a moderate focus on valuation to ensure a sound margin of safety. Consequently, I am reducing exposure to broad growth and quality plays that may be more susceptible to macro headwinds, instead prioritizing opportunities with strong, predictive forward-looking characteristics that can navigate this environment effectively.

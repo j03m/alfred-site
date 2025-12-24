@@ -2,7 +2,7 @@ import { getPerformanceData, getAllDates, getBacktestSummary, getLatestDate, get
 import Link from 'next/link';
 import PerformanceChart from './components/PerformanceChart';
 import ActivityLog from './components/ActivityLog';
-import { ArrowRight, Calendar, Activity, Info, Radio } from 'lucide-react';
+import { ArrowRight, Calendar, Activity, Info } from 'lucide-react';
 
 export default async function LandingPage() {
   const performanceData = await getPerformanceData();
@@ -62,12 +62,7 @@ export default async function LandingPage() {
     );
   }
 
-  const LiveIndicator = provenance === 'live' ? (
-    <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-emerald-100 text-emerald-800 ml-4 animate-pulse">
-      <Radio className="w-3 h-3 mr-1" />
-      Live Market Data
-    </span>
-  ) : null;
+
 
   return (
     <div className="min-h-screen bg-slate-50 font-sans">
@@ -81,7 +76,7 @@ export default async function LandingPage() {
                 <h1 className="text-4xl font-bold text-slate-900 tracking-tight mb-2">
                   PortfolioZero
                 </h1>
-                {LiveIndicator}
+                
               </div>
               <p className="text-lg text-slate-600 max-w-2xl">
                 Trust & Verification Dashboard

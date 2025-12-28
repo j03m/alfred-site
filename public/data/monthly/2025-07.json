@@ -10,127 +10,127 @@
     },
     {
       "date": "2025-07-02",
-      "rel_port": 1.0218193046155726,
+      "rel_port": 1.0215764825368165,
       "rel_spy": 1.004533311746135,
       "rel_mag7": 1.0135809947384675
     },
     {
       "date": "2025-07-03",
-      "rel_port": 1.0381187223761068,
+      "rel_port": 1.0376911358122214,
       "rel_spy": 1.0124504169027768,
       "rel_mag7": 1.0227829192269269
     },
     {
       "date": "2025-07-07",
-      "rel_port": 1.023004094225897,
+      "rel_port": 1.022723767608945,
       "rel_spy": 1.0049056909252814,
       "rel_mag7": 1.0079700575095643
     },
     {
       "date": "2025-07-08",
-      "rel_port": 1.0329275632742225,
+      "rel_port": 1.0325753728676483,
       "rel_spy": 1.004355217356108,
       "rel_mag7": 1.006761157578924
     },
     {
       "date": "2025-07-09",
-      "rel_port": 1.060396876147123,
+      "rel_port": 1.0597378171490905,
       "rel_spy": 1.0103780458188296,
       "rel_mag7": 1.0181340264366754
     },
     {
       "date": "2025-07-10",
-      "rel_port": 1.0807095118940746,
+      "rel_port": 1.0798322330681414,
       "rel_spy": 1.0132275560592572,
       "rel_mag7": 1.024726013240345
     },
     {
       "date": "2025-07-11",
-      "rel_port": 1.0546304434772196,
+      "rel_port": 1.0540427692828525,
       "rel_spy": 1.0096656682587228,
       "rel_mag7": 1.0286382060199653
     },
     {
       "date": "2025-07-14",
-      "rel_port": 1.0567397798932887,
+      "rel_port": 1.0561116440030844,
       "rel_spy": 1.01159232575083,
       "rel_mag7": 1.0295865779181728
     },
     {
       "date": "2025-07-15",
-      "rel_port": 1.0528879907142237,
+      "rel_port": 1.034794711203897,
       "rel_spy": 1.0072694891929088,
       "rel_mag7": 1.0335757911029244
     },
     {
       "date": "2025-07-16",
-      "rel_port": 1.0275436679599237,
+      "rel_port": 1.0566645977919464,
       "rel_spy": 1.010637092204323,
       "rel_mag7": 1.0364274333512213
     },
     {
       "date": "2025-07-17",
-      "rel_port": 1.0457528374292553,
+      "rel_port": 1.0755515431924616,
       "rel_spy": 1.0168218246579779,
       "rel_mag7": 1.0395161820039927
     },
     {
       "date": "2025-07-18",
-      "rel_port": 1.0442031208786737,
+      "rel_port": 1.0739453440914817,
       "rel_spy": 1.0160770662996845,
       "rel_mag7": 1.0466278852244724
     },
     {
       "date": "2025-07-21",
-      "rel_port": 1.0280044738281835,
+      "rel_port": 1.0568564389023678,
       "rel_spy": 1.0180037237917918,
       "rel_mag7": 1.0540146551742446
     },
     {
       "date": "2025-07-22",
-      "rel_port": 1.0420996546010537,
+      "rel_port": 1.0713724162575937,
       "rel_spy": 1.0181494373836317,
       "rel_mag7": 1.0491130210701431
     },
     {
       "date": "2025-07-23",
-      "rel_port": 1.0546500106053838,
+      "rel_port": 1.0845078899358649,
       "rel_spy": 1.0268113008985673,
       "rel_mag7": 1.054498590191144
     },
     {
       "date": "2025-07-24",
-      "rel_port": 1.0572133043948553,
+      "rel_port": 1.0871861423009648,
       "rel_spy": 1.0271512992795273,
       "rel_mag7": 1.0521969889198386
     },
     {
       "date": "2025-07-25",
-      "rel_port": 1.0584421200435485,
+      "rel_port": 1.0884801293987096,
       "rel_spy": 1.031490326236542,
       "rel_mag7": 1.0570628543128158
     },
     {
       "date": "2025-07-28",
-      "rel_port": 1.063993314303649,
+      "rel_port": 1.0940247136489307,
       "rel_spy": 1.0312312798510486,
       "rel_mag7": 1.0653253046667437
     },
     {
       "date": "2025-07-29",
-      "rel_port": 1.0648474194480035,
+      "rel_port": 1.0949613496586357,
       "rel_spy": 1.0285112928033677,
       "rel_mag7": 1.0582249152307073
     },
     {
       "date": "2025-07-30",
-      "rel_port": 1.0910810681773533,
+      "rel_port": 1.1223833436777069,
       "rel_spy": 1.027216060875901,
       "rel_mag7": 1.058915200111116
     },
     {
       "date": "2025-07-31",
-      "rel_port": 1.0642682324543518,
+      "rel_port": 1.0944008726889727,
       "rel_spy": 1.0233627458916865,
       "rel_mag7": 1.0730982067513566
     }
@@ -138,17 +138,17 @@
   "holdings": [
     {
       "Symbol": "EVR",
-      "Shares": 33.0,
-      "CostBasis": 301.26,
+      "Shares": 36.0,
+      "CostBasis": 286.0,
       "CurrentPrice": 301.14,
-      "UnrealizedPnL": -3.96000000000015
+      "UnrealizedPnL": 545.0399999999995
     },
     {
       "Symbol": "TTI",
-      "Shares": 138.0,
-      "CostBasis": 3.439787439613527,
+      "Shares": 160.0,
+      "CostBasis": 3.4300000000000006,
       "CurrentPrice": 4.1,
-      "UnrealizedPnL": 91.10933333333324
+      "UnrealizedPnL": 107.19999999999985
     }
   ],
   "predictions": {
@@ -283,40 +283,27 @@
   "ledger": [
     {
       "date": "2025-07-01",
-      "symbol": "OPRT",
-      "action": "SELL",
-      "quantity": -64,
-      "price": 6.9,
-      "value": -441.6,
-      "reason": "SWAP_FUNDING",
-      "remaining_cash": 484.8039999999982,
-      "remaining_qty": 0,
-      "cost_basis": 7.150615942028986,
-      "realized_pnl": -16.03942028985506
-    },
-    {
-      "date": "2025-07-01",
       "symbol": "BDTX",
       "action": "SELL",
-      "quantity": -3832,
+      "quantity": -4008,
       "price": 2.63,
-      "value": -10078.16,
-      "reason": "SWAP_FUNDING",
-      "remaining_cash": 10562.963999999998,
+      "value": -10541.039999999999,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 10985.4,
       "remaining_qty": 0,
-      "cost_basis": 2.6,
-      "realized_pnl": 114.95999999999925
+      "cost_basis": 2.4011177644710577,
+      "realized_pnl": 917.3600000000001
     },
     {
       "date": "2025-07-01",
       "symbol": "EVR",
       "action": "BUY",
-      "quantity": 35,
+      "quantity": 36,
       "price": 286.0,
-      "value": 10010.0,
+      "value": 10296.0,
       "reason": "BUY_TARGET",
-      "remaining_cash": 552.9639999999981,
-      "remaining_qty": 35,
+      "remaining_cash": 689.3999999999996,
+      "remaining_qty": 36,
       "cost_basis": 0.0,
       "realized_pnl": 0.0
     },
@@ -324,117 +311,13 @@
       "date": "2025-07-01",
       "symbol": "TTI",
       "action": "BUY",
-      "quantity": 154,
+      "quantity": 160,
       "price": 3.43,
-      "value": 528.22,
+      "value": 548.8000000000001,
       "reason": "BUY_TARGET",
-      "remaining_cash": 24.743999999998096,
-      "remaining_qty": 154,
+      "remaining_cash": 140.59999999999957,
+      "remaining_qty": 160,
       "cost_basis": 0.0,
-      "realized_pnl": 0.0
-    },
-    {
-      "date": "2025-07-15",
-      "symbol": "EVR",
-      "action": "SELL",
-      "quantity": -35,
-      "price": 292.14,
-      "value": -10224.9,
-      "reason": "SWAP_FUNDING",
-      "remaining_cash": 10249.643999999998,
-      "remaining_qty": 0,
-      "cost_basis": 286.0,
-      "realized_pnl": 214.89999999999952
-    },
-    {
-      "date": "2025-07-15",
-      "symbol": "TTI",
-      "action": "BUY",
-      "quantity": 11,
-      "price": 3.24,
-      "value": 35.64,
-      "reason": "BUY_TARGET",
-      "remaining_cash": 10214.003999999999,
-      "remaining_qty": 165,
-      "cost_basis": 3.43,
-      "realized_pnl": 0.0
-    },
-    {
-      "date": "2025-07-16",
-      "symbol": "EVR",
-      "action": "BUY",
-      "quantity": 33,
-      "price": 301.26,
-      "value": 9941.58,
-      "reason": "BUY_TARGET",
-      "remaining_cash": 272.42399999999907,
-      "remaining_qty": 33,
-      "cost_basis": 0.0,
-      "realized_pnl": 0.0
-    },
-    {
-      "date": "2025-07-20",
-      "symbol": "TTI",
-      "action": "SELL",
-      "quantity": -9,
-      "price": 3.39,
-      "value": -30.51,
-      "reason": "TRIM_OVERWEIGHT",
-      "remaining_cash": 302.93399999999906,
-      "remaining_qty": 156,
-      "cost_basis": 3.4173333333333336,
-      "realized_pnl": -0.24600000000000088
-    },
-    {
-      "date": "2025-07-22",
-      "symbol": "TTI",
-      "action": "SELL",
-      "quantity": -8,
-      "price": 3.68,
-      "value": -29.44,
-      "reason": "TRIM_OVERWEIGHT",
-      "remaining_cash": 332.37399999999906,
-      "remaining_qty": 148,
-      "cost_basis": 3.4173333333333336,
-      "realized_pnl": 2.101333333333333
-    },
-    {
-      "date": "2025-07-28",
-      "symbol": "TTI",
-      "action": "SELL",
-      "quantity": -8,
-      "price": 4.09,
-      "value": -32.72,
-      "reason": "TRIM_OVERWEIGHT",
-      "remaining_cash": 365.093999999999,
-      "remaining_qty": 140,
-      "cost_basis": 3.4173333333333336,
-      "realized_pnl": 5.38133333333333
-    },
-    {
-      "date": "2025-07-30",
-      "symbol": "TTI",
-      "action": "SELL",
-      "quantity": -9,
-      "price": 4.07,
-      "value": -36.63,
-      "reason": "TRIM_OVERWEIGHT",
-      "remaining_cash": 401.723999999999,
-      "remaining_qty": 131,
-      "cost_basis": 3.4173333333333336,
-      "realized_pnl": 5.8740000000000006
-    },
-    {
-      "date": "2025-07-31",
-      "symbol": "TTI",
-      "action": "BUY",
-      "quantity": 7,
-      "price": 3.86,
-      "value": 27.02,
-      "reason": "BUY_TARGET",
-      "remaining_cash": 374.70399999999904,
-      "remaining_qty": 138,
-      "cost_basis": 3.4173333333333336,
       "realized_pnl": 0.0
     }
   ],
@@ -442,90 +325,24 @@
     {
       "ticker": "BDTX",
       "status": "CLOSED",
-      "enter_date": "2025-06-24",
+      "enter_date": "2025-06-01",
       "exit_date": "2025-07-01",
-      "realized_pnl": 114.95999999999925,
+      "realized_pnl": 917.3600000000001,
       "unrealized_pnl": 0.0,
-      "cost_basis": 2.6,
+      "cost_basis": 2.4011177644710577,
       "current_price": 2.63,
-      "quantity": 3832.0
+      "quantity": 4008.0
     },
     {
       "ticker": "EVR",
-      "status": "CLOSED",
+      "status": "OPEN",
       "enter_date": "2025-07-01",
-      "exit_date": "2025-07-15",
-      "realized_pnl": 214.89999999999952,
-      "unrealized_pnl": 0.0,
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 545.0399999999995,
       "cost_basis": 286.0,
-      "current_price": 292.14,
-      "quantity": 35.0
-    },
-    {
-      "ticker": "EVR",
-      "status": "OPEN",
-      "enter_date": "2025-07-16",
-      "exit_date": null,
-      "realized_pnl": 0.0,
-      "unrealized_pnl": -3.96000000000015,
-      "cost_basis": 301.26,
       "current_price": 301.14,
-      "quantity": 33.0
-    },
-    {
-      "ticker": "OPRT",
-      "status": "CLOSED",
-      "enter_date": "2025-06-17",
-      "exit_date": "2025-07-01",
-      "realized_pnl": -16.03942028985506,
-      "unrealized_pnl": 0.0,
-      "cost_basis": 7.150615942028986,
-      "current_price": 6.9,
-      "quantity": 64.0
-    },
-    {
-      "ticker": "TTI",
-      "status": "CLOSED",
-      "enter_date": "2025-07-01",
-      "exit_date": "2025-07-20",
-      "realized_pnl": -0.24600000000000088,
-      "unrealized_pnl": 0.0,
-      "cost_basis": 3.4173333333333336,
-      "current_price": 3.39,
-      "quantity": 9.0
-    },
-    {
-      "ticker": "TTI",
-      "status": "CLOSED",
-      "enter_date": "2025-07-01",
-      "exit_date": "2025-07-22",
-      "realized_pnl": 2.101333333333333,
-      "unrealized_pnl": 0.0,
-      "cost_basis": 3.4173333333333336,
-      "current_price": 3.68,
-      "quantity": 8.0
-    },
-    {
-      "ticker": "TTI",
-      "status": "CLOSED",
-      "enter_date": "2025-07-01",
-      "exit_date": "2025-07-28",
-      "realized_pnl": 5.38133333333333,
-      "unrealized_pnl": 0.0,
-      "cost_basis": 3.4173333333333336,
-      "current_price": 4.09,
-      "quantity": 8.0
-    },
-    {
-      "ticker": "TTI",
-      "status": "CLOSED",
-      "enter_date": "2025-07-01",
-      "exit_date": "2025-07-30",
-      "realized_pnl": 5.8740000000000006,
-      "unrealized_pnl": 0.0,
-      "cost_basis": 3.4173333333333336,
-      "current_price": 4.07,
-      "quantity": 9.0
+      "quantity": 36.0
     },
     {
       "ticker": "TTI",
@@ -533,18 +350,18 @@
       "enter_date": "2025-07-01",
       "exit_date": null,
       "realized_pnl": 0.0,
-      "unrealized_pnl": 91.10933333333324,
-      "cost_basis": 3.439787439613527,
+      "unrealized_pnl": 107.19999999999985,
+      "cost_basis": 3.4300000000000006,
       "current_price": 4.1,
-      "quantity": 138.0
+      "quantity": 160.0
     }
   ],
   "meta": {
     "year": 2025,
     "month": "July",
     "month_num": 7,
-    "return_pct": 0.08729006585236451,
-    "ending_equity": 10878.123999999998,
+    "return_pct": 0.12070645788794501,
+    "ending_equity": 11637.64,
     "start_date": "2025-07-01",
     "end_date": "2025-07-31"
   }

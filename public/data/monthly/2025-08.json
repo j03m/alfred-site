@@ -10,121 +10,121 @@
     },
     {
       "date": "2025-08-04",
-      "rel_port": 1.034625512928377,
+      "rel_port": 1.0346082559881835,
       "rel_spy": 1.0151997683844816,
       "rel_mag7": 1.0203768902572203
     },
     {
       "date": "2025-08-05",
-      "rel_port": 1.1061545330567342,
+      "rel_port": 1.1061016269111412,
       "rel_spy": 1.0100527568680435,
       "rel_mag7": 1.0144624888260603
     },
     {
       "date": "2025-08-06",
-      "rel_port": 1.3599230949133907,
+      "rel_port": 1.3597437135613801,
       "rel_spy": 1.0177893585536897,
       "rel_mag7": 1.0341366783887636
     },
     {
       "date": "2025-08-07",
-      "rel_port": 1.388625822735598,
+      "rel_port": 1.388432136288427,
       "rel_spy": 1.0169368847712796,
       "rel_mag7": 1.0384771802803816
     },
     {
       "date": "2025-08-08",
-      "rel_port": 1.4460312783800122,
+      "rel_port": 1.4458089817425206,
       "rel_spy": 1.0248664993887922,
       "rel_mag7": 1.0546621228451203
     },
     {
       "date": "2025-08-11",
-      "rel_port": 1.526216676740464,
+      "rel_port": 1.525954416662524,
       "rel_spy": 1.0228398636041947,
       "rel_mag7": 1.0542715154593751
     },
     {
       "date": "2025-08-12",
-      "rel_port": 1.574510155298463,
+      "rel_port": 1.5742238263302542,
       "rel_spy": 1.0337290098436596,
       "rel_mag7": 1.0664829925220172
     },
     {
       "date": "2025-08-13",
-      "rel_port": 1.6683635192885367,
+      "rel_port": 1.6680304149298038,
       "rel_spy": 1.0372675802612108,
       "rel_mag7": 1.063284305548805
     },
     {
       "date": "2025-08-14",
-      "rel_port": 1.728046969204555,
+      "rel_port": 1.7276841193304882,
       "rel_spy": 1.037364086727144,
       "rel_mag7": 1.0676944792920775
     },
     {
       "date": "2025-08-15",
-      "rel_port": 1.801853983604516,
+      "rel_port": 1.8014543492000368,
       "rel_spy": 1.0349353406678248,
       "rel_mag7": 1.0641984866717162
     },
     {
       "date": "2025-08-18",
-      "rel_port": 1.827367519446478,
+      "rel_port": 1.826955169401856,
       "rel_spy": 1.0347101589139804,
       "rel_mag7": 1.0625984414192426
     },
     {
       "date": "2025-08-19",
-      "rel_port": 1.7758848489082335,
+      "rel_port": 1.775498157208899,
       "rel_spy": 1.0290966994788648,
       "rel_mag7": 1.0450247214602615
     },
     {
       "date": "2025-08-20",
-      "rel_port": 1.8861397716538544,
+      "rel_port": 1.8856981302239046,
       "rel_spy": 1.026362349610757,
       "rel_mag7": 1.0333738050978691
     },
     {
       "date": "2025-08-21",
-      "rel_port": 1.9148424994760616,
+      "rel_port": 1.9143865529509516,
       "rel_spy": 1.0222447403976065,
       "rel_mag7": 1.0278023314323674
     },
     {
       "date": "2025-08-22",
-      "rel_port": 1.892518155614345,
+      "rel_port": 1.8920733352743595,
       "rel_spy": 1.0379431255227431,
       "rel_mag7": 1.0535732716334874
     },
     {
       "date": "2025-08-25",
-      "rel_port": 1.857892642685968,
+      "rel_port": 1.8574650792861762,
       "rel_spy": 1.0333751528019042,
       "rel_mag7": 1.057632899369864
     },
     {
       "date": "2025-08-26",
-      "rel_port": 1.897985341866194,
+      "rel_port": 1.8975377967461777,
       "rel_spy": 1.0377018593579104,
       "rel_mag7": 1.0618446628156293
     },
     {
       "date": "2025-08-27",
-      "rel_port": 1.8118771583995723,
+      "rel_port": 1.8114725285650373,
       "rel_spy": 1.0400662677732742,
       "rel_mag7": 1.0622050815100514
     },
     {
       "date": "2025-08-28",
-      "rel_port": 1.7927420065181017,
+      "rel_port": 1.792346913413673,
       "rel_spy": 1.043749597889725,
       "rel_mag7": 1.0671960465862782
     },
     {
       "date": "2025-08-29",
-      "rel_port": 1.771784459219347,
+      "rel_port": 1.7713998111050353,
       "rel_spy": 1.0375249308370327,
       "rel_mag7": 1.0525199881177485
     }
@@ -132,10 +132,10 @@
   "holdings": [
     {
       "Symbol": "RIGL",
-      "Shares": 480.0,
+      "Shares": 513.0,
       "CostBasis": 22.27,
       "CurrentPrice": 38.85,
-      "UnrealizedPnL": 7958.400000000001
+      "UnrealizedPnL": 8505.54
     }
   ],
   "predictions": {
@@ -270,40 +270,40 @@
   "ledger": [
     {
       "date": "2025-08-01",
-      "symbol": "TTI",
+      "symbol": "EVR",
       "action": "SELL",
-      "quantity": -138,
-      "price": 3.86,
-      "value": -532.68,
-      "reason": "SWAP_FUNDING",
-      "remaining_cash": 907.383999999999,
+      "quantity": -36,
+      "price": 297.0,
+      "value": -10692.0,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 10832.6,
       "remaining_qty": 0,
-      "cost_basis": 3.439787439613527,
-      "realized_pnl": 57.98933333333328
+      "cost_basis": 286.0,
+      "realized_pnl": 396.0
     },
     {
       "date": "2025-08-01",
-      "symbol": "EVR",
+      "symbol": "TTI",
       "action": "SELL",
-      "quantity": -33,
-      "price": 297.0,
-      "value": -9801.0,
-      "reason": "SWAP_FUNDING",
-      "remaining_cash": 10708.383999999998,
+      "quantity": -160,
+      "price": 3.86,
+      "value": -617.6,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 11450.2,
       "remaining_qty": 0,
-      "cost_basis": 301.26,
-      "realized_pnl": -140.5799999999997
+      "cost_basis": 3.4300000000000006,
+      "realized_pnl": 68.79999999999988
     },
     {
       "date": "2025-08-01",
       "symbol": "RIGL",
       "action": "BUY",
-      "quantity": 480,
+      "quantity": 513,
       "price": 22.27,
-      "value": 10689.6,
+      "value": 11424.51,
       "reason": "BUY_TARGET",
-      "remaining_cash": 18.78399999999783,
-      "remaining_qty": 480,
+      "remaining_cash": 25.69000000000051,
+      "remaining_qty": 513,
       "cost_basis": 0.0,
       "realized_pnl": 0.0
     }
@@ -312,13 +312,13 @@
     {
       "ticker": "EVR",
       "status": "CLOSED",
-      "enter_date": "2025-07-16",
+      "enter_date": "2025-07-01",
       "exit_date": "2025-08-01",
-      "realized_pnl": -140.5799999999997,
+      "realized_pnl": 396.0,
       "unrealized_pnl": 0.0,
-      "cost_basis": 301.26,
+      "cost_basis": 286.0,
       "current_price": 297.0,
-      "quantity": 33.0
+      "quantity": 36.0
     },
     {
       "ticker": "RIGL",
@@ -326,29 +326,29 @@
       "enter_date": "2025-08-01",
       "exit_date": null,
       "realized_pnl": 0.0,
-      "unrealized_pnl": 7958.400000000001,
+      "unrealized_pnl": 8505.54,
       "cost_basis": 22.27,
       "current_price": 38.85,
-      "quantity": 480.0
+      "quantity": 513.0
     },
     {
       "ticker": "TTI",
       "status": "CLOSED",
       "enter_date": "2025-07-01",
       "exit_date": "2025-08-01",
-      "realized_pnl": 57.98933333333328,
+      "realized_pnl": 68.79999999999988,
       "unrealized_pnl": 0.0,
-      "cost_basis": 3.439787439613527,
+      "cost_basis": 3.4300000000000006,
       "current_price": 3.86,
-      "quantity": 138.0
+      "quantity": 160.0
     }
   ],
   "meta": {
     "year": 2025,
     "month": "August",
     "month_num": 8,
-    "return_pct": 0.7159929414299748,
-    "ending_equity": 18666.784,
+    "return_pct": 0.7147583186969179,
+    "ending_equity": 19955.739999999998,
     "start_date": "2025-08-01",
     "end_date": "2025-08-31"
   }

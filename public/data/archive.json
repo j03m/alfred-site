@@ -3,8 +3,8 @@
     "year": 2025,
     "month": "December",
     "month_num": 12,
-    "return_pct": -0.10286173794779634,
-    "ending_equity": 16342.014000000005,
+    "return_pct": -0.10116229485438578,
+    "ending_equity": 18064.22000000001,
     "start_date": "2025-12-01",
     "end_date": "2025-12-31"
   },
@@ -12,8 +12,8 @@
     "year": 2025,
     "month": "November",
     "month_num": 11,
-    "return_pct": -0.010334172845655312,
-    "ending_equity": 18215.71400000001,
+    "return_pct": -0.09402077359343688,
+    "ending_equity": 20097.310000000005,
     "start_date": "2025-11-01",
     "end_date": "2025-11-30"
   },
@@ -21,8 +21,8 @@
     "year": 2025,
     "month": "October",
     "month_num": 10,
-    "return_pct": -0.04499183160074113,
-    "ending_equity": 18405.924000000006,
+    "return_pct": 0.04956024203839167,
+    "ending_equity": 22182.97000000001,
     "start_date": "2025-10-01",
     "end_date": "2025-10-31"
   },
@@ -30,8 +30,8 @@
     "year": 2025,
     "month": "September",
     "month_num": 9,
-    "return_pct": 0.03247854584914021,
-    "ending_equity": 19273.053999999996,
+    "return_pct": 0.05911832886177129,
+    "ending_equity": 21135.49,
     "start_date": "2025-09-01",
     "end_date": "2025-09-30"
   },
@@ -39,8 +39,8 @@
     "year": 2025,
     "month": "August",
     "month_num": 8,
-    "return_pct": 0.7159929414299748,
-    "ending_equity": 18666.784,
+    "return_pct": 0.7147583186969179,
+    "ending_equity": 19955.739999999998,
     "start_date": "2025-08-01",
     "end_date": "2025-08-31"
   },
@@ -48,8 +48,8 @@
     "year": 2025,
     "month": "July",
     "month_num": 7,
-    "return_pct": 0.08729006585236451,
-    "ending_equity": 10878.123999999998,
+    "return_pct": 0.12070645788794501,
+    "ending_equity": 11637.64,
     "start_date": "2025-07-01",
     "end_date": "2025-07-31"
   },
@@ -57,8 +57,8 @@
     "year": 2025,
     "month": "June",
     "month_num": 6,
-    "return_pct": 0.016999523256251144,
-    "ending_equity": 10004.803999999998,
+    "return_pct": 0.05563637361732504,
+    "ending_equity": 10384.2,
     "start_date": "2025-06-01",
     "end_date": "2025-06-30"
   }

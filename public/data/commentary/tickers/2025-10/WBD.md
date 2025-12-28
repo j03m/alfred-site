@@ -1,0 +1,16 @@
+## Sizing & Conviction
+I have decided to take a satellite position in Warner Bros. Discovery (WBD) with a 0.0% allocation in my portfolio. Now, you might wonder, "Why bother with a stock that isn’t getting any weight?" Well, my approach here is all about diversification and keeping an eye on potential high performances without committing heavily right now. By including WBD as a satellite position, I maintain a balance in my portfolio while still keeping it dynamic and open to the exciting opportunities that come from this segment.
+
+## The Macro-Micro Thesis
+The current macro environment is favorable for WBD, especially in the context of its fit within the high velocity compounder profile I’m focusing on. The recent upticks in Bitcoin and the stable performance indicated by certain macro drivers suggest a potential lift in broad market sentiment, which can often encourage investment in media and entertainment. As people feel more secure, they tend to engage more with streaming and entertainment content, making WBD an intriguing player in this landscape.
+
+Diving deeper into the specifics, the improved outperformance score and positive daily returns tell me that WBD has the momentum that I’m looking for. The compelling spike in its price velocity rank indicates it’s gaining traction, making it well-suited for high-volatility environments that often characterize this sector. Plus, even though there’s a bit of a negative undercurrent with long-term investments and some lagging metrics like research and development spending, the powerful micro drivers at play — such as strong daily returns and active investor interest — imply that WBD is not just surviving but thriving.
+
+So, the dance between macro triggers like Bitcoin's ascent and micro strengths like daily return performance perfectly aligns with WBD's profile. I am keeping a close watch on it as I believe it could flourish, particularly as it fits beautifully into a high velocity compounder strategy.
+
+## Risk Assessment (Pre-Mortem)
+Now, let’s dive into the potential pitfalls with WBD. The negative drivers can’t be ignored. For instance, the long-term investments score is a concern—if the company isn’t strategically investing for future growth, we might face stagnation. Then there’s the absolute rank over the past decade; while currently somewhat benign, it does suggest that WBD hasn't always performed as well as its competitors.
+
+Additionally, if there's a slump in daily trading volume, it might reflect waning investor interest, which could create volatility. Then we have the research and development to sales comparison. If WBD isn’t pushing forward on innovation, it risks falling behind. Lastly, changes in dividend payouts can shake investor confidence.
+
+All these micro risks present a good reason to hold this as a satellite position rather than a core holding. If WBD manages to address these areas effectively, I can see my conviction in this stock growing, but for now, I appreciate having it in my perspective without overcommitting my resources just yet. Keeping my options open isn't just smart; it’s fundamental to a well-rounded investment strategy!

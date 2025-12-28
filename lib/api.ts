@@ -130,3 +130,37 @@ export async function getMonthDetail(year: string, month: string): Promise<{ rep
 
     return { report, commentaryHtml };
 }
+
+export async function getTickerCommentary(year: string, month: string, ticker: string): Promise<{ content: string; actualDate: string } | null> {
+    const paddedMonth = month.padStart(2, '0');
+    const requestedSlug = `${year}-${paddedMonth}`;
+    
+    // 1. Try exact match
+    const exactPath = path.join(DATA_DIR, 'commentary/tickers', requestedSlug, `${ticker}.md`);
+    if (fs.existsSync(exactPath)) {
+        const content = fs.readFileSync(exactPath, 'utf-8');
+        return { content, actualDate: requestedSlug };
+    }
+
+    // 2. Fallback: Search backwards through available months
+    const tickersBaseDir = path.join(DATA_DIR, 'commentary/tickers');
+    if (!fs.existsSync(tickersBaseDir)) return null;
+
+    const availableMonths = fs.readdirSync(tickersBaseDir)
+        .filter(d => /^\d{4}-\d{2}$/.test(d))
+        .sort()
+        .reverse();
+
+    for (const slug of availableMonths) {
+        // Skip months newer than requested
+        if (slug > requestedSlug) continue;
+
+        const fallbackPath = path.join(tickersBaseDir, slug, `${ticker}.md`);
+        if (fs.existsSync(fallbackPath)) {
+            const content = fs.readFileSync(fallbackPath, 'utf-8');
+            return { content, actualDate: slug };
+        }
+    }
+
+    return null;
+}

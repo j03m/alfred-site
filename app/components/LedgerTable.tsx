@@ -1,10 +1,13 @@
 import React from 'react';
+import TickerLink from './TickerLink';
 
 interface LedgerTableProps {
   rows: Array<any>;
+  year?: string;
+  month?: string;
 }
 
-export default function LedgerTable({ rows }: LedgerTableProps) {
+export default function LedgerTable({ rows, year, month }: LedgerTableProps) {
   return (
     <div className="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm">
       <div className="px-6 py-4 border-b border-slate-200">
@@ -30,7 +33,9 @@ export default function LedgerTable({ rows }: LedgerTableProps) {
                 <td className={`px-6 py-3 font-bold ${row.action === 'BUY' ? 'text-emerald-600' : 'text-rose-600'}`}>
                   {row.action}
                 </td>
-                <td className="px-6 py-3 font-medium text-slate-900">{row.symbol}</td>
+                <td className="px-6 py-3">
+                  <TickerLink symbol={row.symbol} year={year} month={month} />
+                </td>
                 <td className="px-6 py-3 text-right text-slate-900">{Number(row.quantity).toFixed(2)}</td>
                 <td className="px-6 py-3 text-right text-slate-900">${Number(row.price).toFixed(2)}</td>
                 <td className="px-6 py-3 text-right text-slate-900">${Number(row.remaining_cash).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}</td>

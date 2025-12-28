@@ -1,10 +1,13 @@
 import React from 'react';
+import TickerLink from './TickerLink';
 
 interface SignalsTableProps {
   rows: Array<{ symbol: string; target_weight: number; score: number }>;
+  year?: string;
+  month?: string;
 }
 
-export default function SignalsTable({ rows }: SignalsTableProps) {
+export default function SignalsTable({ rows, year, month }: SignalsTableProps) {
   return (
     <div className="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm">
       <div className="px-6 py-4 border-b border-slate-200">
@@ -21,7 +24,9 @@ export default function SignalsTable({ rows }: SignalsTableProps) {
           <tbody className="divide-y divide-slate-100">
             {rows.map((row) => (
               <tr key={row.symbol} className="hover:bg-slate-50/50 transition-colors">
-                <td className="px-6 py-3 font-medium text-slate-900">{row.symbol}</td>
+                <td className="px-6 py-3">
+                  <TickerLink symbol={row.symbol} year={year} month={month} />
+                </td>
                 <td className="px-6 py-3 text-right text-slate-900">{(row.target_weight * 100).toFixed(2)}%</td>
               </tr>
             ))}

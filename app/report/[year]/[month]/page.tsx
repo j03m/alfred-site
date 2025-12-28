@@ -80,6 +80,8 @@ export default async function ReportPage({ params }: PageProps) {
                 performance={report.performance} 
                 predictions={report.predictions} 
                 ledger={report.ledger} 
+                year={year}
+                month={month}
             />
         </section>
 

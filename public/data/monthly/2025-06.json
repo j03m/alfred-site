@@ -266,133 +266,6 @@
         "target_weight": 5.189599649044444e-12,
         "score": -6.110021652944852
       }
-    ],
-    "log": [
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "ARLO"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "ATRO"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "BDTX"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "BTM"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "CRCT"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "EHAB"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "EYE"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "FIVE"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "FTDR"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "FTK"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "FUTU"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "GOOS"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "GOTU"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "HNRG"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "ISSC"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "LOOP"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "NRG"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "OPRT"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "OPXS"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "PAHC"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "RCMT"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "RRGB"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "SMG"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "STRT"
-      },
-      {
-        "date": "2025-06-01",
-        "action": "Added",
-        "symbol": "TME"
-      }
     ]
   },
   "ledger": [
@@ -400,155 +273,243 @@
       "date": "2025-06-01",
       "symbol": "BDTX",
       "action": "BUY",
-      "quantity": 3652.0,
-      "price": 2.41
+      "quantity": 3652,
+      "price": 2.41,
+      "value": 8801.32,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1198.6800000000003,
+      "remaining_qty": 3652
     },
     {
       "date": "2025-06-01",
       "symbol": "LOOP",
       "action": "BUY",
-      "quantity": 567.0,
-      "price": 1.37
+      "quantity": 567,
+      "price": 1.37,
+      "value": 776.7900000000001,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 421.8900000000002,
+      "remaining_qty": 567
     },
     {
       "date": "2025-06-01",
       "symbol": "OPRT",
       "action": "BUY",
-      "quantity": 66.0,
-      "price": 6.28
+      "quantity": 66,
+      "price": 6.28,
+      "value": 414.48,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 7.4100000000001955,
+      "remaining_qty": 66
     },
     {
       "date": "2025-06-03",
       "symbol": "LOOP",
       "action": "SELL",
-      "quantity": -69.0,
-      "price": 1.656
+      "quantity": -69,
+      "price": 1.656,
+      "value": -114.264,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 121.67400000000019,
+      "remaining_qty": 498
     },
     {
       "date": "2025-06-03",
       "symbol": "OPRT",
       "action": "BUY",
-      "quantity": 4.0,
-      "price": 6.29
+      "quantity": 4,
+      "price": 6.29,
+      "value": 25.16,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 96.5140000000002,
+      "remaining_qty": 70
     },
     {
       "date": "2025-06-05",
       "symbol": "OPRT",
       "action": "SELL",
-      "quantity": -5.0,
-      "price": 7.12
+      "quantity": -5,
+      "price": 7.12,
+      "value": -35.6,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 132.1140000000002,
+      "remaining_qty": 65
     },
     {
       "date": "2025-06-10",
       "symbol": "OPRT",
       "action": "SELL",
-      "quantity": -8.0,
-      "price": 7.38
+      "quantity": -8,
+      "price": 7.38,
+      "value": -59.04,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 191.1540000000002,
+      "remaining_qty": 57
     },
     {
       "date": "2025-06-11",
       "symbol": "OPRT",
       "action": "BUY",
-      "quantity": 4.0,
-      "price": 6.79
+      "quantity": 4,
+      "price": 6.79,
+      "value": 27.16,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 163.9940000000002,
+      "remaining_qty": 61
     },
     {
       "date": "2025-06-12",
       "symbol": "LOOP",
       "action": "SELL",
-      "quantity": -498.0,
-      "price": 1.49
+      "quantity": -498,
+      "price": 1.49,
+      "value": -742.02,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 906.0140000000001,
+      "remaining_qty": 0
     },
     {
       "date": "2025-06-12",
       "symbol": "BDTX",
       "action": "BUY",
-      "quantity": 383.0,
-      "price": 2.31
+      "quantity": 383,
+      "price": 2.31,
+      "value": 884.73,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 21.284000000000106,
+      "remaining_qty": 4035
     },
     {
       "date": "2025-06-16",
       "symbol": "OPRT",
       "action": "BUY",
-      "quantity": 4.0,
-      "price": 6.8
+      "quantity": 4,
+      "price": 6.8,
+      "value": 27.2,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9435.983999999999,
+      "remaining_qty": 65
     },
     {
       "date": "2025-06-16",
       "symbol": "BDTX",
       "action": "SELL",
-      "quantity": -4035.0,
-      "price": 2.34
+      "quantity": -4035,
+      "price": 2.34,
+      "value": -9441.9,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 9463.184,
+      "remaining_qty": 0
     },
     {
       "date": "2025-06-17",
       "symbol": "OPRT",
       "action": "SELL",
-      "quantity": -65.0,
-      "price": 7.17
+      "quantity": -65,
+      "price": 7.17,
+      "value": -466.05,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 9902.033999999998,
+      "remaining_qty": 0
     },
     {
       "date": "2025-06-17",
       "symbol": "BDTX",
       "action": "BUY",
-      "quantity": 4004.0,
-      "price": 2.36
+      "quantity": 4004,
+      "price": 2.36,
+      "value": 9449.439999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 452.59399999999914,
+      "remaining_qty": 4004
     },
     {
       "date": "2025-06-17",
       "symbol": "OPRT",
       "action": "BUY",
-      "quantity": 62.0,
-      "price": 7.17
+      "quantity": 62,
+      "price": 7.17,
+      "value": 444.54,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 8.053999999999121,
+      "remaining_qty": 62
     },
     {
       "date": "2025-06-23",
       "symbol": "BDTX",
       "action": "SELL",
-      "quantity": -4004.0,
-      "price": 2.5
+      "quantity": -4004,
+      "price": 2.5,
+      "value": -10010.0,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10018.053999999998,
+      "remaining_qty": 0
     },
     {
       "date": "2025-06-23",
       "symbol": "OPRT",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 7.24
+      "quantity": 3,
+      "price": 7.24,
+      "value": 21.72,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9996.333999999999,
+      "remaining_qty": 65
     },
     {
       "date": "2025-06-24",
       "symbol": "BDTX",
       "action": "BUY",
-      "quantity": 3832.0,
-      "price": 2.6
+      "quantity": 3832,
+      "price": 2.6,
+      "value": 9963.2,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 33.133999999998196,
+      "remaining_qty": 3832
     },
     {
       "date": "2025-06-24",
       "symbol": "OPRT",
       "action": "BUY",
-      "quantity": 4.0,
-      "price": 6.86
+      "quantity": 4,
+      "price": 6.86,
+      "value": 27.44,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5.693999999998194,
+      "remaining_qty": 69
     },
     {
       "date": "2025-06-25",
       "symbol": "OPRT",
       "action": "SELL",
-      "quantity": -5.0,
-      "price": 7.4
+      "quantity": -5,
+      "price": 7.4,
+      "value": -37.0,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 42.6939999999982,
+      "remaining_qty": 64
     },
     {
       "date": "2025-06-26",
       "symbol": "OPRT",
       "action": "SELL",
-      "quantity": -3.0,
-      "price": 7.23
+      "quantity": -3,
+      "price": 7.23,
+      "value": -21.69,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 64.3839999999982,
+      "remaining_qty": 61
     },
     {
       "date": "2025-06-29",
       "symbol": "OPRT",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 7.06
+      "quantity": 3,
+      "price": 7.06,
+      "value": 21.18,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 43.203999999998196,
+      "remaining_qty": 64
     }
   ],
   "meta": {

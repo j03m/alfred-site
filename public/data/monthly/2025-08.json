@@ -265,258 +265,6 @@
         "target_weight": 2.0790785430910536e-18,
         "score": -8.171897569667635
       }
-    ],
-    "log": [
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "ADTN"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "ALAB"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "ATRA"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "CGNX"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "COIN"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "EMBC"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "FGEN"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "GFI"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "GIC"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "GMAB"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "JFU"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "JOUT"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "KSS"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "MTRN"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "NTWK"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "PI"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "REZI"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "RIGL"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "RYTM"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "SNDL"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "STOK"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "TRS"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "TVTX"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "W"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Added",
-        "symbol": "WWW"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "AENT"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "AFRM"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "ANET"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "AVAV"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "BELFA"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "BLBD"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "BTMD"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "COE"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "COOK"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "EVR"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "FLXS"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "HL"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "KEQU"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "LXRX"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "MDB"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "OWLT"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "POWL"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "RAIL"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "RDDT"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "TER"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "TTI"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "VSAT"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "WBD"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "WDC"
-      },
-      {
-        "date": "2025-08-01",
-        "action": "Dropped",
-        "symbol": "ZDGE"
-      }
     ]
   },
   "ledger": [
@@ -524,22 +272,34 @@
       "date": "2025-08-01",
       "symbol": "TTI",
       "action": "SELL",
-      "quantity": -138.0,
-      "price": 3.86
+      "quantity": -138,
+      "price": 3.86,
+      "value": -532.68,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 907.383999999999,
+      "remaining_qty": 0
     },
     {
       "date": "2025-08-01",
       "symbol": "EVR",
       "action": "SELL",
-      "quantity": -33.0,
-      "price": 297.0
+      "quantity": -33,
+      "price": 297.0,
+      "value": -9801.0,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10708.383999999998,
+      "remaining_qty": 0
     },
     {
       "date": "2025-08-01",
       "symbol": "RIGL",
       "action": "BUY",
-      "quantity": 480.0,
-      "price": 22.27
+      "quantity": 480,
+      "price": 22.27,
+      "value": 10689.6,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 18.78399999999783,
+      "remaining_qty": 480
     }
   ],
   "meta": {

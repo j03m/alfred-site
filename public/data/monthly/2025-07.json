@@ -278,258 +278,6 @@
         "target_weight": 5.706428478029871e-15,
         "score": -7.821298889801255
       }
-    ],
-    "log": [
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "AENT"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "AFRM"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "ANET"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "AVAV"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "BELFA"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "BLBD"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "BTMD"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "COE"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "COOK"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "EVR"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "FLXS"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "HL"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "KEQU"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "LXRX"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "MDB"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "OWLT"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "POWL"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "RAIL"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "RDDT"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "TER"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "TTI"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "VSAT"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "WBD"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "WDC"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Added",
-        "symbol": "ZDGE"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "ARLO"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "ATRO"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "BDTX"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "BTM"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "CRCT"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "EHAB"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "EYE"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "FIVE"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "FTDR"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "FTK"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "FUTU"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "GOOS"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "GOTU"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "HNRG"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "ISSC"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "LOOP"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "NRG"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "OPRT"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "OPXS"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "PAHC"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "RCMT"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "RRGB"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "SMG"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "STRT"
-      },
-      {
-        "date": "2025-07-01",
-        "action": "Dropped",
-        "symbol": "TME"
-      }
     ]
   },
   "ledger": [
@@ -537,85 +285,133 @@
       "date": "2025-07-01",
       "symbol": "OPRT",
       "action": "SELL",
-      "quantity": -64.0,
-      "price": 6.9
+      "quantity": -64,
+      "price": 6.9,
+      "value": -441.6,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 484.8039999999982,
+      "remaining_qty": 0
     },
     {
       "date": "2025-07-01",
       "symbol": "BDTX",
       "action": "SELL",
-      "quantity": -3832.0,
-      "price": 2.63
+      "quantity": -3832,
+      "price": 2.63,
+      "value": -10078.16,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10562.963999999998,
+      "remaining_qty": 0
     },
     {
       "date": "2025-07-01",
       "symbol": "EVR",
       "action": "BUY",
-      "quantity": 35.0,
-      "price": 286.0
+      "quantity": 35,
+      "price": 286.0,
+      "value": 10010.0,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 552.9639999999981,
+      "remaining_qty": 35
     },
     {
       "date": "2025-07-01",
       "symbol": "TTI",
       "action": "BUY",
-      "quantity": 154.0,
-      "price": 3.43
+      "quantity": 154,
+      "price": 3.43,
+      "value": 528.22,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 24.743999999998096,
+      "remaining_qty": 154
     },
     {
       "date": "2025-07-15",
       "symbol": "EVR",
       "action": "SELL",
-      "quantity": -35.0,
-      "price": 292.14
+      "quantity": -35,
+      "price": 292.14,
+      "value": -10224.9,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10249.643999999998,
+      "remaining_qty": 0
     },
     {
       "date": "2025-07-15",
       "symbol": "TTI",
       "action": "BUY",
-      "quantity": 11.0,
-      "price": 3.24
+      "quantity": 11,
+      "price": 3.24,
+      "value": 35.64,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10214.003999999999,
+      "remaining_qty": 165
     },
     {
       "date": "2025-07-16",
       "symbol": "EVR",
       "action": "BUY",
-      "quantity": 33.0,
-      "price": 301.26
+      "quantity": 33,
+      "price": 301.26,
+      "value": 9941.58,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 272.42399999999907,
+      "remaining_qty": 33
     },
     {
       "date": "2025-07-20",
       "symbol": "TTI",
       "action": "SELL",
-      "quantity": -9.0,
-      "price": 3.39
+      "quantity": -9,
+      "price": 3.39,
+      "value": -30.51,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 302.93399999999906,
+      "remaining_qty": 156
     },
     {
       "date": "2025-07-22",
       "symbol": "TTI",
       "action": "SELL",
-      "quantity": -8.0,
-      "price": 3.68
+      "quantity": -8,
+      "price": 3.68,
+      "value": -29.44,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 332.37399999999906,
+      "remaining_qty": 148
     },
     {
       "date": "2025-07-28",
       "symbol": "TTI",
       "action": "SELL",
-      "quantity": -8.0,
-      "price": 4.09
+      "quantity": -8,
+      "price": 4.09,
+      "value": -32.72,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 365.093999999999,
+      "remaining_qty": 140
     },
     {
       "date": "2025-07-30",
       "symbol": "TTI",
       "action": "SELL",
-      "quantity": -9.0,
-      "price": 4.07
+      "quantity": -9,
+      "price": 4.07,
+      "value": -36.63,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 401.723999999999,
+      "remaining_qty": 131
     },
     {
       "date": "2025-07-31",
       "symbol": "TTI",
       "action": "BUY",
-      "quantity": 7.0,
-      "price": 3.86
+      "quantity": 7,
+      "price": 3.86,
+      "value": 27.02,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 374.70399999999904,
+      "remaining_qty": 138
     }
   ],
   "meta": {

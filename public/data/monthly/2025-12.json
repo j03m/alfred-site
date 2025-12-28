@@ -257,228 +257,6 @@
         "target_weight": 7.852441017048099e-14,
         "score": -6.21821097866632
       }
-    ],
-    "log": [
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "ALTO"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "APPN"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "ARMN"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "ATNI"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "BODI"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "BWEN"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "COHN"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "EXAS"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "FSLY"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "HALO"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "HTHT"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "MATV"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "MBI"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "MD"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "NATR"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "PHAR"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "QLYS"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "SD"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "SKY"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "SPRU"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "STC"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Added",
-        "symbol": "TCMD"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "ARQT"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "AUPH"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "BIIB"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "CEPU"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "CRESY"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "DX"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "EVAX"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "HAE"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "HRZN"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "IQV"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "IRS"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "ISRG"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "JBHT"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "JOE"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "PHI"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "REGN"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "SND"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "SUPV"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "TVTX"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "VICR"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "VSCO"
-      },
-      {
-        "date": "2025-12-01",
-        "action": "Dropped",
-        "symbol": "WU"
-      }
     ]
   },
   "ledger": [
@@ -486,197 +264,309 @@
       "date": "2025-12-01",
       "symbol": "CRESY",
       "action": "SELL",
-      "quantity": -1260.0,
-      "price": 11.27
+      "quantity": -1260,
+      "price": 11.27,
+      "value": -14200.199999999999,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 14421.814,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-01",
       "symbol": "PHI",
       "action": "SELL",
-      "quantity": -10.0,
-      "price": 22.09
+      "quantity": -10,
+      "price": 22.09,
+      "value": -220.9,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 14642.714,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-01",
       "symbol": "CEPU",
       "action": "SELL",
-      "quantity": -1.0,
-      "price": 16.64
+      "quantity": -1,
+      "price": 16.64,
+      "value": -16.64,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 14659.354,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-01",
       "symbol": "IRWD",
       "action": "BUY",
-      "quantity": 4164.0,
-      "price": 3.52
+      "quantity": 4164,
+      "price": 3.52,
+      "value": 14657.28,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2.073999999998705,
+      "remaining_qty": 4942
     },
     {
       "date": "2025-12-17",
       "symbol": "IRWD",
       "action": "SELL",
-      "quantity": -4942.0,
-      "price": 3.26
+      "quantity": -4942,
+      "price": 3.26,
+      "value": -16110.919999999998,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 16112.993999999997,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-17",
       "symbol": "PHAR",
       "action": "BUY",
-      "quantity": 761.0,
-      "price": 16.15
+      "quantity": 761,
+      "price": 16.15,
+      "value": 12290.15,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3822.8439999999973,
+      "remaining_qty": 761
     },
     {
       "date": "2025-12-17",
       "symbol": "ATNI",
       "action": "BUY",
-      "quantity": 106.0,
-      "price": 22.86
+      "quantity": 106,
+      "price": 22.86,
+      "value": 2423.16,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1399.6839999999975,
+      "remaining_qty": 106
     },
     {
       "date": "2025-12-17",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 52.0,
-      "price": 11.87
+      "quantity": 52,
+      "price": 11.87,
+      "value": 617.24,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 782.4439999999975,
+      "remaining_qty": 52
     },
     {
       "date": "2025-12-17",
       "symbol": "NATR",
       "action": "BUY",
-      "quantity": 18.0,
-      "price": 22.47
+      "quantity": 18,
+      "price": 22.47,
+      "value": 404.46,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 377.9839999999975,
+      "remaining_qty": 18
     },
     {
       "date": "2025-12-17",
       "symbol": "COHN",
       "action": "BUY",
-      "quantity": 19.0,
-      "price": 16.9
+      "quantity": 19,
+      "price": 16.9,
+      "value": 321.09999999999997,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 56.88399999999751,
+      "remaining_qty": 19
     },
     {
       "date": "2025-12-18",
       "symbol": "COHN",
       "action": "BUY",
-      "quantity": 21.0,
-      "price": 16.03
+      "quantity": 21,
+      "price": 16.03,
+      "value": 336.63,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 213.86399999999765,
+      "remaining_qty": 21
     },
     {
       "date": "2025-12-18",
       "symbol": "NATR",
       "action": "SELL",
-      "quantity": -19.0,
-      "price": 22.28
+      "quantity": -19,
+      "price": 22.28,
+      "value": -423.32000000000005,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 550.4939999999976,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-18",
       "symbol": "NATR",
       "action": "BUY",
-      "quantity": 1.0,
-      "price": 22.28
+      "quantity": 1,
+      "price": 22.28,
+      "value": 22.28,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 127.17399999999756,
+      "remaining_qty": 19
     },
     {
       "date": "2025-12-18",
       "symbol": "ATNI",
       "action": "BUY",
-      "quantity": 7.0,
-      "price": 22.25
+      "quantity": 7,
+      "price": 22.25,
+      "value": 155.75,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 205.70399999999756,
+      "remaining_qty": 113
     },
     {
       "date": "2025-12-18",
       "symbol": "COHN",
       "action": "SELL",
-      "quantity": -19.0,
-      "price": 16.03
+      "quantity": -19,
+      "price": 16.03,
+      "value": -304.57000000000005,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 361.45399999999756,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-18",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 5.0,
-      "price": 11.25
+      "quantity": 5,
+      "price": 11.25,
+      "value": 56.25,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 149.45399999999756,
+      "remaining_qty": 57
     },
     {
       "date": "2025-12-19",
       "symbol": "COHN",
       "action": "SELL",
-      "quantity": -21.0,
-      "price": 16.03
+      "quantity": -21,
+      "price": 16.03,
+      "value": -336.63,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 550.4939999999976,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-19",
       "symbol": "NATR",
       "action": "BUY",
-      "quantity": 19.0,
-      "price": 22.28
+      "quantity": 19,
+      "price": 22.28,
+      "value": 423.32000000000005,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 127.17399999999759,
+      "remaining_qty": 19
     },
     {
       "date": "2025-12-19",
       "symbol": "NATR",
       "action": "SELL",
-      "quantity": -19.0,
-      "price": 22.28
+      "quantity": -19,
+      "price": 22.28,
+      "value": -423.32000000000005,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 550.4939999999976,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-19",
       "symbol": "COHN",
       "action": "BUY",
-      "quantity": 21.0,
-      "price": 16.03
+      "quantity": 21,
+      "price": 16.03,
+      "value": 336.63,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 213.86399999999765,
+      "remaining_qty": 21
     },
     {
       "date": "2025-12-20",
       "symbol": "COHN",
       "action": "SELL",
-      "quantity": -21.0,
-      "price": 16.03
+      "quantity": -21,
+      "price": 16.03,
+      "value": -336.63,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 550.4939999999976,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-20",
       "symbol": "NATR",
       "action": "BUY",
-      "quantity": 19.0,
-      "price": 22.28
+      "quantity": 19,
+      "price": 22.28,
+      "value": 423.32000000000005,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 127.17399999999759,
+      "remaining_qty": 19
     },
     {
       "date": "2025-12-20",
       "symbol": "NATR",
       "action": "SELL",
-      "quantity": -19.0,
-      "price": 22.28
+      "quantity": -19,
+      "price": 22.28,
+      "value": -423.32000000000005,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 550.4939999999976,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-20",
       "symbol": "COHN",
       "action": "BUY",
-      "quantity": 21.0,
-      "price": 16.03
+      "quantity": 21,
+      "price": 16.03,
+      "value": 336.63,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 213.86399999999765,
+      "remaining_qty": 21
     },
     {
       "date": "2025-12-21",
       "symbol": "COHN",
       "action": "BUY",
-      "quantity": 2.0,
-      "price": 15.49
+      "quantity": 2,
+      "price": 15.49,
+      "value": 30.98,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 365.6639999999976,
+      "remaining_qty": 23
     },
     {
       "date": "2025-12-21",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -57.0,
-      "price": 10.52
+      "quantity": -57,
+      "price": 10.52,
+      "value": -599.64,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 813.5039999999976,
+      "remaining_qty": 0
     },
     {
       "date": "2025-12-21",
       "symbol": "NATR",
       "action": "BUY",
-      "quantity": 19.0,
-      "price": 21.94
+      "quantity": 19,
+      "price": 21.94,
+      "value": 416.86,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 396.6439999999976,
+      "remaining_qty": 19
     },
     {
       "date": "2025-12-21",
       "symbol": "MBI",
       "action": "BUY",
-      "quantity": 30.0,
-      "price": 7.12
+      "quantity": 30,
+      "price": 7.12,
+      "value": 213.6,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 152.0639999999976,
+      "remaining_qty": 30
     }
   ],
   "meta": {

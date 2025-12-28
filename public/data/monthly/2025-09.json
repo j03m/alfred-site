@@ -279,238 +279,6 @@
         "target_weight": 6.112689290350787e-19,
         "score": -6.233020901749114
       }
-    ],
-    "log": [
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "AORT"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "CCLD"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "CDE"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "COMM"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "DRD"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "FLXS"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "HBI"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "HIVE"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "HL"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "INFU"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "KGC"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "LIVE"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "MATV"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "RDDT"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "SBH"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "SHCO"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "SIGA"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "SMP"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "SSRM"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "TILE"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "TPC"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "VFF"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Added",
-        "symbol": "XOMA"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "ADTN"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "ALAB"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "ATRA"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "CGNX"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "COIN"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "FGEN"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "GFI"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "GIC"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "GMAB"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "JFU"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "JOUT"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "KSS"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "MTRN"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "NTWK"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "PI"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "REZI"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "RYTM"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "SNDL"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "STOK"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "TRS"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "TVTX"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "W"
-      },
-      {
-        "date": "2025-09-01",
-        "action": "Dropped",
-        "symbol": "WWW"
-      }
     ]
   },
   "ledger": [
@@ -518,652 +286,1024 @@
       "date": "2025-09-08",
       "symbol": "RIGL",
       "action": "SELL",
-      "quantity": -480.0,
-      "price": 36.06
+      "quantity": -480,
+      "price": 36.06,
+      "value": -17308.800000000003,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 17327.584000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-08",
       "symbol": "SSRM",
       "action": "BUY",
-      "quantity": 534.0,
-      "price": 21.34
+      "quantity": 534,
+      "price": 21.34,
+      "value": 11395.56,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5932.024000000003,
+      "remaining_qty": 534
     },
     {
       "date": "2025-09-08",
       "symbol": "KGC",
       "action": "BUY",
-      "quantity": 142.0,
-      "price": 22.55
+      "quantity": 142,
+      "price": 22.55,
+      "value": 3202.1,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2729.924000000003,
+      "remaining_qty": 142
     },
     {
       "date": "2025-09-08",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 871.0,
-      "price": 2.59
+      "quantity": 871,
+      "price": 2.59,
+      "value": 2255.89,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 474.0340000000033,
+      "remaining_qty": 871
     },
     {
       "date": "2025-09-08",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 20.0,
-      "price": 22.0
+      "quantity": 20,
+      "price": 22.0,
+      "value": 440.0,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 34.03400000000329,
+      "remaining_qty": 20
     },
     {
       "date": "2025-09-09",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -20.0,
-      "price": 22.13
+      "quantity": -20,
+      "price": 22.13,
+      "value": -442.59999999999997,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 476.63400000000325,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-09",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 67.0,
-      "price": 2.44
+      "quantity": 67,
+      "price": 2.44,
+      "value": 163.48,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 313.1540000000033,
+      "remaining_qty": 938
     },
     {
       "date": "2025-09-09",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -938.0,
-      "price": 2.44
+      "quantity": -938,
+      "price": 2.44,
+      "value": -2288.72,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2601.874000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-09",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 20.0,
-      "price": 22.13
+      "quantity": 20,
+      "price": 22.13,
+      "value": 442.59999999999997,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2159.274000000003,
+      "remaining_qty": 20
     },
     {
       "date": "2025-09-10",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 20.0,
-      "price": 22.46
+      "quantity": 20,
+      "price": 22.46,
+      "value": 449.20000000000005,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2159.274000000003,
+      "remaining_qty": 20
     },
     {
       "date": "2025-09-10",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -949.0,
-      "price": 2.49
+      "quantity": -949,
+      "price": 2.49,
+      "value": -2363.01,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2608.474000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-10",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 949.0,
-      "price": 2.49
+      "quantity": 949,
+      "price": 2.49,
+      "value": 2363.01,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 245.46400000000267,
+      "remaining_qty": 949
     },
     {
       "date": "2025-09-10",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -20.0,
-      "price": 22.46
+      "quantity": -20,
+      "price": 22.46,
+      "value": -449.20000000000005,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2608.474000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-11",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -20.0,
-      "price": 21.835
+      "quantity": -20,
+      "price": 21.835,
+      "value": -436.70000000000005,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2595.974000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-11",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 888.0,
-      "price": 2.62
+      "quantity": 888,
+      "price": 2.62,
+      "value": 2326.56,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 269.41400000000294,
+      "remaining_qty": 888
     },
     {
       "date": "2025-09-11",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -888.0,
-      "price": 2.62
+      "quantity": -888,
+      "price": 2.62,
+      "value": -2326.56,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2595.974000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-11",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 20.0,
-      "price": 21.835
+      "quantity": 20,
+      "price": 21.835,
+      "value": 436.70000000000005,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2159.274000000003,
+      "remaining_qty": 20
     },
     {
       "date": "2025-09-12",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -20.0,
-      "price": 21.835
+      "quantity": -20,
+      "price": 21.835,
+      "value": -436.70000000000005,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2595.974000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-12",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 888.0,
-      "price": 2.62
+      "quantity": 888,
+      "price": 2.62,
+      "value": 2326.56,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 269.41400000000294,
+      "remaining_qty": 888
     },
     {
       "date": "2025-09-12",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -888.0,
-      "price": 2.62
+      "quantity": -888,
+      "price": 2.62,
+      "value": -2326.56,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2595.974000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-12",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 20.0,
-      "price": 21.835
+      "quantity": 20,
+      "price": 21.835,
+      "value": 436.70000000000005,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2159.274000000003,
+      "remaining_qty": 20
     },
     {
       "date": "2025-09-13",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 20.0,
-      "price": 21.835
+      "quantity": 20,
+      "price": 21.835,
+      "value": 436.70000000000005,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2159.274000000003,
+      "remaining_qty": 20
     },
     {
       "date": "2025-09-13",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -888.0,
-      "price": 2.62
+      "quantity": -888,
+      "price": 2.62,
+      "value": -2326.56,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2595.974000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-13",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -20.0,
-      "price": 21.835
+      "quantity": -20,
+      "price": 21.835,
+      "value": -436.70000000000005,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2595.974000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-13",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 888.0,
-      "price": 2.62
+      "quantity": 888,
+      "price": 2.62,
+      "value": 2326.56,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 269.41400000000294,
+      "remaining_qty": 888
     },
     {
       "date": "2025-09-14",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -20.0,
-      "price": 23.07
+      "quantity": -20,
+      "price": 23.07,
+      "value": -461.4,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2620.674000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-14",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 877.0,
-      "price": 2.69
+      "quantity": 877,
+      "price": 2.69,
+      "value": 2359.13,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 261.54400000000305,
+      "remaining_qty": 877
     },
     {
       "date": "2025-09-14",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -877.0,
-      "price": 2.69
+      "quantity": -877,
+      "price": 2.69,
+      "value": -2359.13,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2620.674000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-14",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 19.0,
-      "price": 23.07
+      "quantity": 19,
+      "price": 23.07,
+      "value": 438.33,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2182.3440000000032,
+      "remaining_qty": 19
     },
     {
       "date": "2025-09-15",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -19.0,
-      "price": 22.7
+      "quantity": -19,
+      "price": 22.7,
+      "value": -431.3,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2613.6440000000034,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-15",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 848.0,
-      "price": 2.61
+      "quantity": 848,
+      "price": 2.61,
+      "value": 2213.2799999999997,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 400.36400000000367,
+      "remaining_qty": 848
     },
     {
       "date": "2025-09-15",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -848.0,
-      "price": 2.61
+      "quantity": -848,
+      "price": 2.61,
+      "value": -2213.2799999999997,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2613.6440000000034,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-15",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 19.0,
-      "price": 22.7
+      "quantity": 19,
+      "price": 22.7,
+      "value": 431.3,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2182.3440000000032,
+      "remaining_qty": 19
     },
     {
       "date": "2025-09-16",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 876.0,
-      "price": 2.57
+      "quantity": 876,
+      "price": 2.57,
+      "value": 2251.3199999999997,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 379.5190000000034,
+      "remaining_qty": 876
     },
     {
       "date": "2025-09-16",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 18.0,
-      "price": 23.605
+      "quantity": 18,
+      "price": 23.605,
+      "value": 424.89,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2205.9490000000033,
+      "remaining_qty": 18
     },
     {
       "date": "2025-09-16",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -19.0,
-      "price": 23.605
+      "quantity": -19,
+      "price": 23.605,
+      "value": -448.495,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2630.839000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-16",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -876.0,
-      "price": 2.57
+      "quantity": -876,
+      "price": 2.57,
+      "value": -2251.3199999999997,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2630.839000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-17",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -18.0,
-      "price": 24.56
+      "quantity": -18,
+      "price": 24.56,
+      "value": -442.08,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2648.029000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-17",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 820.0,
-      "price": 2.77
+      "quantity": 820,
+      "price": 2.77,
+      "value": 2271.4,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 376.6290000000031,
+      "remaining_qty": 820
     },
     {
       "date": "2025-09-17",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -820.0,
-      "price": 2.77
+      "quantity": -820,
+      "price": 2.77,
+      "value": -2271.4,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2648.029000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-17",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 18.0,
-      "price": 24.56
+      "quantity": 18,
+      "price": 24.56,
+      "value": 442.08,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2205.9490000000033,
+      "remaining_qty": 18
     },
     {
       "date": "2025-09-18",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -909.0,
-      "price": 2.66
+      "quantity": -909,
+      "price": 2.66,
+      "value": -2417.94,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2687.8090000000034,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-18",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -18.0,
-      "price": 26.77
+      "quantity": -18,
+      "price": 26.77,
+      "value": -481.86,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2687.8090000000034,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-18",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 909.0,
-      "price": 2.66
+      "quantity": 909,
+      "price": 2.66,
+      "value": 2417.94,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 269.8690000000033,
+      "remaining_qty": 909
     },
     {
       "date": "2025-09-18",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 26.77
+      "quantity": 17,
+      "price": 26.77,
+      "value": 455.09,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2232.7190000000032,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-19",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 26.77
+      "quantity": 17,
+      "price": 26.77,
+      "value": 455.09,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2232.7190000000032,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-19",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -909.0,
-      "price": 2.66
+      "quantity": -909,
+      "price": 2.66,
+      "value": -2417.94,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2687.8090000000034,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-19",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 909.0,
-      "price": 2.66
+      "quantity": 909,
+      "price": 2.66,
+      "value": 2417.94,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 269.8690000000033,
+      "remaining_qty": 909
     },
     {
       "date": "2025-09-19",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 26.77
+      "quantity": -17,
+      "price": 26.77,
+      "value": -455.09,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2687.8090000000034,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-20",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 26.77
+      "quantity": -17,
+      "price": 26.77,
+      "value": -455.09,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2687.8090000000034,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-20",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 909.0,
-      "price": 2.66
+      "quantity": 909,
+      "price": 2.66,
+      "value": 2417.94,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 269.8690000000033,
+      "remaining_qty": 909
     },
     {
       "date": "2025-09-20",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -909.0,
-      "price": 2.66
+      "quantity": -909,
+      "price": 2.66,
+      "value": -2417.94,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2687.8090000000034,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-20",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 26.77
+      "quantity": 17,
+      "price": 26.77,
+      "value": 455.09,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2232.7190000000032,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-21",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 27.37
+      "quantity": -17,
+      "price": 27.37,
+      "value": -465.29,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2698.009000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-21",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 843.0,
-      "price": 2.89
+      "quantity": 843,
+      "price": 2.89,
+      "value": 2436.27,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 261.7390000000032,
+      "remaining_qty": 843
     },
     {
       "date": "2025-09-21",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -843.0,
-      "price": 2.89
+      "quantity": -843,
+      "price": 2.89,
+      "value": -2436.27,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2698.009000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-21",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 27.37
+      "quantity": 17,
+      "price": 27.37,
+      "value": 465.29,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2232.7190000000032,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-22",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 16.0,
-      "price": 27.77
+      "quantity": 16,
+      "price": 27.77,
+      "value": 444.32,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2260.489000000003,
+      "remaining_qty": 16
     },
     {
       "date": "2025-09-22",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -879.0,
-      "price": 2.75
+      "quantity": -879,
+      "price": 2.75,
+      "value": -2417.25,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2704.8090000000034,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-22",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 27.77
+      "quantity": -17,
+      "price": 27.77,
+      "value": -472.09,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2704.8090000000034,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-22",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 879.0,
-      "price": 2.75
+      "quantity": 879,
+      "price": 2.75,
+      "value": 2417.25,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 287.5590000000034,
+      "remaining_qty": 879
     },
     {
       "date": "2025-09-23",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -16.0,
-      "price": 26.83
+      "quantity": -16,
+      "price": 26.83,
+      "value": -429.28,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2689.769000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-23",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 865.0,
-      "price": 2.75
+      "quantity": 865,
+      "price": 2.75,
+      "value": 2378.75,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 311.01900000000296,
+      "remaining_qty": 865
     },
     {
       "date": "2025-09-23",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -865.0,
-      "price": 2.75
+      "quantity": -865,
+      "price": 2.75,
+      "value": -2378.75,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2689.769000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-23",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 26.83
+      "quantity": 17,
+      "price": 26.83,
+      "value": 456.10999999999996,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2233.659000000003,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-24",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 27.01
+      "quantity": -17,
+      "price": 27.01,
+      "value": -459.17,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2692.829000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-24",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 885.0,
-      "price": 2.77
+      "quantity": 885,
+      "price": 2.77,
+      "value": 2451.45,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 241.3790000000031,
+      "remaining_qty": 885
     },
     {
       "date": "2025-09-24",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -885.0,
-      "price": 2.77
+      "quantity": -885,
+      "price": 2.77,
+      "value": -2451.45,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2692.829000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-24",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 27.01
+      "quantity": 17,
+      "price": 27.01,
+      "value": 459.17,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2233.659000000003,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-25",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 29.03
+      "quantity": 17,
+      "price": 29.03,
+      "value": 493.51,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2233.6590000000024,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-25",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -826.0,
-      "price": 3.07
+      "quantity": -826,
+      "price": 3.07,
+      "value": -2535.8199999999997,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2727.1690000000026,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-25",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 826.0,
-      "price": 3.07
+      "quantity": 826,
+      "price": 3.07,
+      "value": 2535.8199999999997,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 191.3490000000029,
+      "remaining_qty": 826
     },
     {
       "date": "2025-09-25",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 29.03
+      "quantity": -17,
+      "price": 29.03,
+      "value": -493.51,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2727.1690000000026,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-26",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 29.03
+      "quantity": -17,
+      "price": 29.03,
+      "value": -493.51,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2727.1690000000026,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-26",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 826.0,
-      "price": 3.07
+      "quantity": 826,
+      "price": 3.07,
+      "value": 2535.8199999999997,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 191.3490000000029,
+      "remaining_qty": 826
     },
     {
       "date": "2025-09-26",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -826.0,
-      "price": 3.07
+      "quantity": -826,
+      "price": 3.07,
+      "value": -2535.8199999999997,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2727.1690000000026,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-26",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 29.03
+      "quantity": 17,
+      "price": 29.03,
+      "value": 493.51,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2233.6590000000024,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-27",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 29.03
+      "quantity": -17,
+      "price": 29.03,
+      "value": -493.51,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2727.1690000000026,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-27",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 826.0,
-      "price": 3.07
+      "quantity": 826,
+      "price": 3.07,
+      "value": 2535.8199999999997,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 191.3490000000029,
+      "remaining_qty": 826
     },
     {
       "date": "2025-09-27",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -826.0,
-      "price": 3.07
+      "quantity": -826,
+      "price": 3.07,
+      "value": -2535.8199999999997,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2727.1690000000026,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-27",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 29.03
+      "quantity": 17,
+      "price": 29.03,
+      "value": 493.51,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2233.6590000000024,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-28",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 27.05
+      "quantity": 17,
+      "price": 27.05,
+      "value": 459.85,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2233.6590000000024,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-28",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -742.0,
-      "price": 3.34
+      "quantity": -742,
+      "price": 3.34,
+      "value": -2478.2799999999997,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2693.5090000000023,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-28",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 742.0,
-      "price": 3.34
+      "quantity": 742,
+      "price": 3.34,
+      "value": 2478.2799999999997,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 215.22900000000254,
+      "remaining_qty": 742
     },
     {
       "date": "2025-09-28",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 27.05
+      "quantity": -17,
+      "price": 27.05,
+      "value": -459.85,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2693.5090000000023,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-29",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 28.08
+      "quantity": -17,
+      "price": 28.08,
+      "value": -477.35999999999996,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2711.0190000000025,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-29",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 815.0,
-      "price": 3.1
+      "quantity": 815,
+      "price": 3.1,
+      "value": 2526.5,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 184.5190000000025,
+      "remaining_qty": 815
     },
     {
       "date": "2025-09-29",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -815.0,
-      "price": 3.1
+      "quantity": -815,
+      "price": 3.1,
+      "value": -2526.5,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2711.0190000000025,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-29",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 28.08
+      "quantity": 17,
+      "price": 28.08,
+      "value": 477.35999999999996,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2233.6590000000024,
+      "remaining_qty": 17
     },
     {
       "date": "2025-09-30",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 28.815
+      "quantity": -17,
+      "price": 28.815,
+      "value": -489.855,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2723.5140000000024,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-30",
       "symbol": "VFF",
       "action": "BUY",
-      "quantity": 838.0,
-      "price": 2.99
+      "quantity": 838,
+      "price": 2.99,
+      "value": 2505.6200000000003,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 217.89400000000205,
+      "remaining_qty": 838
     },
     {
       "date": "2025-09-30",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -838.0,
-      "price": 2.99
+      "quantity": -838,
+      "price": 2.99,
+      "value": -2505.6200000000003,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 2723.5140000000024,
+      "remaining_qty": 0
     },
     {
       "date": "2025-09-30",
       "symbol": "DRD",
       "action": "BUY",
-      "quantity": 16.0,
-      "price": 28.815
+      "quantity": 16,
+      "price": 28.815,
+      "value": 461.04,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2262.4740000000024,
+      "remaining_qty": 16
     }
   ],
   "meta": {

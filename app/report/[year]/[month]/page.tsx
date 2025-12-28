@@ -76,7 +76,7 @@ export default async function ReportPage({ params }: PageProps) {
 
         {/* Holdings & Predictions Tabs */}
         <section>
-            <TableTabs holdings={report.holdings} predictions={report.predictions} />
+            <TableTabs holdings={report.holdings} predictions={report.predictions} ledger={report.ledger} />
         </section>
 
       </main>

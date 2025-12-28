@@ -274,238 +274,6 @@
         "target_weight": 8.339306790844573e-14,
         "score": -6.554265305328954
       }
-    ],
-    "log": [
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "AMGN"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "AUPH"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "BIIB"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "CEPU"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "CRESY"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "DVAX"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "DX"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "HAE"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "HRZN"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "IQV"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "IRS"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "IRWD"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "ISRG"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "JBHT"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "JOE"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "PHI"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "REGN"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "SND"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "SUPV"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "TVTX"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "VICR"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "VSCO"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Added",
-        "symbol": "WU"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "BODI"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "CCO"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "CDRE"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "EGAN"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "FBIO"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "GLUE"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "HOUS"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "ITRG"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "LITB"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "M"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "MKSI"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "OESX"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "PFSI"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "QFIN"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "REAL"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "SPHR"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "SPRU"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "STRW"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "TACT"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "TYGO"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "UROY"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "W"
-      },
-      {
-        "date": "2025-11-01",
-        "action": "Dropped",
-        "symbol": "WBD"
-      }
     ]
   },
   "ledger": [
@@ -513,204 +281,320 @@
       "date": "2025-11-01",
       "symbol": "IRS",
       "action": "BUY",
-      "quantity": 1.0,
-      "price": 15.85
+      "quantity": 1,
+      "price": 15.85,
+      "value": 15.85,
+      "reason": "BUY_PARTIAL_CASH",
+      "remaining_cash": 4.1640000000009625,
+      "remaining_qty": 1
     },
     {
       "date": "2025-11-01",
       "symbol": "IRS",
       "action": "SELL",
-      "quantity": -1.0,
-      "price": 15.85
+      "quantity": -1,
+      "price": 15.85,
+      "value": -15.85,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 20.014000000000962,
+      "remaining_qty": 0
     },
     {
       "date": "2025-11-01",
       "symbol": "CRESY",
       "action": "BUY",
-      "quantity": 1.0,
-      "price": 12.805
+      "quantity": 1,
+      "price": 12.805,
+      "value": 12.805,
+      "reason": "BUY_PARTIAL_CASH",
+      "remaining_cash": 7.209000000000962,
+      "remaining_qty": 1
     },
     {
       "date": "2025-11-01",
       "symbol": "CRESY",
       "action": "SELL",
-      "quantity": -1.0,
-      "price": 12.805
+      "quantity": -1,
+      "price": 12.805,
+      "value": -12.805,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 20.014000000000962,
+      "remaining_qty": 0
     },
     {
       "date": "2025-11-01",
       "symbol": "IRWD",
       "action": "BUY",
-      "quantity": 7.0,
-      "price": 1.96
+      "quantity": 7,
+      "price": 1.96,
+      "value": 13.719999999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 6.294000000000963,
+      "remaining_qty": 7
     },
     {
       "date": "2025-11-02",
       "symbol": "IRWD",
       "action": "SELL",
-      "quantity": -7.0,
-      "price": 1.81
+      "quantity": -7,
+      "price": 1.81,
+      "value": -12.67,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 18.964000000000965,
+      "remaining_qty": 0
     },
     {
       "date": "2025-11-02",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -32.0,
-      "price": 2.41
+      "quantity": -32,
+      "price": 2.41,
+      "value": -77.12,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 96.08400000000097,
+      "remaining_qty": 0
     },
     {
       "date": "2025-11-02",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -4.0,
-      "price": 1.78
+      "quantity": -4,
+      "price": 1.78,
+      "value": -7.12,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 103.20400000000097,
+      "remaining_qty": 0
     },
     {
       "date": "2025-11-02",
       "symbol": "IRS",
       "action": "BUY",
-      "quantity": 6.0,
-      "price": 15.04
+      "quantity": 6,
+      "price": 15.04,
+      "value": 90.24,
+      "reason": "BUY_PARTIAL_CASH",
+      "remaining_cash": 12.96400000000098,
+      "remaining_qty": 6
     },
     {
       "date": "2025-11-02",
       "symbol": "IRS",
       "action": "SELL",
-      "quantity": -6.0,
-      "price": 15.04
+      "quantity": -6,
+      "price": 15.04,
+      "value": -90.24,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 103.20400000000097,
+      "remaining_qty": 0
     },
     {
       "date": "2025-11-02",
       "symbol": "CRESY",
       "action": "BUY",
-      "quantity": 6.0,
-      "price": 12.15
+      "quantity": 6,
+      "price": 12.15,
+      "value": 72.9,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 30.30400000000097,
+      "remaining_qty": 6
     },
     {
       "date": "2025-11-02",
       "symbol": "IRWD",
       "action": "BUY",
-      "quantity": 8.0,
-      "price": 1.81
+      "quantity": 8,
+      "price": 1.81,
+      "value": 14.48,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 15.824000000000968,
+      "remaining_qty": 8
     },
     {
       "date": "2025-11-03",
       "symbol": "IRWD",
       "action": "BUY",
-      "quantity": 8.0,
-      "price": 1.88
+      "quantity": 8,
+      "price": 1.88,
+      "value": 15.04,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9.114000000000381,
+      "remaining_qty": 8
     },
     {
       "date": "2025-11-03",
       "symbol": "CRESY",
       "action": "BUY",
-      "quantity": 7.0,
-      "price": 12.19
+      "quantity": 7,
+      "price": 12.19,
+      "value": 85.33,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 24.15400000000038,
+      "remaining_qty": 7
     },
     {
       "date": "2025-11-03",
       "symbol": "IRS",
       "action": "BUY",
-      "quantity": 1261.0,
-      "price": 14.57
+      "quantity": 1261,
+      "price": 14.57,
+      "value": 18372.77,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 109.48400000000038,
+      "remaining_qty": 1261
     },
     {
       "date": "2025-11-03",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -815.0,
-      "price": 22.55
+      "quantity": -815,
+      "price": 22.55,
+      "value": -18378.25,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 18482.254,
+      "remaining_qty": 0
     },
     {
       "date": "2025-11-03",
       "symbol": "CRESY",
       "action": "SELL",
-      "quantity": -6.0,
-      "price": 12.19
+      "quantity": -6,
+      "price": 12.19,
+      "value": -73.14,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 104.00400000000097,
+      "remaining_qty": 0
     },
     {
       "date": "2025-11-03",
       "symbol": "IRWD",
       "action": "SELL",
-      "quantity": -8.0,
-      "price": 1.88
+      "quantity": -8,
+      "price": 1.88,
+      "value": -15.04,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 30.864000000000967,
+      "remaining_qty": 0
     },
     {
       "date": "2025-11-06",
       "symbol": "IRWD",
       "action": "SELL",
-      "quantity": -1.0,
-      "price": 2.44
+      "quantity": -1,
+      "price": 2.44,
+      "value": -2.44,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 11.55400000000038,
+      "remaining_qty": 7
     },
     {
       "date": "2025-11-10",
       "symbol": "IRWD",
       "action": "SELL",
-      "quantity": -1.0,
-      "price": 2.98
+      "quantity": -1,
+      "price": 2.98,
+      "value": -2.98,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 14.53400000000038,
+      "remaining_qty": 6
     },
     {
       "date": "2025-11-12",
       "symbol": "IRWD",
       "action": "SELL",
-      "quantity": -1.0,
-      "price": 3.41
+      "quantity": -1,
+      "price": 3.41,
+      "value": -3.41,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 17.94400000000038,
+      "remaining_qty": 5
     },
     {
       "date": "2025-11-16",
       "symbol": "CRESY",
       "action": "BUY",
-      "quantity": 1.0,
-      "price": 11.52
+      "quantity": 1,
+      "price": 11.52,
+      "value": 11.52,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 6.42400000000038,
+      "remaining_qty": 8
     },
     {
       "date": "2025-11-23",
       "symbol": "IRS",
       "action": "SELL",
-      "quantity": -1261.0,
-      "price": 13.97
+      "quantity": -1261,
+      "price": 13.97,
+      "value": -17616.170000000002,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 17622.594,
+      "remaining_qty": 0
     },
     {
       "date": "2025-11-23",
       "symbol": "CRESY",
       "action": "BUY",
-      "quantity": 1252.0,
-      "price": 11.69
+      "quantity": 1252,
+      "price": 11.69,
+      "value": 14635.88,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2986.7140000000018,
+      "remaining_qty": 1260
     },
     {
       "date": "2025-11-23",
       "symbol": "IRWD",
       "action": "BUY",
-      "quantity": 800.0,
-      "price": 3.33
+      "quantity": 800,
+      "price": 3.33,
+      "value": 2664.0,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 322.71400000000176,
+      "remaining_qty": 805
     },
     {
       "date": "2025-11-23",
       "symbol": "PHI",
       "action": "BUY",
-      "quantity": 10.0,
-      "price": 22.39
+      "quantity": 10,
+      "price": 22.39,
+      "value": 223.9,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 98.81400000000176,
+      "remaining_qty": 10
     },
     {
       "date": "2025-11-23",
       "symbol": "CEPU",
       "action": "BUY",
-      "quantity": 1.0,
-      "price": 13.84
+      "quantity": 1,
+      "price": 13.84,
+      "value": 13.84,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 84.97400000000175,
+      "remaining_qty": 1
     },
     {
       "date": "2025-11-25",
       "symbol": "IRWD",
       "action": "SELL",
-      "quantity": -97.0,
-      "price": 3.92
+      "quantity": -97,
+      "price": 3.92,
+      "value": -380.24,
+      "reason": "TRIM_OVERWEIGHT",
+      "remaining_cash": 465.21400000000176,
+      "remaining_qty": 708
     },
     {
       "date": "2025-11-27",
       "symbol": "IRWD",
       "action": "BUY",
-      "quantity": 70.0,
-      "price": 3.48
+      "quantity": 70,
+      "price": 3.48,
+      "value": 243.6,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 221.61400000000177,
+      "remaining_qty": 778
     }
   ],
   "meta": {

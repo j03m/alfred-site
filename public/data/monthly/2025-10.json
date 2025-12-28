@@ -291,258 +291,6 @@
         "target_weight": 7.046272638616493e-15,
         "score": -7.814910787414647
       }
-    ],
-    "log": [
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "ARQT"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "BODI"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "CCO"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "CDRE"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "EGAN"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "EVAX"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "FBIO"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "GLUE"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "HOUS"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "ITRG"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "LITB"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "M"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "MKSI"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "OESX"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "PFSI"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "QFIN"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "REAL"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "SPHR"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "SPRU"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "STRW"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "TACT"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "TYGO"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "UROY"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "W"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Added",
-        "symbol": "WBD"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "AORT"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "CCLD"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "CDE"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "COMM"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "DRD"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "EMBC"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "FLXS"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "HBI"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "HIVE"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "HL"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "INFU"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "KGC"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "LIVE"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "MATV"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "RDDT"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "RIGL"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "SBH"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "SHCO"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "SIGA"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "SMP"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "SSRM"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "TILE"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "TPC"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "VFF"
-      },
-      {
-        "date": "2025-10-01",
-        "action": "Dropped",
-        "symbol": "XOMA"
-      }
     ]
   },
   "ledger": [
@@ -550,925 +298,1453 @@
       "date": "2025-10-01",
       "symbol": "SSRM",
       "action": "SELL",
-      "quantity": -534.0,
-      "price": 23.76
+      "quantity": -534,
+      "price": 23.76,
+      "value": -12687.84,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 14950.314000000002,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-01",
       "symbol": "KGC",
       "action": "SELL",
-      "quantity": -142.0,
-      "price": 25.01
+      "quantity": -142,
+      "price": 25.01,
+      "value": -3551.42,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 18501.734000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-01",
       "symbol": "SPHR",
       "action": "BUY",
-      "quantity": 280.0,
-      "price": 65.99
+      "quantity": 280,
+      "price": 65.99,
+      "value": 18477.199999999997,
+      "reason": "BUY_PARTIAL_CASH",
+      "remaining_cash": 24.534000000006927,
+      "remaining_qty": 280
     },
     {
       "date": "2025-10-07",
       "symbol": "SPHR",
       "action": "SELL",
-      "quantity": -280.0,
-      "price": 59.09
+      "quantity": -280,
+      "price": 59.09,
+      "value": -16545.2,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 16569.734000000008,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-07",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 601.0,
-      "price": 17.84
+      "quantity": 601,
+      "price": 17.84,
+      "value": 10721.84,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5847.8940000000075,
+      "remaining_qty": 601
     },
     {
       "date": "2025-10-07",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -601.0,
-      "price": 17.84
+      "quantity": -601,
+      "price": 17.84,
+      "value": -10721.84,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16569.734000000008,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-07",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1083.0,
-      "price": 5.78
+      "quantity": 1083,
+      "price": 5.78,
+      "value": 6259.740000000001,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10309.994000000006,
+      "remaining_qty": 1083
     },
     {
       "date": "2025-10-07",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.87
+      "quantity": 17,
+      "price": 2.87,
+      "value": 48.79,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10261.204000000005,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-07",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 1.44
+      "quantity": 3,
+      "price": 1.44,
+      "value": 4.32,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10256.884000000005,
+      "remaining_qty": 3
     },
     {
       "date": "2025-10-08",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 1.36
+      "quantity": 3,
+      "price": 1.36,
+      "value": 4.08,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10280.084000000004,
+      "remaining_qty": 3
     },
     {
       "date": "2025-10-08",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.81
+      "quantity": 17,
+      "price": 2.81,
+      "value": 47.77,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10284.164000000004,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-08",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1079.0,
-      "price": 5.8
+      "quantity": 1079,
+      "price": 5.8,
+      "value": 6258.2,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10331.934000000005,
+      "remaining_qty": 1079
     },
     {
       "date": "2025-10-08",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -605.0,
-      "price": 17.72
+      "quantity": -605,
+      "price": 17.72,
+      "value": -10720.599999999999,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16590.134000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-08",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.81
+      "quantity": -17,
+      "price": 2.81,
+      "value": -47.77,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10308.734000000006,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-08",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1083.0,
-      "price": 5.8
+      "quantity": -1083,
+      "price": 5.8,
+      "value": -6281.4,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16590.134000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-08",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -3.0,
-      "price": 1.36
+      "quantity": -3,
+      "price": 1.36,
+      "value": -4.08,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10260.964000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-08",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 605.0,
-      "price": 17.72
+      "quantity": 605,
+      "price": 17.72,
+      "value": 10720.599999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5869.534000000007,
+      "remaining_qty": 605
     },
     {
       "date": "2025-10-09",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1129.0,
-      "price": 5.42
+      "quantity": 1129,
+      "price": 5.42,
+      "value": 6119.18,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10059.114000000003,
+      "remaining_qty": 1129
     },
     {
       "date": "2025-10-09",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 1.32
+      "quantity": 3,
+      "price": 1.32,
+      "value": 3.96,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10009.084000000004,
+      "remaining_qty": 3
     },
     {
       "date": "2025-10-09",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.71
+      "quantity": 17,
+      "price": 2.71,
+      "value": 46.07,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10013.044000000004,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-09",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -582.0,
-      "price": 17.995
+      "quantity": -582,
+      "price": 17.995,
+      "value": -10473.09,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16178.294000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-09",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.71
+      "quantity": -17,
+      "price": 2.71,
+      "value": -46.07,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10330.114000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-09",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1079.0,
-      "price": 5.42
+      "quantity": -1079,
+      "price": 5.42,
+      "value": -5848.18,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16178.294000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-09",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -3.0,
-      "price": 1.32
+      "quantity": -3,
+      "price": 1.32,
+      "value": -3.96,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10284.044000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-09",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 582.0,
-      "price": 17.995
+      "quantity": 582,
+      "price": 17.995,
+      "value": 10473.09,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5705.204000000003,
+      "remaining_qty": 582
     },
     {
       "date": "2025-10-10",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -3.0,
-      "price": 1.32
+      "quantity": -3,
+      "price": 1.32,
+      "value": -3.96,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10013.044000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-10",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.71
+      "quantity": -17,
+      "price": 2.71,
+      "value": -46.07,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10059.114000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-10",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1129.0,
-      "price": 5.42
+      "quantity": -1129,
+      "price": 5.42,
+      "value": -6119.18,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16178.294000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-10",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 582.0,
-      "price": 17.995
+      "quantity": 582,
+      "price": 17.995,
+      "value": 10473.09,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5705.204000000003,
+      "remaining_qty": 582
     },
     {
       "date": "2025-10-10",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -582.0,
-      "price": 17.995
+      "quantity": -582,
+      "price": 17.995,
+      "value": -10473.09,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16178.294000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-10",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1129.0,
-      "price": 5.42
+      "quantity": 1129,
+      "price": 5.42,
+      "value": 6119.18,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10059.114000000003,
+      "remaining_qty": 1129
     },
     {
       "date": "2025-10-10",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.71
+      "quantity": 17,
+      "price": 2.71,
+      "value": 46.07,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10013.044000000004,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-10",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 1.32
+      "quantity": 3,
+      "price": 1.32,
+      "value": 3.96,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10009.084000000004,
+      "remaining_qty": 3
     },
     {
       "date": "2025-10-11",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1129.0,
-      "price": 5.42
+      "quantity": 1129,
+      "price": 5.42,
+      "value": 6119.18,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10059.114000000003,
+      "remaining_qty": 1129
     },
     {
       "date": "2025-10-11",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 1.32
+      "quantity": 3,
+      "price": 1.32,
+      "value": 3.96,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10009.084000000004,
+      "remaining_qty": 3
     },
     {
       "date": "2025-10-11",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.71
+      "quantity": 17,
+      "price": 2.71,
+      "value": 46.07,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10013.044000000004,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-11",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -582.0,
-      "price": 17.995
+      "quantity": -582,
+      "price": 17.995,
+      "value": -10473.09,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16178.294000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-11",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.71
+      "quantity": -17,
+      "price": 2.71,
+      "value": -46.07,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10059.114000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-11",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1129.0,
-      "price": 5.42
+      "quantity": -1129,
+      "price": 5.42,
+      "value": -6119.18,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16178.294000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-11",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -3.0,
-      "price": 1.32
+      "quantity": -3,
+      "price": 1.32,
+      "value": -3.96,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10013.044000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-11",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 582.0,
-      "price": 17.995
+      "quantity": 582,
+      "price": 17.995,
+      "value": 10473.09,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5705.204000000003,
+      "remaining_qty": 582
     },
     {
       "date": "2025-10-12",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -3.0,
-      "price": 1.27
+      "quantity": -3,
+      "price": 1.27,
+      "value": -3.81,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10012.894000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-12",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.7
+      "quantity": -17,
+      "price": 2.7,
+      "value": -45.900000000000006,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10058.794000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-12",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1129.0,
-      "price": 5.01
+      "quantity": -1129,
+      "price": 5.01,
+      "value": -5656.29,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 15715.084000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-12",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 587.0,
-      "price": 17.33
+      "quantity": 587,
+      "price": 17.33,
+      "value": 10172.71,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5542.374000000003,
+      "remaining_qty": 587
     },
     {
       "date": "2025-10-12",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -587.0,
-      "price": 17.33
+      "quantity": -587,
+      "price": 17.33,
+      "value": -10172.71,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 15715.084000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-12",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1185.0,
-      "price": 5.01
+      "quantity": 1185,
+      "price": 5.01,
+      "value": 5936.849999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9778.234000000004,
+      "remaining_qty": 1185
     },
     {
       "date": "2025-10-12",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.7
+      "quantity": 17,
+      "price": 2.7,
+      "value": 45.900000000000006,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9732.334000000004,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-12",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 1.27
+      "quantity": 3,
+      "price": 1.27,
+      "value": 3.81,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9728.524000000005,
+      "remaining_qty": 3
     },
     {
       "date": "2025-10-13",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 1.36
+      "quantity": 3,
+      "price": 1.36,
+      "value": 4.08,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9923.699000000004,
+      "remaining_qty": 3
     },
     {
       "date": "2025-10-13",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.76
+      "quantity": 17,
+      "price": 2.76,
+      "value": 46.919999999999995,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9927.779000000004,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-13",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1148.0,
-      "price": 5.275
+      "quantity": 1148,
+      "price": 5.275,
+      "value": 6055.700000000001,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9974.699000000004,
+      "remaining_qty": 1148
     },
     {
       "date": "2025-10-13",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -563.0,
-      "price": 18.43
+      "quantity": -563,
+      "price": 18.43,
+      "value": -10376.09,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16030.399000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-13",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1185.0,
-      "price": 5.275
+      "quantity": -1185,
+      "price": 5.275,
+      "value": -6250.875,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16030.399000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-13",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.76
+      "quantity": -17,
+      "price": 2.76,
+      "value": -46.919999999999995,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 9779.524000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-13",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -3.0,
-      "price": 1.36
+      "quantity": -3,
+      "price": 1.36,
+      "value": -4.08,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 9732.604000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-13",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 563.0,
-      "price": 18.43
+      "quantity": 563,
+      "price": 18.43,
+      "value": 10376.09,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5654.309000000005,
+      "remaining_qty": 563
     },
     {
       "date": "2025-10-14",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -3.0,
-      "price": 1.38
+      "quantity": -3,
+      "price": 1.38,
+      "value": -4.14,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 9927.839000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-14",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.84
+      "quantity": -17,
+      "price": 2.84,
+      "value": -48.28,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 9976.119000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-14",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1148.0,
-      "price": 5.7
+      "quantity": -1148,
+      "price": 5.7,
+      "value": -6543.6,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16519.719000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-14",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 574.0,
-      "price": 18.63
+      "quantity": 574,
+      "price": 18.63,
+      "value": 10693.619999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5826.099000000006,
+      "remaining_qty": 574
     },
     {
       "date": "2025-10-14",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -574.0,
-      "price": 18.63
+      "quantity": -574,
+      "price": 18.63,
+      "value": -10693.619999999999,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16519.719000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-14",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1096.0,
-      "price": 5.7
+      "quantity": 1096,
+      "price": 5.7,
+      "value": 6247.2,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10272.519000000004,
+      "remaining_qty": 1096
     },
     {
       "date": "2025-10-14",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.84
+      "quantity": 17,
+      "price": 2.84,
+      "value": 48.28,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10224.239000000003,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-14",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 1.38
+      "quantity": 3,
+      "price": 1.38,
+      "value": 4.14,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10220.099000000004,
+      "remaining_qty": 3
     },
     {
       "date": "2025-10-15",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1121.0,
-      "price": 5.5
+      "quantity": 1121,
+      "price": 5.5,
+      "value": 6165.5,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10133.039000000004,
+      "remaining_qty": 1121
     },
     {
       "date": "2025-10-15",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 3.0,
-      "price": 1.4
+      "quantity": 3,
+      "price": 1.4,
+      "value": 4.199999999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10082.599000000004,
+      "remaining_qty": 3
     },
     {
       "date": "2025-10-15",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.72
+      "quantity": 17,
+      "price": 2.72,
+      "value": 46.24,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10086.799000000005,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-15",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -580.0,
-      "price": 18.21
+      "quantity": -580,
+      "price": 18.21,
+      "value": -10561.800000000001,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16298.539000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-15",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -3.0,
-      "price": 1.4
+      "quantity": -3,
+      "price": 1.4,
+      "value": -4.199999999999999,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10224.299000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-15",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1096.0,
-      "price": 5.5
+      "quantity": -1096,
+      "price": 5.5,
+      "value": -6028.0,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16298.539000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-15",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 580.0,
-      "price": 18.21
+      "quantity": 580,
+      "price": 18.21,
+      "value": 10561.800000000001,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5736.739000000003,
+      "remaining_qty": 580
     },
     {
       "date": "2025-10-15",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.72
+      "quantity": -17,
+      "price": 2.72,
+      "value": -46.24,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10270.539000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-16",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -3.0,
-      "price": 1.81
+      "quantity": -3,
+      "price": 1.81,
+      "value": -5.43,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10088.029000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-16",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.79
+      "quantity": -17,
+      "price": 2.79,
+      "value": -47.43,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10135.459000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-16",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1121.0,
-      "price": 5.18
+      "quantity": -1121,
+      "price": 5.18,
+      "value": -5806.78,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 15942.239000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-16",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 559.0,
-      "price": 18.46
+      "quantity": 559,
+      "price": 18.46,
+      "value": 10319.140000000001,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5623.099000000004,
+      "remaining_qty": 559
     },
     {
       "date": "2025-10-16",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -559.0,
-      "price": 18.46
+      "quantity": -559,
+      "price": 18.46,
+      "value": -10319.140000000001,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 15942.239000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-16",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1163.0,
-      "price": 5.18
+      "quantity": 1163,
+      "price": 5.18,
+      "value": 6024.339999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9917.899000000005,
+      "remaining_qty": 1163
     },
     {
       "date": "2025-10-16",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.79
+      "quantity": 17,
+      "price": 2.79,
+      "value": 47.43,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9870.469000000005,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-16",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 2.0,
-      "price": 1.81
+      "quantity": 2,
+      "price": 1.81,
+      "value": 3.62,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9866.849000000004,
+      "remaining_qty": 2
     },
     {
       "date": "2025-10-17",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1163.0,
-      "price": 5.18
+      "quantity": 1163,
+      "price": 5.18,
+      "value": 6024.339999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9917.899000000005,
+      "remaining_qty": 1163
     },
     {
       "date": "2025-10-17",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 2.0,
-      "price": 1.81
+      "quantity": 2,
+      "price": 1.81,
+      "value": 3.62,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9866.849000000004,
+      "remaining_qty": 2
     },
     {
       "date": "2025-10-17",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.79
+      "quantity": 17,
+      "price": 2.79,
+      "value": 47.43,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9870.469000000005,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-17",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -559.0,
-      "price": 18.46
+      "quantity": -559,
+      "price": 18.46,
+      "value": -10319.140000000001,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 15942.239000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-17",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1163.0,
-      "price": 5.18
+      "quantity": -1163,
+      "price": 5.18,
+      "value": -6024.339999999999,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 15942.239000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-17",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.79
+      "quantity": -17,
+      "price": 2.79,
+      "value": -47.43,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 9917.899000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-17",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -2.0,
-      "price": 1.81
+      "quantity": -2,
+      "price": 1.81,
+      "value": -3.62,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 9870.469000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-17",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 559.0,
-      "price": 18.46
+      "quantity": 559,
+      "price": 18.46,
+      "value": 10319.140000000001,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5623.099000000004,
+      "remaining_qty": 559
     },
     {
       "date": "2025-10-18",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -2.0,
-      "price": 1.81
+      "quantity": -2,
+      "price": 1.81,
+      "value": -3.62,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 9870.469000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-18",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.79
+      "quantity": -17,
+      "price": 2.79,
+      "value": -47.43,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 9917.899000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-18",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1163.0,
-      "price": 5.18
+      "quantity": -1163,
+      "price": 5.18,
+      "value": -6024.339999999999,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 15942.239000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-18",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 559.0,
-      "price": 18.46
+      "quantity": 559,
+      "price": 18.46,
+      "value": 10319.140000000001,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5623.099000000004,
+      "remaining_qty": 559
     },
     {
       "date": "2025-10-18",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -559.0,
-      "price": 18.46
+      "quantity": -559,
+      "price": 18.46,
+      "value": -10319.140000000001,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 15942.239000000005,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-18",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1163.0,
-      "price": 5.18
+      "quantity": 1163,
+      "price": 5.18,
+      "value": 6024.339999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9917.899000000005,
+      "remaining_qty": 1163
     },
     {
       "date": "2025-10-18",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.79
+      "quantity": 17,
+      "price": 2.79,
+      "value": 47.43,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9870.469000000005,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-18",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 2.0,
-      "price": 1.81
+      "quantity": 2,
+      "price": 1.81,
+      "value": 3.62,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9866.849000000004,
+      "remaining_qty": 2
     },
     {
       "date": "2025-10-19",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 532.0,
-      "price": 19.68
+      "quantity": 532,
+      "price": 19.68,
+      "value": 10469.76,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 6167.639000000001,
+      "remaining_qty": 532
     },
     {
       "date": "2025-10-19",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 17.0,
-      "price": 2.73
+      "quantity": 17,
+      "price": 2.73,
+      "value": 46.41,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 12.889000000000891,
+      "remaining_qty": 17
     },
     {
       "date": "2025-10-19",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1127.0,
-      "price": 5.42
+      "quantity": 1127,
+      "price": 5.42,
+      "value": 6108.34,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 59.29900000000089,
+      "remaining_qty": 1127
     },
     {
       "date": "2025-10-19",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 2.0,
-      "price": 1.86
+      "quantity": 2,
+      "price": 1.86,
+      "value": 3.72,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9.16900000000089,
+      "remaining_qty": 2
     },
     {
       "date": "2025-10-19",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1163.0,
-      "price": 5.42
+      "quantity": -1163,
+      "price": 5.42,
+      "value": -6303.46,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 16637.399,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-19",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -2.0,
-      "price": 1.86
+      "quantity": -2,
+      "price": 1.86,
+      "value": -3.72,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10287.529000000002,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-19",
       "symbol": "DRD",
       "action": "SELL",
-      "quantity": -16.0,
-      "price": 26.06
+      "quantity": -16,
+      "price": 26.06,
+      "value": -416.96,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 10283.809000000003,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-19",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -17.0,
-      "price": 2.73
+      "quantity": -17,
+      "price": 2.73,
+      "value": -46.41,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 10333.939000000002,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-20",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 1.0,
-      "price": 2.75
+      "quantity": 1,
+      "price": 2.75,
+      "value": 2.75,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 6.41900000000089,
+      "remaining_qty": 18
     },
     {
       "date": "2025-10-21",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 1.0,
-      "price": 2.64
+      "quantity": 1,
+      "price": 2.64,
+      "value": 2.64,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3.7790000000008903,
+      "remaining_qty": 19
     },
     {
       "date": "2025-10-22",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -2.0,
-      "price": 1.89
+      "quantity": -2,
+      "price": 1.89,
+      "value": -3.78,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 7.55900000000089,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-22",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -19.0,
-      "price": 2.54
+      "quantity": -19,
+      "price": 2.54,
+      "value": -48.26,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 55.81900000000089,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-22",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -532.0,
-      "price": 21.37
+      "quantity": -532,
+      "price": 21.37,
+      "value": -11368.84,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 11424.659000000001,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-22",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 59.0,
-      "price": 5.43
+      "quantity": 59,
+      "price": 5.43,
+      "value": 320.37,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 11104.289,
+      "remaining_qty": 1186
     },
     {
       "date": "2025-10-22",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 20.0,
-      "price": 2.54
+      "quantity": 20,
+      "price": 2.54,
+      "value": 50.8,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 11053.489000000001,
+      "remaining_qty": 20
     },
     {
       "date": "2025-10-22",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 2.0,
-      "price": 1.89
+      "quantity": 2,
+      "price": 1.89,
+      "value": 3.78,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 11049.709,
+      "remaining_qty": 2
     },
     {
       "date": "2025-10-23",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 2.0,
-      "price": 2.0
+      "quantity": 2,
+      "price": 2.0,
+      "value": 4.0,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10.59900000000107,
+      "remaining_qty": 2
     },
     {
       "date": "2025-10-23",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 20.0,
-      "price": 2.525
+      "quantity": 20,
+      "price": 2.525,
+      "value": 50.5,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 14.59900000000107,
+      "remaining_qty": 20
     },
     {
       "date": "2025-10-23",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1165.0,
-      "price": 5.59
+      "quantity": 1165,
+      "price": 5.59,
+      "value": 6512.349999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 65.09900000000107,
+      "remaining_qty": 1165
     },
     {
       "date": "2025-10-23",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 530.0,
-      "price": 21.05
+      "quantity": 530,
+      "price": 21.05,
+      "value": 11156.5,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 6577.4490000000005,
+      "remaining_qty": 530
     },
     {
       "date": "2025-10-23",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -20.0,
-      "price": 2.525
+      "quantity": -20,
+      "price": 2.525,
+      "value": -50.5,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 11104.209,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-23",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -2.0,
-      "price": 2.0
+      "quantity": -2,
+      "price": 2.0,
+      "value": -4.0,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 11053.709,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-23",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1186.0,
-      "price": 5.59
+      "quantity": -1186,
+      "price": 5.59,
+      "value": -6629.74,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 17733.949,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-26",
       "symbol": "CCO",
       "action": "SELL",
-      "quantity": -2.0,
-      "price": 2.0
+      "quantity": -2,
+      "price": 2.0,
+      "value": -4.0,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 14.59900000000107,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-26",
       "symbol": "FBIO",
       "action": "SELL",
-      "quantity": -20.0,
-      "price": 2.59
+      "quantity": -20,
+      "price": 2.59,
+      "value": -51.8,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 66.39900000000107,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-26",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -530.0,
-      "price": 21.37
+      "quantity": -530,
+      "price": 21.37,
+      "value": -11326.1,
+      "reason": "SWAP_FUNDING",
+      "remaining_cash": 11392.499000000002,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-26",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 84.0,
-      "price": 5.09
+      "quantity": 84,
+      "price": 5.09,
+      "value": 427.56,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10964.939000000002,
+      "remaining_qty": 1249
     },
     {
       "date": "2025-10-26",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 19.0,
-      "price": 2.59
+      "quantity": 19,
+      "price": 2.59,
+      "value": 49.209999999999994,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10915.729000000003,
+      "remaining_qty": 19
     },
     {
       "date": "2025-10-26",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 2.0,
-      "price": 2.0
+      "quantity": 2,
+      "price": 2.0,
+      "value": 4.0,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10911.729000000003,
+      "remaining_qty": 2
     },
     {
       "date": "2025-10-27",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1249.0,
-      "price": 4.96
+      "quantity": -1249,
+      "price": 4.96,
+      "value": -6195.04,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 17106.769000000004,
+      "remaining_qty": 0
     },
     {
       "date": "2025-10-27",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 815.0,
-      "price": 20.92
+      "quantity": 815,
+      "price": 20.92,
+      "value": 17049.800000000003,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 56.96900000000096,
+      "remaining_qty": 815
     },
     {
       "date": "2025-10-27",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 11.0,
-      "price": 2.555
+      "quantity": 11,
+      "price": 2.555,
+      "value": 28.105,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 28.86400000000096,
+      "remaining_qty": 30
     },
     {
       "date": "2025-10-27",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 1.0,
-      "price": 1.99
+      "quantity": 1,
+      "price": 1.99,
+      "value": 1.99,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 26.87400000000096,
+      "remaining_qty": 3
     },
     {
       "date": "2025-10-28",
       "symbol": "FBIO",
       "action": "BUY",
-      "quantity": 2.0,
-      "price": 2.52
+      "quantity": 2,
+      "price": 2.52,
+      "value": 5.04,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 21.834000000000962,
+      "remaining_qty": 32
     },
     {
       "date": "2025-10-29",
       "symbol": "CCO",
       "action": "BUY",
-      "quantity": 1.0,
-      "price": 1.82
+      "quantity": 1,
+      "price": 1.82,
+      "value": 1.82,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 20.014000000000962,
+      "remaining_qty": 4
     }
   ],
   "meta": {

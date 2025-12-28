@@ -10,144 +10,158 @@
     },
     {
       "date": "2025-10-02",
-      "rel_port": 1.039197190325056,
+      "rel_port": 1.0303394725338997,
       "rel_spy": 1.0011519186176976,
       "rel_mag7": 0.9966648648173576
     },
     {
       "date": "2025-10-03",
-      "rel_port": 0.9042619608697826,
+      "rel_port": 0.9890147173304411,
       "rel_spy": 1.0011369586356496,
       "rel_mag7": 0.989755970881166
     },
     {
       "date": "2025-10-06",
-      "rel_port": 0.8957155635468742,
+      "rel_port": 0.997051663697037,
       "rel_spy": 1.0047273543271746,
       "rel_mag7": 1.0030353212031349
     },
     {
       "date": "2025-10-07",
-      "rel_port": 0.8187230690295546,
+      "rel_port": 0.924073242352043,
       "rel_spy": 1.0010023187972172,
       "rel_mag7": 0.9914396640280065
     },
     {
       "date": "2025-10-08",
-      "rel_port": 0.7721395847238682,
+      "rel_port": 0.9331431984010847,
       "rel_spy": 1.006971351634378,
       "rel_mag7": 0.999812192393656
     },
     {
       "date": "2025-10-09",
-      "rel_port": 0.6316308646515831,
+      "rel_port": 0.9288506391392521,
       "rel_spy": 1.0040541551350137,
       "rel_mag7": 1.0007372266155148
     },
     {
       "date": "2025-10-10",
-      "rel_port": 0.7287923573935592,
+      "rel_port": 0.9102859482182606,
       "rel_spy": 0.9769167476999027,
       "rel_mag7": 0.96301104162475
     },
     {
       "date": "2025-10-13",
-      "rel_port": 0.890688070686845,
+      "rel_port": 0.9089174287843019,
       "rel_spy": 0.9919066497120201,
       "rel_mag7": 0.9860205583991615
     },
     {
       "date": "2025-10-14",
-      "rel_port": 0.9330568155503794,
+      "rel_port": 0.9038113470981332,
       "rel_spy": 0.9906948911661304,
       "rel_mag7": 0.9743976637515819
     },
     {
       "date": "2025-10-15",
-      "rel_port": 0.7482439531599763,
+      "rel_port": 0.9319043511656362,
       "rel_spy": 0.9950931258882487,
       "rel_mag7": 0.9819522534766776
     },
     {
       "date": "2025-10-16",
-      "rel_port": 0.7065250704916028,
+      "rel_port": 0.911348168269634,
       "rel_spy": 0.988316254020495,
       "rel_mag7": 0.9786668242530413
     },
     {
       "date": "2025-10-17",
-      "rel_port": 0.7565315407352924,
+      "rel_port": 0.8952464301380252,
       "rel_spy": 0.993926247288503,
       "rel_mag7": 0.9879431068508846
     },
     {
       "date": "2025-10-20",
-      "rel_port": 0.8206039802214867,
+      "rel_port": 0.8707555832480778,
       "rel_spy": 1.004263594883686,
       "rel_mag7": 1.0034212860859293
     },
     {
       "date": "2025-10-21",
-      "rel_port": 0.9385621983390772,
+      "rel_port": 0.942690075146541,
       "rel_spy": 1.004248634901638,
       "rel_mag7": 1.0002085903435332
     },
     {
       "date": "2025-10-22",
-      "rel_port": 0.9988966531813169,
+      "rel_port": 0.9669652566958087,
       "rel_spy": 0.9990276011668784,
       "rel_mag7": 0.9950892845058403
     },
     {
       "date": "2025-10-23",
-      "rel_port": 0.9641525796975106,
+      "rel_port": 0.9714751192629341,
       "rel_spy": 1.004951754057895,
       "rel_mag7": 1.00347991033066
     },
     {
       "date": "2025-10-24",
-      "rel_port": 0.9811999691244508,
+      "rel_port": 0.9768536490630247,
       "rel_spy": 1.0131647842022589,
       "rel_mag7": 1.0115485322242361
     },
     {
       "date": "2025-10-27",
-      "rel_port": 0.9940280785873532,
+      "rel_port": 0.9422431838013601,
       "rel_spy": 1.025117809858628,
       "rel_mag7": 1.037663559152354
     },
     {
       "date": "2025-10-28",
-      "rel_port": 1.0219250450646795,
+      "rel_port": 0.9400029941993123,
       "rel_spy": 1.027840526591368,
       "rel_mag7": 1.0512858846977713
     },
     {
       "date": "2025-10-29",
-      "rel_port": 1.0574160343989942,
+      "rel_port": 0.955507421235469,
       "rel_spy": 1.0283342059989526,
       "rel_mag7": 1.0623817415996153
     },
     {
       "date": "2025-10-30",
-      "rel_port": 1.0479422354805463,
+      "rel_port": 0.9680280227353859,
       "rel_spy": 1.0170244595706484,
       "rel_mag7": 1.0346711801806474
     },
     {
       "date": "2025-10-31",
-      "rel_port": 1.0492850948288,
+      "rel_port": 1.004941739236689,
       "rel_spy": 1.020360535567357,
       "rel_mag7": 1.045896268412419
     }
   ],
   "holdings": [
     {
-      "Symbol": "SPHR",
-      "Shares": 214.0,
-      "CostBasis": 65.99,
-      "CurrentPrice": 68.48,
-      "UnrealizedPnL": 532.860000000002
+      "Symbol": "WBD",
+      "Shares": 815.0,
+      "CostBasis": 20.920000000000005,
+      "CurrentPrice": 22.45,
+      "UnrealizedPnL": 1246.949999999995
+    },
+    {
+      "Symbol": "FBIO",
+      "Shares": 32.0,
+      "CostBasis": 2.57359375,
+      "CurrentPrice": 2.56,
+      "UnrealizedPnL": -0.4350000000000023
+    },
+    {
+      "Symbol": "CCO",
+      "Shares": 4.0,
+      "CostBasis": 1.9525000000000001,
+      "CurrentPrice": 1.81,
+      "UnrealizedPnL": -0.5700000000000003
     }
   ],
   "predictions": {
@@ -157,25 +171,935 @@
   "ledger": [
     {
       "date": "2025-10-01",
-      "symbol": "RIGL",
+      "symbol": "SSRM",
       "action": "SELL",
-      "quantity": -504.0,
-      "price": 28.04
+      "quantity": -534.0,
+      "price": 23.76
+    },
+    {
+      "date": "2025-10-01",
+      "symbol": "KGC",
+      "action": "SELL",
+      "quantity": -142.0,
+      "price": 25.01
     },
     {
       "date": "2025-10-01",
       "symbol": "SPHR",
       "action": "BUY",
-      "quantity": 214.0,
+      "quantity": 280.0,
       "price": 65.99
+    },
+    {
+      "date": "2025-10-07",
+      "symbol": "SPHR",
+      "action": "SELL",
+      "quantity": -280.0,
+      "price": 59.09
+    },
+    {
+      "date": "2025-10-07",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 601.0,
+      "price": 17.84
+    },
+    {
+      "date": "2025-10-07",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -601.0,
+      "price": 17.84
+    },
+    {
+      "date": "2025-10-07",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1083.0,
+      "price": 5.78
+    },
+    {
+      "date": "2025-10-07",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.87
+    },
+    {
+      "date": "2025-10-07",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 3.0,
+      "price": 1.44
+    },
+    {
+      "date": "2025-10-08",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 3.0,
+      "price": 1.36
+    },
+    {
+      "date": "2025-10-08",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.81
+    },
+    {
+      "date": "2025-10-08",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1079.0,
+      "price": 5.8
+    },
+    {
+      "date": "2025-10-08",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -605.0,
+      "price": 17.72
+    },
+    {
+      "date": "2025-10-08",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.81
+    },
+    {
+      "date": "2025-10-08",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1083.0,
+      "price": 5.8
+    },
+    {
+      "date": "2025-10-08",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -3.0,
+      "price": 1.36
+    },
+    {
+      "date": "2025-10-08",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 605.0,
+      "price": 17.72
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1129.0,
+      "price": 5.42
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 3.0,
+      "price": 1.32
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.71
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -582.0,
+      "price": 17.995
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.71
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1079.0,
+      "price": 5.42
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -3.0,
+      "price": 1.32
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 582.0,
+      "price": 17.995
+    },
+    {
+      "date": "2025-10-10",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -3.0,
+      "price": 1.32
+    },
+    {
+      "date": "2025-10-10",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.71
+    },
+    {
+      "date": "2025-10-10",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1129.0,
+      "price": 5.42
+    },
+    {
+      "date": "2025-10-10",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 582.0,
+      "price": 17.995
+    },
+    {
+      "date": "2025-10-10",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -582.0,
+      "price": 17.995
+    },
+    {
+      "date": "2025-10-10",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1129.0,
+      "price": 5.42
+    },
+    {
+      "date": "2025-10-10",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.71
+    },
+    {
+      "date": "2025-10-10",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 3.0,
+      "price": 1.32
+    },
+    {
+      "date": "2025-10-11",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1129.0,
+      "price": 5.42
+    },
+    {
+      "date": "2025-10-11",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 3.0,
+      "price": 1.32
+    },
+    {
+      "date": "2025-10-11",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.71
+    },
+    {
+      "date": "2025-10-11",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -582.0,
+      "price": 17.995
+    },
+    {
+      "date": "2025-10-11",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.71
+    },
+    {
+      "date": "2025-10-11",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1129.0,
+      "price": 5.42
+    },
+    {
+      "date": "2025-10-11",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -3.0,
+      "price": 1.32
+    },
+    {
+      "date": "2025-10-11",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 582.0,
+      "price": 17.995
+    },
+    {
+      "date": "2025-10-12",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -3.0,
+      "price": 1.27
+    },
+    {
+      "date": "2025-10-12",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.7
+    },
+    {
+      "date": "2025-10-12",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1129.0,
+      "price": 5.01
+    },
+    {
+      "date": "2025-10-12",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 587.0,
+      "price": 17.33
+    },
+    {
+      "date": "2025-10-12",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -587.0,
+      "price": 17.33
+    },
+    {
+      "date": "2025-10-12",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1185.0,
+      "price": 5.01
+    },
+    {
+      "date": "2025-10-12",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.7
+    },
+    {
+      "date": "2025-10-12",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 3.0,
+      "price": 1.27
+    },
+    {
+      "date": "2025-10-13",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 3.0,
+      "price": 1.36
+    },
+    {
+      "date": "2025-10-13",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.76
+    },
+    {
+      "date": "2025-10-13",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1148.0,
+      "price": 5.275
+    },
+    {
+      "date": "2025-10-13",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -563.0,
+      "price": 18.43
+    },
+    {
+      "date": "2025-10-13",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1185.0,
+      "price": 5.275
+    },
+    {
+      "date": "2025-10-13",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.76
+    },
+    {
+      "date": "2025-10-13",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -3.0,
+      "price": 1.36
+    },
+    {
+      "date": "2025-10-13",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 563.0,
+      "price": 18.43
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -3.0,
+      "price": 1.38
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.84
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1148.0,
+      "price": 5.7
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 574.0,
+      "price": 18.63
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -574.0,
+      "price": 18.63
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1096.0,
+      "price": 5.7
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.84
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 3.0,
+      "price": 1.38
+    },
+    {
+      "date": "2025-10-15",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1121.0,
+      "price": 5.5
+    },
+    {
+      "date": "2025-10-15",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 3.0,
+      "price": 1.4
+    },
+    {
+      "date": "2025-10-15",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.72
+    },
+    {
+      "date": "2025-10-15",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -580.0,
+      "price": 18.21
+    },
+    {
+      "date": "2025-10-15",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -3.0,
+      "price": 1.4
+    },
+    {
+      "date": "2025-10-15",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1096.0,
+      "price": 5.5
+    },
+    {
+      "date": "2025-10-15",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 580.0,
+      "price": 18.21
+    },
+    {
+      "date": "2025-10-15",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.72
+    },
+    {
+      "date": "2025-10-16",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -3.0,
+      "price": 1.81
+    },
+    {
+      "date": "2025-10-16",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.79
+    },
+    {
+      "date": "2025-10-16",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1121.0,
+      "price": 5.18
+    },
+    {
+      "date": "2025-10-16",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 559.0,
+      "price": 18.46
+    },
+    {
+      "date": "2025-10-16",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -559.0,
+      "price": 18.46
+    },
+    {
+      "date": "2025-10-16",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1163.0,
+      "price": 5.18
+    },
+    {
+      "date": "2025-10-16",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.79
+    },
+    {
+      "date": "2025-10-16",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 2.0,
+      "price": 1.81
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1163.0,
+      "price": 5.18
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 2.0,
+      "price": 1.81
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.79
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -559.0,
+      "price": 18.46
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1163.0,
+      "price": 5.18
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.79
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -2.0,
+      "price": 1.81
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 559.0,
+      "price": 18.46
+    },
+    {
+      "date": "2025-10-18",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -2.0,
+      "price": 1.81
+    },
+    {
+      "date": "2025-10-18",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.79
+    },
+    {
+      "date": "2025-10-18",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1163.0,
+      "price": 5.18
+    },
+    {
+      "date": "2025-10-18",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 559.0,
+      "price": 18.46
+    },
+    {
+      "date": "2025-10-18",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -559.0,
+      "price": 18.46
+    },
+    {
+      "date": "2025-10-18",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1163.0,
+      "price": 5.18
+    },
+    {
+      "date": "2025-10-18",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.79
+    },
+    {
+      "date": "2025-10-18",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 2.0,
+      "price": 1.81
+    },
+    {
+      "date": "2025-10-19",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 532.0,
+      "price": 19.68
+    },
+    {
+      "date": "2025-10-19",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 2.73
+    },
+    {
+      "date": "2025-10-19",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1127.0,
+      "price": 5.42
+    },
+    {
+      "date": "2025-10-19",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 2.0,
+      "price": 1.86
+    },
+    {
+      "date": "2025-10-19",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1163.0,
+      "price": 5.42
+    },
+    {
+      "date": "2025-10-19",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -2.0,
+      "price": 1.86
+    },
+    {
+      "date": "2025-10-19",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -16.0,
+      "price": 26.06
+    },
+    {
+      "date": "2025-10-19",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 2.73
+    },
+    {
+      "date": "2025-10-20",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 1.0,
+      "price": 2.75
+    },
+    {
+      "date": "2025-10-21",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 1.0,
+      "price": 2.64
+    },
+    {
+      "date": "2025-10-22",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -2.0,
+      "price": 1.89
+    },
+    {
+      "date": "2025-10-22",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -19.0,
+      "price": 2.54
+    },
+    {
+      "date": "2025-10-22",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -532.0,
+      "price": 21.37
+    },
+    {
+      "date": "2025-10-22",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 59.0,
+      "price": 5.43
+    },
+    {
+      "date": "2025-10-22",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 20.0,
+      "price": 2.54
+    },
+    {
+      "date": "2025-10-22",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 2.0,
+      "price": 1.89
+    },
+    {
+      "date": "2025-10-23",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 2.0,
+      "price": 2.0
+    },
+    {
+      "date": "2025-10-23",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 20.0,
+      "price": 2.525
+    },
+    {
+      "date": "2025-10-23",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 1165.0,
+      "price": 5.59
+    },
+    {
+      "date": "2025-10-23",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 530.0,
+      "price": 21.05
+    },
+    {
+      "date": "2025-10-23",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -20.0,
+      "price": 2.525
+    },
+    {
+      "date": "2025-10-23",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -2.0,
+      "price": 2.0
+    },
+    {
+      "date": "2025-10-23",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1186.0,
+      "price": 5.59
+    },
+    {
+      "date": "2025-10-26",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -2.0,
+      "price": 2.0
+    },
+    {
+      "date": "2025-10-26",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -20.0,
+      "price": 2.59
+    },
+    {
+      "date": "2025-10-26",
+      "symbol": "WBD",
+      "action": "SELL",
+      "quantity": -530.0,
+      "price": 21.37
+    },
+    {
+      "date": "2025-10-26",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 84.0,
+      "price": 5.09
+    },
+    {
+      "date": "2025-10-26",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 19.0,
+      "price": 2.59
+    },
+    {
+      "date": "2025-10-26",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 2.0,
+      "price": 2.0
+    },
+    {
+      "date": "2025-10-27",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -1249.0,
+      "price": 4.96
+    },
+    {
+      "date": "2025-10-27",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 815.0,
+      "price": 20.92
+    },
+    {
+      "date": "2025-10-27",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 11.0,
+      "price": 2.555
+    },
+    {
+      "date": "2025-10-27",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 1.0,
+      "price": 1.99
+    },
+    {
+      "date": "2025-10-28",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 2.0,
+      "price": 2.52
+    },
+    {
+      "date": "2025-10-29",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 1.0,
+      "price": 1.82
     }
   ],
   "meta": {
     "year": 2025,
     "month": "October",
     "month_num": 10,
-    "return_pct": 0.00642588995636255,
-    "ending_equity": 9243.740000000005,
+    "return_pct": -0.04499183160074113,
+    "ending_equity": 18405.924000000006,
     "start_date": "2025-10-01",
     "end_date": "2025-10-31"
   }

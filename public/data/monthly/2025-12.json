@@ -7,15 +7,127 @@
       "rel_port": 1.0,
       "rel_spy": 1.0,
       "rel_mag7": 1.0
+    },
+    {
+      "date": "2025-12-02",
+      "rel_port": 1.0,
+      "rel_spy": 1.0018522057418378,
+      "rel_mag7": 1.0053836615985396
+    },
+    {
+      "date": "2025-12-03",
+      "rel_port": 1.0657064071753204,
+      "rel_spy": 1.0053214164963913,
+      "rel_mag7": 1.0056432756619995
+    },
+    {
+      "date": "2025-12-04",
+      "rel_port": 1.0657064071753204,
+      "rel_spy": 1.0060564187748982,
+      "rel_mag7": 1.0106499031443623
+    },
+    {
+      "date": "2025-12-05",
+      "rel_port": 0.9942863993760591,
+      "rel_spy": 1.0079674246990167,
+      "rel_mag7": 1.0141232096789452
+    },
+    {
+      "date": "2025-12-08",
+      "rel_port": 0.9914295990640887,
+      "rel_spy": 1.0049392153115675,
+      "rel_mag7": 1.0055578311653675
+    },
+    {
+      "date": "2025-12-09",
+      "rel_port": 1.0314248034316749,
+      "rel_spy": 1.004071912622929,
+      "rel_mag7": 1.0078906943375276
+    },
+    {
+      "date": "2025-12-10",
+      "rel_port": 1.0542792059274386,
+      "rel_spy": 1.010731033266203,
+      "rel_mag7": 1.0096156210932712
+    },
+    {
+      "date": "2025-12-11",
+      "rel_port": 1.0514224056154682,
+      "rel_spy": 1.0130830405574258,
+      "rel_mag7": 1.0010798856182819
+    },
+    {
+      "date": "2025-12-12",
+      "rel_port": 1.0228544024957638,
+      "rel_spy": 1.002190306789951,
+      "rel_mag7": 0.993471721100057
+    },
+    {
+      "date": "2025-12-15",
+      "rel_port": 1.025711202807734,
+      "rel_spy": 1.0006762020962265,
+      "rel_mag7": 0.9944911306804286
+    },
+    {
+      "date": "2025-12-16",
+      "rel_port": 1.0114272012478818,
+      "rel_spy": 0.9979419936201802,
+      "rel_mag7": 1.0015695207927038
+    },
+    {
+      "date": "2025-12-17",
+      "rel_port": 0.9482764221946215,
+      "rel_spy": 0.9869610595792847,
+      "rel_mag7": 0.9786541480612347
+    },
+    {
+      "date": "2025-12-18",
+      "rel_port": 0.9380562219688754,
+      "rel_spy": 0.9944139826833464,
+      "rel_mag7": 0.997809546863735
+    },
+    {
+      "date": "2025-12-19",
+      "rel_port": 0.9446756514250416,
+      "rel_spy": 1.0004704014582446,
+      "rel_mag7": 1.0064209359534644
     }
   ],
   "holdings": [
     {
-      "Symbol": "IRWD",
-      "Shares": 3910.0,
-      "CostBasis": 3.517606138107417,
-      "CurrentPrice": 3.59,
-      "UnrealizedPnL": 283.05999999999955
+      "Symbol": "PHAR",
+      "Shares": 761.0,
+      "CostBasis": 16.15,
+      "CurrentPrice": 17.24,
+      "UnrealizedPnL": 829.4899999999999
+    },
+    {
+      "Symbol": "ATNI",
+      "Shares": 113.0,
+      "CostBasis": 22.822212389380528,
+      "CurrentPrice": 22.23,
+      "UnrealizedPnL": -66.91999999999965
+    },
+    {
+      "Symbol": "NATR",
+      "Shares": 19.0,
+      "CostBasis": 21.94,
+      "CurrentPrice": 21.87,
+      "UnrealizedPnL": -1.3300000000000054
+    },
+    {
+      "Symbol": "COHN",
+      "Shares": 23.0,
+      "CostBasis": 15.98304347826087,
+      "CurrentPrice": 16.25,
+      "UnrealizedPnL": 6.140000000000002
+    },
+    {
+      "Symbol": "MBI",
+      "Shares": 30.0,
+      "CostBasis": 7.12,
+      "CurrentPrice": 7.11,
+      "UnrealizedPnL": -0.2999999999999936
     }
   ],
   "predictions": {
@@ -25,32 +137,207 @@
   "ledger": [
     {
       "date": "2025-12-01",
-      "symbol": "IRS",
+      "symbol": "CRESY",
       "action": "SELL",
-      "quantity": -924.0,
-      "price": 14.8
+      "quantity": -1260.0,
+      "price": 11.27
     },
     {
       "date": "2025-12-01",
-      "symbol": "CRESY",
+      "symbol": "PHI",
       "action": "SELL",
-      "quantity": -5.0,
-      "price": 11.27
+      "quantity": -10.0,
+      "price": 22.09
+    },
+    {
+      "date": "2025-12-01",
+      "symbol": "CEPU",
+      "action": "SELL",
+      "quantity": -1.0,
+      "price": 16.64
     },
     {
       "date": "2025-12-01",
       "symbol": "IRWD",
       "action": "BUY",
-      "quantity": 3904.0,
+      "quantity": 4164.0,
       "price": 3.52
+    },
+    {
+      "date": "2025-12-17",
+      "symbol": "IRWD",
+      "action": "SELL",
+      "quantity": -4942.0,
+      "price": 3.26
+    },
+    {
+      "date": "2025-12-17",
+      "symbol": "PHAR",
+      "action": "BUY",
+      "quantity": 761.0,
+      "price": 16.15
+    },
+    {
+      "date": "2025-12-17",
+      "symbol": "ATNI",
+      "action": "BUY",
+      "quantity": 106.0,
+      "price": 22.86
+    },
+    {
+      "date": "2025-12-17",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 52.0,
+      "price": 11.87
+    },
+    {
+      "date": "2025-12-17",
+      "symbol": "NATR",
+      "action": "BUY",
+      "quantity": 18.0,
+      "price": 22.47
+    },
+    {
+      "date": "2025-12-17",
+      "symbol": "COHN",
+      "action": "BUY",
+      "quantity": 19.0,
+      "price": 16.9
+    },
+    {
+      "date": "2025-12-18",
+      "symbol": "COHN",
+      "action": "BUY",
+      "quantity": 21.0,
+      "price": 16.03
+    },
+    {
+      "date": "2025-12-18",
+      "symbol": "NATR",
+      "action": "SELL",
+      "quantity": -19.0,
+      "price": 22.28
+    },
+    {
+      "date": "2025-12-18",
+      "symbol": "NATR",
+      "action": "BUY",
+      "quantity": 1.0,
+      "price": 22.28
+    },
+    {
+      "date": "2025-12-18",
+      "symbol": "ATNI",
+      "action": "BUY",
+      "quantity": 7.0,
+      "price": 22.25
+    },
+    {
+      "date": "2025-12-18",
+      "symbol": "COHN",
+      "action": "SELL",
+      "quantity": -19.0,
+      "price": 16.03
+    },
+    {
+      "date": "2025-12-18",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 5.0,
+      "price": 11.25
+    },
+    {
+      "date": "2025-12-19",
+      "symbol": "COHN",
+      "action": "SELL",
+      "quantity": -21.0,
+      "price": 16.03
+    },
+    {
+      "date": "2025-12-19",
+      "symbol": "NATR",
+      "action": "BUY",
+      "quantity": 19.0,
+      "price": 22.28
+    },
+    {
+      "date": "2025-12-19",
+      "symbol": "NATR",
+      "action": "SELL",
+      "quantity": -19.0,
+      "price": 22.28
+    },
+    {
+      "date": "2025-12-19",
+      "symbol": "COHN",
+      "action": "BUY",
+      "quantity": 21.0,
+      "price": 16.03
+    },
+    {
+      "date": "2025-12-20",
+      "symbol": "COHN",
+      "action": "SELL",
+      "quantity": -21.0,
+      "price": 16.03
+    },
+    {
+      "date": "2025-12-20",
+      "symbol": "NATR",
+      "action": "BUY",
+      "quantity": 19.0,
+      "price": 22.28
+    },
+    {
+      "date": "2025-12-20",
+      "symbol": "NATR",
+      "action": "SELL",
+      "quantity": -19.0,
+      "price": 22.28
+    },
+    {
+      "date": "2025-12-20",
+      "symbol": "COHN",
+      "action": "BUY",
+      "quantity": 21.0,
+      "price": 16.03
+    },
+    {
+      "date": "2025-12-21",
+      "symbol": "COHN",
+      "action": "BUY",
+      "quantity": 2.0,
+      "price": 15.49
+    },
+    {
+      "date": "2025-12-21",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -57.0,
+      "price": 10.52
+    },
+    {
+      "date": "2025-12-21",
+      "symbol": "NATR",
+      "action": "BUY",
+      "quantity": 19.0,
+      "price": 21.94
+    },
+    {
+      "date": "2025-12-21",
+      "symbol": "MBI",
+      "action": "BUY",
+      "quantity": 30.0,
+      "price": 7.12
     }
   ],
   "meta": {
     "year": 2025,
     "month": "December",
     "month_num": 12,
-    "return_pct": -0.03872011810368926,
-    "ending_equity": 12658.22,
+    "return_pct": -0.10286173794779634,
+    "ending_equity": 16342.014000000005,
     "start_date": "2025-12-01",
     "end_date": "2025-12-31"
   }

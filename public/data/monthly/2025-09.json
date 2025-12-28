@@ -10,145 +10,811 @@
     },
     {
       "date": "2025-09-03",
-      "rel_port": 1.0141048555341041,
+      "rel_port": 1.0298708022864584,
       "rel_spy": 1.0054195886110548,
       "rel_mag7": 1.0224555662307548
     },
     {
       "date": "2025-09-04",
-      "rel_port": 1.0267604900594858,
+      "rel_port": 1.0433775998420747,
       "rel_spy": 1.0138222937198371,
       "rel_mag7": 1.0359923785147227
     },
     {
       "date": "2025-09-05",
-      "rel_port": 1.0415275427559378,
+      "rel_port": 1.0748068787695655,
       "rel_spy": 1.0108860324550581,
       "rel_mag7": 1.0333316196582791
     },
     {
       "date": "2025-09-08",
-      "rel_port": 0.9990456076400646,
+      "rel_port": 0.9365364501711729,
       "rel_spy": 1.013369359801334,
       "rel_mag7": 1.034026269652309
     },
     {
       "date": "2025-09-09",
-      "rel_port": 0.8216534553761399,
+      "rel_port": 0.9236276097990087,
       "rel_spy": 1.0157121214487639,
       "rel_mag7": 1.0425500710515867
     },
     {
       "date": "2025-09-10",
-      "rel_port": 0.8518794252598829,
+      "rel_port": 0.9527667938845378,
       "rel_spy": 1.018648382713543,
       "rel_mag7": 1.0369015537043116
     },
     {
       "date": "2025-09-11",
-      "rel_port": 0.8561224129949614,
+      "rel_port": 0.9780108686429307,
       "rel_spy": 1.0271135614662565,
       "rel_mag7": 1.0472244832690207
     },
     {
       "date": "2025-09-12",
-      "rel_port": 0.8802301960786509,
+      "rel_port": 0.9669965514375217,
       "rel_spy": 1.0267699564246335,
       "rel_mag7": 1.062973968108383
     },
     {
       "date": "2025-09-15",
-      "rel_port": 0.8746902423037071,
+      "rel_port": 0.975007013144885,
       "rel_spy": 1.0322364002686368,
       "rel_mag7": 1.0831564226663795
     },
     {
       "date": "2025-09-16",
-      "rel_port": 0.8149172925260161,
+      "rel_port": 0.939309510430538,
       "rel_spy": 1.030815124869196,
       "rel_mag7": 1.0879499438461702
     },
     {
       "date": "2025-09-17",
-      "rel_port": 0.7976548256708594,
+      "rel_port": 0.9446775966385392,
       "rel_spy": 1.0295344151686008,
       "rel_mag7": 1.0827358373478466
     },
     {
       "date": "2025-09-18",
-      "rel_port": 0.7818673288265116,
+      "rel_port": 0.9442657908316553,
       "rel_spy": 1.0343448857513238,
       "rel_mag7": 1.0862642505332805
     },
     {
       "date": "2025-09-19",
-      "rel_port": 0.7861013603869516,
+      "rel_port": 0.9848646484682774,
       "rel_spy": 1.0365939369328567,
       "rel_mag7": 1.0993050764116434
     },
     {
       "date": "2025-09-22",
-      "rel_port": 0.7515540362400412,
+      "rel_port": 1.0018855943943328,
       "rel_spy": 1.0414981179814768,
       "rel_mag7": 1.107929359701012
     },
     {
       "date": "2025-09-23",
-      "rel_port": 0.7943511167510134,
+      "rel_port": 1.001848255891475,
       "rel_spy": 1.0358286347946963,
       "rel_mag7": 1.0908125258362165
     },
     {
       "date": "2025-09-24",
-      "rel_port": 0.670322651788968,
+      "rel_port": 0.9835707881735868,
       "rel_spy": 1.0325331500773114,
       "rel_mag7": 1.0919512989372393
     },
     {
       "date": "2025-09-25",
-      "rel_port": 0.6579648100703229,
+      "rel_port": 1.012866361060942,
       "rel_spy": 1.0277695347275368,
       "rel_mag7": 1.0829351262508367
     },
     {
       "date": "2025-09-26",
-      "rel_port": 0.5983928144610873,
+      "rel_port": 1.0295507193235522,
       "rel_spy": 1.0336576756680775,
       "rel_mag7": 1.0906206550523363
     },
     {
       "date": "2025-09-29",
-      "rel_port": 0.5367950441007637,
+      "rel_port": 1.043760995918523,
       "rel_spy": 1.0365627001108908,
       "rel_mag7": 1.0947923836150288
     },
     {
       "date": "2025-09-30",
-      "rel_port": 0.514124727046584,
+      "rel_port": 1.0429376548736162,
       "rel_spy": 1.0404673028566074,
       "rel_mag7": 1.0967525978631063
     }
   ],
   "holdings": [
     {
-      "Symbol": "RIGL",
-      "Shares": 504.0,
-      "CostBasis": 22.27,
-      "CurrentPrice": 28.33,
-      "UnrealizedPnL": 3054.2399999999993
+      "Symbol": "SSRM",
+      "Shares": 534.0,
+      "CostBasis": 21.34,
+      "CurrentPrice": 24.42,
+      "UnrealizedPnL": 1644.720000000001
+    },
+    {
+      "Symbol": "KGC",
+      "Shares": 142.0,
+      "CostBasis": 22.55,
+      "CurrentPrice": 24.85,
+      "UnrealizedPnL": 326.6000000000001
+    },
+    {
+      "Symbol": "DRD",
+      "Shares": 16.0,
+      "CostBasis": 28.815,
+      "CurrentPrice": 27.6,
+      "UnrealizedPnL": -19.439999999999998
     }
   ],
   "predictions": {
     "snapshot": [],
     "log": []
   },
-  "ledger": [],
+  "ledger": [
+    {
+      "date": "2025-09-08",
+      "symbol": "RIGL",
+      "action": "SELL",
+      "quantity": -480.0,
+      "price": 36.06
+    },
+    {
+      "date": "2025-09-08",
+      "symbol": "SSRM",
+      "action": "BUY",
+      "quantity": 534.0,
+      "price": 21.34
+    },
+    {
+      "date": "2025-09-08",
+      "symbol": "KGC",
+      "action": "BUY",
+      "quantity": 142.0,
+      "price": 22.55
+    },
+    {
+      "date": "2025-09-08",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 871.0,
+      "price": 2.59
+    },
+    {
+      "date": "2025-09-08",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 20.0,
+      "price": 22.0
+    },
+    {
+      "date": "2025-09-09",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -20.0,
+      "price": 22.13
+    },
+    {
+      "date": "2025-09-09",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 67.0,
+      "price": 2.44
+    },
+    {
+      "date": "2025-09-09",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -938.0,
+      "price": 2.44
+    },
+    {
+      "date": "2025-09-09",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 20.0,
+      "price": 22.13
+    },
+    {
+      "date": "2025-09-10",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 20.0,
+      "price": 22.46
+    },
+    {
+      "date": "2025-09-10",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -949.0,
+      "price": 2.49
+    },
+    {
+      "date": "2025-09-10",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 949.0,
+      "price": 2.49
+    },
+    {
+      "date": "2025-09-10",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -20.0,
+      "price": 22.46
+    },
+    {
+      "date": "2025-09-11",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -20.0,
+      "price": 21.835
+    },
+    {
+      "date": "2025-09-11",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 888.0,
+      "price": 2.62
+    },
+    {
+      "date": "2025-09-11",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -888.0,
+      "price": 2.62
+    },
+    {
+      "date": "2025-09-11",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 20.0,
+      "price": 21.835
+    },
+    {
+      "date": "2025-09-12",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -20.0,
+      "price": 21.835
+    },
+    {
+      "date": "2025-09-12",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 888.0,
+      "price": 2.62
+    },
+    {
+      "date": "2025-09-12",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -888.0,
+      "price": 2.62
+    },
+    {
+      "date": "2025-09-12",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 20.0,
+      "price": 21.835
+    },
+    {
+      "date": "2025-09-13",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 20.0,
+      "price": 21.835
+    },
+    {
+      "date": "2025-09-13",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -888.0,
+      "price": 2.62
+    },
+    {
+      "date": "2025-09-13",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -20.0,
+      "price": 21.835
+    },
+    {
+      "date": "2025-09-13",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 888.0,
+      "price": 2.62
+    },
+    {
+      "date": "2025-09-14",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -20.0,
+      "price": 23.07
+    },
+    {
+      "date": "2025-09-14",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 877.0,
+      "price": 2.69
+    },
+    {
+      "date": "2025-09-14",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -877.0,
+      "price": 2.69
+    },
+    {
+      "date": "2025-09-14",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 19.0,
+      "price": 23.07
+    },
+    {
+      "date": "2025-09-15",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -19.0,
+      "price": 22.7
+    },
+    {
+      "date": "2025-09-15",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 848.0,
+      "price": 2.61
+    },
+    {
+      "date": "2025-09-15",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -848.0,
+      "price": 2.61
+    },
+    {
+      "date": "2025-09-15",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 19.0,
+      "price": 22.7
+    },
+    {
+      "date": "2025-09-16",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 876.0,
+      "price": 2.57
+    },
+    {
+      "date": "2025-09-16",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 18.0,
+      "price": 23.605
+    },
+    {
+      "date": "2025-09-16",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -19.0,
+      "price": 23.605
+    },
+    {
+      "date": "2025-09-16",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -876.0,
+      "price": 2.57
+    },
+    {
+      "date": "2025-09-17",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -18.0,
+      "price": 24.56
+    },
+    {
+      "date": "2025-09-17",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 820.0,
+      "price": 2.77
+    },
+    {
+      "date": "2025-09-17",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -820.0,
+      "price": 2.77
+    },
+    {
+      "date": "2025-09-17",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 18.0,
+      "price": 24.56
+    },
+    {
+      "date": "2025-09-18",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -909.0,
+      "price": 2.66
+    },
+    {
+      "date": "2025-09-18",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -18.0,
+      "price": 26.77
+    },
+    {
+      "date": "2025-09-18",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 909.0,
+      "price": 2.66
+    },
+    {
+      "date": "2025-09-18",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 26.77
+    },
+    {
+      "date": "2025-09-19",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 26.77
+    },
+    {
+      "date": "2025-09-19",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -909.0,
+      "price": 2.66
+    },
+    {
+      "date": "2025-09-19",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 909.0,
+      "price": 2.66
+    },
+    {
+      "date": "2025-09-19",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 26.77
+    },
+    {
+      "date": "2025-09-20",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 26.77
+    },
+    {
+      "date": "2025-09-20",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 909.0,
+      "price": 2.66
+    },
+    {
+      "date": "2025-09-20",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -909.0,
+      "price": 2.66
+    },
+    {
+      "date": "2025-09-20",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 26.77
+    },
+    {
+      "date": "2025-09-21",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 27.37
+    },
+    {
+      "date": "2025-09-21",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 843.0,
+      "price": 2.89
+    },
+    {
+      "date": "2025-09-21",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -843.0,
+      "price": 2.89
+    },
+    {
+      "date": "2025-09-21",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 27.37
+    },
+    {
+      "date": "2025-09-22",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 16.0,
+      "price": 27.77
+    },
+    {
+      "date": "2025-09-22",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -879.0,
+      "price": 2.75
+    },
+    {
+      "date": "2025-09-22",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 27.77
+    },
+    {
+      "date": "2025-09-22",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 879.0,
+      "price": 2.75
+    },
+    {
+      "date": "2025-09-23",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -16.0,
+      "price": 26.83
+    },
+    {
+      "date": "2025-09-23",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 865.0,
+      "price": 2.75
+    },
+    {
+      "date": "2025-09-23",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -865.0,
+      "price": 2.75
+    },
+    {
+      "date": "2025-09-23",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 26.83
+    },
+    {
+      "date": "2025-09-24",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 27.01
+    },
+    {
+      "date": "2025-09-24",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 885.0,
+      "price": 2.77
+    },
+    {
+      "date": "2025-09-24",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -885.0,
+      "price": 2.77
+    },
+    {
+      "date": "2025-09-24",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 27.01
+    },
+    {
+      "date": "2025-09-25",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 29.03
+    },
+    {
+      "date": "2025-09-25",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -826.0,
+      "price": 3.07
+    },
+    {
+      "date": "2025-09-25",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 826.0,
+      "price": 3.07
+    },
+    {
+      "date": "2025-09-25",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 29.03
+    },
+    {
+      "date": "2025-09-26",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 29.03
+    },
+    {
+      "date": "2025-09-26",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 826.0,
+      "price": 3.07
+    },
+    {
+      "date": "2025-09-26",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -826.0,
+      "price": 3.07
+    },
+    {
+      "date": "2025-09-26",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 29.03
+    },
+    {
+      "date": "2025-09-27",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 29.03
+    },
+    {
+      "date": "2025-09-27",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 826.0,
+      "price": 3.07
+    },
+    {
+      "date": "2025-09-27",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -826.0,
+      "price": 3.07
+    },
+    {
+      "date": "2025-09-27",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 29.03
+    },
+    {
+      "date": "2025-09-28",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 27.05
+    },
+    {
+      "date": "2025-09-28",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -742.0,
+      "price": 3.34
+    },
+    {
+      "date": "2025-09-28",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 742.0,
+      "price": 3.34
+    },
+    {
+      "date": "2025-09-28",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 27.05
+    },
+    {
+      "date": "2025-09-29",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 28.08
+    },
+    {
+      "date": "2025-09-29",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 815.0,
+      "price": 3.1
+    },
+    {
+      "date": "2025-09-29",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -815.0,
+      "price": 3.1
+    },
+    {
+      "date": "2025-09-29",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 17.0,
+      "price": 28.08
+    },
+    {
+      "date": "2025-09-30",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -17.0,
+      "price": 28.815
+    },
+    {
+      "date": "2025-09-30",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 838.0,
+      "price": 2.99
+    },
+    {
+      "date": "2025-09-30",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -838.0,
+      "price": 2.99
+    },
+    {
+      "date": "2025-09-30",
+      "symbol": "DRD",
+      "action": "BUY",
+      "quantity": 16.0,
+      "price": 28.815
+    }
+  ],
   "meta": {
     "year": 2025,
     "month": "September",
     "month_num": 9,
-    "return_pct": -0.4968183817821335,
-    "ending_equity": 9184.720000000003,
+    "return_pct": 0.03247854584914021,
+    "ending_equity": 19273.053999999996,
     "start_date": "2025-09-01",
     "end_date": "2025-09-30"
   }

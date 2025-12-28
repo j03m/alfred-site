@@ -27,6 +27,18 @@ export interface ArchiveMonth {
   end_date: string;
 }
 
+export interface PerformanceEntry {
+  ticker: string;
+  status: "OPEN" | "CLOSED";
+  enter_date: string;
+  exit_date: string | null;
+  realized_pnl: number;
+  unrealized_pnl: number;
+  cost_basis: number;
+  current_price: number;
+  quantity: number;
+}
+
 export interface MonthlyReport {
   meta: ArchiveMonth;
   chart: Array<{ date: string; rel_port: number; rel_spy: number; rel_mag7: number }>;
@@ -34,6 +46,7 @@ export interface MonthlyReport {
   predictions: Array<{ symbol: string; target_weight: number; score: number }>;
   prediction_log: Array<{ date: string; action: "Added" | "Dropped"; symbol: string }>;
   ledger: Array<{ date: string; action: "BUY" | "SELL"; symbol: string; quantity: number; price: number }>;
+  performance: Array<PerformanceEntry>;
 }
 
 // Helper to safely read JSON
@@ -79,6 +92,7 @@ interface RawMonthlyReport {
         log: Array<{ date: string; action: "Added" | "Dropped"; symbol: string }>;
     };
     ledger: Array<{ date: string; action: "BUY" | "SELL"; symbol: string; quantity: number; price: number }>;
+    performance: Array<PerformanceEntry>;
 }
 
 export async function getMonthDetail(year: string, month: string): Promise<{ report: MonthlyReport; commentaryHtml: string }> {
@@ -99,7 +113,8 @@ export async function getMonthDetail(year: string, month: string): Promise<{ rep
         holdings: rawReport.holdings,
         predictions: rawReport.predictions.snapshot || [],
         prediction_log: rawReport.predictions.log || [],
-        ledger: rawReport.ledger
+        ledger: rawReport.ledger,
+        performance: rawReport.performance || []
     };
 
     // Try reading commentary

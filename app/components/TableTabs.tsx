@@ -1,28 +1,29 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import HoldingsTable from './HoldingsTable';
+import PerformanceTable from './PerformanceTable';
 import SignalsTable from './SignalsTable';
 import LedgerTable from './LedgerTable';
-import { Layers, Activity, ScrollText } from 'lucide-react';
+import { Activity, ScrollText, TrendingUp } from 'lucide-react';
+import { PerformanceEntry } from '@/lib/api';
 
 interface TableTabsProps {
-  holdings: Array<{ Symbol: string; Shares: number; CostBasis: number; CurrentPrice: number; UnrealizedPnL: number }>;
+  performance: Array<PerformanceEntry>;
   predictions: Array<{ symbol: string; target_weight: number; score: number }>;
   ledger: Array<any>;
 }
 
-export default function TableTabs({ holdings, predictions, ledger }: TableTabsProps) {
-  const [activeTab, setActiveTab] = useState<'holdings' | 'predictions' | 'ledger'>('holdings');
+export default function TableTabs({ performance, predictions, ledger }: TableTabsProps) {
+  const [activeTab, setActiveTab] = useState<'performance' | 'predictions' | 'ledger'>('performance');
 
   useEffect(() => {
     const savedTab = localStorage.getItem('alfred-table-tab');
-    if (savedTab === 'holdings' || savedTab === 'predictions' || savedTab === 'ledger') {
-      setActiveTab(savedTab);
+    if (savedTab === 'performance' || savedTab === 'predictions' || savedTab === 'ledger') {
+      setActiveTab(savedTab as 'performance' | 'predictions' | 'ledger');
     }
   }, []);
 
-  const handleTabChange = (tab: 'holdings' | 'predictions' | 'ledger') => {
+  const handleTabChange = (tab: 'performance' | 'predictions' | 'ledger') => {
     setActiveTab(tab);
     localStorage.setItem('alfred-table-tab', tab);
   };
@@ -32,15 +33,15 @@ export default function TableTabs({ holdings, predictions, ledger }: TableTabsPr
       {/* Tabs Header */}
       <div className="flex border-b border-slate-200">
         <button
-          onClick={() => handleTabChange('holdings')}
+          onClick={() => handleTabChange('performance')}
           className={`flex items-center gap-2 px-6 py-3 text-sm font-medium border-b-2 transition-colors ${
-            activeTab === 'holdings'
+            activeTab === 'performance'
               ? 'border-blue-600 text-blue-600'
               : 'border-transparent text-slate-500 hover:text-slate-700 hover:border-slate-300'
           }`}
         >
-          <Layers className="w-4 h-4" />
-          Holdings
+          <TrendingUp className="w-4 h-4" />
+          Performance
         </button>
         <button
           onClick={() => handleTabChange('predictions')}
@@ -68,9 +69,9 @@ export default function TableTabs({ holdings, predictions, ledger }: TableTabsPr
 
       {/* Tab Content */}
       <div className="transition-all duration-300">
-        {activeTab === 'holdings' && <HoldingsTable rows={holdings} />}
-        {activeTab === 'predictions' && <SignalsTable rows={predictions} />}
-        {activeTab === 'ledger' && <LedgerTable rows={ledger} />}
+        {activeTab === 'performance' && <PerformanceTable rows={performance || []} />}
+        {activeTab === 'predictions' && <SignalsTable rows={predictions || []} />}
+        {activeTab === 'ledger' && <LedgerTable rows={ledger || []} />}
       </div>
     </div>
   );

@@ -74,9 +74,13 @@ export default async function ReportPage({ params }: PageProps) {
             <MonthChart data={report.chart} />
         </section>
 
-        {/* Holdings & Predictions Tabs */}
+        {/* Performance, Predictions & Ledger Tabs */}
         <section>
-            <TableTabs holdings={report.holdings} predictions={report.predictions} ledger={report.ledger} />
+            <TableTabs 
+                performance={report.performance} 
+                predictions={report.predictions} 
+                ledger={report.ledger} 
+            />
         </section>
 
       </main>

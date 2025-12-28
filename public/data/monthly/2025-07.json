@@ -290,7 +290,9 @@
       "value": -441.6,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 484.8039999999982,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 7.150615942028986,
+      "realized_pnl": -16.03942028985506
     },
     {
       "date": "2025-07-01",
@@ -301,7 +303,9 @@
       "value": -10078.16,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 10562.963999999998,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.6,
+      "realized_pnl": 114.95999999999925
     },
     {
       "date": "2025-07-01",
@@ -312,7 +316,9 @@
       "value": 10010.0,
       "reason": "BUY_TARGET",
       "remaining_cash": 552.9639999999981,
-      "remaining_qty": 35
+      "remaining_qty": 35,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-07-01",
@@ -323,7 +329,9 @@
       "value": 528.22,
       "reason": "BUY_TARGET",
       "remaining_cash": 24.743999999998096,
-      "remaining_qty": 154
+      "remaining_qty": 154,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-07-15",
@@ -334,7 +342,9 @@
       "value": -10224.9,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 10249.643999999998,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 286.0,
+      "realized_pnl": 214.89999999999952
     },
     {
       "date": "2025-07-15",
@@ -345,7 +355,9 @@
       "value": 35.64,
       "reason": "BUY_TARGET",
       "remaining_cash": 10214.003999999999,
-      "remaining_qty": 165
+      "remaining_qty": 165,
+      "cost_basis": 3.43,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-07-16",
@@ -356,7 +368,9 @@
       "value": 9941.58,
       "reason": "BUY_TARGET",
       "remaining_cash": 272.42399999999907,
-      "remaining_qty": 33
+      "remaining_qty": 33,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-07-20",
@@ -367,7 +381,9 @@
       "value": -30.51,
       "reason": "TRIM_OVERWEIGHT",
       "remaining_cash": 302.93399999999906,
-      "remaining_qty": 156
+      "remaining_qty": 156,
+      "cost_basis": 3.4173333333333336,
+      "realized_pnl": -0.24600000000000088
     },
     {
       "date": "2025-07-22",
@@ -378,7 +394,9 @@
       "value": -29.44,
       "reason": "TRIM_OVERWEIGHT",
       "remaining_cash": 332.37399999999906,
-      "remaining_qty": 148
+      "remaining_qty": 148,
+      "cost_basis": 3.4173333333333336,
+      "realized_pnl": 2.101333333333333
     },
     {
       "date": "2025-07-28",
@@ -389,7 +407,9 @@
       "value": -32.72,
       "reason": "TRIM_OVERWEIGHT",
       "remaining_cash": 365.093999999999,
-      "remaining_qty": 140
+      "remaining_qty": 140,
+      "cost_basis": 3.4173333333333336,
+      "realized_pnl": 5.38133333333333
     },
     {
       "date": "2025-07-30",
@@ -400,7 +420,9 @@
       "value": -36.63,
       "reason": "TRIM_OVERWEIGHT",
       "remaining_cash": 401.723999999999,
-      "remaining_qty": 131
+      "remaining_qty": 131,
+      "cost_basis": 3.4173333333333336,
+      "realized_pnl": 5.8740000000000006
     },
     {
       "date": "2025-07-31",
@@ -411,7 +433,110 @@
       "value": 27.02,
       "reason": "BUY_TARGET",
       "remaining_cash": 374.70399999999904,
-      "remaining_qty": 138
+      "remaining_qty": 138,
+      "cost_basis": 3.4173333333333336,
+      "realized_pnl": 0.0
+    }
+  ],
+  "performance": [
+    {
+      "ticker": "BDTX",
+      "status": "CLOSED",
+      "enter_date": "2025-06-24",
+      "exit_date": "2025-07-01",
+      "realized_pnl": 114.95999999999925,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.6,
+      "current_price": 2.63,
+      "quantity": 3832.0
+    },
+    {
+      "ticker": "EVR",
+      "status": "CLOSED",
+      "enter_date": "2025-07-01",
+      "exit_date": "2025-07-15",
+      "realized_pnl": 214.89999999999952,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 286.0,
+      "current_price": 292.14,
+      "quantity": 35.0
+    },
+    {
+      "ticker": "EVR",
+      "status": "OPEN",
+      "enter_date": "2025-07-16",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": -3.96000000000015,
+      "cost_basis": 301.26,
+      "current_price": 301.14,
+      "quantity": 33.0
+    },
+    {
+      "ticker": "OPRT",
+      "status": "CLOSED",
+      "enter_date": "2025-06-17",
+      "exit_date": "2025-07-01",
+      "realized_pnl": -16.03942028985506,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 7.150615942028986,
+      "current_price": 6.9,
+      "quantity": 64.0
+    },
+    {
+      "ticker": "TTI",
+      "status": "CLOSED",
+      "enter_date": "2025-07-01",
+      "exit_date": "2025-07-20",
+      "realized_pnl": -0.24600000000000088,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.4173333333333336,
+      "current_price": 3.39,
+      "quantity": 9.0
+    },
+    {
+      "ticker": "TTI",
+      "status": "CLOSED",
+      "enter_date": "2025-07-01",
+      "exit_date": "2025-07-22",
+      "realized_pnl": 2.101333333333333,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.4173333333333336,
+      "current_price": 3.68,
+      "quantity": 8.0
+    },
+    {
+      "ticker": "TTI",
+      "status": "CLOSED",
+      "enter_date": "2025-07-01",
+      "exit_date": "2025-07-28",
+      "realized_pnl": 5.38133333333333,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.4173333333333336,
+      "current_price": 4.09,
+      "quantity": 8.0
+    },
+    {
+      "ticker": "TTI",
+      "status": "CLOSED",
+      "enter_date": "2025-07-01",
+      "exit_date": "2025-07-30",
+      "realized_pnl": 5.8740000000000006,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.4173333333333336,
+      "current_price": 4.07,
+      "quantity": 9.0
+    },
+    {
+      "ticker": "TTI",
+      "status": "OPEN",
+      "enter_date": "2025-07-01",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 91.10933333333324,
+      "cost_basis": 3.439787439613527,
+      "current_price": 4.1,
+      "quantity": 138.0
     }
   ],
   "meta": {

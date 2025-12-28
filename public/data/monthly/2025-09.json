@@ -291,7 +291,9 @@
       "value": -17308.800000000003,
       "reason": "STOP_LOSS",
       "remaining_cash": 17327.584000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 22.27,
+      "realized_pnl": 6619.200000000002
     },
     {
       "date": "2025-09-08",
@@ -302,7 +304,9 @@
       "value": 11395.56,
       "reason": "BUY_TARGET",
       "remaining_cash": 5932.024000000003,
-      "remaining_qty": 534
+      "remaining_qty": 534,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-08",
@@ -313,7 +317,9 @@
       "value": 3202.1,
       "reason": "BUY_TARGET",
       "remaining_cash": 2729.924000000003,
-      "remaining_qty": 142
+      "remaining_qty": 142,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-08",
@@ -324,7 +330,9 @@
       "value": 2255.89,
       "reason": "BUY_TARGET",
       "remaining_cash": 474.0340000000033,
-      "remaining_qty": 871
+      "remaining_qty": 871,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-08",
@@ -335,7 +343,9 @@
       "value": 440.0,
       "reason": "BUY_TARGET",
       "remaining_cash": 34.03400000000329,
-      "remaining_qty": 20
+      "remaining_qty": 20,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-09",
@@ -346,7 +356,9 @@
       "value": -442.59999999999997,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 476.63400000000325,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 22.0,
+      "realized_pnl": 2.59999999999998
     },
     {
       "date": "2025-09-09",
@@ -357,7 +369,9 @@
       "value": 163.48,
       "reason": "BUY_TARGET",
       "remaining_cash": 313.1540000000033,
-      "remaining_qty": 938
+      "remaining_qty": 938,
+      "cost_basis": 2.59,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-09",
@@ -368,7 +382,9 @@
       "value": -2288.72,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2601.874000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.579285714285714,
+      "realized_pnl": -130.64999999999995
     },
     {
       "date": "2025-09-09",
@@ -379,7 +395,9 @@
       "value": 442.59999999999997,
       "reason": "BUY_TARGET",
       "remaining_cash": 2159.274000000003,
-      "remaining_qty": 20
+      "remaining_qty": 20,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-10",
@@ -390,7 +408,9 @@
       "value": 449.20000000000005,
       "reason": "BUY_TARGET",
       "remaining_cash": 2159.274000000003,
-      "remaining_qty": 20
+      "remaining_qty": 20,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-10",
@@ -401,7 +421,9 @@
       "value": -2363.01,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2608.474000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.49,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-10",
@@ -412,7 +434,9 @@
       "value": 2363.01,
       "reason": "BUY_TARGET",
       "remaining_cash": 245.46400000000267,
-      "remaining_qty": 949
+      "remaining_qty": 949,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-10",
@@ -423,7 +447,9 @@
       "value": -449.20000000000005,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2608.474000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 22.13,
+      "realized_pnl": 6.600000000000037
     },
     {
       "date": "2025-09-11",
@@ -434,7 +460,9 @@
       "value": -436.70000000000005,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2595.974000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 22.46,
+      "realized_pnl": -12.5
     },
     {
       "date": "2025-09-11",
@@ -445,7 +473,9 @@
       "value": 2326.56,
       "reason": "BUY_TARGET",
       "remaining_cash": 269.41400000000294,
-      "remaining_qty": 888
+      "remaining_qty": 888,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-11",
@@ -456,7 +486,9 @@
       "value": -2326.56,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2595.974000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.62,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-11",
@@ -467,7 +499,9 @@
       "value": 436.70000000000005,
       "reason": "BUY_TARGET",
       "remaining_cash": 2159.274000000003,
-      "remaining_qty": 20
+      "remaining_qty": 20,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-12",
@@ -478,7 +512,9 @@
       "value": -436.70000000000005,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2595.974000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 21.835,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-12",
@@ -489,7 +525,9 @@
       "value": 2326.56,
       "reason": "BUY_TARGET",
       "remaining_cash": 269.41400000000294,
-      "remaining_qty": 888
+      "remaining_qty": 888,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-12",
@@ -500,7 +538,9 @@
       "value": -2326.56,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2595.974000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.62,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-12",
@@ -511,7 +551,9 @@
       "value": 436.70000000000005,
       "reason": "BUY_TARGET",
       "remaining_cash": 2159.274000000003,
-      "remaining_qty": 20
+      "remaining_qty": 20,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-13",
@@ -522,7 +564,9 @@
       "value": 436.70000000000005,
       "reason": "BUY_TARGET",
       "remaining_cash": 2159.274000000003,
-      "remaining_qty": 20
+      "remaining_qty": 20,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-13",
@@ -533,7 +577,9 @@
       "value": -2326.56,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2595.974000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.62,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-13",
@@ -544,7 +590,9 @@
       "value": -436.70000000000005,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2595.974000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 21.835,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-13",
@@ -555,7 +603,9 @@
       "value": 2326.56,
       "reason": "BUY_TARGET",
       "remaining_cash": 269.41400000000294,
-      "remaining_qty": 888
+      "remaining_qty": 888,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-14",
@@ -566,7 +616,9 @@
       "value": -461.4,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2620.674000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 21.835,
+      "realized_pnl": 24.69999999999999
     },
     {
       "date": "2025-09-14",
@@ -577,7 +629,9 @@
       "value": 2359.13,
       "reason": "BUY_TARGET",
       "remaining_cash": 261.54400000000305,
-      "remaining_qty": 877
+      "remaining_qty": 877,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-14",
@@ -588,7 +642,9 @@
       "value": -2359.13,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2620.674000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.69,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-14",
@@ -599,7 +655,9 @@
       "value": 438.33,
       "reason": "BUY_TARGET",
       "remaining_cash": 2182.3440000000032,
-      "remaining_qty": 19
+      "remaining_qty": 19,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-15",
@@ -610,7 +668,9 @@
       "value": -431.3,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2613.6440000000034,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 23.07,
+      "realized_pnl": -7.030000000000019
     },
     {
       "date": "2025-09-15",
@@ -621,7 +681,9 @@
       "value": 2213.2799999999997,
       "reason": "BUY_TARGET",
       "remaining_cash": 400.36400000000367,
-      "remaining_qty": 848
+      "remaining_qty": 848,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-15",
@@ -632,7 +694,9 @@
       "value": -2213.2799999999997,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2613.6440000000034,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.61,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-15",
@@ -643,7 +707,9 @@
       "value": 431.3,
       "reason": "BUY_TARGET",
       "remaining_cash": 2182.3440000000032,
-      "remaining_qty": 19
+      "remaining_qty": 19,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-16",
@@ -654,7 +720,9 @@
       "value": 2251.3199999999997,
       "reason": "BUY_TARGET",
       "remaining_cash": 379.5190000000034,
-      "remaining_qty": 876
+      "remaining_qty": 876,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-16",
@@ -665,7 +733,9 @@
       "value": 424.89,
       "reason": "BUY_TARGET",
       "remaining_cash": 2205.9490000000033,
-      "remaining_qty": 18
+      "remaining_qty": 18,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-16",
@@ -676,7 +746,9 @@
       "value": -448.495,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2630.839000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 22.7,
+      "realized_pnl": 17.19500000000002
     },
     {
       "date": "2025-09-16",
@@ -687,7 +759,9 @@
       "value": -2251.3199999999997,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2630.839000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.57,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-17",
@@ -698,7 +772,9 @@
       "value": -442.08,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2648.029000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 23.605,
+      "realized_pnl": 17.18999999999997
     },
     {
       "date": "2025-09-17",
@@ -709,7 +785,9 @@
       "value": 2271.4,
       "reason": "BUY_TARGET",
       "remaining_cash": 376.6290000000031,
-      "remaining_qty": 820
+      "remaining_qty": 820,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-17",
@@ -720,7 +798,9 @@
       "value": -2271.4,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2648.029000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.77,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-17",
@@ -731,7 +811,9 @@
       "value": 442.08,
       "reason": "BUY_TARGET",
       "remaining_cash": 2205.9490000000033,
-      "remaining_qty": 18
+      "remaining_qty": 18,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-18",
@@ -742,7 +824,9 @@
       "value": -2417.94,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2687.8090000000034,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.66,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-18",
@@ -753,7 +837,9 @@
       "value": -481.86,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2687.8090000000034,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 24.56,
+      "realized_pnl": 39.780000000000015
     },
     {
       "date": "2025-09-18",
@@ -764,7 +850,9 @@
       "value": 2417.94,
       "reason": "BUY_TARGET",
       "remaining_cash": 269.8690000000033,
-      "remaining_qty": 909
+      "remaining_qty": 909,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-18",
@@ -775,7 +863,9 @@
       "value": 455.09,
       "reason": "BUY_TARGET",
       "remaining_cash": 2232.7190000000032,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-19",
@@ -786,7 +876,9 @@
       "value": 455.09,
       "reason": "BUY_TARGET",
       "remaining_cash": 2232.7190000000032,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-19",
@@ -797,7 +889,9 @@
       "value": -2417.94,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2687.8090000000034,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.66,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-19",
@@ -808,7 +902,9 @@
       "value": 2417.94,
       "reason": "BUY_TARGET",
       "remaining_cash": 269.8690000000033,
-      "remaining_qty": 909
+      "remaining_qty": 909,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-19",
@@ -819,7 +915,9 @@
       "value": -455.09,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2687.8090000000034,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 26.77,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-20",
@@ -830,7 +928,9 @@
       "value": -455.09,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2687.8090000000034,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 26.77,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-20",
@@ -841,7 +941,9 @@
       "value": 2417.94,
       "reason": "BUY_TARGET",
       "remaining_cash": 269.8690000000033,
-      "remaining_qty": 909
+      "remaining_qty": 909,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-20",
@@ -852,7 +954,9 @@
       "value": -2417.94,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2687.8090000000034,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.66,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-20",
@@ -863,7 +967,9 @@
       "value": 455.09,
       "reason": "BUY_TARGET",
       "remaining_cash": 2232.7190000000032,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-21",
@@ -874,7 +980,9 @@
       "value": -465.29,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2698.009000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 26.77,
+      "realized_pnl": 10.200000000000024
     },
     {
       "date": "2025-09-21",
@@ -885,7 +993,9 @@
       "value": 2436.27,
       "reason": "BUY_TARGET",
       "remaining_cash": 261.7390000000032,
-      "remaining_qty": 843
+      "remaining_qty": 843,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-21",
@@ -896,7 +1006,9 @@
       "value": -2436.27,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2698.009000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.89,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-21",
@@ -907,7 +1019,9 @@
       "value": 465.29,
       "reason": "BUY_TARGET",
       "remaining_cash": 2232.7190000000032,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-22",
@@ -918,7 +1032,9 @@
       "value": 444.32,
       "reason": "BUY_TARGET",
       "remaining_cash": 2260.489000000003,
-      "remaining_qty": 16
+      "remaining_qty": 16,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-22",
@@ -929,7 +1045,9 @@
       "value": -2417.25,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2704.8090000000034,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.75,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-22",
@@ -940,7 +1058,9 @@
       "value": -472.09,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2704.8090000000034,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 27.37,
+      "realized_pnl": 6.799999999999976
     },
     {
       "date": "2025-09-22",
@@ -951,7 +1071,9 @@
       "value": 2417.25,
       "reason": "BUY_TARGET",
       "remaining_cash": 287.5590000000034,
-      "remaining_qty": 879
+      "remaining_qty": 879,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-23",
@@ -962,7 +1084,9 @@
       "value": -429.28,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2689.769000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 27.77,
+      "realized_pnl": -15.04000000000002
     },
     {
       "date": "2025-09-23",
@@ -973,7 +1097,9 @@
       "value": 2378.75,
       "reason": "BUY_TARGET",
       "remaining_cash": 311.01900000000296,
-      "remaining_qty": 865
+      "remaining_qty": 865,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-23",
@@ -984,7 +1110,9 @@
       "value": -2378.75,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2689.769000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.75,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-23",
@@ -995,7 +1123,9 @@
       "value": 456.10999999999996,
       "reason": "BUY_TARGET",
       "remaining_cash": 2233.659000000003,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-24",
@@ -1006,7 +1136,9 @@
       "value": -459.17,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2692.829000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 26.83,
+      "realized_pnl": 3.0600000000000556
     },
     {
       "date": "2025-09-24",
@@ -1017,7 +1149,9 @@
       "value": 2451.45,
       "reason": "BUY_TARGET",
       "remaining_cash": 241.3790000000031,
-      "remaining_qty": 885
+      "remaining_qty": 885,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-24",
@@ -1028,7 +1162,9 @@
       "value": -2451.45,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2692.829000000003,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.7699999999999996,
+      "realized_pnl": 3.930189507173054e-13
     },
     {
       "date": "2025-09-24",
@@ -1039,7 +1175,9 @@
       "value": 459.17,
       "reason": "BUY_TARGET",
       "remaining_cash": 2233.659000000003,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-25",
@@ -1050,7 +1188,9 @@
       "value": 493.51,
       "reason": "BUY_TARGET",
       "remaining_cash": 2233.6590000000024,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-25",
@@ -1061,7 +1201,9 @@
       "value": -2535.8199999999997,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2727.1690000000026,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 3.07,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-25",
@@ -1072,7 +1214,9 @@
       "value": 2535.8199999999997,
       "reason": "BUY_TARGET",
       "remaining_cash": 191.3490000000029,
-      "remaining_qty": 826
+      "remaining_qty": 826,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-25",
@@ -1083,7 +1227,9 @@
       "value": -493.51,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2727.1690000000026,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 27.01,
+      "realized_pnl": 34.33999999999999
     },
     {
       "date": "2025-09-26",
@@ -1094,7 +1240,9 @@
       "value": -493.51,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2727.1690000000026,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 29.03,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-26",
@@ -1105,7 +1253,9 @@
       "value": 2535.8199999999997,
       "reason": "BUY_TARGET",
       "remaining_cash": 191.3490000000029,
-      "remaining_qty": 826
+      "remaining_qty": 826,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-26",
@@ -1116,7 +1266,9 @@
       "value": -2535.8199999999997,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2727.1690000000026,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 3.07,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-26",
@@ -1127,7 +1279,9 @@
       "value": 493.51,
       "reason": "BUY_TARGET",
       "remaining_cash": 2233.6590000000024,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-27",
@@ -1138,7 +1292,9 @@
       "value": -493.51,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2727.1690000000026,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 29.03,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-27",
@@ -1149,7 +1305,9 @@
       "value": 2535.8199999999997,
       "reason": "BUY_TARGET",
       "remaining_cash": 191.3490000000029,
-      "remaining_qty": 826
+      "remaining_qty": 826,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-27",
@@ -1160,7 +1318,9 @@
       "value": -2535.8199999999997,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2727.1690000000026,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 3.07,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-27",
@@ -1171,7 +1331,9 @@
       "value": 493.51,
       "reason": "BUY_TARGET",
       "remaining_cash": 2233.6590000000024,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-28",
@@ -1182,7 +1344,9 @@
       "value": 459.85,
       "reason": "BUY_TARGET",
       "remaining_cash": 2233.6590000000024,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-28",
@@ -1193,7 +1357,9 @@
       "value": -2478.2799999999997,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2693.5090000000023,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 3.34,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-28",
@@ -1204,7 +1370,9 @@
       "value": 2478.2799999999997,
       "reason": "BUY_TARGET",
       "remaining_cash": 215.22900000000254,
-      "remaining_qty": 742
+      "remaining_qty": 742,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-28",
@@ -1215,7 +1383,9 @@
       "value": -459.85,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2693.5090000000023,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 29.03,
+      "realized_pnl": -33.66000000000001
     },
     {
       "date": "2025-09-29",
@@ -1226,7 +1396,9 @@
       "value": -477.35999999999996,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2711.0190000000025,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 27.05,
+      "realized_pnl": 17.50999999999996
     },
     {
       "date": "2025-09-29",
@@ -1237,7 +1409,9 @@
       "value": 2526.5,
       "reason": "BUY_TARGET",
       "remaining_cash": 184.5190000000025,
-      "remaining_qty": 815
+      "remaining_qty": 815,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-29",
@@ -1248,7 +1422,9 @@
       "value": -2526.5,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2711.0190000000025,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 3.1,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-29",
@@ -1259,7 +1435,9 @@
       "value": 477.35999999999996,
       "reason": "BUY_TARGET",
       "remaining_cash": 2233.6590000000024,
-      "remaining_qty": 17
+      "remaining_qty": 17,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-30",
@@ -1270,7 +1448,9 @@
       "value": -489.855,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2723.5140000000024,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 28.08,
+      "realized_pnl": 12.49500000000005
     },
     {
       "date": "2025-09-30",
@@ -1281,7 +1461,9 @@
       "value": 2505.6200000000003,
       "reason": "BUY_TARGET",
       "remaining_cash": 217.89400000000205,
-      "remaining_qty": 838
+      "remaining_qty": 838,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-30",
@@ -1292,7 +1474,9 @@
       "value": -2505.6200000000003,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 2723.5140000000024,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 2.99,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-09-30",
@@ -1303,7 +1487,539 @@
       "value": 461.04,
       "reason": "BUY_TARGET",
       "remaining_cash": 2262.4740000000024,
-      "remaining_qty": 16
+      "remaining_qty": 16,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    }
+  ],
+  "performance": [
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-08",
+      "exit_date": "2025-09-09",
+      "realized_pnl": 2.59999999999998,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 22.0,
+      "current_price": 22.13,
+      "quantity": 20.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-09",
+      "exit_date": "2025-09-10",
+      "realized_pnl": 6.600000000000037,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 22.13,
+      "current_price": 22.46,
+      "quantity": 20.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-10",
+      "exit_date": "2025-09-11",
+      "realized_pnl": -12.5,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 22.46,
+      "current_price": 21.835,
+      "quantity": 20.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-11",
+      "exit_date": "2025-09-12",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 21.835,
+      "current_price": 21.835,
+      "quantity": 20.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-12",
+      "exit_date": "2025-09-13",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 21.835,
+      "current_price": 21.835,
+      "quantity": 20.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-13",
+      "exit_date": "2025-09-14",
+      "realized_pnl": 24.69999999999999,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 21.835,
+      "current_price": 23.07,
+      "quantity": 20.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-14",
+      "exit_date": "2025-09-15",
+      "realized_pnl": -7.030000000000019,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 23.07,
+      "current_price": 22.7,
+      "quantity": 19.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-15",
+      "exit_date": "2025-09-16",
+      "realized_pnl": 17.19500000000002,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 22.7,
+      "current_price": 23.605,
+      "quantity": 19.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-16",
+      "exit_date": "2025-09-17",
+      "realized_pnl": 17.18999999999997,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 23.605,
+      "current_price": 24.56,
+      "quantity": 18.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-17",
+      "exit_date": "2025-09-18",
+      "realized_pnl": 39.780000000000015,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 24.56,
+      "current_price": 26.77,
+      "quantity": 18.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-18",
+      "exit_date": "2025-09-19",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 26.77,
+      "current_price": 26.77,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-19",
+      "exit_date": "2025-09-20",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 26.77,
+      "current_price": 26.77,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-20",
+      "exit_date": "2025-09-21",
+      "realized_pnl": 10.200000000000024,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 26.77,
+      "current_price": 27.37,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-21",
+      "exit_date": "2025-09-22",
+      "realized_pnl": 6.799999999999976,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 27.37,
+      "current_price": 27.77,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-22",
+      "exit_date": "2025-09-23",
+      "realized_pnl": -15.04000000000002,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 27.77,
+      "current_price": 26.83,
+      "quantity": 16.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-23",
+      "exit_date": "2025-09-24",
+      "realized_pnl": 3.0600000000000556,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 26.83,
+      "current_price": 27.01,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-24",
+      "exit_date": "2025-09-25",
+      "realized_pnl": 34.33999999999999,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 27.01,
+      "current_price": 29.03,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-25",
+      "exit_date": "2025-09-26",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 29.03,
+      "current_price": 29.03,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-26",
+      "exit_date": "2025-09-27",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 29.03,
+      "current_price": 29.03,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-27",
+      "exit_date": "2025-09-28",
+      "realized_pnl": -33.66000000000001,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 29.03,
+      "current_price": 27.05,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-28",
+      "exit_date": "2025-09-29",
+      "realized_pnl": 17.50999999999996,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 27.05,
+      "current_price": 28.08,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-29",
+      "exit_date": "2025-09-30",
+      "realized_pnl": 12.49500000000005,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 28.08,
+      "current_price": 28.815,
+      "quantity": 17.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "OPEN",
+      "enter_date": "2025-09-30",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": -19.439999999999998,
+      "cost_basis": 28.815,
+      "current_price": 27.6,
+      "quantity": 16.0
+    },
+    {
+      "ticker": "KGC",
+      "status": "OPEN",
+      "enter_date": "2025-09-08",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 326.6000000000001,
+      "cost_basis": 22.55,
+      "current_price": 24.85,
+      "quantity": 142.0
+    },
+    {
+      "ticker": "RIGL",
+      "status": "CLOSED",
+      "enter_date": "2025-08-01",
+      "exit_date": "2025-09-08",
+      "realized_pnl": 6619.200000000002,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 22.27,
+      "current_price": 36.06,
+      "quantity": 480.0
+    },
+    {
+      "ticker": "SSRM",
+      "status": "OPEN",
+      "enter_date": "2025-09-08",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 1644.720000000001,
+      "cost_basis": 21.34,
+      "current_price": 24.42,
+      "quantity": 534.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-08",
+      "exit_date": "2025-09-09",
+      "realized_pnl": -130.64999999999995,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.579285714285714,
+      "current_price": 2.44,
+      "quantity": 938.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-10",
+      "exit_date": "2025-09-10",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.49,
+      "current_price": 2.49,
+      "quantity": 949.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-11",
+      "exit_date": "2025-09-11",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.62,
+      "current_price": 2.62,
+      "quantity": 888.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-12",
+      "exit_date": "2025-09-12",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.62,
+      "current_price": 2.62,
+      "quantity": 888.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-13",
+      "exit_date": "2025-09-13",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.62,
+      "current_price": 2.62,
+      "quantity": 888.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-14",
+      "exit_date": "2025-09-14",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.69,
+      "current_price": 2.69,
+      "quantity": 877.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-15",
+      "exit_date": "2025-09-15",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.61,
+      "current_price": 2.61,
+      "quantity": 848.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-16",
+      "exit_date": "2025-09-16",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.57,
+      "current_price": 2.57,
+      "quantity": 876.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-17",
+      "exit_date": "2025-09-17",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.77,
+      "current_price": 2.77,
+      "quantity": 820.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-18",
+      "exit_date": "2025-09-18",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.66,
+      "current_price": 2.66,
+      "quantity": 909.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-19",
+      "exit_date": "2025-09-19",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.66,
+      "current_price": 2.66,
+      "quantity": 909.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-20",
+      "exit_date": "2025-09-20",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.66,
+      "current_price": 2.66,
+      "quantity": 909.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-21",
+      "exit_date": "2025-09-21",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.89,
+      "current_price": 2.89,
+      "quantity": 843.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-22",
+      "exit_date": "2025-09-22",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.75,
+      "current_price": 2.75,
+      "quantity": 879.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-23",
+      "exit_date": "2025-09-23",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.75,
+      "current_price": 2.75,
+      "quantity": 865.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-24",
+      "exit_date": "2025-09-24",
+      "realized_pnl": 3.930189507173054e-13,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.7699999999999996,
+      "current_price": 2.77,
+      "quantity": 885.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-25",
+      "exit_date": "2025-09-25",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.07,
+      "current_price": 3.07,
+      "quantity": 826.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-26",
+      "exit_date": "2025-09-26",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.07,
+      "current_price": 3.07,
+      "quantity": 826.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-27",
+      "exit_date": "2025-09-27",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.07,
+      "current_price": 3.07,
+      "quantity": 826.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-28",
+      "exit_date": "2025-09-28",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.34,
+      "current_price": 3.34,
+      "quantity": 742.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-29",
+      "exit_date": "2025-09-29",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.1,
+      "current_price": 3.1,
+      "quantity": 815.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-30",
+      "exit_date": "2025-09-30",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.99,
+      "current_price": 2.99,
+      "quantity": 838.0
     }
   ],
   "meta": {

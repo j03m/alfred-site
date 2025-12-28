@@ -277,7 +277,9 @@
       "value": -532.68,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 907.383999999999,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 3.439787439613527,
+      "realized_pnl": 57.98933333333328
     },
     {
       "date": "2025-08-01",
@@ -288,7 +290,9 @@
       "value": -9801.0,
       "reason": "SWAP_FUNDING",
       "remaining_cash": 10708.383999999998,
-      "remaining_qty": 0
+      "remaining_qty": 0,
+      "cost_basis": 301.26,
+      "realized_pnl": -140.5799999999997
     },
     {
       "date": "2025-08-01",
@@ -299,7 +303,44 @@
       "value": 10689.6,
       "reason": "BUY_TARGET",
       "remaining_cash": 18.78399999999783,
-      "remaining_qty": 480
+      "remaining_qty": 480,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    }
+  ],
+  "performance": [
+    {
+      "ticker": "EVR",
+      "status": "CLOSED",
+      "enter_date": "2025-07-16",
+      "exit_date": "2025-08-01",
+      "realized_pnl": -140.5799999999997,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 301.26,
+      "current_price": 297.0,
+      "quantity": 33.0
+    },
+    {
+      "ticker": "RIGL",
+      "status": "OPEN",
+      "enter_date": "2025-08-01",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 7958.400000000001,
+      "cost_basis": 22.27,
+      "current_price": 38.85,
+      "quantity": 480.0
+    },
+    {
+      "ticker": "TTI",
+      "status": "CLOSED",
+      "enter_date": "2025-07-01",
+      "exit_date": "2025-08-01",
+      "realized_pnl": 57.98933333333328,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.439787439613527,
+      "current_price": 3.86,
+      "quantity": 138.0
     }
   ],
   "meta": {

@@ -4,8 +4,7 @@ import { notFound } from 'next/navigation';
 import { getAllMonths, getMonthDetail } from '@/lib/api';
 import CommentarySection from '@/app/components/CommentarySection';
 import MonthChart from '@/app/components/MonthChart';
-import HoldingsTable from '@/app/components/HoldingsTable';
-import SignalsTable from '@/app/components/SignalsTable';
+import TableTabs from '@/app/components/TableTabs';
 import { ChevronLeft, Calendar } from 'lucide-react';
 
 interface PageProps {
@@ -75,14 +74,9 @@ export default async function ReportPage({ params }: PageProps) {
             <MonthChart data={report.chart} />
         </section>
 
-        {/* Holdings */}
+        {/* Holdings & Predictions Tabs */}
         <section>
-            <HoldingsTable rows={report.holdings} />
-        </section>
-
-         {/* Predictions */}
-         <section>
-            <SignalsTable rows={report.predictions} />
+            <TableTabs holdings={report.holdings} predictions={report.predictions} />
         </section>
 
       </main>

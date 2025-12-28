@@ -25,9 +25,9 @@ export default function HoldingsTable({ rows }: HoldingsTableProps) {
             {rows.map((row) => (
               <tr key={row.Symbol} className="hover:bg-slate-50/50 transition-colors">
                 <td className="px-6 py-3 font-medium text-slate-900">{row.Symbol}</td>
-                <td className="px-6 py-3 text-right">{row.Shares.toLocaleString()}</td>
-                <td className="px-6 py-3 text-right">${row.CostBasis.toFixed(2)}</td>
-                <td className="px-6 py-3 text-right">${row.CurrentPrice.toFixed(2)}</td>
+                <td className="px-6 py-3 text-right text-slate-900">{row.Shares.toLocaleString()}</td>
+                <td className="px-6 py-3 text-right text-slate-900">${row.CostBasis.toFixed(2)}</td>
+                <td className="px-6 py-3 text-right text-slate-900">${row.CurrentPrice.toFixed(2)}</td>
                 <td className={`px-6 py-3 text-right font-medium ${row.UnrealizedPnL >= 0 ? 'text-emerald-600' : 'text-rose-600'}`}>
                   {row.UnrealizedPnL > 0 ? '+' : ''}${row.UnrealizedPnL.toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}
                 </td>

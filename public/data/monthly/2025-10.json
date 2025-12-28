@@ -165,8 +165,385 @@
     }
   ],
   "predictions": {
-    "snapshot": [],
-    "log": []
+    "snapshot": [
+      {
+        "symbol": "SPHR",
+        "target_weight": 0.9999964814011204,
+        "score": -4.556283377110958
+      },
+      {
+        "symbol": "WBD",
+        "target_weight": 2.2141895490203453e-06,
+        "score": -5.858345436601667
+      },
+      {
+        "symbol": "BODI",
+        "target_weight": 1.2921373844243846e-06,
+        "score": -5.912204307606771
+      },
+      {
+        "symbol": "FBIO",
+        "target_weight": 1.022269202999205e-08,
+        "score": -6.396148613133846
+      },
+      {
+        "symbol": "CCO",
+        "target_weight": 9.533346121319115e-10,
+        "score": -6.633388541189106
+      },
+      {
+        "symbol": "EVAX",
+        "target_weight": 4.504379649238188e-10,
+        "score": -6.708363100358838
+      },
+      {
+        "symbol": "HOUS",
+        "target_weight": 1.88550965659881e-10,
+        "score": -6.795448302323621
+      },
+      {
+        "symbol": "EGAN",
+        "target_weight": 1.6644471899101145e-10,
+        "score": -6.807918813221477
+      },
+      {
+        "symbol": "M",
+        "target_weight": 1.4251893072964995e-10,
+        "score": -6.823437653032215
+      },
+      {
+        "symbol": "UROY",
+        "target_weight": 3.8428103135256076e-11,
+        "score": -6.954506232403219
+      },
+      {
+        "symbol": "PFSI",
+        "target_weight": 2.7665322572441154e-11,
+        "score": -6.9873671632203695
+      },
+      {
+        "symbol": "ITRG",
+        "target_weight": 2.341050526715104e-11,
+        "score": -7.004066650377354
+      },
+      {
+        "symbol": "W",
+        "target_weight": 2.046395677458225e-11,
+        "score": -7.017518623586511
+      },
+      {
+        "symbol": "TACT",
+        "target_weight": 1.517565880267213e-11,
+        "score": -7.04741586187447
+      },
+      {
+        "symbol": "TYGO",
+        "target_weight": 1.1019753690103541e-11,
+        "score": -7.079416191612836
+      },
+      {
+        "symbol": "QFIN",
+        "target_weight": 3.6142677815331024e-12,
+        "score": -7.1908962083398364
+      },
+      {
+        "symbol": "LITB",
+        "target_weight": 2.882667229273728e-12,
+        "score": -7.213513538159532
+      },
+      {
+        "symbol": "GLUE",
+        "target_weight": 2.5022433252090097e-12,
+        "score": -7.227666370883526
+      },
+      {
+        "symbol": "STRW",
+        "target_weight": 1.327509021496762e-12,
+        "score": -7.291054709846776
+      },
+      {
+        "symbol": "MKSI",
+        "target_weight": 1.0207735039345786e-12,
+        "score": -7.317329069133848
+      },
+      {
+        "symbol": "REAL",
+        "target_weight": 2.9143952918940454e-13,
+        "score": -7.4426774110179394
+      },
+      {
+        "symbol": "CDRE",
+        "target_weight": 7.742619798709846e-14,
+        "score": -7.575228144880384
+      },
+      {
+        "symbol": "SPRU",
+        "target_weight": 4.136974647195042e-14,
+        "score": -7.637905679526739
+      },
+      {
+        "symbol": "ARQT",
+        "target_weight": 3.8955283814644574e-14,
+        "score": -7.643919222795375
+      },
+      {
+        "symbol": "OESX",
+        "target_weight": 7.046272638616493e-15,
+        "score": -7.814910787414647
+      }
+    ],
+    "log": [
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "ARQT"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "BODI"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "CCO"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "CDRE"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "EGAN"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "EVAX"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "FBIO"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "GLUE"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "HOUS"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "ITRG"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "LITB"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "M"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "MKSI"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "OESX"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "PFSI"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "QFIN"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "REAL"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "SPHR"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "SPRU"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "STRW"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "TACT"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "TYGO"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "UROY"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "W"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Added",
+        "symbol": "WBD"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "AORT"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "CCLD"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "CDE"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "COMM"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "DRD"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "EMBC"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "FLXS"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "HBI"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "HIVE"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "HL"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "INFU"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "KGC"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "LIVE"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "MATV"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "RDDT"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "RIGL"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "SBH"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "SHCO"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "SIGA"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "SMP"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "SSRM"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "TILE"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "TPC"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "VFF"
+      },
+      {
+        "date": "2025-10-01",
+        "action": "Dropped",
+        "symbol": "XOMA"
+      }
+    ]
   },
   "ledger": [
     {

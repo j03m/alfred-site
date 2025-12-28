@@ -21,11 +21,8 @@ export default async function DashboardPage() {
              </div>
              <div>
                 <h1 className="text-2xl font-bold text-slate-900 tracking-tight">
-                  Alfred Analysis
+                  Alfred v1
                 </h1>
-                <p className="text-sm text-slate-500">
-                  Performance Attribution & Data Lake
-                </p>
              </div>
           </div>
         </div>

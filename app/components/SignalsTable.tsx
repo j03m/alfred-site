@@ -11,25 +11,23 @@ export default function SignalsTable({ rows }: SignalsTableProps) {
         <h3 className="text-lg font-bold text-slate-900">Model Predictions (Snapshot)</h3>
       </div>
       <div className="overflow-x-auto">
-        <table className="w-full text-sm text-left">
+        <table className="w-auto text-sm text-left">
           <thead className="bg-slate-50 text-slate-500 font-medium">
             <tr>
               <th className="px-6 py-3">Symbol</th>
-              <th className="px-6 py-3 text-right">Score</th>
-              <th className="px-6 py-3 text-right">Target Weight</th>
+              <th className="px-6 py-3 text-right">Weight</th>
             </tr>
           </thead>
           <tbody className="divide-y divide-slate-100">
             {rows.map((row) => (
               <tr key={row.symbol} className="hover:bg-slate-50/50 transition-colors">
                 <td className="px-6 py-3 font-medium text-slate-900">{row.symbol}</td>
-                <td className="px-6 py-3 text-right">{row.score.toFixed(4)}</td>
-                <td className="px-6 py-3 text-right">{(row.target_weight * 100).toFixed(2)}%</td>
+                <td className="px-6 py-3 text-right text-slate-900">{(row.target_weight * 100).toFixed(2)}%</td>
               </tr>
             ))}
              {rows.length === 0 && (
                 <tr>
-                    <td colSpan={3} className="px-6 py-8 text-center text-slate-400 italic">No predictions recorded for this period.</td>
+                    <td colSpan={2} className="px-6 py-8 text-center text-slate-400 italic">No predictions recorded for this period.</td>
                 </tr>
             )}
           </tbody>

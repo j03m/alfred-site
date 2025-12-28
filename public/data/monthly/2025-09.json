@@ -153,8 +153,365 @@
     }
   ],
   "predictions": {
-    "snapshot": [],
-    "log": []
+    "snapshot": [
+      {
+        "symbol": "RIGL",
+        "target_weight": 0.9999999699881585,
+        "score": -2.0391459102684166
+      },
+      {
+        "symbol": "SSRM",
+        "target_weight": 1.975923293418944e-08,
+        "score": -3.8131104037172463
+      },
+      {
+        "symbol": "KGC",
+        "target_weight": 5.557435170629649e-09,
+        "score": -3.93995882080344
+      },
+      {
+        "symbol": "VFF",
+        "target_weight": 3.909207152374841e-09,
+        "score": -3.975139033051164
+      },
+      {
+        "symbol": "DRD",
+        "target_weight": 7.625635798776394e-10,
+        "score": -4.138579430014943
+      },
+      {
+        "symbol": "SMP",
+        "target_weight": 1.4740800367373498e-11,
+        "score": -4.533186100430612
+      },
+      {
+        "symbol": "HBI",
+        "target_weight": 5.466246507229921e-12,
+        "score": -4.632388800382614
+      },
+      {
+        "symbol": "HL",
+        "target_weight": 1.4356699128082759e-12,
+        "score": -4.7660848610130415
+      },
+      {
+        "symbol": "TILE",
+        "target_weight": 1.1567330801560585e-12,
+        "score": -4.787688046695621
+      },
+      {
+        "symbol": "EMBC",
+        "target_weight": 3.965907838142144e-13,
+        "score": -4.894733048975468
+      },
+      {
+        "symbol": "COMM",
+        "target_weight": 1.423867739424125e-13,
+        "score": -4.99716883525366
+      },
+      {
+        "symbol": "CDE",
+        "target_weight": 4.745857878192526e-14,
+        "score": -5.107037816262164
+      },
+      {
+        "symbol": "CCLD",
+        "target_weight": 1.1174741280356844e-14,
+        "score": -5.25165794789973
+      },
+      {
+        "symbol": "FLXS",
+        "target_weight": 2.299459375190251e-15,
+        "score": -5.40975614265426
+      },
+      {
+        "symbol": "XOMA",
+        "target_weight": 1.2849773334512804e-15,
+        "score": -5.467949438872893
+      },
+      {
+        "symbol": "SBH",
+        "target_weight": 1.1530575779173643e-15,
+        "score": -5.478781829006039
+      },
+      {
+        "symbol": "MATV",
+        "target_weight": 3.4824187631224923e-16,
+        "score": -5.598509346134961
+      },
+      {
+        "symbol": "SIGA",
+        "target_weight": 2.449159896447119e-16,
+        "score": -5.63370754942332
+      },
+      {
+        "symbol": "HIVE",
+        "target_weight": 1.3341097944902375e-16,
+        "score": -5.694455631175515
+      },
+      {
+        "symbol": "SHCO",
+        "target_weight": 6.8222000958365e-17,
+        "score": -5.761522363904078
+      },
+      {
+        "symbol": "TPC",
+        "target_weight": 5.266999010523093e-17,
+        "score": -5.787394490093334
+      },
+      {
+        "symbol": "RDDT",
+        "target_weight": 9.536292842864238e-18,
+        "score": -5.958288592752069
+      },
+      {
+        "symbol": "AORT",
+        "target_weight": 9.099643038877542e-18,
+        "score": -5.9629755560308695
+      },
+      {
+        "symbol": "INFU",
+        "target_weight": 5.899579123430089e-18,
+        "score": -6.0063109733209785
+      },
+      {
+        "symbol": "LIVE",
+        "target_weight": 6.112689290350787e-19,
+        "score": -6.233020901749114
+      }
+    ],
+    "log": [
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "AORT"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "CCLD"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "CDE"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "COMM"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "DRD"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "FLXS"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "HBI"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "HIVE"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "HL"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "INFU"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "KGC"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "LIVE"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "MATV"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "RDDT"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "SBH"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "SHCO"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "SIGA"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "SMP"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "SSRM"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "TILE"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "TPC"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "VFF"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Added",
+        "symbol": "XOMA"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "ADTN"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "ALAB"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "ATRA"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "CGNX"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "COIN"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "FGEN"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "GFI"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "GIC"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "GMAB"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "JFU"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "JOUT"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "KSS"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "MTRN"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "NTWK"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "PI"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "REZI"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "RYTM"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "SNDL"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "STOK"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "TRS"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "TVTX"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "W"
+      },
+      {
+        "date": "2025-09-01",
+        "action": "Dropped",
+        "symbol": "WWW"
+      }
+    ]
   },
   "ledger": [
     {

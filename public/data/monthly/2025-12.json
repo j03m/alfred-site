@@ -131,8 +131,355 @@
     }
   ],
   "predictions": {
-    "snapshot": [],
-    "log": []
+    "snapshot": [
+      {
+        "symbol": "IRWD",
+        "target_weight": 0.9999851636163107,
+        "score": -3.2006757762283087
+      },
+      {
+        "symbol": "PHAR",
+        "target_weight": 1.1129336217775082e-05,
+        "score": -4.341266895925855
+      },
+      {
+        "symbol": "ATNI",
+        "target_weight": 2.2136911947440787e-06,
+        "score": -4.502759213763056
+      },
+      {
+        "symbol": "BODI",
+        "target_weight": 5.695886685626754e-07,
+        "score": -4.638509429651094
+      },
+      {
+        "symbol": "NATR",
+        "target_weight": 3.716351714212123e-07,
+        "score": -4.681209611167105
+      },
+      {
+        "symbol": "COHN",
+        "target_weight": 3.0438014794134465e-07,
+        "score": -4.7011731355887605
+      },
+      {
+        "symbol": "MBI",
+        "target_weight": 1.859688874226725e-07,
+        "score": -4.750442937493517
+      },
+      {
+        "symbol": "STC",
+        "target_weight": 3.542671966716591e-08,
+        "score": -4.91625424344511
+      },
+      {
+        "symbol": "HTHT",
+        "target_weight": 1.2600169659271944e-08,
+        "score": -5.019629848384739
+      },
+      {
+        "symbol": "TCMD",
+        "target_weight": 4.000002579861518e-09,
+        "score": -5.134371375665069
+      },
+      {
+        "symbol": "ARMN",
+        "target_weight": 3.220824102842251e-09,
+        "score": -5.156037150336488
+      },
+      {
+        "symbol": "DVAX",
+        "target_weight": 2.7509305336106825e-09,
+        "score": -5.171806953243504
+      },
+      {
+        "symbol": "MATV",
+        "target_weight": 2.051485281427045e-09,
+        "score": -5.20114447044034
+      },
+      {
+        "symbol": "ALTO",
+        "target_weight": 5.884781973529776e-10,
+        "score": -5.326022416353226
+      },
+      {
+        "symbol": "BWEN",
+        "target_weight": 4.967244087910219e-10,
+        "score": -5.34297286788933
+      },
+      {
+        "symbol": "HALO",
+        "target_weight": 4.0062580772068494e-10,
+        "score": -5.364473619789351
+      },
+      {
+        "symbol": "APPN",
+        "target_weight": 2.2274297545397535e-10,
+        "score": -5.423174551142438
+      },
+      {
+        "symbol": "SKY",
+        "target_weight": 9.72795011288753e-12,
+        "score": -5.736276084470546
+      },
+      {
+        "symbol": "MD",
+        "target_weight": 7.860646625807044e-12,
+        "score": -5.757589517074621
+      },
+      {
+        "symbol": "EXAS",
+        "target_weight": 2.721413206858531e-12,
+        "score": -5.863661273499019
+      },
+      {
+        "symbol": "QLYS",
+        "target_weight": 1.9961013833796037e-12,
+        "score": -5.894656807184219
+      },
+      {
+        "symbol": "SD",
+        "target_weight": 1.948814496083746e-12,
+        "score": -5.897054280474549
+      },
+      {
+        "symbol": "FSLY",
+        "target_weight": 2.36487423231703e-13,
+        "score": -6.107962429290637
+      },
+      {
+        "symbol": "AMGN",
+        "target_weight": 1.285130599994428e-13,
+        "score": -6.168948878729225
+      },
+      {
+        "symbol": "SPRU",
+        "target_weight": 7.852441017048099e-14,
+        "score": -6.21821097866632
+      }
+    ],
+    "log": [
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "ALTO"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "APPN"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "ARMN"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "ATNI"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "BODI"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "BWEN"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "COHN"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "EXAS"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "FSLY"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "HALO"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "HTHT"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "MATV"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "MBI"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "MD"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "NATR"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "PHAR"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "QLYS"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "SD"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "SKY"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "SPRU"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "STC"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Added",
+        "symbol": "TCMD"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "ARQT"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "AUPH"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "BIIB"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "CEPU"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "CRESY"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "DX"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "EVAX"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "HAE"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "HRZN"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "IQV"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "IRS"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "ISRG"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "JBHT"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "JOE"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "PHI"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "REGN"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "SND"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "SUPV"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "TVTX"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "VICR"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "VSCO"
+      },
+      {
+        "date": "2025-12-01",
+        "action": "Dropped",
+        "symbol": "WU"
+      }
+    ]
   },
   "ledger": [
     {

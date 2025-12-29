@@ -164,3 +164,27 @@ export async function getTickerCommentary(year: string, month: string, ticker: s
 
     return null;
 }
+
+export interface ChartData {
+  ticker: string;
+  period: string;
+  candles: Array<{
+    date: string;
+    open: number;
+    high: number;
+    low: number;
+    close: number;
+    volume: number;
+  }>;
+  events: Array<{
+    date: string;
+    type: string;
+    price: number;
+    quantity: number;
+  }>;
+}
+
+export async function getTickerChartData(year: string, month: string, ticker: string): Promise<ChartData | null> {
+    const slug = `${year}-${month.padStart(2, '0')}`;
+    return await readJson<ChartData>(`chart_data/${slug}/${ticker}.json`);
+}

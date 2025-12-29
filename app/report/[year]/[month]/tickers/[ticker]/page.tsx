@@ -1,8 +1,9 @@
 import React from 'react';
 import Link from 'next/link';
 import { ChevronLeft } from 'lucide-react';
-import { getTickerCommentary, getMonthDetail, getAllMonths } from '@/lib/api';
+import { getTickerCommentary, getMonthDetail, getAllMonths, getTickerChartData } from '@/lib/api';
 import CommentarySection from '@/app/components/CommentarySection';
+import TickerChart from '@/app/components/TickerChart';
 import { notFound } from 'next/navigation';
 import path from 'path';
 import fs from 'fs';
@@ -92,6 +93,9 @@ export default async function TickerReportPage({ params }: PageProps) {
   // Get ticker commentary with fallback logic
   const commentary = await getTickerCommentary(year, month, ticker);
   
+  // Get chart data (if available) - safe optional fetch
+  const chartData = await getTickerChartData(year, month, ticker);
+  
   if (!commentary) {
     console.error(`[TickerReportPage] No commentary found for ${ticker}`);
     notFound();
@@ -132,6 +136,8 @@ export default async function TickerReportPage({ params }: PageProps) {
       </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 mt-8">
+        {chartData && <TickerChart data={chartData} />}
+        
         <CommentarySection content={commentary.content} />
         
         {commentary.actualDate !== `${year}-${month.padStart(2, '0')}` && (

@@ -3,8 +3,8 @@
     "year": 2025,
     "month": "December",
     "month_num": 12,
-    "return_pct": -0.10116229485438578,
-    "ending_equity": 18064.22000000001,
+    "return_pct": -0.041047284437568936,
+    "ending_equity": 19272.370000000006,
     "start_date": "2025-12-01",
     "end_date": "2025-12-31"
   },
@@ -57,7 +57,7 @@
     "year": 2025,
     "month": "June",
     "month_num": 6,
-    "return_pct": 0.05563637361732504,
+    "return_pct": 0.012042133824011106,
     "ending_equity": 10384.2,
     "start_date": "2025-06-01",
     "end_date": "2025-06-30"

@@ -229,13 +229,13 @@
   ],
   "events": [
     {
-      "date": "2025-06-01",
+      "date": "2025-06-03",
       "type": "BUY",
       "price": 1.37,
       "quantity": 567
     },
     {
-      "date": "2025-06-12",
+      "date": "2025-06-16",
       "type": "SELL",
       "price": 1.49,
       "quantity": -567

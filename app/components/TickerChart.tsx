@@ -107,12 +107,22 @@ export default function TickerChart({ data }: TickerChartProps) {
       const evt = data.events.find(e => e.date === c.date);
       return {
           ...c,
-          // If event exists, put it on the 'y' axis (price) for the scatter
           y: evt ? evt.price : undefined,
           type: evt ? evt.type : undefined,
           quantity: evt ? evt.quantity : undefined
       };
   });
+
+  // VALIDATION: Ensure all events were mapped. 
+  // If we have an event date that isn't in candles, it wasn't added to chartData (or rather, the candle map missed it).
+  // We check if any event date is missing from the candle dates.
+  const candleDates = new Set(data.candles.map(c => c.date));
+  const missingEvents = data.events.filter(e => !candleDates.has(e.date));
+
+  if (missingEvents.length > 0) {
+      const missingDetails = missingEvents.map(e => `${e.type} @ ${e.date}`).join(', ');
+      throw new Error(`Data Mismatch in TickerChart for ${data.ticker}: Events found on non-trading dates (not in candles): ${missingDetails}`);
+  }
 
   return (
     <div className="w-full bg-white border border-slate-200 rounded-xl p-4 shadow-sm mb-6">

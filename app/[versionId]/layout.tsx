@@ -1,6 +1,7 @@
 import React from 'react';
 import { getRegistry } from '@/lib/api';
 import VersionSelector from '@/app/components/VersionSelector';
+import { notFound } from 'next/navigation';
 
 // Tell Next.js which versions to build statically
 export async function generateStaticParams() {
@@ -21,6 +22,10 @@ export default async function VersionLayout({
   const registry = await getRegistry();
   const versions = Object.values(registry.versions);
   const activeVersion = registry.versions[versionId];
+
+  if (!activeVersion) {
+    notFound();
+  }
 
   return (
     <div className="min-h-screen bg-slate-50 font-sans">

@@ -5,9 +5,10 @@ interface SignalsTableProps {
   rows: Array<{ symbol: string; target_weight: number; score: number }>;
   year?: string;
   month?: string;
+  versionId?: string;
 }
 
-export default function SignalsTable({ rows, year, month }: SignalsTableProps) {
+export default function SignalsTable({ rows, year, month, versionId }: SignalsTableProps) {
   return (
     <div className="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm">
       <div className="px-6 py-4 border-b border-slate-200">
@@ -25,7 +26,7 @@ export default function SignalsTable({ rows, year, month }: SignalsTableProps) {
             {rows.map((row) => (
               <tr key={row.symbol} className="hover:bg-slate-50/50 transition-colors">
                 <td className="px-6 py-3">
-                  <TickerLink symbol={row.symbol} year={year} month={month} />
+                  <TickerLink symbol={row.symbol} year={year} month={month} versionId={versionId} />
                 </td>
                 <td className="px-6 py-3 text-right text-slate-900">{(row.target_weight * 100).toFixed(2)}%</td>
               </tr>

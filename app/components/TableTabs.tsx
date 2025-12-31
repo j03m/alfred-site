@@ -13,9 +13,10 @@ interface TableTabsProps {
   ledger: Array<any>;
   year: string;
   month: string;
+  versionId: string;
 }
 
-export default function TableTabs({ performance, predictions, ledger, year, month }: TableTabsProps) {
+export default function TableTabs({ performance, predictions, ledger, year, month, versionId }: TableTabsProps) {
   const [activeTab, setActiveTab] = useState<'performance' | 'predictions' | 'ledger'>('performance');
 
   useEffect(() => {
@@ -71,9 +72,9 @@ export default function TableTabs({ performance, predictions, ledger, year, mont
 
       {/* Tab Content */}
       <div className="transition-all duration-300">
-        {activeTab === 'performance' && <PerformanceTable rows={performance || []} year={year} month={month} />}
-        {activeTab === 'predictions' && <SignalsTable rows={predictions || []} year={year} month={month} />}
-        {activeTab === 'ledger' && <LedgerTable rows={ledger || []} year={year} month={month} />}
+        {activeTab === 'performance' && <PerformanceTable rows={performance || []} year={year} month={month} versionId={versionId} />}
+        {activeTab === 'predictions' && <SignalsTable rows={predictions || []} year={year} month={month} versionId={versionId} />}
+        {activeTab === 'ledger' && <LedgerTable rows={ledger || []} year={year} month={month} versionId={versionId} />}
       </div>
     </div>
   );

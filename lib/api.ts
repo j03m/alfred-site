@@ -230,3 +230,71 @@ export async function getTickerChartData(versionId: string, year: string, month:
     const slug = `${year}-${month.padStart(2, '0')}`;
     return await readJson<ChartData>(versionId, `chart_data/${slug}/${ticker}.json`);
 }
+
+// Helper to generate static params for ticker pages
+export async function getTickerPageParams(versionId: string): Promise<Array<{ versionId: string; year: string; month: string; ticker: string }>> {
+    const dataDir = getDataDir(versionId);
+    const tickersBaseDir = path.join(dataDir, 'commentary/tickers');
+    
+    if (!fs.existsSync(tickersBaseDir)) return [];
+
+    // 1. Get a list of all tickers that have at least one commentary file anywhere
+    // tickerFirstSeen is not strictly needed if we just check existence later
+    const allAvailableMonths = fs.readdirSync(tickersBaseDir)
+        .filter(d => /^\d{4}-\d{2}$/.test(d))
+        .sort();
+
+    const tickerToMonths: Record<string, string[]> = {};
+    for (const slug of allAvailableMonths) {
+        const files = fs.readdirSync(path.join(tickersBaseDir, slug));
+        for (const file of files) {
+            if (file.endsWith('.md')) {
+                const ticker = file.replace('.md', '');
+                if (!tickerToMonths[ticker]) tickerToMonths[ticker] = [];
+                tickerToMonths[ticker].push(slug);
+            }
+        }
+    }
+
+    const months = await getAllMonths(versionId);
+    const params: Array<{ versionId: string; year: string; month: string; ticker: string }> = [];
+
+    // 2. For every month in the archive, see which tickers are "active" and have commentary
+    for (const m of months) {
+        const paddedMonth = m.month_num.toString().padStart(2, '0');
+        const currentSlug = `${m.year}-${paddedMonth}`;
+        
+        // Load the monthly report to find all tickers mentioned
+        // We use readJson helper internally or construct path. readJson is async, let's use sync for build script perf if possible, 
+        // but readJson is already there. Let's use readJson.
+        const rawReport = await readJson<RawMonthlyReport>(versionId, `monthly/${currentSlug}.json`);
+        if (!rawReport) continue;
+            
+        // Gather all tickers from this month's data
+        const tickers = new Set<string>();
+        rawReport.holdings?.forEach((h: any) => tickers.add(h.Symbol));
+        rawReport.predictions?.snapshot?.forEach((p: any) => tickers.add(p.symbol));
+        rawReport.ledger?.forEach((l: any) => tickers.add(l.symbol));
+        rawReport.performance?.forEach((p: any) => tickers.add(p.ticker));
+
+        for (const ticker of tickers) {
+            if (!ticker) continue;
+            
+            // Does this ticker have ANY commentary at or before this month?
+            const availableForTicker = tickerToMonths[ticker] || [];
+            // We want commentary that is <= currentSlug
+            const hasCommentary = availableForTicker.some(slug => slug <= currentSlug);
+
+            if (hasCommentary) {
+                params.push({
+                    versionId,
+                    year: m.year.toString(),
+                    month: m.month_num.toString(),
+                    ticker: ticker
+                });
+            }
+        }
+    }
+    
+    return params;
+}

@@ -5,9 +5,10 @@ interface LedgerTableProps {
   rows: Array<any>;
   year?: string;
   month?: string;
+  versionId?: string;
 }
 
-export default function LedgerTable({ rows, year, month }: LedgerTableProps) {
+export default function LedgerTable({ rows, year, month, versionId }: LedgerTableProps) {
   return (
     <div className="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm">
       <div className="px-6 py-4 border-b border-slate-200">
@@ -34,7 +35,7 @@ export default function LedgerTable({ rows, year, month }: LedgerTableProps) {
                   {row.action}
                 </td>
                 <td className="px-6 py-3">
-                  <TickerLink symbol={row.symbol} year={year} month={month} />
+                  <TickerLink symbol={row.symbol} year={year} month={month} versionId={versionId} />
                 </td>
                 <td className="px-6 py-3 text-right text-slate-900">{Number(row.quantity).toFixed(2)}</td>
                 <td className="px-6 py-3 text-right text-slate-900">${Number(row.price).toFixed(2)}</td>

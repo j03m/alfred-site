@@ -1,15 +1,14 @@
 import React from 'react';
 import Link from 'next/link';
 import { ChevronLeft } from 'lucide-react';
-import { getTickerCommentary, getMonthDetail, getAllMonths, getTickerChartData } from '@/lib/api';
+import { getTickerCommentary, getMonthDetail, getTickerChartData, getRegistry, getTickerPageParams } from '@/lib/api';
 import CommentarySection from '@/app/components/CommentarySection';
 import TickerChart from '@/app/components/TickerChart';
 import { notFound } from 'next/navigation';
-import path from 'path';
-import fs from 'fs';
 
 interface PageProps {
   params: Promise<{
+    versionId: string;
     year: string;
     month: string;
     ticker: string;
@@ -17,94 +16,34 @@ interface PageProps {
 }
 
 export async function generateStaticParams() {
-    const months = await getAllMonths();
-    const params: Array<{ year: string; month: string; ticker: string }> = [];
+    const registry = await getRegistry();
+    const versions = Object.keys(registry.versions);
     
-    const DATA_DIR = path.join(process.cwd(), 'public/data');
-    const tickersBaseDir = path.join(DATA_DIR, 'commentary/tickers');
-    
-    if (!fs.existsSync(tickersBaseDir)) return [];
+    let allParams: Array<{ versionId: string; year: string; month: string; ticker: string }> = [];
 
-    // 1. Get a list of all tickers that have at least one commentary file anywhere
-    const tickerFirstSeen: Record<string, string> = {}; // Ticker -> first YYYY-MM slug
-    const allAvailableMonths = fs.readdirSync(tickersBaseDir)
-        .filter(d => /^\d{4}-\d{2}$/.test(d))
-        .sort();
-
-    const tickerToMonths: Record<string, string[]> = {};
-    for (const slug of allAvailableMonths) {
-        const files = fs.readdirSync(path.join(tickersBaseDir, slug));
-        for (const file of files) {
-            if (file.endsWith('.md')) {
-                const ticker = file.replace('.md', '');
-                if (!tickerToMonths[ticker]) tickerToMonths[ticker] = [];
-                tickerToMonths[ticker].push(slug);
-            }
-        }
-    }
-
-    // 2. For every month in the archive, see which tickers are "active" and have commentary
-    for (const m of months) {
-        const paddedMonth = m.month_num.toString().padStart(2, '0');
-        const currentSlug = `${m.year}-${paddedMonth}`;
-        
-        // Load the monthly report to find all tickers mentioned
-        const reportPath = path.join(DATA_DIR, `monthly/${currentSlug}.json`);
-        if (!fs.existsSync(reportPath)) continue;
-
-        try {
-            const reportContent = fs.readFileSync(reportPath, 'utf-8');
-            const report = JSON.parse(reportContent);
-            
-            // Gather all tickers from this month's data
-            const tickers = new Set<string>();
-            report.holdings?.forEach((h: any) => tickers.add(h.Symbol));
-            report.predictions?.snapshot?.forEach((p: any) => tickers.add(p.symbol));
-            report.ledger?.forEach((l: any) => tickers.add(l.symbol));
-            report.performance?.forEach((p: any) => tickers.add(p.ticker));
-
-            for (const ticker of tickers) {
-                if (!ticker) continue;
-                
-                // Does this ticker have ANY commentary at or before this month?
-                const availableForTicker = tickerToMonths[ticker] || [];
-                const hasCommentary = availableForTicker.some(slug => slug <= currentSlug);
-
-                if (hasCommentary) {
-                    params.push({
-                        year: m.year.toString(),
-                        month: m.month_num.toString(),
-                        ticker: ticker
-                    });
-                }
-            }
-        } catch (e) {
-            console.error(`Error processing params for ${currentSlug}:`, e);
-        }
+    for (const versionId of versions) {
+        const versionParams = await getTickerPageParams(versionId);
+        allParams = allParams.concat(versionParams);
     }
     
-    return params;
+    return allParams;
 }
 
 export default async function TickerReportPage({ params }: PageProps) {
-  const { year, month, ticker } = await params;
-  console.log(`[TickerReportPage] Request for ${ticker} in ${year}-${month}`);
+  const { versionId, year, month, ticker } = await params;
   
   // Get ticker commentary with fallback logic
-  const commentary = await getTickerCommentary(year, month, ticker);
+  const commentary = await getTickerCommentary(versionId, year, month, ticker);
   
   // Get chart data (if available) - safe optional fetch
-  const chartData = await getTickerChartData(year, month, ticker);
+  const chartData = await getTickerChartData(versionId, year, month, ticker);
   
   if (!commentary) {
-    console.error(`[TickerReportPage] No commentary found for ${ticker}`);
     notFound();
   }
 
-  console.log(`[TickerReportPage] Found commentary from ${commentary.actualDate}`);
-
   // Also get some context about the month for the header
-  const { report } = await getMonthDetail(year, month);
+  const { report } = await getMonthDetail(versionId, year, month);
   const monthLabel = `${report.meta.month} ${report.meta.year}`;
 
   return (
@@ -114,7 +53,7 @@ export default async function TickerReportPage({ params }: PageProps) {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
           <div className="flex items-center space-x-4">
             <Link 
-              href={`/report/${year}/${month}`}
+              href={`/${versionId}/report/${year}/${month}`}
               className="p-2 hover:bg-slate-100 rounded-lg transition-colors text-slate-500"
             >
               <ChevronLeft className="w-5 h-5" />

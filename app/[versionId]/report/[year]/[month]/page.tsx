@@ -93,6 +93,7 @@ export default async function ReportPage({ params }: PageProps) {
                 ledger={report.ledger} 
                 year={year}
                 month={month}
+                versionId={versionId}
             />
         </section>
 

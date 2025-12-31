@@ -6,9 +6,10 @@ interface PerformanceTableProps {
   rows: Array<PerformanceEntry>;
   year?: string;
   month?: string;
+  versionId?: string;
 }
 
-export default function PerformanceTable({ rows, year, month }: PerformanceTableProps) {
+export default function PerformanceTable({ rows, year, month, versionId }: PerformanceTableProps) {
   return (
     <div className="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm">
       <div className="px-6 py-4 border-b border-slate-200">
@@ -40,7 +41,7 @@ export default function PerformanceTable({ rows, year, month }: PerformanceTable
               return (
                 <tr key={`${row.ticker}-${idx}`} className="hover:bg-slate-50/50 transition-colors">
                   <td className="px-6 py-3">
-                    <TickerLink symbol={row.ticker} year={year} month={month} />
+                    <TickerLink symbol={row.ticker} year={year} month={month} versionId={versionId} />
                   </td>
                   <td className="px-6 py-3">
                     <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-bold bg-slate-100 text-slate-900">

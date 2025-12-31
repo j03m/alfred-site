@@ -1,30 +1,41 @@
 import React from 'react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getAllMonths, getMonthDetail } from '@/lib/api';
+import { getAllMonths, getMonthDetail, getRegistry } from '@/lib/api';
 import CommentarySection from '@/app/components/CommentarySection';
 import MonthChart from '@/app/components/MonthChart';
 import TableTabs from '@/app/components/TableTabs';
 import { ChevronLeft, Calendar } from 'lucide-react';
 
 interface PageProps {
-  params: Promise<{ year: string; month: string }>;
+  params: Promise<{ versionId: string; year: string; month: string }>;
 }
 
 export async function generateStaticParams() {
-  const months = await getAllMonths();
-  return months.map((m) => ({
-    year: m.year.toString(),
-    month: m.month_num.toString(),
-  }));
+  const registry = await getRegistry();
+  const versions = Object.keys(registry.versions);
+  
+  let allParams: { versionId: string; year: string; month: string }[] = [];
+
+  for (const versionId of versions) {
+    const months = await getAllMonths(versionId);
+    const versionParams = months.map((m) => ({
+      versionId,
+      year: m.year.toString(),
+      month: m.month_num.toString(),
+    }));
+    allParams = allParams.concat(versionParams);
+  }
+  
+  return allParams;
 }
 
 export default async function ReportPage({ params }: PageProps) {
-  const { year, month } = await params;
+  const { versionId, year, month } = await params;
   
   let data;
   try {
-    data = await getMonthDetail(year, month);
+    data = await getMonthDetail(versionId, year, month);
   } catch (e) {
     notFound();
   }
@@ -38,7 +49,7 @@ export default async function ReportPage({ params }: PageProps) {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex items-center justify-between">
              <div className="flex items-center gap-4">
-                <Link href="/" className="p-2 hover:bg-slate-100 rounded-full transition-colors">
+                <Link href={`/${versionId}`} className="p-2 hover:bg-slate-100 rounded-full transition-colors">
                     <ChevronLeft className="w-5 h-5 text-slate-500" />
                 </Link>
                 <div>

@@ -18,9 +18,9 @@ export interface Registry {
 }
 
 export async function getRegistry(): Promise<Registry> {
-    const registryPath = path.join(process.cwd(), 'public/registry.json');
+    const registryPath = path.join(process.cwd(), 'registry.json');
     if (!fs.existsSync(registryPath)) {
-        throw new Error("Registry file not found at public/registry.json");
+        throw new Error("Registry file not found at registry.json");
     }
     const content = await fs.promises.readFile(registryPath, 'utf-8');
     return JSON.parse(content) as Registry;
@@ -32,8 +32,8 @@ export async function getActiveVersionId(): Promise<string> {
 }
 
 function getDataDir(versionId: string): string {
-    // Data is now located at public/versions/{versionId}
-    return path.join(process.cwd(), 'public/versions', versionId);
+    // Data is now located at data/versions/{versionId} (Private)
+    return path.join(process.cwd(), 'data/versions', versionId);
 }
 
 // Helper to safely read JSON relative to a version's data dir

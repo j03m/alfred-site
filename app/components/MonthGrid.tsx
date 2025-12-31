@@ -5,15 +5,16 @@ import { Calendar, ArrowRight, DollarSign } from 'lucide-react';
 
 interface MonthGridProps {
   months: ArchiveMonth[];
+  baseLink?: string;
 }
 
-export default function MonthGrid({ months }: MonthGridProps) {
+export default function MonthGrid({ months, baseLink = '/report' }: MonthGridProps) {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
       {months.map((m) => (
         <Link 
           key={`${m.year}-${m.month}`} 
-          href={`/report/${m.year}/${m.month_num}`}
+          href={`${baseLink}/${m.year}/${m.month_num}`}
           className="group block bg-white rounded-xl border border-slate-200 hover:border-blue-300 hover:shadow-md transition-all p-6"
         >
           <div className="flex justify-between items-start mb-4">

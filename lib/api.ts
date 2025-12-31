@@ -1,7 +1,56 @@
 import path from 'path';
 import fs from 'fs';
 
-const DATA_DIR = path.join(process.cwd(), 'public/data');
+// --- Registry & Path Helpers ---
+
+export interface RegistryVersion {
+  id: string;
+  name: string;
+  description: string;
+  dataset: string;
+  model_type: string;
+  paths: Record<string, any>;
+}
+
+export interface Registry {
+  active_version: string;
+  versions: Record<string, RegistryVersion>;
+}
+
+export async function getRegistry(): Promise<Registry> {
+    const registryPath = path.join(process.cwd(), 'public/registry.json');
+    if (!fs.existsSync(registryPath)) {
+        throw new Error("Registry file not found at public/registry.json");
+    }
+    const content = await fs.promises.readFile(registryPath, 'utf-8');
+    return JSON.parse(content) as Registry;
+}
+
+export async function getActiveVersionId(): Promise<string> {
+    const reg = await getRegistry();
+    return reg.active_version;
+}
+
+function getDataDir(versionId: string): string {
+    // Data is now located at public/versions/{versionId}
+    return path.join(process.cwd(), 'public/versions', versionId);
+}
+
+// Helper to safely read JSON relative to a version's data dir
+async function readJson<T>(versionId: string, relativePath: string): Promise<T | null> {
+    const baseDir = getDataDir(versionId);
+    const fullPath = path.join(baseDir, relativePath);
+    try {
+        if (!fs.existsSync(fullPath)) return null;
+        const content = await fs.promises.readFile(fullPath, 'utf-8');
+        return JSON.parse(content) as T;
+    } catch (e) {
+        console.error(`Error reading ${relativePath} for version ${versionId}:`, e);
+        return null;
+    }
+}
+
+// --- Domain Interfaces ---
 
 export interface GlobalStats {
   total_return: number;
@@ -49,32 +98,23 @@ export interface MonthlyReport {
   performance: Array<PerformanceEntry>;
 }
 
-// Helper to safely read JSON
-async function readJson<T>(relativePath: string): Promise<T | null> {
-    const fullPath = path.join(DATA_DIR, relativePath);
-    try {
-        if (!fs.existsSync(fullPath)) return null;
-        const content = await fs.promises.readFile(fullPath, 'utf-8');
-        return JSON.parse(content) as T;
-    } catch (e) {
-        console.error(`Error reading ${relativePath}:`, e);
-        return null;
-    }
-}
+// --- Data Access Functions ---
 
-export async function getGlobalData(): Promise<{ stats: GlobalStats; history: PerformancePoint[] }> {
-    const stats = await readJson<GlobalStats>('stats.json');
-    const history = await readJson<PerformancePoint[]>('performance_history.json');
+export async function getGlobalData(versionId: string): Promise<{ stats: GlobalStats; history: PerformancePoint[] }> {
+    const stats = await readJson<GlobalStats>(versionId, 'stats.json');
+    const history = await readJson<PerformancePoint[]>(versionId, 'performance_history.json');
 
     if (!stats || !history) {
-        throw new Error("Failed to load global data (stats.json or performance_history.json missing)");
+        // Fail softly or throw? Let's throw to indicate bad data for this version.
+        // Or return nulls?
+        throw new Error(`Failed to load global data for version ${versionId} (stats/history missing)`);
     }
 
     return { stats, history };
 }
 
-export async function getAllMonths(): Promise<ArchiveMonth[]> {
-    const months = await readJson<ArchiveMonth[]>('archive.json');
+export async function getAllMonths(versionId: string): Promise<ArchiveMonth[]> {
+    const months = await readJson<ArchiveMonth[]>(versionId, 'archive.json');
     if (!months) return [];
     // Sort by date descending (newest first)
     return months.sort((a, b) => b.month_num - a.month_num).sort((a,b) => b.year - a.year);
@@ -95,15 +135,15 @@ interface RawMonthlyReport {
     performance: Array<PerformanceEntry>;
 }
 
-export async function getMonthDetail(year: string, month: string): Promise<{ report: MonthlyReport; commentaryHtml: string }> {
+export async function getMonthDetail(versionId: string, year: string, month: string): Promise<{ report: MonthlyReport; commentaryHtml: string }> {
     // Ensure month is 2 digits for the filename
     const paddedMonth = month.padStart(2, '0');
     const slug = `${year}-${paddedMonth}`;
     
-    const rawReport = await readJson<RawMonthlyReport>(`monthly/${slug}.json`);
+    const rawReport = await readJson<RawMonthlyReport>(versionId, `monthly/${slug}.json`);
     
     if (!rawReport) {
-        throw new Error(`Report not found for ${slug}`);
+        throw new Error(`Report not found for ${slug} in version ${versionId}`);
     }
 
     // Map Raw -> Interface
@@ -120,30 +160,32 @@ export async function getMonthDetail(year: string, month: string): Promise<{ rep
     // Try reading commentary
     let commentaryHtml = "";
     try {
-        const commentaryPath = path.join(DATA_DIR, `commentary/${slug}.md`);
+        const dataDir = getDataDir(versionId);
+        const commentaryPath = path.join(dataDir, `commentary/${slug}.md`);
         if (fs.existsSync(commentaryPath)) {
             commentaryHtml = await fs.promises.readFile(commentaryPath, 'utf-8');
         }
     } catch (e) {
-        console.warn(`Commentary missing for ${slug}`);
+        console.warn(`Commentary missing for ${slug} in version ${versionId}`);
     }
 
     return { report, commentaryHtml };
 }
 
-export async function getTickerCommentary(year: string, month: string, ticker: string): Promise<{ content: string; actualDate: string } | null> {
+export async function getTickerCommentary(versionId: string, year: string, month: string, ticker: string): Promise<{ content: string; actualDate: string } | null> {
     const paddedMonth = month.padStart(2, '0');
     const requestedSlug = `${year}-${paddedMonth}`;
+    const dataDir = getDataDir(versionId);
     
     // 1. Try exact match
-    const exactPath = path.join(DATA_DIR, 'commentary/tickers', requestedSlug, `${ticker}.md`);
+    const exactPath = path.join(dataDir, 'commentary/tickers', requestedSlug, `${ticker}.md`);
     if (fs.existsSync(exactPath)) {
         const content = fs.readFileSync(exactPath, 'utf-8');
         return { content, actualDate: requestedSlug };
     }
 
     // 2. Fallback: Search backwards through available months
-    const tickersBaseDir = path.join(DATA_DIR, 'commentary/tickers');
+    const tickersBaseDir = path.join(dataDir, 'commentary/tickers');
     if (!fs.existsSync(tickersBaseDir)) return null;
 
     const availableMonths = fs.readdirSync(tickersBaseDir)
@@ -184,7 +226,7 @@ export interface ChartData {
   }>;
 }
 
-export async function getTickerChartData(year: string, month: string, ticker: string): Promise<ChartData | null> {
+export async function getTickerChartData(versionId: string, year: string, month: string, ticker: string): Promise<ChartData | null> {
     const slug = `${year}-${month.padStart(2, '0')}`;
-    return await readJson<ChartData>(`chart_data/${slug}/${ticker}.json`);
+    return await readJson<ChartData>(versionId, `chart_data/${slug}/${ticker}.json`);
 }

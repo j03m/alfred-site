@@ -1,0 +1,28 @@
+{
+  "active_version": "v1.0-stable",
+  "versions": {
+    "v1.0-stable": {
+      "id": "v1.0-stable",
+      "name": "Alfred v1 (Stable)",
+      "description": "Standard Equity Model (Dual Scout)",
+      "dataset": "scout-v2",
+      "model_type": "equity_standard",
+      "paths": {
+        "models": {
+          "scout_model_monthly": "models/velocity-scout-monthly_scout-v2_128_best_loss.pth",
+          "scout_model_quarterly": "models/velocity-scout-quarterly_scout-v2_128_best_loss.pth",
+          "manager_model": "models/manager-train_manager-v1_128_best_loss.pth"
+        },
+        "data": {
+          "processed": "processed_data/v1.0-stable",
+          "explainability": "explainability/v1.0-stable",
+          "results": "results/v1.0-stable"
+        },
+        "site_output": "alfred-site/public/versions/v1.0-stable"
+      },
+      "flags": {
+        "use_options": false
+      }
+    }
+  }
+}

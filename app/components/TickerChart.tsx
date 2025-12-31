@@ -149,9 +149,9 @@ export default function TickerChart({ data }: TickerChartProps) {
               dataKey="date" 
               tickFormatter={(dateStr) => {
                 const date = new Date(dateStr);
-                const day = date.getDate();
+                const day = date.getUTCDate();
                 if (day === 1) {
-                  return date.toLocaleDateString('en-US', { month: 'short' });
+                  return date.toLocaleDateString('en-US', { month: 'short', timeZone: 'UTC' });
                 }
                 return day.toString();
               }} 

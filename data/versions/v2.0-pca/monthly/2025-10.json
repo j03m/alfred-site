@@ -1,0 +1,737 @@
+{
+  "year": 2025,
+  "month": 10,
+  "chart": [
+    {
+      "date": "2025-10-01",
+      "rel_port": 1.0,
+      "rel_spy": 1.0,
+      "rel_mag7": 1.0
+    },
+    {
+      "date": "2025-10-02",
+      "rel_port": 0.9767026743221924,
+      "rel_spy": 1.0011519186176976,
+      "rel_mag7": 0.9966747003829514
+    },
+    {
+      "date": "2025-10-03",
+      "rel_port": 0.9910918741048987,
+      "rel_spy": 1.0011369586356496,
+      "rel_mag7": 0.9897556245496388
+    },
+    {
+      "date": "2025-10-06",
+      "rel_port": 1.03345436965376,
+      "rel_spy": 1.0047273543271749,
+      "rel_mag7": 1.0031439466318441
+    },
+    {
+      "date": "2025-10-07",
+      "rel_port": 1.0010871175594502,
+      "rel_spy": 1.0010023187972175,
+      "rel_mag7": 0.9915134275382852
+    },
+    {
+      "date": "2025-10-08",
+      "rel_port": 1.0154490256879447,
+      "rel_spy": 1.0069713516343781,
+      "rel_mag7": 0.9997958051252959
+    },
+    {
+      "date": "2025-10-09",
+      "rel_port": 1.009600814071057,
+      "rel_spy": 1.0040541551350137,
+      "rel_mag7": 1.0006544048954036
+    },
+    {
+      "date": "2025-10-10",
+      "rel_port": 0.9478547460186675,
+      "rel_spy": 0.9769167476999027,
+      "rel_mag7": 0.9630220311849443
+    },
+    {
+      "date": "2025-10-13",
+      "rel_port": 0.9747870601170161,
+      "rel_spy": 0.9919066497120204,
+      "rel_mag7": 0.9860268762412241
+    },
+    {
+      "date": "2025-10-14",
+      "rel_port": 0.9529712813821535,
+      "rel_spy": 0.9906948911661305,
+      "rel_mag7": 0.9745761828346409
+    },
+    {
+      "date": "2025-10-15",
+      "rel_port": 0.9986178726545424,
+      "rel_spy": 0.9950931258882488,
+      "rel_mag7": 0.9822086617329628
+    },
+    {
+      "date": "2025-10-16",
+      "rel_port": 0.9720520464841852,
+      "rel_spy": 0.988316254020495,
+      "rel_mag7": 0.9788864374221794
+    },
+    {
+      "date": "2025-10-17",
+      "rel_port": 0.9398976043126013,
+      "rel_spy": 0.9939262472885033,
+      "rel_mag7": 0.9881352457704452
+    },
+    {
+      "date": "2025-10-20",
+      "rel_port": 1.0196486914301608,
+      "rel_spy": 1.004263594883686,
+      "rel_mag7": 1.0036655169535158
+    },
+    {
+      "date": "2025-10-21",
+      "rel_port": 1.0102317711243902,
+      "rel_spy": 1.004248634901638,
+      "rel_mag7": 1.0004281536634494
+    },
+    {
+      "date": "2025-10-22",
+      "rel_port": 1.0028574361960112,
+      "rel_spy": 0.9990276011668785,
+      "rel_mag7": 0.9953449011883568
+    },
+    {
+      "date": "2025-10-23",
+      "rel_port": 1.0180586861537742,
+      "rel_spy": 1.004951754057895,
+      "rel_mag7": 1.0037156023398819
+    },
+    {
+      "date": "2025-10-24",
+      "rel_port": 1.0528942799291976,
+      "rel_spy": 1.013164784202259,
+      "rel_mag7": 1.01180869314054
+    },
+    {
+      "date": "2025-10-27",
+      "rel_port": 1.098290892645029,
+      "rel_spy": 1.0251178098586282,
+      "rel_mag7": 1.0379320401552339
+    },
+    {
+      "date": "2025-10-28",
+      "rel_port": 1.0918071753657732,
+      "rel_spy": 1.027840526591368,
+      "rel_mag7": 1.051332847598483
+    },
+    {
+      "date": "2025-10-29",
+      "rel_port": 1.096878874440196,
+      "rel_spy": 1.0283342059989526,
+      "rel_mag7": 1.0623977620782534
+    },
+    {
+      "date": "2025-10-30",
+      "rel_port": 1.0901209410162371,
+      "rel_spy": 1.0170244595706486,
+      "rel_mag7": 1.0347276076300538
+    },
+    {
+      "date": "2025-10-31",
+      "rel_port": 1.1289287960741603,
+      "rel_spy": 1.0203605355673573,
+      "rel_mag7": 1.0460023159641691
+    }
+  ],
+  "holdings": [
+    {
+      "Symbol": "NUTX",
+      "Shares": 55.0,
+      "CostBasis": 106.33745454545453,
+      "CurrentPrice": 123.06,
+      "UnrealizedPnL": 919.7400000000007
+    },
+    {
+      "Symbol": "TVTX",
+      "Shares": 130.0,
+      "CostBasis": 24.990846153846157,
+      "CurrentPrice": 35.16,
+      "UnrealizedPnL": 1321.989999999999
+    },
+    {
+      "Symbol": "ARWR",
+      "Shares": 47.0,
+      "CostBasis": 35.27,
+      "CurrentPrice": 42.39,
+      "UnrealizedPnL": 334.6399999999999
+    },
+    {
+      "Symbol": "XTNT",
+      "Shares": 2287.0,
+      "CostBasis": 0.78,
+      "CurrentPrice": 0.8795,
+      "UnrealizedPnL": 227.55649999999983
+    },
+    {
+      "Symbol": "LYFT",
+      "Shares": 69.0,
+      "CostBasis": 20.55,
+      "CurrentPrice": 20.46,
+      "UnrealizedPnL": -6.20999999999999
+    }
+  ],
+  "predictions": {
+    "snapshot": [
+      {
+        "symbol": "NUTX",
+        "target_weight": 0.16397346446410926,
+        "score": -5.480460315942764
+      },
+      {
+        "symbol": "VNCE",
+        "target_weight": 0.11322213094392784,
+        "score": -6.221166241914034
+      },
+      {
+        "symbol": "TVTX",
+        "target_weight": 0.08933322159617757,
+        "score": -6.69512265920639
+      },
+      {
+        "symbol": "NGD",
+        "target_weight": 0.06397983016313126,
+        "score": -7.362733781337738
+      },
+      {
+        "symbol": "VFF",
+        "target_weight": 0.06291032037307448,
+        "score": -7.396449089050293
+      },
+      {
+        "symbol": "ARWR",
+        "target_weight": 0.04822528282301644,
+        "score": -7.928102694451809
+      },
+      {
+        "symbol": "XTNT",
+        "target_weight": 0.04777375313763054,
+        "score": -7.94691675901413
+      },
+      {
+        "symbol": "LYFT",
+        "target_weight": 0.03501679438314126,
+        "score": -8.56821396946907
+      },
+      {
+        "symbol": "IRWD",
+        "target_weight": 0.03386754796503467,
+        "score": -8.634955003857613
+      },
+      {
+        "symbol": "COMM",
+        "target_weight": 0.03069890004605162,
+        "score": -8.831415891647339
+      },
+      {
+        "symbol": "SMFG",
+        "target_weight": 0.03054175626914329,
+        "score": -8.84167993068695
+      },
+      {
+        "symbol": "AVAL",
+        "target_weight": 0.026373851337969493,
+        "score": -9.13512346195057
+      },
+      {
+        "symbol": "WIMI",
+        "target_weight": 0.022509317523973095,
+        "score": -9.452010869979858
+      },
+      {
+        "symbol": "OPRX",
+        "target_weight": 0.02179387469050326,
+        "score": -9.516611635684967
+      },
+      {
+        "symbol": "FBIO",
+        "target_weight": 0.021530342036991848,
+        "score": -9.540943145751953
+      },
+      {
+        "symbol": "NIU",
+        "target_weight": 0.02024690531102732,
+        "score": -9.663865625858307
+      },
+      {
+        "symbol": "GME",
+        "target_weight": 0.020110803449648454,
+        "score": -9.677355229854584
+      },
+      {
+        "symbol": "CDE",
+        "target_weight": 0.020035974084250157,
+        "score": -9.684810817241669
+      },
+      {
+        "symbol": "LU",
+        "target_weight": 0.019776844469976945,
+        "score": -9.710845977067947
+      },
+      {
+        "symbol": "HNRG",
+        "target_weight": 0.019360892313719492,
+        "score": -9.753359198570251
+      },
+      {
+        "symbol": "OGN",
+        "target_weight": 0.018571998210767424,
+        "score": -9.83655959367752
+      },
+      {
+        "symbol": "FAF",
+        "target_weight": 0.018260338215895247,
+        "score": -9.870406746864319
+      },
+      {
+        "symbol": "C",
+        "target_weight": 0.017739893563298047,
+        "score": -9.928237587213516
+      },
+      {
+        "symbol": "AMRX",
+        "target_weight": 0.017460696733387546,
+        "score": -9.959964632987976
+      },
+      {
+        "symbol": "JMIA",
+        "target_weight": 0.016685265894153426,
+        "score": -10.05081744492054
+      }
+    ]
+  },
+  "ledger": [
+    {
+      "date": "2025-10-01",
+      "symbol": "CCLD",
+      "action": "SELL",
+      "quantity": -616,
+      "price": 3.22,
+      "value": -1983.5200000000002,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 1986.1600000000026,
+      "remaining_qty": 0,
+      "cost_basis": 3.5523051948051947,
+      "realized_pnl": -204.69999999999982
+    },
+    {
+      "date": "2025-10-01",
+      "symbol": "TPC",
+      "action": "BUY",
+      "quantity": 8,
+      "price": 64.83,
+      "value": 518.64,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1467.5200000000027,
+      "remaining_qty": 50,
+      "cost_basis": 59.54,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-01",
+      "symbol": "AVAH",
+      "action": "BUY",
+      "quantity": 129,
+      "price": 8.8,
+      "value": 1135.2,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 332.32000000000266,
+      "remaining_qty": 129,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "NGD",
+      "action": "BUY",
+      "quantity": 265,
+      "price": 7.4,
+      "value": 1961.0,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 113.82000000000198,
+      "remaining_qty": 265,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "TVTX",
+      "action": "BUY",
+      "quantity": 111,
+      "price": 24.51,
+      "value": 2720.61,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2074.820000000002,
+      "remaining_qty": 111,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "NUTX",
+      "action": "BUY",
+      "quantity": 46,
+      "price": 107.19,
+      "value": 4930.74,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 8266.330000000002,
+      "remaining_qty": 46,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "AVAH",
+      "action": "SELL",
+      "quantity": -129,
+      "price": 8.65,
+      "value": -1115.8500000000001,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 13197.070000000002,
+      "remaining_qty": 0,
+      "cost_basis": 8.8,
+      "realized_pnl": -19.350000000000044
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "VNCE",
+      "action": "BUY",
+      "quantity": 1138,
+      "price": 3.05,
+      "value": 3470.8999999999996,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 4795.430000000002,
+      "remaining_qty": 1138,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "INFU",
+      "action": "SELL",
+      "quantity": -113,
+      "price": 10.32,
+      "value": -1166.16,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 10790.580000000002,
+      "remaining_qty": 0,
+      "cost_basis": 10.14,
+      "realized_pnl": 20.339999999999968
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "TPC",
+      "action": "SELL",
+      "quantity": -50,
+      "price": 62.87,
+      "value": -3143.5,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 9624.420000000002,
+      "remaining_qty": 0,
+      "cost_basis": 60.386399999999995,
+      "realized_pnl": 124.18000000000013
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -2165,
+      "price": 2.84,
+      "value": -6148.599999999999,
+      "reason": "TRIM_CONVICTION_DROP",
+      "remaining_cash": 6480.920000000002,
+      "remaining_qty": 680,
+      "cost_basis": 2.6378453427065023,
+      "realized_pnl": 437.66483304042225
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "HIVE",
+      "action": "SELL",
+      "quantity": -292,
+      "price": 4.42,
+      "value": -1290.6399999999999,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 12081.220000000001,
+      "remaining_qty": 0,
+      "cost_basis": 3.7699999999999996,
+      "realized_pnl": 189.8000000000001
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "VNCE",
+      "action": "SELL",
+      "quantity": -1138,
+      "price": 2.62,
+      "value": -2981.56,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 3095.380000000002,
+      "remaining_qty": 0,
+      "cost_basis": 3.05,
+      "realized_pnl": -489.3399999999997
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "NUTX",
+      "action": "BUY",
+      "quantity": 9,
+      "price": 101.98,
+      "value": 917.82,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2177.5600000000018,
+      "remaining_qty": 55,
+      "cost_basis": 107.19,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-14",
+      "symbol": "ARWR",
+      "action": "BUY",
+      "quantity": 47,
+      "price": 35.27,
+      "value": 1657.69,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 519.8700000000017,
+      "remaining_qty": 47,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-21",
+      "symbol": "NGD",
+      "action": "SELL",
+      "quantity": -265,
+      "price": 6.52,
+      "value": -1727.8,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 2247.670000000002,
+      "remaining_qty": 0,
+      "cost_basis": 7.4,
+      "realized_pnl": -233.20000000000022
+    },
+    {
+      "date": "2025-10-21",
+      "symbol": "XTNT",
+      "action": "BUY",
+      "quantity": 2287,
+      "price": 0.78,
+      "value": 1783.8600000000001,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 463.81000000000176,
+      "remaining_qty": 2287,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-22",
+      "symbol": "TVTX",
+      "action": "BUY",
+      "quantity": 19,
+      "price": 27.8,
+      "value": 528.2,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2036.8100000000015,
+      "remaining_qty": 130,
+      "cost_basis": 24.51,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-22",
+      "symbol": "VFF",
+      "action": "SELL",
+      "quantity": -680,
+      "price": 3.09,
+      "value": -2101.2,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 2565.0100000000016,
+      "remaining_qty": 0,
+      "cost_basis": 2.6378453427065023,
+      "realized_pnl": 307.46516695957837
+    },
+    {
+      "date": "2025-10-22",
+      "symbol": "LYFT",
+      "action": "BUY",
+      "quantity": 69,
+      "price": 20.55,
+      "value": 1417.95,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 618.8600000000015,
+      "remaining_qty": 69,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    }
+  ],
+  "performance": [
+    {
+      "ticker": "ARWR",
+      "status": "OPEN",
+      "enter_date": "2025-10-14",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 334.6399999999999,
+      "cost_basis": 35.27,
+      "current_price": 42.39,
+      "quantity": 47.0
+    },
+    {
+      "ticker": "AVAH",
+      "status": "CLOSED",
+      "enter_date": "2025-10-01",
+      "exit_date": "2025-10-03",
+      "realized_pnl": -19.350000000000044,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 8.8,
+      "current_price": 8.65,
+      "quantity": 129.0
+    },
+    {
+      "ticker": "CCLD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-03",
+      "exit_date": "2025-10-01",
+      "realized_pnl": -204.69999999999982,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.5523051948051947,
+      "current_price": 3.22,
+      "quantity": 616.0
+    },
+    {
+      "ticker": "HIVE",
+      "status": "CLOSED",
+      "enter_date": "2025-09-30",
+      "exit_date": "2025-10-03",
+      "realized_pnl": 189.8000000000001,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.7699999999999996,
+      "current_price": 4.42,
+      "quantity": 292.0
+    },
+    {
+      "ticker": "INFU",
+      "status": "CLOSED",
+      "enter_date": "2025-09-17",
+      "exit_date": "2025-10-03",
+      "realized_pnl": 20.339999999999968,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 10.14,
+      "current_price": 10.32,
+      "quantity": 113.0
+    },
+    {
+      "ticker": "LYFT",
+      "status": "OPEN",
+      "enter_date": "2025-10-22",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": -6.20999999999999,
+      "cost_basis": 20.55,
+      "current_price": 20.46,
+      "quantity": 69.0
+    },
+    {
+      "ticker": "NGD",
+      "status": "CLOSED",
+      "enter_date": "2025-10-03",
+      "exit_date": "2025-10-21",
+      "realized_pnl": -233.20000000000022,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 7.4,
+      "current_price": 6.52,
+      "quantity": 265.0
+    },
+    {
+      "ticker": "NUTX",
+      "status": "OPEN",
+      "enter_date": "2025-10-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 919.7400000000007,
+      "cost_basis": 106.33745454545453,
+      "current_price": 123.06,
+      "quantity": 55.0
+    },
+    {
+      "ticker": "TPC",
+      "status": "CLOSED",
+      "enter_date": "2025-09-03",
+      "exit_date": "2025-10-03",
+      "realized_pnl": 124.18000000000013,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 60.386399999999995,
+      "current_price": 62.87,
+      "quantity": 50.0
+    },
+    {
+      "ticker": "TVTX",
+      "status": "OPEN",
+      "enter_date": "2025-10-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 1321.989999999999,
+      "cost_basis": 24.990846153846157,
+      "current_price": 35.16,
+      "quantity": 130.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-03",
+      "exit_date": "2025-10-03",
+      "realized_pnl": 437.66483304042225,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.6378453427065023,
+      "current_price": 2.84,
+      "quantity": 2165.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "CLOSED",
+      "enter_date": "2025-09-03",
+      "exit_date": "2025-10-22",
+      "realized_pnl": 307.46516695957837,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.6378453427065023,
+      "current_price": 3.09,
+      "quantity": 680.0
+    },
+    {
+      "ticker": "VNCE",
+      "status": "CLOSED",
+      "enter_date": "2025-10-03",
+      "exit_date": "2025-10-14",
+      "realized_pnl": -489.3399999999997,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.05,
+      "current_price": 2.62,
+      "quantity": 1138.0
+    },
+    {
+      "ticker": "XTNT",
+      "status": "OPEN",
+      "enter_date": "2025-10-21",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 227.55649999999983,
+      "cost_basis": 0.78,
+      "current_price": 0.8795,
+      "quantity": 2287.0
+    }
+  ],
+  "meta": {
+    "year": 2025,
+    "month": "October",
+    "month_num": 10,
+    "return_pct": 0.08671861072729366,
+    "ending_equity": 17373.4465,
+    "start_date": "2025-10-01",
+    "end_date": "2025-10-31"
+  }
+}

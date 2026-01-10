@@ -10,127 +10,127 @@
     },
     {
       "date": "2025-07-02",
-      "rel_port": 1.0463165193274397,
+      "rel_port": 1.0250697156141806,
       "rel_spy": 1.0045333117461346,
       "rel_mag7": 1.0134811470919118
     },
     {
       "date": "2025-07-03",
-      "rel_port": 1.0626336164557693,
+      "rel_port": 1.032504123276836,
       "rel_spy": 1.0124504169027766,
       "rel_mag7": 1.0226651536700035
     },
     {
       "date": "2025-07-07",
-      "rel_port": 1.0473064848519866,
+      "rel_port": 1.009472470752159,
       "rel_spy": 1.0049056909252814,
       "rel_mag7": 1.0078711467825434
     },
     {
       "date": "2025-07-08",
-      "rel_port": 1.0573948883881281,
+      "rel_port": 1.0271895706595897,
       "rel_spy": 1.004355217356108,
       "rel_mag7": 1.0065612632158827
     },
     {
       "date": "2025-07-09",
-      "rel_port": 1.0852102232237435,
+      "rel_port": 1.0471189024096872,
       "rel_spy": 1.0103780458188294,
       "rel_mag7": 1.0179292694634916
     },
     {
       "date": "2025-07-10",
-      "rel_port": 1.1057876389129642,
+      "rel_port": 1.0572572559087472,
       "rel_spy": 1.013227556059257,
       "rel_mag7": 1.0244769511612952
     },
     {
       "date": "2025-07-11",
-      "rel_port": 1.0793782862425605,
+      "rel_port": 1.0446305024335514,
       "rel_spy": 1.0096656682587226,
       "rel_mag7": 1.0284059895243878
     },
     {
       "date": "2025-07-14",
-      "rel_port": 1.08149688950521,
+      "rel_port": 1.0436451499294666,
       "rel_spy": 1.0115923257508297,
       "rel_mag7": 1.0294123823760488
     },
     {
       "date": "2025-07-15",
-      "rel_port": 1.0596675718880608,
+      "rel_port": 1.01929231675234,
       "rel_spy": 1.0072694891929086,
       "rel_mag7": 1.0332310610823126
     },
     {
       "date": "2025-07-16",
-      "rel_port": 1.082063134377227,
+      "rel_port": 1.0217643583372946,
       "rel_spy": 1.0106370922043229,
       "rel_mag7": 1.0360395492748797
     },
     {
       "date": "2025-07-17",
-      "rel_port": 1.1014040561622462,
+      "rel_port": 1.0324646706863405,
       "rel_spy": 1.0168218246579777,
       "rel_mag7": 1.0391001310272925
     },
     {
       "date": "2025-07-18",
-      "rel_port": 1.0997592496292443,
+      "rel_port": 1.0245885864617956,
       "rel_spy": 1.0160770662996843,
       "rel_mag7": 1.0462502159805354
     },
     {
       "date": "2025-07-21",
-      "rel_port": 1.0822595866797633,
+      "rel_port": 1.0326628958971231,
       "rel_spy": 1.0180037237917914,
       "rel_mag7": 1.0537670680152706
     },
     {
       "date": "2025-07-22",
-      "rel_port": 1.0971244775716955,
+      "rel_port": 1.0447267282640285,
       "rel_spy": 1.0181494373836315,
       "rel_mag7": 1.0489615952833704
     },
     {
       "date": "2025-07-23",
-      "rel_port": 1.1105756822865507,
+      "rel_port": 1.070898229637171,
       "rel_spy": 1.0268113008985673,
       "rel_mag7": 1.054254280419714
     },
     {
       "date": "2025-07-24",
-      "rel_port": 1.113318310510198,
+      "rel_port": 1.0620348683919316,
       "rel_spy": 1.027151299279527,
       "rel_mag7": 1.0519568523317169
     },
     {
       "date": "2025-07-25",
-      "rel_port": 1.1146434005508368,
+      "rel_port": 1.0653825650342275,
       "rel_spy": 1.0314903262365418,
       "rel_mag7": 1.0568263487345038
     },
     {
       "date": "2025-07-28",
-      "rel_port": 1.1203212572947363,
+      "rel_port": 1.065074642376701,
       "rel_spy": 1.0312312798510483,
       "rel_mag7": 1.0650018352085115
     },
     {
       "date": "2025-07-29",
-      "rel_port": 1.1212804067718265,
+      "rel_port": 1.072993065966656,
       "rel_spy": 1.0285112928033675,
       "rel_mag7": 1.0579598624985116
     },
     {
       "date": "2025-07-30",
-      "rel_port": 1.1493615300167561,
+      "rel_port": 1.078099770790072,
       "rel_spy": 1.0272160608759007,
       "rel_mag7": 1.058566710375042
     },
     {
       "date": "2025-07-31",
-      "rel_port": 1.120706457887945,
+      "rel_port": 1.1049284945853723,
       "rel_spy": 1.0233627458916863,
       "rel_mag7": 1.072877508893741
     }
@@ -138,144 +138,165 @@
   "holdings": [
     {
       "Symbol": "EVR",
-      "Shares": 36.0,
+      "Shares": 10.0,
       "CostBasis": 286.0,
       "CurrentPrice": 301.14,
-      "UnrealizedPnL": 545.0399999999995
+      "UnrealizedPnL": 151.39999999999986
     },
     {
       "Symbol": "TTI",
-      "Shares": 160.0,
-      "CostBasis": 3.4300000000000006,
+      "Shares": 739.0,
+      "CostBasis": 3.43,
       "CurrentPrice": 4.1,
-      "UnrealizedPnL": 107.19999999999985
+      "UnrealizedPnL": 495.1299999999996
+    },
+    {
+      "Symbol": "WDC",
+      "Shares": 26.0,
+      "CostBasis": 65.93,
+      "CurrentPrice": 78.69,
+      "UnrealizedPnL": 331.75999999999976
+    },
+    {
+      "Symbol": "KEQU",
+      "Shares": 31.0,
+      "CostBasis": 56.83,
+      "CurrentPrice": 55.34,
+      "UnrealizedPnL": -46.18999999999984
+    },
+    {
+      "Symbol": "LXRX",
+      "Shares": 1401.0,
+      "CostBasis": 1.02,
+      "CurrentPrice": 1.07,
+      "UnrealizedPnL": 70.05000000000007
     }
   ],
   "predictions": {
     "snapshot": [
       {
         "symbol": "EVR",
-        "target_weight": 0.9499024718018212,
+        "target_weight": 0.10540883705254339,
         "score": -4.54672018065321
       },
       {
         "symbol": "TTI",
-        "target_weight": 0.05001412283871789,
+        "target_weight": 0.09098037107786429,
         "score": -4.841125570227632
       },
       {
         "symbol": "WDC",
-        "target_weight": 3.92399371664956e-05,
+        "target_weight": 0.06363257326008857,
         "score": -5.556162137014326
       },
       {
         "symbol": "KEQU",
-        "target_weight": 3.4927700480036835e-05,
+        "target_weight": 0.06326326044666054,
         "score": -5.56780361791607
       },
       {
         "symbol": "FLXS",
-        "target_weight": 9.120893525341926e-06,
+        "target_weight": 0.059155474230726646,
         "score": -5.7020748630020535
       },
       {
         "symbol": "LXRX",
-        "target_weight": 1.0077620996015842e-07,
+        "target_weight": 0.04722380447558239,
         "score": -6.152616936707773
       },
       {
         "symbol": "TER",
-        "target_weight": 5.883963744889654e-09,
+        "target_weight": 0.040971000593421944,
         "score": -6.4366841041482985
       },
       {
         "symbol": "BTMD",
-        "target_weight": 3.749234878806465e-09,
+        "target_weight": 0.04005808681610712,
         "score": -6.481751989571308
       },
       {
         "symbol": "ANET",
-        "target_weight": 2.8271482288184203e-09,
+        "target_weight": 0.03949667168920858,
         "score": -6.5099803171965505
       },
       {
         "symbol": "WBD",
-        "target_weight": 1.7187640878093288e-09,
+        "target_weight": 0.03852599682937521,
         "score": -6.559746620361693
       },
       {
         "symbol": "ZDGE",
-        "target_weight": 7.115089212153246e-10,
+        "target_weight": 0.03686396868679699,
         "score": -6.647943900548853
       },
       {
         "symbol": "BELFA",
-        "target_weight": 6.573205973150895e-10,
+        "target_weight": 0.036718246501930875,
         "score": -6.655865509051637
       },
       {
         "symbol": "POWL",
-        "target_weight": 2.762883063238095e-10,
+        "target_weight": 0.03516099822276628,
         "score": -6.742538205289748
       },
       {
         "symbol": "AVAV",
-        "target_weight": 1.7534872749115257e-10,
+        "target_weight": 0.03437068613390052,
         "score": -6.788005024194717
       },
       {
         "symbol": "RDDT",
-        "target_weight": 3.67003132450088e-11,
+        "target_weight": 0.031785317914287556,
         "score": -6.944404167123139
       },
       {
         "symbol": "OWLT",
-        "target_weight": 1.4144237161855814e-11,
+        "target_weight": 0.03030554143739568,
         "score": -7.0397519688121974
       },
       {
         "symbol": "VSAT",
-        "target_weight": 1.0266660781161494e-12,
+        "target_weight": 0.0265805848013325,
         "score": -7.302051022648811
       },
       {
         "symbol": "COOK",
-        "target_weight": 3.3914451305189005e-13,
+        "target_weight": 0.02514851299455878,
         "score": -7.412815593179175
       },
       {
         "symbol": "AENT",
-        "target_weight": 1.2454035623359775e-13,
+        "target_weight": 0.023919856846539037,
         "score": -7.512995243068872
       },
       {
         "symbol": "RAIL",
-        "target_weight": 6.034063257030257e-14,
+        "target_weight": 0.02306872351606452,
         "score": -7.585457652341574
       },
       {
         "symbol": "COE",
-        "target_weight": 5.4131581892598334e-14,
+        "target_weight": 0.022943813665554296,
         "score": -7.596316445618868
       },
       {
         "symbol": "AFRM",
-        "target_weight": 3.0562374455734764e-14,
+        "target_weight": 0.022297307624912433,
         "score": -7.653481258108513
       },
       {
         "symbol": "BLBD",
-        "target_weight": 9.69468071003249e-15,
+        "target_weight": 0.02105327903498728,
         "score": -7.768300488583918
       },
       {
         "symbol": "HL",
-        "target_weight": 6.059669536186192e-15,
+        "target_weight": 0.020564375153165556,
         "score": -7.8152926973912145
       },
       {
         "symbol": "MDB",
-        "target_weight": 5.706428478029871e-15,
+        "target_weight": 0.020502710994228932,
         "score": -7.821298889801255
       }
     ]
@@ -285,25 +306,77 @@
       "date": "2025-07-03",
       "symbol": "BDTX",
       "action": "SELL",
-      "quantity": -4008,
+      "quantity": -1039,
       "price": 2.63,
-      "value": -10541.039999999999,
+      "value": -2732.5699999999997,
       "reason": "SIGNAL_LOST",
-      "remaining_cash": 10985.4,
+      "remaining_cash": 3546.0899999999992,
       "remaining_qty": 0,
-      "cost_basis": 2.4011177644710577,
-      "realized_pnl": 917.3600000000001
+      "cost_basis": 2.41,
+      "realized_pnl": 228.57999999999973
+    },
+    {
+      "date": "2025-07-03",
+      "symbol": "OPRT",
+      "action": "SELL",
+      "quantity": -342,
+      "price": 6.9,
+      "value": -2359.8,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 5905.889999999999,
+      "remaining_qty": 0,
+      "cost_basis": 6.28,
+      "realized_pnl": 212.04000000000005
+    },
+    {
+      "date": "2025-07-03",
+      "symbol": "GOTU",
+      "action": "SELL",
+      "quantity": -429,
+      "price": 3.55,
+      "value": -1522.9499999999998,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 7428.839999999999,
+      "remaining_qty": 0,
+      "cost_basis": 3.79,
+      "realized_pnl": -102.9600000000001
+    },
+    {
+      "date": "2025-07-03",
+      "symbol": "GOOS",
+      "action": "SELL",
+      "quantity": -130,
+      "price": 11.76,
+      "value": -1528.8,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 8957.64,
+      "remaining_qty": 0,
+      "cost_basis": 11.51,
+      "realized_pnl": 32.5
+    },
+    {
+      "date": "2025-07-03",
+      "symbol": "FIVE",
+      "action": "SELL",
+      "quantity": -13,
+      "price": 131.65,
+      "value": -1711.45,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 10669.09,
+      "remaining_qty": 0,
+      "cost_basis": 123.6,
+      "realized_pnl": 104.65000000000015
     },
     {
       "date": "2025-07-03",
       "symbol": "EVR",
       "action": "BUY",
-      "quantity": 36,
+      "quantity": 10,
       "price": 286.0,
-      "value": 10296.0,
+      "value": 2860.0,
       "reason": "BUY_TARGET",
-      "remaining_cash": 689.3999999999996,
-      "remaining_qty": 36,
+      "remaining_cash": 7809.09,
+      "remaining_qty": 10,
       "cost_basis": 0.0,
       "realized_pnl": 0.0
     },
@@ -311,12 +384,77 @@
       "date": "2025-07-03",
       "symbol": "TTI",
       "action": "BUY",
-      "quantity": 160,
+      "quantity": 739,
       "price": 3.43,
-      "value": 548.8000000000001,
+      "value": 2534.77,
       "reason": "BUY_TARGET",
-      "remaining_cash": 140.59999999999957,
-      "remaining_qty": 160,
+      "remaining_cash": 5274.32,
+      "remaining_qty": 739,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-07-03",
+      "symbol": "WDC",
+      "action": "BUY",
+      "quantity": 26,
+      "price": 65.93,
+      "value": 1714.1800000000003,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3560.1399999999994,
+      "remaining_qty": 26,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-07-03",
+      "symbol": "KEQU",
+      "action": "BUY",
+      "quantity": 31,
+      "price": 56.83,
+      "value": 1761.73,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1798.4099999999994,
+      "remaining_qty": 31,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-07-03",
+      "symbol": "FLXS",
+      "action": "BUY",
+      "quantity": 42,
+      "price": 39.21,
+      "value": 1646.82,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 151.58999999999946,
+      "remaining_qty": 42,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-07-31",
+      "symbol": "FLXS",
+      "action": "SELL",
+      "quantity": -42,
+      "price": 34.72,
+      "value": -1458.24,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 1609.8299999999995,
+      "remaining_qty": 0,
+      "cost_basis": 39.21,
+      "realized_pnl": -188.5800000000001
+    },
+    {
+      "date": "2025-07-31",
+      "symbol": "LXRX",
+      "action": "BUY",
+      "quantity": 1401,
+      "price": 1.02,
+      "value": 1429.02,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 180.8099999999995,
+      "remaining_qty": 1401,
       "cost_basis": 0.0,
       "realized_pnl": 0.0
     }
@@ -327,11 +465,11 @@
       "status": "CLOSED",
       "enter_date": "2025-06-03",
       "exit_date": "2025-07-03",
-      "realized_pnl": 917.3600000000001,
+      "realized_pnl": 228.57999999999973,
       "unrealized_pnl": 0.0,
-      "cost_basis": 2.4011177644710577,
+      "cost_basis": 2.41,
       "current_price": 2.63,
-      "quantity": 4008.0
+      "quantity": 1039.0
     },
     {
       "ticker": "EVR",
@@ -339,10 +477,87 @@
       "enter_date": "2025-07-03",
       "exit_date": null,
       "realized_pnl": 0.0,
-      "unrealized_pnl": 545.0399999999995,
+      "unrealized_pnl": 151.39999999999986,
       "cost_basis": 286.0,
       "current_price": 301.14,
-      "quantity": 36.0
+      "quantity": 10.0
+    },
+    {
+      "ticker": "FIVE",
+      "status": "CLOSED",
+      "enter_date": "2025-06-16",
+      "exit_date": "2025-07-03",
+      "realized_pnl": 104.65000000000015,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 123.6,
+      "current_price": 131.65,
+      "quantity": 13.0
+    },
+    {
+      "ticker": "FLXS",
+      "status": "CLOSED",
+      "enter_date": "2025-07-03",
+      "exit_date": "2025-07-31",
+      "realized_pnl": -188.5800000000001,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 39.21,
+      "current_price": 34.72,
+      "quantity": 42.0
+    },
+    {
+      "ticker": "GOOS",
+      "status": "CLOSED",
+      "enter_date": "2025-06-03",
+      "exit_date": "2025-07-03",
+      "realized_pnl": 32.5,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 11.51,
+      "current_price": 11.76,
+      "quantity": 130.0
+    },
+    {
+      "ticker": "GOTU",
+      "status": "CLOSED",
+      "enter_date": "2025-06-03",
+      "exit_date": "2025-07-03",
+      "realized_pnl": -102.9600000000001,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.79,
+      "current_price": 3.55,
+      "quantity": 429.0
+    },
+    {
+      "ticker": "KEQU",
+      "status": "OPEN",
+      "enter_date": "2025-07-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": -46.18999999999984,
+      "cost_basis": 56.83,
+      "current_price": 55.34,
+      "quantity": 31.0
+    },
+    {
+      "ticker": "LXRX",
+      "status": "OPEN",
+      "enter_date": "2025-07-31",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 70.05000000000007,
+      "cost_basis": 1.02,
+      "current_price": 1.07,
+      "quantity": 1401.0
+    },
+    {
+      "ticker": "OPRT",
+      "status": "CLOSED",
+      "enter_date": "2025-06-03",
+      "exit_date": "2025-07-03",
+      "realized_pnl": 212.04000000000005,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 6.28,
+      "current_price": 6.9,
+      "quantity": 342.0
     },
     {
       "ticker": "TTI",
@@ -350,18 +565,29 @@
       "enter_date": "2025-07-03",
       "exit_date": null,
       "realized_pnl": 0.0,
-      "unrealized_pnl": 107.19999999999985,
-      "cost_basis": 3.4300000000000006,
+      "unrealized_pnl": 495.1299999999996,
+      "cost_basis": 3.43,
       "current_price": 4.1,
-      "quantity": 160.0
+      "quantity": 739.0
+    },
+    {
+      "ticker": "WDC",
+      "status": "OPEN",
+      "enter_date": "2025-07-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 331.75999999999976,
+      "cost_basis": 65.93,
+      "current_price": 78.69,
+      "quantity": 26.0
     }
   ],
   "meta": {
     "year": 2025,
     "month": "July",
     "month_num": 7,
-    "return_pct": 0.12070645788794501,
-    "ending_equity": 11637.64,
+    "return_pct": 0.08864215766674936,
+    "ending_equity": 11482.659999999996,
     "start_date": "2025-07-01",
     "end_date": "2025-07-31"
   }

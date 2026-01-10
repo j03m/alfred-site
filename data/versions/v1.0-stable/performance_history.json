@@ -1,860 +1,872 @@
 [
   {
     "date": "2025-06-03",
-    "Portfolio_Value": 10260.64,
+    "Portfolio_Value": 10055.880000000001,
     "SPY_Value": 10000.0,
     "MAG7_Value": 10000.0
   },
   {
     "date": "2025-06-04",
-    "Portfolio_Value": 10588.16,
+    "Portfolio_Value": 10577.14,
     "SPY_Value": 9997.315841567546,
     "MAG7_Value": 10027.821106997404
   },
   {
     "date": "2025-06-05",
-    "Portfolio_Value": 10467.93,
+    "Portfolio_Value": 10742.509999999998,
     "SPY_Value": 9949.00098978342,
     "MAG7_Value": 9807.144562665962
   },
   {
     "date": "2025-06-06",
-    "Portfolio_Value": 10824.96,
+    "Portfolio_Value": 11084.869999999999,
     "SPY_Value": 10051.166770118605,
     "MAG7_Value": 10013.791540717957
   },
   {
     "date": "2025-06-09",
-    "Portfolio_Value": 10442.749999999998,
+    "Portfolio_Value": 10921.119999999999,
     "SPY_Value": 10060.22580482813,
     "MAG7_Value": 10105.300619883361
   },
   {
     "date": "2025-06-10",
-    "Portfolio_Value": 10358.369999999999,
+    "Portfolio_Value": 10888.34,
     "SPY_Value": 10117.264171517723,
     "MAG7_Value": 10238.159948598104
   },
   {
     "date": "2025-06-11",
-    "Portfolio_Value": 10063.71,
+    "Portfolio_Value": 11038.009999999998,
     "SPY_Value": 10088.40946836887,
     "MAG7_Value": 10146.980275639797
   },
   {
     "date": "2025-06-12",
-    "Portfolio_Value": 10214.79,
+    "Portfolio_Value": 10754.489999999998,
     "SPY_Value": 10128.504084953613,
     "MAG7_Value": 10145.216709684551
   },
   {
     "date": "2025-06-13",
-    "Portfolio_Value": 9714.18,
+    "Portfolio_Value": 10278.93,
     "SPY_Value": 10015.266151084568,
     "MAG7_Value": 10069.657289680988
   },
   {
     "date": "2025-06-16",
-    "Portfolio_Value": 10023.480000000001,
+    "Portfolio_Value": 10622.389999999998,
     "SPY_Value": 10110.553775436594,
     "MAG7_Value": 10226.836842485798
   },
   {
     "date": "2025-06-17",
-    "Portfolio_Value": 9742.92,
+    "Portfolio_Value": 10297.289999999999,
     "SPY_Value": 10024.157425892061,
     "MAG7_Value": 10118.693441837684
   },
   {
     "date": "2025-06-18",
-    "Portfolio_Value": 9783.0,
+    "Portfolio_Value": 10372.999999999998,
     "SPY_Value": 10022.64758677381,
     "MAG7_Value": 10127.789236554247
   },
   {
     "date": "2025-06-20",
-    "Portfolio_Value": 9783.0,
+    "Portfolio_Value": 10242.839999999998,
     "SPY_Value": 9969.635457732891,
     "MAG7_Value": 10028.229722352024
   },
   {
     "date": "2025-06-23",
-    "Portfolio_Value": 9542.52,
+    "Portfolio_Value": 10194.89,
     "SPY_Value": 10068.110520223454,
     "MAG7_Value": 10185.28857938964
   },
   {
     "date": "2025-06-24",
-    "Portfolio_Value": 10424.28,
+    "Portfolio_Value": 10554.859999999999,
     "SPY_Value": 10179.335335268162,
     "MAG7_Value": 10265.93065574313
   },
   {
     "date": "2025-06-25",
-    "Portfolio_Value": 10825.08,
+    "Portfolio_Value": 10611.13,
     "SPY_Value": 10185.039171937122,
     "MAG7_Value": 10313.33648197126
   },
   {
     "date": "2025-06-26",
-    "Portfolio_Value": 10304.04,
+    "Portfolio_Value": 10717.479999999998,
     "SPY_Value": 10264.725125400526,
     "MAG7_Value": 10422.730868092609
   },
   {
     "date": "2025-06-27",
-    "Portfolio_Value": 9863.160000000002,
+    "Portfolio_Value": 10525.35,
     "SPY_Value": 10315.724135617103,
     "MAG7_Value": 10539.29561078301
   },
   {
     "date": "2025-06-30",
-    "Portfolio_Value": 10384.2,
+    "Portfolio_Value": 10547.69,
     "SPY_Value": 10365.0455468134,
     "MAG7_Value": 10512.859917765963
   },
   {
     "date": "2025-07-01",
-    "Portfolio_Value": 10384.2,
+    "Portfolio_Value": 10392.219999999998,
     "SPY_Value": 10361.690348772836,
     "MAG7_Value": 10360.819409093372
   },
   {
     "date": "2025-07-02",
-    "Portfolio_Value": 10865.160000000002,
+    "Portfolio_Value": 10652.749999999998,
     "SPY_Value": 10408.663121340738,
     "MAG7_Value": 10500.495139540095
   },
   {
     "date": "2025-07-03",
-    "Portfolio_Value": 11034.6,
+    "Portfolio_Value": 10730.009999999998,
     "SPY_Value": 10490.697713432535,
     "MAG7_Value": 10595.648973147629
   },
   {
     "date": "2025-07-07",
-    "Portfolio_Value": 10875.44,
+    "Portfolio_Value": 10490.659999999998,
     "SPY_Value": 10412.521599087386,
     "MAG7_Value": 10442.370939449771
   },
   {
     "date": "2025-07-08",
-    "Portfolio_Value": 10980.2,
+    "Portfolio_Value": 10674.779999999999,
     "SPY_Value": 10406.817762418428,
     "MAG7_Value": 10428.79947236866
   },
   {
     "date": "2025-07-09",
-    "Portfolio_Value": 11269.039999999999,
+    "Portfolio_Value": 10881.889999999998,
     "SPY_Value": 10469.224445972923,
     "MAG7_Value": 10546.58133214158
   },
   {
     "date": "2025-07-10",
-    "Portfolio_Value": 11482.720000000003,
+    "Portfolio_Value": 10987.249999999998,
     "SPY_Value": 10498.750188729891,
     "MAG7_Value": 10614.42067976075
   },
   {
     "date": "2025-07-11",
-    "Portfolio_Value": 11208.479999999998,
+    "Portfolio_Value": 10856.029999999999,
     "SPY_Value": 10461.843010283683,
     "MAG7_Value": 10655.128736692152
   },
   {
     "date": "2025-07-14",
-    "Portfolio_Value": 11230.480000000001,
+    "Portfolio_Value": 10845.789999999999,
     "SPY_Value": 10481.806438625039,
     "MAG7_Value": 10665.555791282815
   },
   {
     "date": "2025-07-15",
-    "Portfolio_Value": 11003.800000000001,
+    "Portfolio_Value": 10592.71,
     "SPY_Value": 10437.014544783506,
     "MAG7_Value": 10705.120431739764
   },
   {
     "date": "2025-07-16",
-    "Portfolio_Value": 11236.36,
+    "Portfolio_Value": 10618.399999999998,
     "SPY_Value": 10471.908604405375,
     "MAG7_Value": 10734.218670715523
   },
   {
     "date": "2025-07-17",
-    "Portfolio_Value": 11437.199999999999,
+    "Portfolio_Value": 10729.599999999999,
     "SPY_Value": 10535.992886980152,
     "MAG7_Value": 10765.928805539039
   },
   {
     "date": "2025-07-18",
-    "Portfolio_Value": 11420.119999999999,
+    "Portfolio_Value": 10647.749999999998,
     "SPY_Value": 10528.275931486856,
     "MAG7_Value": 10840.009544499264
   },
   {
     "date": "2025-07-21",
-    "Portfolio_Value": 11238.4,
+    "Portfolio_Value": 10731.659999999998,
     "SPY_Value": 10548.239359828212,
     "MAG7_Value": 10917.890290956031
   },
   {
     "date": "2025-07-22",
-    "Portfolio_Value": 11392.76,
+    "Portfolio_Value": 10857.029999999999,
     "SPY_Value": 10549.749198946467,
     "MAG7_Value": 10868.10165580549
   },
   {
     "date": "2025-07-23",
-    "Portfolio_Value": 11532.44,
+    "Portfolio_Value": 11129.009999999998,
     "SPY_Value": 10639.500746531565,
     "MAG7_Value": 10922.938210692339
   },
   {
     "date": "2025-07-24",
-    "Portfolio_Value": 11560.92,
+    "Portfolio_Value": 11036.899999999996,
     "SPY_Value": 10643.023704474155,
     "MAG7_Value": 10899.134973167224
   },
   {
     "date": "2025-07-25",
-    "Portfolio_Value": 11574.68,
+    "Portfolio_Value": 11071.689999999997,
     "SPY_Value": 10687.983358217718,
     "MAG7_Value": 10949.586946009727
   },
   {
     "date": "2025-07-28",
-    "Portfolio_Value": 11633.640000000001,
+    "Portfolio_Value": 11068.489999999998,
     "SPY_Value": 10685.299199785268,
     "MAG7_Value": 11034.291684948406
   },
   {
     "date": "2025-07-29",
-    "Portfolio_Value": 11643.600000000002,
+    "Portfolio_Value": 11150.779999999999,
     "SPY_Value": 10657.115536244526,
     "MAG7_Value": 10961.331077416335
   },
   {
     "date": "2025-07-30",
-    "Portfolio_Value": 11935.2,
+    "Portfolio_Value": 11203.849999999999,
     "SPY_Value": 10643.69474408227,
     "MAG7_Value": 10967.618518673858
   },
   {
     "date": "2025-07-31",
-    "Portfolio_Value": 11637.64,
+    "Portfolio_Value": 11482.659999999996,
     "SPY_Value": 10603.767887399554,
     "MAG7_Value": 11115.89011772602
   },
   {
     "date": "2025-08-01",
-    "Portfolio_Value": 11342.560000000001,
+    "Portfolio_Value": 11160.999999999998,
     "SPY_Value": 10429.968628898321,
     "MAG7_Value": 10776.603003954082
   },
   {
     "date": "2025-08-04",
-    "Portfolio_Value": 11655.400000000001,
+    "Portfolio_Value": 11323.2,
     "SPY_Value": 10588.501736314985,
     "MAG7_Value": 10995.784974543782
   },
   {
     "date": "2025-08-05",
-    "Portfolio_Value": 12460.81,
+    "Portfolio_Value": 11630.45,
     "SPY_Value": 10534.818567665956,
     "MAG7_Value": 10932.32079925098
   },
   {
     "date": "2025-08-06",
-    "Portfolio_Value": 15318.22,
+    "Portfolio_Value": 12562.09,
     "SPY_Value": 10615.511080541528,
     "MAG7_Value": 11144.343233113563
   },
   {
     "date": "2025-08-07",
-    "Portfolio_Value": 15641.410000000002,
+    "Portfolio_Value": 13103.960000000003,
     "SPY_Value": 10606.619805734032,
     "MAG7_Value": 11190.41660863978
   },
   {
     "date": "2025-08-08",
-    "Portfolio_Value": 16287.79,
+    "Portfolio_Value": 13915.27,
     "SPY_Value": 10689.325437433943,
     "MAG7_Value": 11364.837573507162
   },
   {
     "date": "2025-08-11",
-    "Portfolio_Value": 17190.67,
+    "Portfolio_Value": 14484.830000000002,
     "SPY_Value": 10668.187689778388,
     "MAG7_Value": 11360.59103462418
   },
   {
     "date": "2025-08-12",
-    "Portfolio_Value": 17734.450000000004,
+    "Portfolio_Value": 15132.010000000002,
     "SPY_Value": 10781.761143451491,
     "MAG7_Value": 11492.627633204553
   },
   {
     "date": "2025-08-13",
-    "Portfolio_Value": 18791.230000000003,
+    "Portfolio_Value": 15975.71,
     "SPY_Value": 10818.6683218977,
     "MAG7_Value": 11458.172504258278
   },
   {
     "date": "2025-08-14",
-    "Portfolio_Value": 19463.260000000002,
+    "Portfolio_Value": 16046.93,
     "SPY_Value": 10819.67488130987,
     "MAG7_Value": 11506.151905843646
   },
   {
     "date": "2025-08-15",
-    "Portfolio_Value": 20294.32,
+    "Portfolio_Value": 16212.5,
     "SPY_Value": 10794.343136103607,
     "MAG7_Value": 11469.188848925314
   },
   {
     "date": "2025-08-18",
-    "Portfolio_Value": 20581.6,
+    "Portfolio_Value": 16931.690000000002,
     "SPY_Value": 10791.994497475212,
     "MAG7_Value": 11451.16013363632
   },
   {
     "date": "2025-08-19",
-    "Portfolio_Value": 20001.909999999996,
+    "Portfolio_Value": 16540.21,
     "SPY_Value": 10733.446291667364,
     "MAG7_Value": 11262.71042372529
   },
   {
     "date": "2025-08-20",
-    "Portfolio_Value": 21243.370000000003,
+    "Portfolio_Value": 17130.269999999997,
     "SPY_Value": 10704.927108322569,
     "MAG7_Value": 11136.79492176273
   },
   {
     "date": "2025-08-21",
-    "Portfolio_Value": 21566.560000000005,
+    "Portfolio_Value": 17413.920000000002,
     "SPY_Value": 10661.980573403345,
     "MAG7_Value": 11076.764782465138
   },
   {
     "date": "2025-08-22",
-    "Portfolio_Value": 21315.190000000002,
+    "Portfolio_Value": 17520.8,
     "SPY_Value": 10825.714237782884,
     "MAG7_Value": 11355.078600728531
   },
   {
     "date": "2025-08-25",
-    "Portfolio_Value": 20925.310000000005,
+    "Portfolio_Value": 17316.37,
     "SPY_Value": 10778.070425606871,
     "MAG7_Value": 11398.643598428389
   },
   {
     "date": "2025-08-26",
-    "Portfolio_Value": 21376.75,
+    "Portfolio_Value": 17444.97,
     "SPY_Value": 10823.197839252462,
     "MAG7_Value": 11443.224866215418
   },
   {
     "date": "2025-08-27",
-    "Portfolio_Value": 20407.18,
+    "Portfolio_Value": 17342.989999999998,
     "SPY_Value": 10847.858544850607,
     "MAG7_Value": 11447.085233379126
   },
   {
     "date": "2025-08-28",
-    "Portfolio_Value": 20191.72,
+    "Portfolio_Value": 17621.02,
     "SPY_Value": 10886.27556241507,
     "MAG7_Value": 11502.069122659954
   },
   {
     "date": "2025-08-29",
-    "Portfolio_Value": 19955.739999999998,
+    "Portfolio_Value": 17724.21,
     "SPY_Value": 10821.352480330152,
     "MAG7_Value": 11345.4451123904
   },
   {
     "date": "2025-09-02",
-    "Portfolio_Value": 19755.67,
+    "Portfolio_Value": 17683.46,
     "SPY_Value": 10741.163247160663,
     "MAG7_Value": 11223.96574517246
   },
   {
     "date": "2025-09-03",
-    "Portfolio_Value": 20345.620000000003,
+    "Portfolio_Value": 17909.025,
     "SPY_Value": 10799.375933164454,
     "MAG7_Value": 11478.847901549881
   },
   {
     "date": "2025-09-04",
-    "Portfolio_Value": 20612.380000000005,
+    "Portfolio_Value": 18017.955,
     "SPY_Value": 10889.630760455635,
     "MAG7_Value": 11631.325295481636
   },
   {
     "date": "2025-09-05",
-    "Portfolio_Value": 21233.11,
+    "Portfolio_Value": 18492.155000000002,
     "SPY_Value": 10858.09189887433,
     "MAG7_Value": 11602.90181235015
   },
   {
     "date": "2025-09-08",
-    "Portfolio_Value": 20992.0,
+    "Portfolio_Value": 18414.505000000005,
     "SPY_Value": 10884.76572329682,
     "MAG7_Value": 11610.482326959978
   },
   {
     "date": "2025-09-09",
-    "Portfolio_Value": 18457.78,
+    "Portfolio_Value": 17529.165000000005,
     "SPY_Value": 10909.92970860105,
     "MAG7_Value": 11706.898941679168
   },
   {
     "date": "2025-09-10",
-    "Portfolio_Value": 18878.31,
+    "Portfolio_Value": 17852.265,
     "SPY_Value": 10941.468570182356,
     "MAG7_Value": 11641.401820815787
   },
   {
     "date": "2025-09-11",
-    "Portfolio_Value": 19359.420000000006,
+    "Portfolio_Value": 18103.875,
     "SPY_Value": 11032.394437081648,
     "MAG7_Value": 11757.115799272928
   },
   {
     "date": "2025-09-12",
-    "Portfolio_Value": 19281.530000000002,
+    "Portfolio_Value": 18131.805,
     "SPY_Value": 11028.703719237028,
     "MAG7_Value": 11933.336891690584
   },
   {
     "date": "2025-09-15",
-    "Portfolio_Value": 19421.24,
+    "Portfolio_Value": 18325.455,
     "SPY_Value": 11087.419684946903,
     "MAG7_Value": 12161.691732157775
   },
   {
     "date": "2025-09-16",
-    "Portfolio_Value": 18704.79,
+    "Portfolio_Value": 18000.574999999997,
     "SPY_Value": 11072.153533862336,
     "MAG7_Value": 12216.360930363771
   },
   {
     "date": "2025-09-17",
-    "Portfolio_Value": 18743.410000000003,
+    "Portfolio_Value": 18001.035,
     "SPY_Value": 11058.39722189602,
     "MAG7_Value": 12158.525367947173
   },
   {
     "date": "2025-09-18",
-    "Portfolio_Value": 18854.770000000004,
+    "Portfolio_Value": 18263.055,
     "SPY_Value": 11110.06727172071,
     "MAG7_Value": 12197.180143504698
   },
   {
     "date": "2025-09-19",
-    "Portfolio_Value": 19561.09,
+    "Portfolio_Value": 18659.655,
     "SPY_Value": 11134.224697612775,
     "MAG7_Value": 12343.448880417898
   },
   {
     "date": "2025-09-22",
-    "Portfolio_Value": 20121.190000000002,
+    "Portfolio_Value": 19357.815000000002,
     "SPY_Value": 11186.901306849637,
     "MAG7_Value": 12437.164636985406
   },
   {
     "date": "2025-09-23",
-    "Portfolio_Value": 19962.440000000002,
+    "Portfolio_Value": 19340.335,
     "SPY_Value": 11126.004462413395,
     "MAG7_Value": 12245.92637149738
   },
   {
     "date": "2025-09-24",
-    "Portfolio_Value": 19699.200000000004,
+    "Portfolio_Value": 19006.775,
     "SPY_Value": 11090.607123085441,
     "MAG7_Value": 12258.330057970697
   },
   {
     "date": "2025-09-25",
-    "Portfolio_Value": 20218.820000000003,
+    "Portfolio_Value": 19185.115,
     "SPY_Value": 11039.440352966833,
     "MAG7_Value": 12156.449278431297
   },
   {
     "date": "2025-09-26",
-    "Portfolio_Value": 20401.230000000003,
+    "Portfolio_Value": 19565.025,
     "SPY_Value": 11102.68583603147,
     "MAG7_Value": 12242.564449156675
   },
   {
     "date": "2025-09-29",
-    "Portfolio_Value": 21340.09,
+    "Portfolio_Value": 20481.555,
     "SPY_Value": 11133.889177808718,
     "MAG7_Value": 12288.141651190173
   },
   {
     "date": "2025-09-30",
-    "Portfolio_Value": 21135.49,
+    "Portfolio_Value": 20294.115,
     "SPY_Value": 11175.829153315774,
     "MAG7_Value": 12308.452521943109
   },
   {
     "date": "2025-10-01",
-    "Portfolio_Value": 20737.86,
+    "Portfolio_Value": 20094.225000000002,
     "SPY_Value": 11213.91065107618,
     "MAG7_Value": 12373.818118193853
   },
   {
     "date": "2025-10-02",
-    "Portfolio_Value": 20346.070000000003,
+    "Portfolio_Value": 19742.415,
     "SPY_Value": 11226.828163532351,
     "MAG7_Value": 12332.671465543994
   },
   {
     "date": "2025-10-03",
-    "Portfolio_Value": 19576.76000000001,
+    "Portfolio_Value": 19375.040999999997,
     "SPY_Value": 11226.660403630323,
     "MAG7_Value": 12247.056079636593
   },
   {
     "date": "2025-10-06",
-    "Portfolio_Value": 19719.360000000008,
+    "Portfolio_Value": 19803.521,
     "SPY_Value": 11266.922780117096,
     "MAG7_Value": 12412.7207419896
   },
   {
     "date": "2025-10-07",
-    "Portfolio_Value": 18553.76000000001,
+    "Portfolio_Value": 19068.091,
     "SPY_Value": 11225.15056451207,
     "MAG7_Value": 12268.806814105721
   },
   {
     "date": "2025-10-08",
-    "Portfolio_Value": 18435.960000000006,
+    "Portfolio_Value": 18832.900999999998,
     "SPY_Value": 11292.086765421329,
     "MAG7_Value": 12371.291447953596
   },
   {
     "date": "2025-10-09",
-    "Portfolio_Value": 18240.460000000006,
+    "Portfolio_Value": 18486.491,
     "SPY_Value": 11259.373584525825,
     "MAG7_Value": 12381.915605345233
   },
   {
     "date": "2025-10-10",
-    "Portfolio_Value": 17509.33000000001,
+    "Portfolio_Value": 17606.301000000003,
     "SPY_Value": 10955.057122246639,
     "MAG7_Value": 11916.25945769611
   },
   {
     "date": "2025-10-13",
-    "Portfolio_Value": 17891.62000000001,
+    "Portfolio_Value": 17964.071000000004,
     "SPY_Value": 11123.152544078914,
     "MAG7_Value": 12200.917226259746
   },
   {
     "date": "2025-10-14",
-    "Portfolio_Value": 17784.490000000005,
+    "Portfolio_Value": 18554.001,
     "SPY_Value": 11109.563992014628,
     "MAG7_Value": 12059.228428719483
   },
   {
     "date": "2025-10-15",
-    "Portfolio_Value": 18246.97000000001,
+    "Portfolio_Value": 20415.321000000004,
     "SPY_Value": 11158.885403210923,
     "MAG7_Value": 12153.671334398272
   },
   {
     "date": "2025-10-16",
-    "Portfolio_Value": 18089.530000000006,
+    "Portfolio_Value": 19487.271,
     "SPY_Value": 11082.89016759214,
     "MAG7_Value": 12112.562735028796
   },
   {
     "date": "2025-10-17",
-    "Portfolio_Value": 17991.130000000012,
+    "Portfolio_Value": 19182.601000000002,
     "SPY_Value": 11145.800130852724,
     "MAG7_Value": 12227.00580734027
   },
   {
     "date": "2025-10-20",
-    "Portfolio_Value": 18119.05000000001,
+    "Portfolio_Value": 19520.661000000004,
     "SPY_Value": 11261.72222315422,
     "MAG7_Value": 12419.174558285813
   },
   {
     "date": "2025-10-21",
-    "Portfolio_Value": 20096.890000000007,
+    "Portfolio_Value": 20354.970999999998,
     "SPY_Value": 11261.554463252192,
     "MAG7_Value": 12379.116013752013
   },
   {
     "date": "2025-10-22",
-    "Portfolio_Value": 20293.69000000001,
+    "Portfolio_Value": 20003.291,
     "SPY_Value": 11203.006257444344,
     "MAG7_Value": 12316.21677217636
   },
   {
     "date": "2025-10-23",
-    "Portfolio_Value": 21002.170000000006,
+    "Portfolio_Value": 20575.751000000004,
     "SPY_Value": 11269.439178647517,
     "MAG7_Value": 12419.794305747087
   },
   {
     "date": "2025-10-24",
-    "Portfolio_Value": 20903.770000000004,
+    "Portfolio_Value": 20778.641000000003,
     "SPY_Value": 11361.539364861012,
     "MAG7_Value": 12519.936739328456
   },
   {
     "date": "2025-10-27",
-    "Portfolio_Value": 20795.530000000006,
+    "Portfolio_Value": 20780.611,
     "SPY_Value": 11495.579526581556,
     "MAG7_Value": 12843.182283926742
   },
   {
     "date": "2025-10-28",
-    "Portfolio_Value": 20746.33000000001,
+    "Portfolio_Value": 21538.391000000003,
     "SPY_Value": 11526.11182875069,
     "MAG7_Value": 13009.001437866444
   },
   {
     "date": "2025-10-29",
-    "Portfolio_Value": 21090.73000000001,
+    "Portfolio_Value": 21148.001000000004,
     "SPY_Value": 11531.64790551762,
     "MAG7_Value": 13145.916677132494
   },
   {
     "date": "2025-10-30",
-    "Portfolio_Value": 21366.250000000007,
+    "Portfolio_Value": 21230.971000000005,
     "SPY_Value": 11404.82141958429,
     "MAG7_Value": 12803.531218688138
   },
   {
     "date": "2025-10-31",
-    "Portfolio_Value": 22182.97000000001,
+    "Portfolio_Value": 21765.811,
     "SPY_Value": 11442.231877736582,
     "MAG7_Value": 12943.042408950168
   },
   {
     "date": "2025-11-03",
-    "Portfolio_Value": 21437.590000000007,
+    "Portfolio_Value": 21112.906000000003,
     "SPY_Value": 11463.705145196194,
     "MAG7_Value": 13091.647578578582
   },
   {
     "date": "2025-11-04",
-    "Portfolio_Value": 20071.47000000001,
+    "Portfolio_Value": 20592.356,
     "SPY_Value": 11327.81962455334,
     "MAG7_Value": 12799.493032416502
   },
   {
     "date": "2025-11-05",
-    "Portfolio_Value": 20503.610000000008,
+    "Portfolio_Value": 21183.976000000002,
     "SPY_Value": 11367.075441627943,
     "MAG7_Value": 12899.569471623616
   },
   {
     "date": "2025-11-06",
-    "Portfolio_Value": 20280.570000000007,
+    "Portfolio_Value": 20960.856,
     "SPY_Value": 11245.113992853427,
     "MAG7_Value": 12644.362979351368
   },
   {
     "date": "2025-11-07",
-    "Portfolio_Value": 21033.33000000001,
+    "Portfolio_Value": 20947.196,
     "SPY_Value": 11256.18614638729,
     "MAG7_Value": 12531.616078572066
   },
   {
     "date": "2025-11-10",
-    "Portfolio_Value": 21116.97000000001,
+    "Portfolio_Value": 22362.376000000004,
     "SPY_Value": 11431.830763810834,
     "MAG7_Value": 12888.26425811468
   },
   {
     "date": "2025-11-11",
-    "Portfolio_Value": 21618.81000000001,
+    "Portfolio_Value": 23568.596,
     "SPY_Value": 11458.001308527235,
     "MAG7_Value": 12859.811826574507
   },
   {
     "date": "2025-11-12",
-    "Portfolio_Value": 22148.530000000006,
+    "Portfolio_Value": 24304.496000000003,
     "SPY_Value": 11464.376184804309,
     "MAG7_Value": 12711.65460721342
   },
   {
     "date": "2025-11-13",
-    "Portfolio_Value": 21911.550000000007,
+    "Portfolio_Value": 24863.486000000004,
     "SPY_Value": 11274.136455904309,
     "MAG7_Value": 12380.790186510443
   },
   {
     "date": "2025-11-14",
-    "Portfolio_Value": 22413.390000000007,
+    "Portfolio_Value": 24618.386000000002,
     "SPY_Value": 11272.291096981999,
     "MAG7_Value": 12401.972499705858
   },
   {
     "date": "2025-11-17",
-    "Portfolio_Value": 22761.890000000007,
+    "Portfolio_Value": 24771.956000000006,
     "SPY_Value": 11167.273398312334,
     "MAG7_Value": 12387.150435571828
   },
   {
     "date": "2025-11-18",
-    "Portfolio_Value": 23403.13000000001,
+    "Portfolio_Value": 25010.796000000006,
     "SPY_Value": 11073.495613078561,
     "MAG7_Value": 12172.617398902716
   },
   {
     "date": "2025-11-19",
-    "Portfolio_Value": 23542.530000000006,
+    "Portfolio_Value": 25216.436000000005,
     "SPY_Value": 11116.274388095757,
     "MAG7_Value": 12281.98743829495
   },
   {
     "date": "2025-11-20",
-    "Portfolio_Value": 22775.830000000005,
+    "Portfolio_Value": 24854.806000000004,
     "SPY_Value": 10946.836887047257,
     "MAG7_Value": 12073.173291693141
   },
   {
     "date": "2025-11-21",
-    "Portfolio_Value": 22315.81000000001,
+    "Portfolio_Value": 24832.796000000006,
     "SPY_Value": 11055.880823365598,
     "MAG7_Value": 12178.895381828854
   },
   {
     "date": "2025-11-24",
-    "Portfolio_Value": 19764.790000000008,
+    "Portfolio_Value": 24450.646000000004,
     "SPY_Value": 11218.60792833297,
     "MAG7_Value": 12605.448904379951
   },
   {
     "date": "2025-11-25",
-    "Portfolio_Value": 18987.37000000001,
+    "Portfolio_Value": 24353.636000000002,
     "SPY_Value": 11324.128906708716,
     "MAG7_Value": 12695.885999123277
   },
   {
     "date": "2025-11-26",
-    "Portfolio_Value": 20919.55000000001,
+    "Portfolio_Value": 26118.756,
     "SPY_Value": 11402.305021053868,
     "MAG7_Value": 12741.563045077071
   },
   {
     "date": "2025-11-28",
-    "Portfolio_Value": 20097.310000000005,
+    "Portfolio_Value": 25666.046000000002,
     "SPY_Value": 11464.543944706336,
     "MAG7_Value": 12813.598450645888
   },
   {
     "date": "2025-12-01",
-    "Portfolio_Value": 19497.890000000007,
+    "Portfolio_Value": 25655.666000000005,
     "SPY_Value": 11412.202855273532,
     "MAG7_Value": 12800.560321251778
   },
   {
     "date": "2025-12-02",
-    "Portfolio_Value": 19274.850000000006,
+    "Portfolio_Value": 25805.676000000003,
     "SPY_Value": 11433.340602929087,
     "MAG7_Value": 12869.185098460634
   },
   {
     "date": "2025-12-03",
-    "Portfolio_Value": 20340.200000000004,
+    "Portfolio_Value": 26460.901000000005,
     "SPY_Value": 11472.931939807746,
     "MAG7_Value": 12873.292351669174
   },
   {
     "date": "2025-12-04",
-    "Portfolio_Value": 20340.200000000004,
+    "Portfolio_Value": 26978.446000000007,
     "SPY_Value": 11481.319934909157,
     "MAG7_Value": 12936.29895027295
   },
   {
     "date": "2025-12-05",
-    "Portfolio_Value": 18976.950000000004,
+    "Portfolio_Value": 26676.746000000006,
     "SPY_Value": 11503.128722172827,
     "MAG7_Value": 12981.8675103883
   },
   {
     "date": "2025-12-08",
-    "Portfolio_Value": 18922.420000000006,
+    "Portfolio_Value": 26899.026000000005,
     "SPY_Value": 11468.570182355013,
     "MAG7_Value": 12870.224338577647
   },
   {
     "date": "2025-12-09",
-    "Portfolio_Value": 19685.840000000004,
+    "Portfolio_Value": 27180.436000000005,
     "SPY_Value": 11458.672348135347,
     "MAG7_Value": 12900.606354052561
   },
   {
     "date": "2025-12-10",
-    "Portfolio_Value": 20122.08000000001,
+    "Portfolio_Value": 27793.776000000005,
     "SPY_Value": 11534.667583754132,
     "MAG7_Value": 12923.420880795962
   },
   {
     "date": "2025-12-11",
-    "Portfolio_Value": 20067.55000000001,
+    "Portfolio_Value": 27873.476000000006,
     "SPY_Value": 11561.509168078645,
     "MAG7_Value": 12813.777284180927
   },
   {
     "date": "2025-12-12",
-    "Portfolio_Value": 19522.250000000007,
+    "Portfolio_Value": 27719.096000000005,
     "SPY_Value": 11437.199080675735,
     "MAG7_Value": 12717.02830286981
   },
   {
     "date": "2025-12-15",
-    "Portfolio_Value": 19576.780000000006,
+    "Portfolio_Value": 26888.346,
     "SPY_Value": 11419.919810766829,
     "MAG7_Value": 12729.447175527723
   },
   {
     "date": "2025-12-16",
-    "Portfolio_Value": 19304.130000000005,
+    "Portfolio_Value": 26876.296000000006,
     "SPY_Value": 11388.716468989582,
     "MAG7_Value": 12819.336697556546
   },
   {
     "date": "2025-12-17",
-    "Portfolio_Value": 18377.12000000001,
+    "Portfolio_Value": 26551.996000000006,
     "SPY_Value": 11263.399822174502,
     "MAG7_Value": 12526.564249390118
   },
   {
     "date": "2025-12-18",
-    "Portfolio_Value": 17777.290000000008,
+    "Portfolio_Value": 26713.656000000006,
     "SPY_Value": 11348.454092502809,
     "MAG7_Value": 12771.994659064909
   },
   {
     "date": "2025-12-19",
-    "Portfolio_Value": 18064.22000000001,
+    "Portfolio_Value": 25990.816000000003,
     "SPY_Value": 11417.571172138434,
     "MAG7_Value": 12881.004688458317
   },
   {
     "date": "2025-12-22",
-    "Portfolio_Value": 18958.81000000001,
+    "Portfolio_Value": 26086.196000000004,
     "SPY_Value": 11488.701370598399,
     "MAG7_Value": 12953.374259863742
   },
   {
     "date": "2025-12-23",
-    "Portfolio_Value": 18539.160000000007,
+    "Portfolio_Value": 26127.466000000004,
     "SPY_Value": 11541.210219933231,
     "MAG7_Value": 13084.204218559174
   },
   {
     "date": "2025-12-24",
-    "Portfolio_Value": 19272.370000000006,
+    "Portfolio_Value": 26736.076,
     "SPY_Value": 11581.80811622406,
     "MAG7_Value": 13096.294412288367
+  },
+  {
+    "date": "2025-12-26",
+    "Portfolio_Value": 26301.196,
+    "SPY_Value": 11580.63379690986,
+    "MAG7_Value": 13056.372092698646
+  },
+  {
+    "date": "2025-12-29",
+    "Portfolio_Value": 27022.36600000001,
+    "SPY_Value": 11539.364861010921,
+    "MAG7_Value": 12956.576664513723
   }
 ]

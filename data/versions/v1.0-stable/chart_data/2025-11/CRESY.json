@@ -237,16 +237,16 @@
   ],
   "events": [
     {
-      "date": "2025-11-25",
+      "date": "2025-11-03",
       "type": "BUY",
-      "price": 11.69,
-      "quantity": 1394
+      "price": 12.805,
+      "quantity": 353
     },
     {
-      "date": "2025-12-03",
+      "date": "2025-11-07",
       "type": "SELL",
-      "price": 11.27,
-      "quantity": -1394
+      "price": 11.24,
+      "quantity": -353
     }
   ]
 }

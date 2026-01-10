@@ -232,13 +232,13 @@
       "date": "2025-06-03",
       "type": "BUY",
       "price": 1.37,
-      "quantity": 567
+      "quantity": 1619
     },
     {
       "date": "2025-06-16",
       "type": "SELL",
       "price": 1.49,
-      "quantity": -567
+      "quantity": -1619
     }
   ]
 }

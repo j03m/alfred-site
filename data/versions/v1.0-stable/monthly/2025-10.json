@@ -10,133 +10,133 @@
     },
     {
       "date": "2025-10-02",
-      "rel_port": 0.9811075009668309,
+      "rel_port": 0.9824919846373771,
       "rel_spy": 1.0011519186176976,
       "rel_mag7": 0.9966747003829514
     },
     {
       "date": "2025-10-03",
-      "rel_port": 0.9440106163316759,
+      "rel_port": 0.9642094183776679,
       "rel_spy": 1.0011369586356496,
       "rel_mag7": 0.9897556245496388
     },
     {
       "date": "2025-10-06",
-      "rel_port": 0.950886928545183,
+      "rel_port": 0.9855329578523182,
       "rel_spy": 1.0047273543271749,
       "rel_mag7": 1.0031439466318441
     },
     {
       "date": "2025-10-07",
-      "rel_port": 0.8946805504521685,
+      "rel_port": 0.948933885233195,
       "rel_spy": 1.0010023187972175,
       "rel_mag7": 0.9915134275382852
     },
     {
       "date": "2025-10-08",
-      "rel_port": 0.8890001186236192,
+      "rel_port": 0.9372295273890879,
       "rel_spy": 1.0069713516343781,
       "rel_mag7": 0.9997958051252959
     },
     {
       "date": "2025-10-09",
-      "rel_port": 0.8795729163954239,
+      "rel_port": 0.9199902459537503,
       "rel_spy": 1.0040541551350137,
       "rel_mag7": 1.0006544048954036
     },
     {
       "date": "2025-10-10",
-      "rel_port": 0.8443171089013046,
+      "rel_port": 0.8761871134617036,
       "rel_spy": 0.9769167476999027,
       "rel_mag7": 0.9630220311849443
     },
     {
       "date": "2025-10-13",
-      "rel_port": 0.8627515085934618,
+      "rel_port": 0.8939917314551818,
       "rel_spy": 0.9919066497120204,
       "rel_mag7": 0.9860268762412241
     },
     {
       "date": "2025-10-14",
-      "rel_port": 0.8575855946563438,
+      "rel_port": 0.9233499177002347,
       "rel_spy": 0.9906948911661305,
       "rel_mag7": 0.9745761828346409
     },
     {
       "date": "2025-10-15",
-      "rel_port": 0.8798868349964755,
+      "rel_port": 1.015979516502876,
       "rel_spy": 0.9950931258882488,
       "rel_mag7": 0.9822086617329628
     },
     {
       "date": "2025-10-16",
-      "rel_port": 0.8722949233913242,
+      "rel_port": 0.9697946051664097,
       "rel_spy": 0.988316254020495,
       "rel_mag7": 0.9788864374221794
     },
     {
       "date": "2025-10-17",
-      "rel_port": 0.867549978638105,
+      "rel_port": 0.9546325374579014,
       "rel_spy": 0.9939262472885033,
       "rel_mag7": 0.9881352457704452
     },
     {
       "date": "2025-10-20",
-      "rel_port": 0.8737184068172902,
+      "rel_port": 0.9714562766167892,
       "rel_spy": 1.004263594883686,
       "rel_mag7": 1.0036655169535158
     },
     {
       "date": "2025-10-21",
-      "rel_port": 0.9690917963570015,
+      "rel_port": 1.0129761660377543,
       "rel_spy": 1.004248634901638,
       "rel_mag7": 1.0004281536634494
     },
     {
       "date": "2025-10-22",
-      "rel_port": 0.9785816858634405,
+      "rel_port": 0.9954746201956034,
       "rel_spy": 0.9990276011668785,
       "rel_mag7": 0.9953449011883568
     },
     {
       "date": "2025-10-23",
-      "rel_port": 1.0127452880866206,
+      "rel_port": 1.0239634024203472,
       "rel_spy": 1.004951754057895,
       "rel_mag7": 1.0037156023398819
     },
     {
       "date": "2025-10-24",
-      "rel_port": 1.008000343333401,
+      "rel_port": 1.0340603332549527,
       "rel_spy": 1.013164784202259,
       "rel_mag7": 1.01180869314054
     },
     {
       "date": "2025-10-27",
-      "rel_port": 1.0027809041048596,
+      "rel_port": 1.0341583713728695,
       "rel_spy": 1.0251178098586282,
       "rel_mag7": 1.0379320401552339
     },
     {
       "date": "2025-10-28",
-      "rel_port": 1.00040843172825,
+      "rel_port": 1.0718697038577005,
       "rel_spy": 1.027840526591368,
       "rel_mag7": 1.051332847598483
     },
     {
       "date": "2025-10-29",
-      "rel_port": 1.0170157383645184,
+      "rel_port": 1.052441733881252,
       "rel_spy": 1.0283342059989526,
       "rel_mag7": 1.0623977620782534
     },
     {
       "date": "2025-10-30",
-      "rel_port": 1.0303015836735328,
+      "rel_port": 1.0565707809084453,
       "rel_spy": 1.0170244595706486,
       "rel_mag7": 1.0347276076300538
     },
     {
       "date": "2025-10-31",
-      "rel_port": 1.0696846251252543,
+      "rel_port": 1.0831873834397694,
       "rel_spy": 1.0203605355673573,
       "rel_mag7": 1.0460023159641691
     }
@@ -144,137 +144,165 @@
   "holdings": [
     {
       "Symbol": "WBD",
-      "Shares": 984.0,
-      "CostBasis": 17.665853658536584,
+      "Shares": 287.0,
+      "CostBasis": 18.933881533101047,
       "CurrentPrice": 22.45,
-      "UnrealizedPnL": 4707.600000000001
+      "UnrealizedPnL": 1009.1259999999992
+    },
+    {
+      "Symbol": "HOUS",
+      "Shares": 346.0,
+      "CostBasis": 9.610115606936416,
+      "CurrentPrice": 10.05,
+      "UnrealizedPnL": 152.20000000000024
+    },
+    {
+      "Symbol": "EGAN",
+      "Shares": 261.0,
+      "CostBasis": 13.72639846743295,
+      "CurrentPrice": 14.42,
+      "UnrealizedPnL": 181.02999999999986
+    },
+    {
+      "Symbol": "M",
+      "Shares": 183.0,
+      "CostBasis": 17.81,
+      "CurrentPrice": 19.49,
+      "UnrealizedPnL": 307.43999999999994
+    },
+    {
+      "Symbol": "UROY",
+      "Shares": 864.0,
+      "CostBasis": 3.94,
+      "CurrentPrice": 4.86,
+      "UnrealizedPnL": 794.8800000000003
     }
   ],
   "predictions": {
     "snapshot": [
       {
         "symbol": "SPHR",
-        "target_weight": 0.9999964814011204,
+        "target_weight": 0.1214561949662593,
         "score": -4.556283377110958
       },
       {
         "symbol": "WBD",
-        "target_weight": 2.2141895490203453e-06,
+        "target_weight": 0.06334035417668195,
         "score": -5.858345436601667
       },
       {
         "symbol": "BODI",
-        "target_weight": 1.2921373844243846e-06,
+        "target_weight": 0.061657396449697546,
         "score": -5.912204307606771
       },
       {
         "symbol": "FBIO",
-        "target_weight": 1.022269202999205e-08,
+        "target_weight": 0.04840586792547916,
         "score": -6.396148613133846
       },
       {
         "symbol": "CCO",
-        "target_weight": 9.533346121319115e-10,
+        "target_weight": 0.04299144233730872,
         "score": -6.633388541189106
       },
       {
         "symbol": "EVAX",
-        "target_weight": 4.504379649238188e-10,
+        "target_weight": 0.041409644013574554,
         "score": -6.708363100358838
       },
       {
         "symbol": "HOUS",
-        "target_weight": 1.88550965659881e-10,
+        "target_weight": 0.0396452522692451,
         "score": -6.795448302323621
       },
       {
         "symbol": "EGAN",
-        "target_weight": 1.6644471899101145e-10,
+        "target_weight": 0.03939882306691991,
         "score": -6.807918813221477
       },
       {
         "symbol": "M",
-        "target_weight": 1.4251893072964995e-10,
+        "target_weight": 0.039094294067094956,
         "score": -6.823437653032215
       },
       {
         "symbol": "UROY",
-        "target_weight": 3.8428103135256076e-11,
+        "target_weight": 0.036614423038405355,
         "score": -6.954506232403219
       },
       {
         "symbol": "PFSI",
-        "target_weight": 2.7665322572441154e-11,
+        "target_weight": 0.03601774628875269,
         "score": -6.9873671632203695
       },
       {
         "symbol": "ITRG",
-        "target_weight": 2.341050526715104e-11,
+        "target_weight": 0.03571825940229227,
         "score": -7.004066650377354
       },
       {
         "symbol": "W",
-        "target_weight": 2.046395677458225e-11,
+        "target_weight": 0.0354788249869936,
         "score": -7.017518623586511
       },
       {
         "symbol": "TACT",
-        "target_weight": 1.517565880267213e-11,
+        "target_weight": 0.034952409936381136,
         "score": -7.04741586187447
       },
       {
         "symbol": "TYGO",
-        "target_weight": 1.1019753690103541e-11,
+        "target_weight": 0.03439761584905719,
         "score": -7.079416191612836
       },
       {
         "symbol": "QFIN",
-        "target_weight": 3.6142677815331024e-12,
+        "target_weight": 0.03253274910984734,
         "score": -7.1908962083398364
       },
       {
         "symbol": "LITB",
-        "target_weight": 2.882667229273728e-12,
+        "target_weight": 0.03216691957209129,
         "score": -7.213513538159532
       },
       {
         "symbol": "GLUE",
-        "target_weight": 2.5022433252090097e-12,
+        "target_weight": 0.031940096549715136,
         "score": -7.227666370883526
       },
       {
         "symbol": "STRW",
-        "target_weight": 1.327509021496762e-12,
+        "target_weight": 0.030943655807972117,
         "score": -7.291054709846776
       },
       {
         "symbol": "MKSI",
-        "target_weight": 1.0207735039345786e-12,
+        "target_weight": 0.030539802001059463,
         "score": -7.317329069133848
       },
       {
         "symbol": "REAL",
-        "target_weight": 2.9143952918940454e-13,
+        "target_weight": 0.02868449249534765,
         "score": -7.4426774110179394
       },
       {
         "symbol": "CDRE",
-        "target_weight": 7.742619798709846e-14,
+        "target_weight": 0.026845045495757214,
         "score": -7.575228144880384
       },
       {
         "symbol": "SPRU",
-        "target_weight": 4.136974647195042e-14,
+        "target_weight": 0.02601680073125431,
         "score": -7.637905679526739
       },
       {
         "symbol": "ARQT",
-        "target_weight": 3.8955283814644574e-14,
+        "target_weight": 0.025938691639746797,
         "score": -7.643919222795375
       },
       {
         "symbol": "OESX",
-        "target_weight": 7.046272638616493e-15,
+        "target_weight": 0.02381319782306538,
         "score": -7.814910787414647
       }
     ]
@@ -284,90 +312,233 @@
       "date": "2025-10-03",
       "symbol": "SSRM",
       "action": "SELL",
-      "quantity": -571,
+      "quantity": -187,
       "price": 23.76,
-      "value": -13566.960000000001,
+      "value": -4443.12,
       "reason": "SIGNAL_LOST",
-      "remaining_cash": 14067.400000000003,
+      "remaining_cash": 4480.674999999999,
       "remaining_qty": 0,
-      "cost_basis": 21.34,
-      "realized_pnl": 1381.820000000001
+      "cost_basis": 20.407058823529415,
+      "realized_pnl": 626.9999999999998
     },
     {
       "date": "2025-10-03",
       "symbol": "KGC",
       "action": "SELL",
-      "quantity": -152,
+      "quantity": -166,
       "price": 25.01,
-      "value": -3801.5200000000004,
+      "value": -4151.66,
       "reason": "SIGNAL_LOST",
-      "remaining_cash": 17868.920000000006,
+      "remaining_cash": 8632.335,
       "remaining_qty": 0,
-      "cost_basis": 22.55,
-      "realized_pnl": 373.92000000000013
+      "cost_basis": 21.888915662650604,
+      "realized_pnl": 518.1
     },
     {
       "date": "2025-10-03",
       "symbol": "VFF",
       "action": "SELL",
-      "quantity": -931,
+      "quantity": -1424,
       "price": 2.84,
-      "value": -2644.04,
+      "value": -4044.16,
       "reason": "SIGNAL_LOST",
-      "remaining_cash": 20512.960000000006,
+      "remaining_cash": 12676.494999999999,
       "remaining_qty": 0,
-      "cost_basis": 2.59,
-      "realized_pnl": 232.75
+      "cost_basis": 2.6356004213483146,
+      "realized_pnl": 291.06499999999977
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "DRD",
+      "action": "SELL",
+      "quantity": -154,
+      "price": 28.66,
+      "value": -4413.64,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 17090.135,
+      "remaining_qty": 0,
+      "cost_basis": 20.942597402597404,
+      "realized_pnl": 1188.4799999999998
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "SMP",
+      "action": "SELL",
+      "quantity": -70,
+      "price": 40.93,
+      "value": -2865.1,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 19955.234999999997,
+      "remaining_qty": 0,
+      "cost_basis": 39.78,
+      "realized_pnl": 80.4999999999999
     },
     {
       "date": "2025-10-03",
       "symbol": "SPHR",
       "action": "BUY",
-      "quantity": 310,
+      "quantity": 108,
       "price": 65.99,
-      "value": 20456.899999999998,
+      "value": 7126.919999999999,
       "reason": "BUY_TARGET",
-      "remaining_cash": 56.060000000008586,
-      "remaining_qty": 310,
+      "remaining_cash": 12828.314999999999,
+      "remaining_qty": 108,
       "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 193,
+      "price": 19.378,
+      "value": 3739.954,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 9088.360999999999,
+      "remaining_qty": 193,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 613,
+      "price": 5.94,
+      "value": 3641.2200000000003,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5447.140999999999,
+      "remaining_qty": 613,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 1021,
+      "price": 2.8,
+      "value": 2858.7999999999997,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2588.340999999999,
+      "remaining_qty": 1021,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-03",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 1670,
+      "price": 1.52,
+      "value": 2538.4,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 49.940999999998894,
+      "remaining_qty": 1670,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "EVAX",
+      "action": "BUY",
+      "quantity": 476,
+      "price": 6.32,
+      "value": 3008.32,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 17.590999999999894,
+      "remaining_qty": 476,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "CCO",
+      "action": "BUY",
+      "quantity": 501,
+      "price": 1.44,
+      "value": 721.4399999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3025.911,
+      "remaining_qty": 2171,
+      "cost_basis": 1.52,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 205,
+      "price": 2.87,
+      "value": 588.35,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3747.351,
+      "remaining_qty": 1226,
+      "cost_basis": 2.8,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-09",
+      "symbol": "WBD",
+      "action": "BUY",
+      "quantity": 65,
+      "price": 17.84,
+      "value": 1159.6,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5272.061,
+      "remaining_qty": 258,
+      "cost_basis": 19.378,
       "realized_pnl": 0.0
     },
     {
       "date": "2025-10-09",
       "symbol": "SPHR",
       "action": "SELL",
-      "quantity": -310,
+      "quantity": -108,
       "price": 59.09,
-      "value": -18317.9,
+      "value": -6381.72,
       "reason": "STOP_LOSS",
-      "remaining_cash": 18373.96000000001,
+      "remaining_cash": 6431.660999999999,
       "remaining_qty": 0,
       "cost_basis": 65.99,
-      "realized_pnl": -2138.9999999999973
-    },
-    {
-      "date": "2025-10-09",
-      "symbol": "WBD",
-      "action": "BUY",
-      "quantity": 648,
-      "price": 17.84,
-      "value": 11560.32,
-      "reason": "BUY_TARGET",
-      "remaining_cash": 6813.64000000001,
-      "remaining_qty": 648,
-      "cost_basis": 0.0,
-      "realized_pnl": 0.0
+      "realized_pnl": -745.1999999999991
     },
     {
       "date": "2025-10-09",
       "symbol": "BODI",
       "action": "BUY",
-      "quantity": 1167,
+      "quantity": 162,
       "price": 5.78,
-      "value": 6745.26,
+      "value": 936.36,
       "reason": "BUY_TARGET",
-      "remaining_cash": 68.38000000001011,
-      "remaining_qty": 1167,
+      "remaining_cash": 4335.701,
+      "remaining_qty": 775,
+      "cost_basis": 5.94,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-13",
+      "symbol": "CCO",
+      "action": "SELL",
+      "quantity": -2171,
+      "price": 1.32,
+      "value": -2865.7200000000003,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 2883.311,
+      "remaining_qty": 0,
+      "cost_basis": 1.5015384615384617,
+      "realized_pnl": -394.12000000000023
+    },
+    {
+      "date": "2025-10-13",
+      "symbol": "HOUS",
+      "action": "BUY",
+      "quantity": 289,
+      "price": 9.62,
+      "value": 2780.18,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 103.13100000000031,
+      "remaining_qty": 289,
       "cost_basis": 0.0,
       "realized_pnl": 0.0
     },
@@ -375,26 +546,130 @@
       "date": "2025-10-14",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -1167,
+      "quantity": -775,
       "price": 5.01,
-      "value": -5846.67,
+      "value": -3882.75,
       "reason": "STOP_LOSS",
-      "remaining_cash": 5915.05000000001,
+      "remaining_cash": 3985.8810000000003,
       "remaining_qty": 0,
-      "cost_basis": 5.78,
-      "realized_pnl": -898.5900000000005
+      "cost_basis": 5.906554838709678,
+      "realized_pnl": -694.8300000000003
     },
     {
       "date": "2025-10-14",
+      "symbol": "EGAN",
+      "action": "BUY",
+      "quantity": 215,
+      "price": 13.67,
+      "value": 2939.05,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1046.8310000000001,
+      "remaining_qty": 215,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-15",
       "symbol": "WBD",
       "action": "BUY",
-      "quantity": 336,
-      "price": 17.33,
-      "value": 5822.879999999999,
+      "quantity": 29,
+      "price": 18.43,
+      "value": 534.47,
       "reason": "BUY_TARGET",
-      "remaining_cash": 92.17000000001099,
-      "remaining_qty": 984,
-      "cost_basis": 17.84,
+      "remaining_cash": 512.3610000000001,
+      "remaining_qty": 287,
+      "cost_basis": 18.99051937984496,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-15",
+      "symbol": "FBIO",
+      "action": "BUY",
+      "quantity": 185,
+      "price": 2.76,
+      "value": 510.59999999999997,
+      "reason": "BUY_PARTIAL",
+      "remaining_cash": 1.7610000000001378,
+      "remaining_qty": 1411,
+      "cost_basis": 2.811704730831974,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "EVAX",
+      "action": "SELL",
+      "quantity": -476,
+      "price": 9.33,
+      "value": -4441.08,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 4442.841,
+      "remaining_qty": 0,
+      "cost_basis": 6.32,
+      "realized_pnl": 1432.76
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "HOUS",
+      "action": "BUY",
+      "quantity": 57,
+      "price": 9.56,
+      "value": 544.9200000000001,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3897.9210000000003,
+      "remaining_qty": 346,
+      "cost_basis": 9.62,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-17",
+      "symbol": "M",
+      "action": "BUY",
+      "quantity": 183,
+      "price": 17.81,
+      "value": 3259.2299999999996,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 638.6910000000007,
+      "remaining_qty": 183,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-23",
+      "symbol": "EGAN",
+      "action": "BUY",
+      "quantity": 46,
+      "price": 13.99,
+      "value": 643.54,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3720.1910000000007,
+      "remaining_qty": 261,
+      "cost_basis": 13.670000000000002,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-10-23",
+      "symbol": "FBIO",
+      "action": "SELL",
+      "quantity": -1411,
+      "price": 2.64,
+      "value": -3725.04,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 4363.731000000001,
+      "remaining_qty": 0,
+      "cost_basis": 2.804925584691708,
+      "realized_pnl": -232.70999999999958
+    },
+    {
+      "date": "2025-10-23",
+      "symbol": "UROY",
+      "action": "BUY",
+      "quantity": 864,
+      "price": 3.94,
+      "value": 3404.16,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 316.03100000000086,
+      "remaining_qty": 864,
+      "cost_basis": 0.0,
       "realized_pnl": 0.0
     }
   ],
@@ -402,76 +677,175 @@
     {
       "ticker": "BODI",
       "status": "CLOSED",
-      "enter_date": "2025-10-09",
+      "enter_date": "2025-10-03",
       "exit_date": "2025-10-14",
-      "realized_pnl": -898.5900000000005,
+      "realized_pnl": -694.8300000000003,
       "unrealized_pnl": 0.0,
-      "cost_basis": 5.78,
+      "cost_basis": 5.906554838709678,
       "current_price": 5.01,
-      "quantity": 1167.0
+      "quantity": 775.0
+    },
+    {
+      "ticker": "CCO",
+      "status": "CLOSED",
+      "enter_date": "2025-10-03",
+      "exit_date": "2025-10-13",
+      "realized_pnl": -394.12000000000023,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 1.5015384615384617,
+      "current_price": 1.32,
+      "quantity": 2171.0
+    },
+    {
+      "ticker": "DRD",
+      "status": "CLOSED",
+      "enter_date": "2025-09-03",
+      "exit_date": "2025-10-03",
+      "realized_pnl": 1188.4799999999998,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 20.942597402597404,
+      "current_price": 28.66,
+      "quantity": 154.0
+    },
+    {
+      "ticker": "EGAN",
+      "status": "OPEN",
+      "enter_date": "2025-10-14",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 181.02999999999986,
+      "cost_basis": 13.72639846743295,
+      "current_price": 14.42,
+      "quantity": 261.0
+    },
+    {
+      "ticker": "EVAX",
+      "status": "CLOSED",
+      "enter_date": "2025-10-09",
+      "exit_date": "2025-10-17",
+      "realized_pnl": 1432.76,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 6.32,
+      "current_price": 9.33,
+      "quantity": 476.0
+    },
+    {
+      "ticker": "FBIO",
+      "status": "CLOSED",
+      "enter_date": "2025-10-03",
+      "exit_date": "2025-10-23",
+      "realized_pnl": -232.70999999999958,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.804925584691708,
+      "current_price": 2.64,
+      "quantity": 1411.0
+    },
+    {
+      "ticker": "HOUS",
+      "status": "OPEN",
+      "enter_date": "2025-10-13",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 152.20000000000024,
+      "cost_basis": 9.610115606936416,
+      "current_price": 10.05,
+      "quantity": 346.0
     },
     {
       "ticker": "KGC",
       "status": "CLOSED",
+      "enter_date": "2025-09-03",
+      "exit_date": "2025-10-03",
+      "realized_pnl": 518.1,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 21.888915662650604,
+      "current_price": 25.01,
+      "quantity": 166.0
+    },
+    {
+      "ticker": "M",
+      "status": "OPEN",
+      "enter_date": "2025-10-17",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 307.43999999999994,
+      "cost_basis": 17.81,
+      "current_price": 19.49,
+      "quantity": 183.0
+    },
+    {
+      "ticker": "SMP",
+      "status": "CLOSED",
       "enter_date": "2025-09-10",
       "exit_date": "2025-10-03",
-      "realized_pnl": 373.92000000000013,
+      "realized_pnl": 80.4999999999999,
       "unrealized_pnl": 0.0,
-      "cost_basis": 22.55,
-      "current_price": 25.01,
-      "quantity": 152.0
+      "cost_basis": 39.78,
+      "current_price": 40.93,
+      "quantity": 70.0
     },
     {
       "ticker": "SPHR",
       "status": "CLOSED",
       "enter_date": "2025-10-03",
       "exit_date": "2025-10-09",
-      "realized_pnl": -2138.9999999999973,
+      "realized_pnl": -745.1999999999991,
       "unrealized_pnl": 0.0,
       "cost_basis": 65.99,
       "current_price": 59.09,
-      "quantity": 310.0
+      "quantity": 108.0
     },
     {
       "ticker": "SSRM",
       "status": "CLOSED",
-      "enter_date": "2025-09-10",
+      "enter_date": "2025-09-03",
       "exit_date": "2025-10-03",
-      "realized_pnl": 1381.820000000001,
+      "realized_pnl": 626.9999999999998,
       "unrealized_pnl": 0.0,
-      "cost_basis": 21.34,
+      "cost_basis": 20.407058823529415,
       "current_price": 23.76,
-      "quantity": 571.0
+      "quantity": 187.0
+    },
+    {
+      "ticker": "UROY",
+      "status": "OPEN",
+      "enter_date": "2025-10-23",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 794.8800000000003,
+      "cost_basis": 3.94,
+      "current_price": 4.86,
+      "quantity": 864.0
     },
     {
       "ticker": "VFF",
       "status": "CLOSED",
-      "enter_date": "2025-09-10",
+      "enter_date": "2025-09-03",
       "exit_date": "2025-10-03",
-      "realized_pnl": 232.75,
+      "realized_pnl": 291.06499999999977,
       "unrealized_pnl": 0.0,
-      "cost_basis": 2.59,
+      "cost_basis": 2.6356004213483146,
       "current_price": 2.84,
-      "quantity": 931.0
+      "quantity": 1424.0
     },
     {
       "ticker": "WBD",
       "status": "OPEN",
-      "enter_date": "2025-10-09",
+      "enter_date": "2025-10-03",
       "exit_date": null,
       "realized_pnl": 0.0,
-      "unrealized_pnl": 4707.600000000001,
-      "cost_basis": 17.665853658536584,
+      "unrealized_pnl": 1009.1259999999992,
+      "cost_basis": 18.933881533101047,
       "current_price": 22.45,
-      "quantity": 984.0
+      "quantity": 287.0
     }
   ],
   "meta": {
     "year": 2025,
     "month": "October",
     "month_num": 10,
-    "return_pct": 0.04956024203839167,
-    "ending_equity": 22182.97000000001,
+    "return_pct": 0.07251836308210532,
+    "ending_equity": 21765.811,
     "start_date": "2025-10-01",
     "end_date": "2025-10-31"
   }

@@ -10,109 +10,109 @@
     },
     {
       "date": "2025-06-04",
-      "rel_port": 1.0319200361770806,
+      "rel_port": 1.051836338540237,
       "rel_spy": 0.9997315841567547,
       "rel_mag7": 1.0027821106997403
     },
     {
       "date": "2025-06-05",
-      "rel_port": 1.0202024435122956,
+      "rel_port": 1.068281443294868,
       "rel_spy": 0.9949000989783421,
       "rel_mag7": 0.9807144562665963
     },
     {
       "date": "2025-06-06",
-      "rel_port": 1.0549985186109248,
+      "rel_port": 1.1023271956308147,
       "rel_spy": 1.0051166770118605,
       "rel_mag7": 1.0013791540717958
     },
     {
       "date": "2025-06-09",
-      "rel_port": 1.0177484055575479,
+      "rel_port": 1.086043190650644,
       "rel_spy": 1.006022580482813,
       "rel_mag7": 1.0105300619883362
     },
     {
       "date": "2025-06-10",
-      "rel_port": 1.0095247469943396,
+      "rel_port": 1.0827834063254533,
       "rel_spy": 1.0117264171517724,
       "rel_mag7": 1.0238159948598105
     },
     {
       "date": "2025-06-11",
-      "rel_port": 0.9808072400941851,
+      "rel_port": 1.0976672354880923,
       "rel_spy": 1.008840946836887,
       "rel_mag7": 1.0146980275639796
     },
     {
       "date": "2025-06-12",
-      "rel_port": 0.9955314678226701,
+      "rel_port": 1.0694727860714326,
       "rel_spy": 1.0128504084953613,
       "rel_mag7": 1.0145216709684552
     },
     {
       "date": "2025-06-13",
-      "rel_port": 0.946742113552371,
+      "rel_port": 1.02218105227986,
       "rel_spy": 1.0015266151084568,
       "rel_mag7": 1.0069657289680989
     },
     {
       "date": "2025-06-16",
-      "rel_port": 0.9768864320354288,
+      "rel_port": 1.0563361933515512,
       "rel_spy": 1.0110553775436595,
       "rel_mag7": 1.0226836842485798
     },
     {
       "date": "2025-06-17",
-      "rel_port": 0.9495431084220868,
+      "rel_port": 1.0240068497237436,
       "rel_spy": 1.0024157425892062,
       "rel_mag7": 1.0118693441837685
     },
     {
       "date": "2025-06-18",
-      "rel_port": 0.9534492975097071,
+      "rel_port": 1.0315357780721326,
       "rel_spy": 1.002264758677381,
       "rel_mag7": 1.0127789236554248
     },
     {
       "date": "2025-06-20",
-      "rel_port": 0.9534492975097071,
+      "rel_port": 1.0185921073043829,
       "rel_spy": 0.9969635457732892,
       "rel_mag7": 1.0028229722352024
     },
     {
       "date": "2025-06-23",
-      "rel_port": 0.9300121629839855,
+      "rel_port": 1.013823752868968,
       "rel_spy": 1.0068110520223454,
       "rel_mag7": 1.018528857938964
     },
     {
       "date": "2025-06-24",
-      "rel_port": 1.0159483229116313,
+      "rel_port": 1.0496207194198814,
       "rel_spy": 1.0179335335268163,
       "rel_mag7": 1.026593065574313
     },
     {
       "date": "2025-06-25",
-      "rel_port": 1.0550102137878339,
+      "rel_port": 1.055216450474747,
       "rel_spy": 1.0185039171937122,
       "rel_mag7": 1.031333648197126
     },
     {
       "date": "2025-06-26",
-      "rel_port": 1.0042297556487705,
+      "rel_port": 1.065792352335151,
       "rel_spy": 1.0264725125400527,
       "rel_mag7": 1.042273086809261
     },
     {
       "date": "2025-06-27",
-      "rel_port": 0.9612616756849477,
+      "rel_port": 1.046686117972768,
       "rel_spy": 1.0315724135617104,
       "rel_mag7": 1.053929561078301
     },
     {
       "date": "2025-06-30",
-      "rel_port": 1.012042133824011,
+      "rel_port": 1.048907703751437,
       "rel_spy": 1.03650455468134,
       "rel_mag7": 1.0512859917765964
     }
@@ -120,137 +120,165 @@
   "holdings": [
     {
       "Symbol": "BDTX",
-      "Shares": 4008.0,
-      "CostBasis": 2.4011177644710577,
+      "Shares": 1039.0,
+      "CostBasis": 2.41,
       "CurrentPrice": 2.48,
-      "UnrealizedPnL": 316.16000000000054
+      "UnrealizedPnL": 72.72999999999983
+    },
+    {
+      "Symbol": "OPRT",
+      "Shares": 342.0,
+      "CostBasis": 6.28,
+      "CurrentPrice": 7.16,
+      "UnrealizedPnL": 300.96
+    },
+    {
+      "Symbol": "GOTU",
+      "Shares": 429.0,
+      "CostBasis": 3.79,
+      "CurrentPrice": 3.61,
+      "UnrealizedPnL": -77.22000000000007
+    },
+    {
+      "Symbol": "GOOS",
+      "Shares": 130.0,
+      "CostBasis": 11.51,
+      "CurrentPrice": 11.19,
+      "UnrealizedPnL": -41.60000000000004
+    },
+    {
+      "Symbol": "FIVE",
+      "Shares": 13.0,
+      "CostBasis": 123.6,
+      "CurrentPrice": 131.18,
+      "UnrealizedPnL": 98.54000000000016
     }
   ],
   "predictions": {
     "snapshot": [
       {
         "symbol": "BDTX",
-        "target_weight": 0.8801421361695243,
+        "target_weight": 0.08805690942241123,
         "score": -3.524352383498808
       },
       {
         "symbol": "LOOP",
-        "target_weight": 0.07776245998898505,
+        "target_weight": 0.07799635326365348,
         "score": -3.7669948452479503
       },
       {
         "symbol": "OPRT",
-        "target_weight": 0.04189169401899763,
+        "target_weight": 0.07562096136545132,
         "score": -3.828851967395167
       },
       {
         "symbol": "GOTU",
-        "target_weight": 0.0001548643882619497,
+        "target_weight": 0.057152255731410515,
         "score": -4.388881270725506
       },
       {
         "symbol": "GOOS",
-        "target_weight": 2.9718806708723808e-05,
+        "target_weight": 0.05262442535105485,
         "score": -4.553958245885042
       },
       {
         "symbol": "FIVE",
-        "target_weight": 1.6553488047191066e-05,
+        "target_weight": 0.05110698653894481,
         "score": -4.612476568901911
       },
       {
         "symbol": "BTM",
-        "target_weight": 1.9974476609211113e-06,
+        "target_weight": 0.04597900497220425,
         "score": -4.8239492330751546
       },
       {
         "symbol": "RRGB",
-        "target_weight": 3.1902760674196176e-07,
+        "target_weight": 0.04194954081852843,
         "score": -5.007384016520518
       },
       {
         "symbol": "ISSC",
-        "target_weight": 1.603871478546643e-07,
+        "target_weight": 0.040531649304387025,
         "score": -5.076152723912855
       },
       {
         "symbol": "PAHC",
-        "target_weight": 8.15723013477659e-08,
+        "target_weight": 0.039184375882034564,
         "score": -5.143762804567814
       },
       {
         "symbol": "CRCT",
-        "target_weight": 6.674190769070483e-09,
+        "target_weight": 0.03457448571950283,
         "score": -5.394086984191745
       },
       {
         "symbol": "STRT",
-        "target_weight": 4.19920976069197e-09,
+        "target_weight": 0.03378268599821131,
         "score": -5.44042214503861
       },
       {
         "symbol": "HNRG",
-        "target_weight": 1.2251763743514943e-09,
+        "target_weight": 0.03176477100118996,
         "score": -5.5636032993061235
       },
       {
         "symbol": "FTK",
-        "target_weight": 9.512421073473292e-10,
+        "target_weight": 0.03136536540453718,
         "score": -5.58891044727352
       },
       {
         "symbol": "EYE",
-        "target_weight": 8.96821748686842e-10,
+        "target_weight": 0.031273112321287606,
         "score": -5.59480159618397
       },
       {
         "symbol": "FUTU",
-        "target_weight": 4.092402981967678e-10,
+        "target_weight": 0.03007008929109355,
         "score": -5.673257057506817
       },
       {
         "symbol": "OPXS",
-        "target_weight": 1.2455819494781853e-10,
+        "target_weight": 0.02833377320979475,
         "score": -5.792210004874505
       },
       {
         "symbol": "RCMT",
-        "target_weight": 5.432710624036141e-11,
+        "target_weight": 0.027182326627542604,
         "score": -5.875184978824109
       },
       {
         "symbol": "TME",
-        "target_weight": 3.9267438217057244e-11,
+        "target_weight": 0.026744681269371826,
         "score": -5.907647745339091
       },
       {
         "symbol": "SMG",
-        "target_weight": 3.203215406196013e-11,
+        "target_weight": 0.026473728174290227,
         "score": -5.9280132871990645
       },
       {
         "symbol": "ATRO",
-        "target_weight": 3.1470305814051315e-11,
+        "target_weight": 0.026450314864859405,
         "score": -5.929782865607194
       },
       {
         "symbol": "EHAB",
-        "target_weight": 2.6542411644647e-11,
+        "target_weight": 0.02622604590860313,
         "score": -5.946812919166405
       },
       {
         "symbol": "FTDR",
-        "target_weight": 2.0086273289835368e-11,
+        "target_weight": 0.025863111162023337,
         "score": -5.97468364238739
       },
       {
         "symbol": "NRG",
-        "target_weight": 1.5404024925372676e-11,
+        "target_weight": 0.025522164804888735,
         "score": -6.001224425067676
       },
       {
         "symbol": "ARLO",
-        "target_weight": 5.189599649044444e-12,
+        "target_weight": 0.02417088159272298,
         "score": -6.110021652944852
       }
     ]
@@ -260,12 +288,12 @@
       "date": "2025-06-03",
       "symbol": "BDTX",
       "action": "BUY",
-      "quantity": 3652,
+      "quantity": 1039,
       "price": 2.41,
-      "value": 8801.32,
+      "value": 2503.9900000000002,
       "reason": "BUY_TARGET",
-      "remaining_cash": 1198.6800000000003,
-      "remaining_qty": 3652,
+      "remaining_cash": 7496.01,
+      "remaining_qty": 1039,
       "cost_basis": 0.0,
       "realized_pnl": 0.0
     },
@@ -273,12 +301,51 @@
       "date": "2025-06-03",
       "symbol": "LOOP",
       "action": "BUY",
-      "quantity": 567,
+      "quantity": 1619,
       "price": 1.37,
-      "value": 776.7900000000001,
+      "value": 2218.03,
       "reason": "BUY_TARGET",
-      "remaining_cash": 421.8900000000002,
-      "remaining_qty": 567,
+      "remaining_cash": 5277.98,
+      "remaining_qty": 1619,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-03",
+      "symbol": "OPRT",
+      "action": "BUY",
+      "quantity": 342,
+      "price": 6.28,
+      "value": 2147.76,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3130.2199999999993,
+      "remaining_qty": 342,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-03",
+      "symbol": "GOTU",
+      "action": "BUY",
+      "quantity": 429,
+      "price": 3.79,
+      "value": 1625.91,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1504.3099999999993,
+      "remaining_qty": 429,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-03",
+      "symbol": "GOOS",
+      "action": "BUY",
+      "quantity": 130,
+      "price": 11.51,
+      "value": 1496.3,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 8.009999999999309,
+      "remaining_qty": 130,
       "cost_basis": 0.0,
       "realized_pnl": 0.0
     },
@@ -286,26 +353,26 @@
       "date": "2025-06-16",
       "symbol": "LOOP",
       "action": "SELL",
-      "quantity": -567,
+      "quantity": -1619,
       "price": 1.49,
-      "value": -844.83,
+      "value": -2412.31,
       "reason": "STOP_LOSS",
-      "remaining_cash": 1266.7200000000003,
+      "remaining_cash": 2420.3199999999993,
       "remaining_qty": 0,
       "cost_basis": 1.37,
-      "realized_pnl": 68.03999999999994
+      "realized_pnl": 194.2799999999998
     },
     {
       "date": "2025-06-16",
-      "symbol": "BDTX",
+      "symbol": "FIVE",
       "action": "BUY",
-      "quantity": 356,
-      "price": 2.31,
-      "value": 822.36,
+      "quantity": 13,
+      "price": 123.6,
+      "value": 1606.8,
       "reason": "BUY_TARGET",
-      "remaining_cash": 444.36000000000024,
-      "remaining_qty": 4008,
-      "cost_basis": 2.41,
+      "remaining_cash": 813.5199999999993,
+      "remaining_qty": 13,
+      "cost_basis": 0.0,
       "realized_pnl": 0.0
     }
   ],
@@ -316,29 +383,73 @@
       "enter_date": "2025-06-03",
       "exit_date": null,
       "realized_pnl": 0.0,
-      "unrealized_pnl": 316.16000000000054,
-      "cost_basis": 2.4011177644710577,
+      "unrealized_pnl": 72.72999999999983,
+      "cost_basis": 2.41,
       "current_price": 2.48,
-      "quantity": 4008.0
+      "quantity": 1039.0
+    },
+    {
+      "ticker": "FIVE",
+      "status": "OPEN",
+      "enter_date": "2025-06-16",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 98.54000000000016,
+      "cost_basis": 123.6,
+      "current_price": 131.18,
+      "quantity": 13.0
+    },
+    {
+      "ticker": "GOOS",
+      "status": "OPEN",
+      "enter_date": "2025-06-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": -41.60000000000004,
+      "cost_basis": 11.51,
+      "current_price": 11.19,
+      "quantity": 130.0
+    },
+    {
+      "ticker": "GOTU",
+      "status": "OPEN",
+      "enter_date": "2025-06-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": -77.22000000000007,
+      "cost_basis": 3.79,
+      "current_price": 3.61,
+      "quantity": 429.0
     },
     {
       "ticker": "LOOP",
       "status": "CLOSED",
       "enter_date": "2025-06-03",
       "exit_date": "2025-06-16",
-      "realized_pnl": 68.03999999999994,
+      "realized_pnl": 194.2799999999998,
       "unrealized_pnl": 0.0,
       "cost_basis": 1.37,
       "current_price": 1.49,
-      "quantity": 567.0
+      "quantity": 1619.0
+    },
+    {
+      "ticker": "OPRT",
+      "status": "OPEN",
+      "enter_date": "2025-06-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 300.96,
+      "cost_basis": 6.28,
+      "current_price": 7.16,
+      "quantity": 342.0
     }
   ],
   "meta": {
     "year": 2025,
     "month": "June",
     "month_num": 6,
-    "return_pct": 0.012042133824011106,
-    "ending_equity": 10384.2,
+    "return_pct": 0.048907703751436916,
+    "ending_equity": 10547.69,
     "start_date": "2025-06-01",
     "end_date": "2025-06-30"
   }

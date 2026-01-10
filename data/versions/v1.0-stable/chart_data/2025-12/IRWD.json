@@ -185,26 +185,44 @@
       "low": 3.14,
       "close": 3.2,
       "volume": 765853
+    },
+    {
+      "date": "2025-12-29",
+      "open": 3.15,
+      "high": 3.265,
+      "low": 3.11,
+      "close": 3.21,
+      "volume": 2086540
+    },
+    {
+      "date": "2025-12-30",
+      "open": 3.22,
+      "high": 3.385,
+      "low": 3.185,
+      "close": 3.33,
+      "volume": 1219452
+    },
+    {
+      "date": "2025-12-31",
+      "open": 3.33,
+      "high": 3.38,
+      "low": 3.29,
+      "close": 3.37,
+      "volume": 2067931
     }
   ],
   "events": [
     {
-      "date": "2025-11-25",
-      "type": "BUY",
-      "price": 3.33,
-      "quantity": 890
-    },
-    {
       "date": "2025-12-03",
       "type": "BUY",
       "price": 3.52,
-      "quantity": 4563
+      "quantity": 289
     },
     {
       "date": "2025-12-19",
       "type": "SELL",
       "price": 3.26,
-      "quantity": -5453
+      "quantity": -2411
     }
   ]
 }

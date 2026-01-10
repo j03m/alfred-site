@@ -243,5 +243,18 @@
       "volume": 2259732
     }
   ],
-  "events": []
+  "events": [
+    {
+      "date": "2025-08-04",
+      "type": "BUY",
+      "price": 21.76,
+      "quantity": 76
+    },
+    {
+      "date": "2025-09-03",
+      "type": "SELL",
+      "price": 26.49,
+      "quantity": -76
+    }
+  ]
 }

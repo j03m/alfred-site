@@ -1,0 +1,651 @@
+{
+  "year": 2025,
+  "month": 8,
+  "chart": [
+    {
+      "date": "2025-08-01",
+      "rel_port": 1.0,
+      "rel_spy": 1.0,
+      "rel_mag7": 1.0
+    },
+    {
+      "date": "2025-08-04",
+      "rel_port": 1.1465701263223245,
+      "rel_spy": 1.0151997683844816,
+      "rel_mag7": 1.020338688407588
+    },
+    {
+      "date": "2025-08-05",
+      "rel_port": 1.137929559169042,
+      "rel_spy": 1.0100527568680433,
+      "rel_mag7": 1.014449617865645
+    },
+    {
+      "date": "2025-08-06",
+      "rel_port": 1.1484567229747873,
+      "rel_spy": 1.0177893585536897,
+      "rel_mag7": 1.0341239469454848
+    },
+    {
+      "date": "2025-08-07",
+      "rel_port": 1.1668215693753248,
+      "rel_spy": 1.0169368847712794,
+      "rel_mag7": 1.0383992622289107
+    },
+    {
+      "date": "2025-08-08",
+      "rel_port": 1.264321066434601,
+      "rel_spy": 1.0248664993887922,
+      "rel_mag7": 1.0545844148974635
+    },
+    {
+      "date": "2025-08-11",
+      "rel_port": 1.2512345943111713,
+      "rel_spy": 1.0228398636041947,
+      "rel_mag7": 1.0541903631836327
+    },
+    {
+      "date": "2025-08-12",
+      "rel_port": 1.3095552365459944,
+      "rel_spy": 1.0337290098436593,
+      "rel_mag7": 1.0664425170888963
+    },
+    {
+      "date": "2025-08-13",
+      "rel_port": 1.357464778219071,
+      "rel_spy": 1.0372675802612108,
+      "rel_mag7": 1.0632453009593208
+    },
+    {
+      "date": "2025-08-14",
+      "rel_port": 1.3586490784578424,
+      "rel_spy": 1.037364086727144,
+      "rel_mag7": 1.067697483299875
+    },
+    {
+      "date": "2025-08-15",
+      "rel_port": 1.3301380287818638,
+      "rel_spy": 1.0349353406678246,
+      "rel_mag7": 1.064267547456013
+    },
+    {
+      "date": "2025-08-18",
+      "rel_port": 1.3658345311363547,
+      "rel_spy": 1.0347101589139804,
+      "rel_mag7": 1.0625945977071563
+    },
+    {
+      "date": "2025-08-19",
+      "rel_port": 1.3019546870889427,
+      "rel_spy": 1.0290966994788648,
+      "rel_mag7": 1.0451076670072053
+    },
+    {
+      "date": "2025-08-20",
+      "rel_port": 1.2938466454081285,
+      "rel_spy": 1.0263623496107572,
+      "rel_mag7": 1.0334235118131836
+    },
+    {
+      "date": "2025-08-21",
+      "rel_port": 1.3190710571040263,
+      "rel_spy": 1.0222447403976067,
+      "rel_mag7": 1.0278530979011589
+    },
+    {
+      "date": "2025-08-22",
+      "rel_port": 1.3583614236727144,
+      "rel_spy": 1.0379431255227431,
+      "rel_mag7": 1.053678844489511
+    },
+    {
+      "date": "2025-08-25",
+      "rel_port": 1.3272537433809817,
+      "rel_spy": 1.0333751528019044,
+      "rel_mag7": 1.0577213983150415
+    },
+    {
+      "date": "2025-08-26",
+      "rel_port": 1.3181643983509006,
+      "rel_spy": 1.0377018593579102,
+      "rel_mag7": 1.0618582555204774
+    },
+    {
+      "date": "2025-08-27",
+      "rel_port": 1.3217782891640624,
+      "rel_spy": 1.040066267773274,
+      "rel_mag7": 1.06221647296268
+    },
+    {
+      "date": "2025-08-28",
+      "rel_port": 1.3622338396725104,
+      "rel_spy": 1.043749597889725,
+      "rel_mag7": 1.0673186270701156
+    },
+    {
+      "date": "2025-08-29",
+      "rel_port": 1.3646725332464302,
+      "rel_spy": 1.0375249308370327,
+      "rel_mag7": 1.0527849182369993
+    }
+  ],
+  "holdings": [
+    {
+      "Symbol": "LXRX",
+      "Shares": 3168.0,
+      "CostBasis": 1.1205934343434343,
+      "CurrentPrice": 1.1,
+      "UnrealizedPnL": -65.23999999999953
+    },
+    {
+      "Symbol": "LC",
+      "Shares": 229.0,
+      "CostBasis": 15.364672489082968,
+      "CurrentPrice": 17.18,
+      "UnrealizedPnL": 415.71000000000015
+    },
+    {
+      "Symbol": "FGEN",
+      "Shares": 293.0,
+      "CostBasis": 6.81,
+      "CurrentPrice": 11.83,
+      "UnrealizedPnL": 1470.8600000000001
+    },
+    {
+      "Symbol": "WIMI",
+      "Shares": 479.0,
+      "CostBasis": 3.32,
+      "CurrentPrice": 4.03,
+      "UnrealizedPnL": 340.0900000000002
+    },
+    {
+      "Symbol": "RYAAY",
+      "Shares": 30.0,
+      "CostBasis": 64.91,
+      "CurrentPrice": 63.47,
+      "UnrealizedPnL": -43.19999999999993
+    }
+  ],
+  "predictions": {
+    "snapshot": [
+      {
+        "symbol": "WLDN",
+        "target_weight": 0.13486734844643644,
+        "score": -6.764496237039566
+      },
+      {
+        "symbol": "LXRX",
+        "target_weight": 0.09751296294401607,
+        "score": -7.413108974695206
+      },
+      {
+        "symbol": "LC",
+        "target_weight": 0.09201111525955263,
+        "score": -7.529260843992233
+      },
+      {
+        "symbol": "FGEN",
+        "target_weight": 0.07543279742639732,
+        "score": -7.92659530043602
+      },
+      {
+        "symbol": "WIMI",
+        "target_weight": 0.05997607296800781,
+        "score": -8.385188221931458
+      },
+      {
+        "symbol": "RYAAY",
+        "target_weight": 0.05267347930861475,
+        "score": -8.644855439662933
+      },
+      {
+        "symbol": "BILI",
+        "target_weight": 0.047485390322187564,
+        "score": -8.852235436439514
+      },
+      {
+        "symbol": "RFIL",
+        "target_weight": 0.045458810220404856,
+        "score": -8.939466327428818
+      },
+      {
+        "symbol": "RIGL",
+        "target_weight": 0.03471561222431841,
+        "score": -9.47870060801506
+      },
+      {
+        "symbol": "IZEA",
+        "target_weight": 0.03396804519501676,
+        "score": -9.52223914861679
+      },
+      {
+        "symbol": "NRGV",
+        "target_weight": 0.03305265092949236,
+        "score": -9.576876074075699
+      },
+      {
+        "symbol": "AREN",
+        "target_weight": 0.02957583028568934,
+        "score": -9.799164652824402
+      },
+      {
+        "symbol": "MARA",
+        "target_weight": 0.02900044130828135,
+        "score": -9.838457524776459
+      },
+      {
+        "symbol": "WGS",
+        "target_weight": 0.0284822305666327,
+        "score": -9.874518811702728
+      },
+      {
+        "symbol": "CG",
+        "target_weight": 0.028474074414754913,
+        "score": -9.87509161233902
+      },
+      {
+        "symbol": "NOAH",
+        "target_weight": 0.02012858059089195,
+        "score": -10.568798169493675
+      },
+      {
+        "symbol": "BHC",
+        "target_weight": 0.020055781881897456,
+        "score": -10.576044648885727
+      },
+      {
+        "symbol": "EVER",
+        "target_weight": 0.018649673190927193,
+        "score": -10.721422374248505
+      },
+      {
+        "symbol": "STOK",
+        "target_weight": 0.01855820398680424,
+        "score": -10.73125571012497
+      },
+      {
+        "symbol": "PSIX",
+        "target_weight": 0.018357715183129404,
+        "score": -10.752979755401611
+      },
+      {
+        "symbol": "VFF",
+        "target_weight": 0.01767014399395167,
+        "score": -10.829326748847961
+      },
+      {
+        "symbol": "MXL",
+        "target_weight": 0.017368617196015058,
+        "score": -10.86374968290329
+      },
+      {
+        "symbol": "TOI",
+        "target_weight": 0.015584837150121102,
+        "score": -11.080482691526413
+      },
+      {
+        "symbol": "CTLP",
+        "target_weight": 0.015501070969584882,
+        "score": -11.091261386871338
+      },
+      {
+        "symbol": "CETX",
+        "target_weight": 0.015438514036873989,
+        "score": -11.099349021911621
+      }
+    ]
+  },
+  "ledger": [
+    {
+      "date": "2025-08-01",
+      "symbol": "LEU",
+      "action": "SELL",
+      "quantity": -6,
+      "price": 201.22,
+      "value": -1207.32,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 1409.9000000000012,
+      "remaining_qty": 0,
+      "cost_basis": 216.0,
+      "realized_pnl": -88.68
+    },
+    {
+      "date": "2025-08-01",
+      "symbol": "SMTC",
+      "action": "BUY",
+      "quantity": 26,
+      "price": 48.91,
+      "value": 1271.6599999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 138.24000000000137,
+      "remaining_qty": 26,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-08-04",
+      "symbol": "SM",
+      "action": "SELL",
+      "quantity": -135,
+      "price": 26.45,
+      "value": -3570.75,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 3708.9900000000016,
+      "remaining_qty": 0,
+      "cost_basis": 26.35,
+      "realized_pnl": 13.499999999999712
+    },
+    {
+      "date": "2025-08-04",
+      "symbol": "ANET",
+      "action": "SELL",
+      "quantity": -24,
+      "price": 117.57,
+      "value": -2821.68,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 6530.670000000002,
+      "remaining_qty": 0,
+      "cost_basis": 101.33,
+      "realized_pnl": 389.7599999999999
+    },
+    {
+      "date": "2025-08-04",
+      "symbol": "VSAT",
+      "action": "SELL",
+      "quantity": -108,
+      "price": 18.38,
+      "value": -1985.04,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 8515.710000000003,
+      "remaining_qty": 0,
+      "cost_basis": 15.56,
+      "realized_pnl": 304.55999999999983
+    },
+    {
+      "date": "2025-08-04",
+      "symbol": "COMM",
+      "action": "SELL",
+      "quantity": -171,
+      "price": 13.83,
+      "value": -2364.93,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 10880.640000000003,
+      "remaining_qty": 0,
+      "cost_basis": 7.92,
+      "realized_pnl": 1010.61
+    },
+    {
+      "date": "2025-08-04",
+      "symbol": "SMTC",
+      "action": "SELL",
+      "quantity": -26,
+      "price": 50.43,
+      "value": -1311.18,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 12191.820000000003,
+      "remaining_qty": 0,
+      "cost_basis": 48.91,
+      "realized_pnl": 39.52000000000008
+    },
+    {
+      "date": "2025-08-04",
+      "symbol": "WLDN",
+      "action": "BUY",
+      "quantity": 41,
+      "price": 85.54,
+      "value": 3507.1400000000003,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 8684.680000000004,
+      "remaining_qty": 41,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-08-04",
+      "symbol": "LXRX",
+      "action": "BUY",
+      "quantity": 2329,
+      "price": 1.11,
+      "value": 2585.19,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 6099.490000000003,
+      "remaining_qty": 2329,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-08-04",
+      "symbol": "LC",
+      "action": "BUY",
+      "quantity": 156,
+      "price": 15.54,
+      "value": 2424.24,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3675.2500000000036,
+      "remaining_qty": 156,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-08-04",
+      "symbol": "FGEN",
+      "action": "BUY",
+      "quantity": 293,
+      "price": 6.81,
+      "value": 1995.33,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1679.9200000000037,
+      "remaining_qty": 293,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-08-04",
+      "symbol": "WIMI",
+      "action": "BUY",
+      "quantity": 479,
+      "price": 3.32,
+      "value": 1590.28,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 89.64000000000374,
+      "remaining_qty": 479,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-08-21",
+      "symbol": "WLDN",
+      "action": "SELL",
+      "quantity": -41,
+      "price": 102.16,
+      "value": -4188.5599999999995,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 4278.2000000000035,
+      "remaining_qty": 0,
+      "cost_basis": 85.54,
+      "realized_pnl": 681.4199999999996
+    },
+    {
+      "date": "2025-08-21",
+      "symbol": "LXRX",
+      "action": "BUY",
+      "quantity": 839,
+      "price": 1.15,
+      "value": 964.8499999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3313.3500000000035,
+      "remaining_qty": 3168,
+      "cost_basis": 1.11,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-08-21",
+      "symbol": "LC",
+      "action": "BUY",
+      "quantity": 73,
+      "price": 14.99,
+      "value": 1094.27,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2219.0800000000036,
+      "remaining_qty": 229,
+      "cost_basis": 15.54,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-08-21",
+      "symbol": "RYAAY",
+      "action": "BUY",
+      "quantity": 30,
+      "price": 64.91,
+      "value": 1947.3,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 271.7800000000036,
+      "remaining_qty": 30,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    }
+  ],
+  "performance": [
+    {
+      "ticker": "ANET",
+      "status": "CLOSED",
+      "enter_date": "2025-07-03",
+      "exit_date": "2025-08-04",
+      "realized_pnl": 389.7599999999999,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 101.33,
+      "current_price": 117.57,
+      "quantity": 24.0
+    },
+    {
+      "ticker": "COMM",
+      "status": "CLOSED",
+      "enter_date": "2025-07-21",
+      "exit_date": "2025-08-04",
+      "realized_pnl": 1010.61,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 7.92,
+      "current_price": 13.83,
+      "quantity": 171.0
+    },
+    {
+      "ticker": "FGEN",
+      "status": "OPEN",
+      "enter_date": "2025-08-04",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 1470.8600000000001,
+      "cost_basis": 6.81,
+      "current_price": 11.83,
+      "quantity": 293.0
+    },
+    {
+      "ticker": "LC",
+      "status": "OPEN",
+      "enter_date": "2025-08-04",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 415.71000000000015,
+      "cost_basis": 15.364672489082968,
+      "current_price": 17.18,
+      "quantity": 229.0
+    },
+    {
+      "ticker": "LEU",
+      "status": "CLOSED",
+      "enter_date": "2025-07-16",
+      "exit_date": "2025-08-01",
+      "realized_pnl": -88.68,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 216.0,
+      "current_price": 201.22,
+      "quantity": 6.0
+    },
+    {
+      "ticker": "LXRX",
+      "status": "OPEN",
+      "enter_date": "2025-08-04",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": -65.23999999999953,
+      "cost_basis": 1.1205934343434343,
+      "current_price": 1.1,
+      "quantity": 3168.0
+    },
+    {
+      "ticker": "RYAAY",
+      "status": "OPEN",
+      "enter_date": "2025-08-21",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": -43.19999999999993,
+      "cost_basis": 64.91,
+      "current_price": 63.47,
+      "quantity": 30.0
+    },
+    {
+      "ticker": "SM",
+      "status": "CLOSED",
+      "enter_date": "2025-07-03",
+      "exit_date": "2025-08-04",
+      "realized_pnl": 13.499999999999712,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 26.35,
+      "current_price": 26.45,
+      "quantity": 135.0
+    },
+    {
+      "ticker": "SMTC",
+      "status": "CLOSED",
+      "enter_date": "2025-08-01",
+      "exit_date": "2025-08-04",
+      "realized_pnl": 39.52000000000008,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 48.91,
+      "current_price": 50.43,
+      "quantity": 26.0
+    },
+    {
+      "ticker": "VSAT",
+      "status": "CLOSED",
+      "enter_date": "2025-07-03",
+      "exit_date": "2025-08-04",
+      "realized_pnl": 304.55999999999983,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 15.56,
+      "current_price": 18.38,
+      "quantity": 108.0
+    },
+    {
+      "ticker": "WIMI",
+      "status": "OPEN",
+      "enter_date": "2025-08-04",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 340.0900000000002,
+      "cost_basis": 3.32,
+      "current_price": 4.03,
+      "quantity": 479.0
+    },
+    {
+      "ticker": "WLDN",
+      "status": "CLOSED",
+      "enter_date": "2025-08-04",
+      "exit_date": "2025-08-21",
+      "realized_pnl": 681.4199999999996,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 85.54,
+      "current_price": 102.16,
+      "quantity": 41.0
+    }
+  ],
+  "meta": {
+    "year": 2025,
+    "month": "August",
+    "month_num": 8,
+    "return_pct": 0.32042048522268396,
+    "ending_equity": 14991.460000000003,
+    "start_date": "2025-08-01",
+    "end_date": "2025-08-31"
+  }
+}

@@ -240,13 +240,19 @@
       "date": "2025-11-03",
       "type": "BUY",
       "price": 15.85,
-      "quantity": 1394
+      "quantity": 373
+    },
+    {
+      "date": "2025-11-07",
+      "type": "BUY",
+      "price": 14.29,
+      "quantity": 50
     },
     {
       "date": "2025-11-25",
       "type": "SELL",
       "price": 13.97,
-      "quantity": -1394
+      "quantity": -423
     }
   ]
 }

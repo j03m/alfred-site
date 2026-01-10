@@ -1,0 +1,688 @@
+{
+  "year": 2025,
+  "month": 9,
+  "chart": [
+    {
+      "date": "2025-09-02",
+      "rel_port": 1.0,
+      "rel_spy": 1.0,
+      "rel_mag7": 1.0
+    },
+    {
+      "date": "2025-09-03",
+      "rel_port": 0.9859186476322299,
+      "rel_spy": 1.0054195886110546,
+      "rel_mag7": 1.0227087432520943
+    },
+    {
+      "date": "2025-09-04",
+      "rel_port": 1.002413505437261,
+      "rel_spy": 1.013822293719837,
+      "rel_mag7": 1.036293727151153
+    },
+    {
+      "date": "2025-09-05",
+      "rel_port": 1.0107585072881293,
+      "rel_spy": 1.0108860324550581,
+      "rel_mag7": 1.0337613349667139
+    },
+    {
+      "date": "2025-09-08",
+      "rel_port": 0.9726326321493142,
+      "rel_spy": 1.013369359801334,
+      "rel_mag7": 1.0344367214372303
+    },
+    {
+      "date": "2025-09-09",
+      "rel_port": 0.966640781334664,
+      "rel_spy": 1.0157121214487639,
+      "rel_mag7": 1.0430269663567373
+    },
+    {
+      "date": "2025-09-10",
+      "rel_port": 0.9583152270130205,
+      "rel_spy": 1.0186483827135429,
+      "rel_mag7": 1.037191495868817
+    },
+    {
+      "date": "2025-09-11",
+      "rel_port": 0.9706214893856728,
+      "rel_spy": 1.0271135614662565,
+      "rel_mag7": 1.047501040737743
+    },
+    {
+      "date": "2025-09-12",
+      "rel_port": 0.9983623839183688,
+      "rel_spy": 1.0267699564246335,
+      "rel_mag7": 1.0632014710863877
+    },
+    {
+      "date": "2025-09-15",
+      "rel_port": 0.9985159523388002,
+      "rel_spy": 1.0322364002686366,
+      "rel_mag7": 1.0835467613030305
+    },
+    {
+      "date": "2025-09-16",
+      "rel_port": 0.9788498060611913,
+      "rel_spy": 1.030815124869196,
+      "rel_mag7": 1.0884175172770953
+    },
+    {
+      "date": "2025-09-17",
+      "rel_port": 0.9635097291294482,
+      "rel_spy": 1.0295344151686008,
+      "rel_mag7": 1.0832646538659187
+    },
+    {
+      "date": "2025-09-18",
+      "rel_port": 1.0070949951448238,
+      "rel_spy": 1.0343448857513236,
+      "rel_mag7": 1.086708603752718
+    },
+    {
+      "date": "2025-09-19",
+      "rel_port": 0.9875877821232948,
+      "rel_spy": 1.0365939369328565,
+      "rel_mag7": 1.0997404269277051
+    },
+    {
+      "date": "2025-09-22",
+      "rel_port": 1.0467518602567614,
+      "rel_spy": 1.0414981179814766,
+      "rel_mag7": 1.1080900387044352
+    },
+    {
+      "date": "2025-09-23",
+      "rel_port": 1.0085321004941015,
+      "rel_spy": 1.0358286347946961,
+      "rel_mag7": 1.0910516522882723
+    },
+    {
+      "date": "2025-09-24",
+      "rel_port": 1.0111467872681723,
+      "rel_spy": 1.0325331500773114,
+      "rel_mag7": 1.0921567595876822
+    },
+    {
+      "date": "2025-09-25",
+      "rel_port": 0.9974302437244836,
+      "rel_spy": 1.0277695347275368,
+      "rel_mag7": 1.0830796845277177
+    },
+    {
+      "date": "2025-09-26",
+      "rel_port": 0.9787559214373469,
+      "rel_spy": 1.0336576756680775,
+      "rel_mag7": 1.0907521215861091
+    },
+    {
+      "date": "2025-09-29",
+      "rel_port": 1.1139725803250018,
+      "rel_spy": 1.0365627001108906,
+      "rel_mag7": 1.0948128255358787
+    },
+    {
+      "date": "2025-09-30",
+      "rel_port": 1.0721000380903334,
+      "rel_spy": 1.0404673028566074,
+      "rel_mag7": 1.0966224239625018
+    }
+  ],
+  "holdings": [
+    {
+      "Symbol": "VFF",
+      "Shares": 2845.0,
+      "CostBasis": 2.6378453427065023,
+      "CurrentPrice": 3.13,
+      "UnrealizedPnL": 1400.1800000000007
+    },
+    {
+      "Symbol": "TPC",
+      "Shares": 42.0,
+      "CostBasis": 59.54,
+      "CurrentPrice": 65.59,
+      "UnrealizedPnL": 254.1000000000002
+    },
+    {
+      "Symbol": "CCLD",
+      "Shares": 616.0,
+      "CostBasis": 3.5523051948051947,
+      "CurrentPrice": 3.21,
+      "UnrealizedPnL": -210.85999999999996
+    },
+    {
+      "Symbol": "INFU",
+      "Shares": 113.0,
+      "CostBasis": 10.14,
+      "CurrentPrice": 10.36,
+      "UnrealizedPnL": 24.85999999999987
+    },
+    {
+      "Symbol": "HIVE",
+      "Shares": 292.0,
+      "CostBasis": 3.7699999999999996,
+      "CurrentPrice": 4.03,
+      "UnrealizedPnL": 75.9200000000002
+    }
+  ],
+  "predictions": {
+    "snapshot": [
+      {
+        "symbol": "VFF",
+        "target_weight": 0.26330463075997873,
+        "score": -4.214750751852989
+      },
+      {
+        "symbol": "TPC",
+        "target_weight": 0.09680630153023305,
+        "score": -6.2159498780965805
+      },
+      {
+        "symbol": "RIGL",
+        "target_weight": 0.07500356383790585,
+        "score": -6.726302798837423
+      },
+      {
+        "symbol": "PBYI",
+        "target_weight": 0.06649206771840749,
+        "score": -6.967208743095398
+      },
+      {
+        "symbol": "CCLD",
+        "target_weight": 0.060799016812836525,
+        "score": -7.1462268233299255
+      },
+      {
+        "symbol": "TRIP",
+        "target_weight": 0.04000536460000197,
+        "score": -7.983346939086914
+      },
+      {
+        "symbol": "INFU",
+        "target_weight": 0.039403083022398935,
+        "score": -8.013685934245586
+      },
+      {
+        "symbol": "HIVE",
+        "target_weight": 0.033660638789908465,
+        "score": -8.328715726733208
+      },
+      {
+        "symbol": "AVAH",
+        "target_weight": 0.03357166298314638,
+        "score": -8.334009364247322
+      },
+      {
+        "symbol": "STRO",
+        "target_weight": 0.029512225346157495,
+        "score": -8.591764867305756
+      },
+      {
+        "symbol": "HTCR",
+        "target_weight": 0.027954051811385744,
+        "score": -8.700249748304486
+      },
+      {
+        "symbol": "TGL",
+        "target_weight": 0.025025866639889035,
+        "score": -8.921554148197174
+      },
+      {
+        "symbol": "GEVO",
+        "target_weight": 0.023156026193684388,
+        "score": -9.076863944530487
+      },
+      {
+        "symbol": "WIMI",
+        "target_weight": 0.021662192758875765,
+        "score": -9.210237115621567
+      },
+      {
+        "symbol": "FOSL",
+        "target_weight": 0.020009589802043207,
+        "score": -9.368950761854649
+      },
+      {
+        "symbol": "GFI",
+        "target_weight": 0.017723771884260883,
+        "score": -9.611560493707657
+      },
+      {
+        "symbol": "SOAR",
+        "target_weight": 0.017711292640818763,
+        "score": -9.612969182431698
+      },
+      {
+        "symbol": "COMM",
+        "target_weight": 0.016423578343065067,
+        "score": -9.763938046991825
+      },
+      {
+        "symbol": "NEO",
+        "target_weight": 0.01505874427640079,
+        "score": -9.937456384301186
+      },
+      {
+        "symbol": "W",
+        "target_weight": 0.014664405823001722,
+        "score": -9.99052768945694
+      },
+      {
+        "symbol": "BKTI",
+        "target_weight": 0.013956589494099066,
+        "score": -10.089470535516739
+      },
+      {
+        "symbol": "VSAT",
+        "target_weight": 0.01233094787630776,
+        "score": -10.337149679660797
+      },
+      {
+        "symbol": "FTFT",
+        "target_weight": 0.012035323452414388,
+        "score": -10.385682165622711
+      },
+      {
+        "symbol": "SKIN",
+        "target_weight": 0.011973395358712623,
+        "score": -10.395999789237976
+      },
+      {
+        "symbol": "LPL",
+        "target_weight": 0.011755668244065867,
+        "score": -10.432703003287315
+      }
+    ]
+  },
+  "ledger": [
+    {
+      "date": "2025-09-03",
+      "symbol": "LXRX",
+      "action": "SELL",
+      "quantity": -3168,
+      "price": 1.13,
+      "value": -3579.8399999999997,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 3851.6200000000035,
+      "remaining_qty": 0,
+      "cost_basis": 1.1205934343434343,
+      "realized_pnl": 29.799999999999862
+    },
+    {
+      "date": "2025-09-03",
+      "symbol": "CCLD",
+      "action": "BUY",
+      "quantity": 439,
+      "price": 3.65,
+      "value": 1602.35,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 81.06000000000245,
+      "remaining_qty": 439,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-09-03",
+      "symbol": "RIGL",
+      "action": "BUY",
+      "quantity": 51,
+      "price": 38.38,
+      "value": 1957.38,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3437.810000000002,
+      "remaining_qty": 51,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-09-03",
+      "symbol": "TPC",
+      "action": "BUY",
+      "quantity": 42,
+      "price": 59.54,
+      "value": 2500.68,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 5395.190000000002,
+      "remaining_qty": 42,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-09-03",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 2618,
+      "price": 2.655,
+      "value": 6950.789999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 7895.870000000003,
+      "remaining_qty": 2618,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-09-03",
+      "symbol": "PBYI",
+      "action": "BUY",
+      "quantity": 344,
+      "price": 5.1,
+      "value": 1754.3999999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1683.4100000000024,
+      "remaining_qty": 344,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-09-03",
+      "symbol": "WIMI",
+      "action": "SELL",
+      "quantity": -479,
+      "price": 3.91,
+      "value": -1872.89,
+      "reason": "TRIM_CONVICTION_DROP",
+      "remaining_cash": 13004.360000000002,
+      "remaining_qty": 0,
+      "cost_basis": 3.32,
+      "realized_pnl": 282.6100000000001
+    },
+    {
+      "date": "2025-09-03",
+      "symbol": "FGEN",
+      "action": "SELL",
+      "quantity": -293,
+      "price": 11.95,
+      "value": -3501.35,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 11131.470000000003,
+      "remaining_qty": 0,
+      "cost_basis": 6.81,
+      "realized_pnl": 1506.02
+    },
+    {
+      "date": "2025-09-03",
+      "symbol": "LC",
+      "action": "SELL",
+      "quantity": -229,
+      "price": 16.5,
+      "value": -3778.5,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 7630.1200000000035,
+      "remaining_qty": 0,
+      "cost_basis": 15.364672489082968,
+      "realized_pnl": 259.99000000000024
+    },
+    {
+      "date": "2025-09-03",
+      "symbol": "RYAAY",
+      "action": "SELL",
+      "quantity": -30,
+      "price": 61.41,
+      "value": -1842.3,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 14846.660000000002,
+      "remaining_qty": 0,
+      "cost_basis": 64.91,
+      "realized_pnl": -105.0
+    },
+    {
+      "date": "2025-09-09",
+      "symbol": "PBYI",
+      "action": "SELL",
+      "quantity": -344,
+      "price": 4.57,
+      "value": -1572.0800000000002,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 1653.1400000000026,
+      "remaining_qty": 0,
+      "cost_basis": 5.1,
+      "realized_pnl": -182.31999999999977
+    },
+    {
+      "date": "2025-09-09",
+      "symbol": "TRIP",
+      "action": "BUY",
+      "quantity": 61,
+      "price": 17.44,
+      "value": 1063.8400000000001,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 589.3000000000025,
+      "remaining_qty": 61,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-09-11",
+      "symbol": "VFF",
+      "action": "BUY",
+      "quantity": 227,
+      "price": 2.44,
+      "value": 553.88,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 35.42000000000246,
+      "remaining_qty": 2845,
+      "cost_basis": 2.655,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-09-17",
+      "symbol": "RIGL",
+      "action": "SELL",
+      "quantity": -51,
+      "price": 35.09,
+      "value": -1789.5900000000001,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 1825.0100000000025,
+      "remaining_qty": 0,
+      "cost_basis": 38.38,
+      "realized_pnl": -167.78999999999996
+    },
+    {
+      "date": "2025-09-17",
+      "symbol": "INFU",
+      "action": "BUY",
+      "quantity": 113,
+      "price": 10.14,
+      "value": 1145.8200000000002,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 679.1900000000023,
+      "remaining_qty": 113,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-09-30",
+      "symbol": "CCLD",
+      "action": "BUY",
+      "quantity": 177,
+      "price": 3.31,
+      "value": 585.87,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1103.4800000000023,
+      "remaining_qty": 616,
+      "cost_basis": 3.65,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-09-30",
+      "symbol": "TRIP",
+      "action": "SELL",
+      "quantity": -61,
+      "price": 16.56,
+      "value": -1010.16,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 1689.3500000000022,
+      "remaining_qty": 0,
+      "cost_basis": 17.44,
+      "realized_pnl": -53.680000000000156
+    },
+    {
+      "date": "2025-09-30",
+      "symbol": "HIVE",
+      "action": "BUY",
+      "quantity": 292,
+      "price": 3.77,
+      "value": 1100.84,
+      "reason": "BUY_PARTIAL",
+      "remaining_cash": 2.640000000002374,
+      "remaining_qty": 292,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    }
+  ],
+  "performance": [
+    {
+      "ticker": "CCLD",
+      "status": "OPEN",
+      "enter_date": "2025-09-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": -210.85999999999996,
+      "cost_basis": 3.5523051948051947,
+      "current_price": 3.21,
+      "quantity": 616.0
+    },
+    {
+      "ticker": "FGEN",
+      "status": "CLOSED",
+      "enter_date": "2025-08-04",
+      "exit_date": "2025-09-03",
+      "realized_pnl": 1506.02,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 6.81,
+      "current_price": 11.95,
+      "quantity": 293.0
+    },
+    {
+      "ticker": "HIVE",
+      "status": "OPEN",
+      "enter_date": "2025-09-30",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 75.9200000000002,
+      "cost_basis": 3.7699999999999996,
+      "current_price": 4.03,
+      "quantity": 292.0
+    },
+    {
+      "ticker": "INFU",
+      "status": "OPEN",
+      "enter_date": "2025-09-17",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 24.85999999999987,
+      "cost_basis": 10.14,
+      "current_price": 10.36,
+      "quantity": 113.0
+    },
+    {
+      "ticker": "LC",
+      "status": "CLOSED",
+      "enter_date": "2025-08-04",
+      "exit_date": "2025-09-03",
+      "realized_pnl": 259.99000000000024,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 15.364672489082968,
+      "current_price": 16.5,
+      "quantity": 229.0
+    },
+    {
+      "ticker": "LXRX",
+      "status": "CLOSED",
+      "enter_date": "2025-08-04",
+      "exit_date": "2025-09-03",
+      "realized_pnl": 29.799999999999862,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 1.1205934343434343,
+      "current_price": 1.13,
+      "quantity": 3168.0
+    },
+    {
+      "ticker": "PBYI",
+      "status": "CLOSED",
+      "enter_date": "2025-09-03",
+      "exit_date": "2025-09-09",
+      "realized_pnl": -182.31999999999977,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 5.1,
+      "current_price": 4.57,
+      "quantity": 344.0
+    },
+    {
+      "ticker": "RIGL",
+      "status": "CLOSED",
+      "enter_date": "2025-09-03",
+      "exit_date": "2025-09-17",
+      "realized_pnl": -167.78999999999996,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 38.38,
+      "current_price": 35.09,
+      "quantity": 51.0
+    },
+    {
+      "ticker": "RYAAY",
+      "status": "CLOSED",
+      "enter_date": "2025-08-21",
+      "exit_date": "2025-09-03",
+      "realized_pnl": -105.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 64.91,
+      "current_price": 61.41,
+      "quantity": 30.0
+    },
+    {
+      "ticker": "TPC",
+      "status": "OPEN",
+      "enter_date": "2025-09-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 254.1000000000002,
+      "cost_basis": 59.54,
+      "current_price": 65.59,
+      "quantity": 42.0
+    },
+    {
+      "ticker": "TRIP",
+      "status": "CLOSED",
+      "enter_date": "2025-09-09",
+      "exit_date": "2025-09-30",
+      "realized_pnl": -53.680000000000156,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 17.44,
+      "current_price": 16.56,
+      "quantity": 61.0
+    },
+    {
+      "ticker": "VFF",
+      "status": "OPEN",
+      "enter_date": "2025-09-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 1400.1800000000007,
+      "cost_basis": 2.6378453427065023,
+      "current_price": 3.13,
+      "quantity": 2845.0
+    },
+    {
+      "ticker": "WIMI",
+      "status": "CLOSED",
+      "enter_date": "2025-08-04",
+      "exit_date": "2025-09-03",
+      "realized_pnl": 282.6100000000001,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.32,
+      "current_price": 3.91,
+      "quantity": 479.0
+    }
+  ],
+  "meta": {
+    "year": 2025,
+    "month": "September",
+    "month_num": 9,
+    "return_pct": 0.06641181045742045,
+    "ending_equity": 15987.070000000003,
+    "start_date": "2025-09-01",
+    "end_date": "2025-09-30"
+  }
+}

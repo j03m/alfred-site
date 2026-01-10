@@ -10,248 +10,281 @@
     },
     {
       "date": "2025-12-02",
-      "rel_port": 0.9885608135034099,
+      "rel_port": 1.005847051485625,
       "rel_spy": 1.0018522057418378,
       "rel_mag7": 1.005361076037814
     },
     {
       "date": "2025-12-03",
-      "rel_port": 1.0432000590833161,
+      "rel_port": 1.031386244270564,
       "rel_spy": 1.005321416496391,
       "rel_mag7": 1.0056819411488296
     },
     {
       "date": "2025-12-04",
-      "rel_port": 1.0432000590833161,
+      "rel_port": 1.0515589811622899,
       "rel_spy": 1.0060564187748982,
       "rel_mag7": 1.0106041161960555
     },
     {
       "date": "2025-12-05",
-      "rel_port": 0.9732822372061797,
+      "rel_port": 1.0397993955799083,
       "rel_spy": 1.0079674246990167,
       "rel_mag7": 1.0141640041206252
     },
     {
       "date": "2025-12-08",
-      "rel_port": 0.9704855243310943,
+      "rel_port": 1.0484633686765332,
       "rel_spy": 1.0049392153115675,
       "rel_mag7": 1.0054422631179833
     },
     {
       "date": "2025-12-09",
-      "rel_port": 1.0096395045822906,
+      "rel_port": 1.0594320958185222,
       "rel_spy": 1.0040719126229292,
       "rel_mag7": 1.0078157541771577
     },
     {
       "date": "2025-12-10",
-      "rel_port": 1.0320132075829744,
+      "rel_port": 1.0833387057658141,
       "rel_spy": 1.0107310332662032,
       "rel_mag7": 1.009598061058328
     },
     {
       "date": "2025-12-11",
-      "rel_port": 1.029216494707889,
+      "rel_port": 1.0864452320200926,
       "rel_spy": 1.0130830405574256,
       "rel_mag7": 1.0010325300297367
     },
     {
       "date": "2025-12-12",
-      "rel_port": 1.0012493659570343,
+      "rel_port": 1.080427847790036,
       "rel_spy": 1.002190306789951,
       "rel_mag7": 0.9934743467250191
     },
     {
       "date": "2025-12-15",
-      "rel_port": 1.0040460788321197,
+      "rel_port": 1.0480470863629108,
       "rel_spy": 1.0006762020962263,
       "rel_mag7": 0.9944445286816085
     },
     {
       "date": "2025-12-16",
-      "rel_port": 0.9900625144566924,
+      "rel_port": 1.0475774045390207,
       "rel_spy": 0.9979419936201802,
       "rel_mag7": 1.0014668401877374
     },
     {
       "date": "2025-12-17",
-      "rel_port": 0.9425183955802399,
+      "rel_port": 1.0349369219259403,
       "rel_spy": 0.9869610595792846,
       "rel_mag7": 0.9785949938920435
     },
     {
       "date": "2025-12-18",
-      "rel_port": 0.9117545539542998,
+      "rel_port": 1.0412380641375671,
       "rel_spy": 0.9944139826833462,
       "rel_mag7": 0.9977684053299257
     },
     {
       "date": "2025-12-19",
-      "rel_port": 0.9264705052700576,
+      "rel_port": 1.0130633911433053,
       "rel_spy": 1.0004704014582444,
       "rel_mag7": 1.0062844410859877
     },
     {
       "date": "2025-12-22",
-      "rel_port": 0.9723518801265164,
+      "rel_port": 1.016781088434812,
       "rel_spy": 1.0067032207799844,
       "rel_mag7": 1.0119380663640372
     },
     {
       "date": "2025-12-23",
-      "rel_port": 0.9508290384241578,
+      "rel_port": 1.0183896999594553,
       "rel_spy": 1.0113043350434388,
       "rel_mag7": 1.022158709477466
     },
     {
       "date": "2025-12-24",
-      "rel_port": 0.9884336202532684,
+      "rel_port": 1.042111945174216,
       "rel_spy": 1.0148617460714129,
       "rel_mag7": 1.0231032145167587
+    },
+    {
+      "date": "2025-12-26",
+      "rel_port": 1.0251613035498668,
+      "rel_spy": 1.0147588457524217,
+      "rel_mag7": 1.0199844198243544
+    },
+    {
+      "date": "2025-12-29",
+      "rel_port": 1.0532708837104445,
+      "rel_spy": 1.0111426345421672,
+      "rel_mag7": 1.012188243275798
     }
   ],
   "holdings": [
     {
       "Symbol": "PHAR",
-      "Shares": 839.0,
-      "CostBasis": 16.15,
-      "CurrentPrice": 17.8,
-      "UnrealizedPnL": 1384.3500000000017
+      "Shares": 370.0,
+      "CostBasis": 16.462432432432433,
+      "CurrentPrice": 17.67,
+      "UnrealizedPnL": 446.8000000000005
     },
     {
       "Symbol": "ATNI",
-      "Shares": 118.0,
-      "CostBasis": 22.86,
-      "CurrentPrice": 22.13,
-      "UnrealizedPnL": -86.14000000000004
+      "Shares": 241.0,
+      "CostBasis": 21.891327800829878,
+      "CurrentPrice": 22.8,
+      "UnrealizedPnL": 218.9899999999997
+    },
+    {
+      "Symbol": "NATR",
+      "Shares": 224.0,
+      "CostBasis": 20.955267857142854,
+      "CurrentPrice": 21.58,
+      "UnrealizedPnL": 139.9400000000004
+    },
+    {
+      "Symbol": "COHN",
+      "Shares": 295.0,
+      "CostBasis": 16.9,
+      "CurrentPrice": 23.57,
+      "UnrealizedPnL": 1967.6500000000005
+    },
+    {
+      "Symbol": "MBI",
+      "Shares": 615.0,
+      "CostBasis": 7.08,
+      "CurrentPrice": 7.16,
+      "UnrealizedPnL": 49.200000000000045
     }
   ],
   "predictions": {
     "snapshot": [
       {
         "symbol": "IRWD",
-        "target_weight": 0.9999851636163107,
+        "target_weight": 0.10319892037564886,
         "score": -3.2006757762283087
       },
       {
         "symbol": "PHAR",
-        "target_weight": 1.1129336217775082e-05,
+        "target_weight": 0.0583443679175935,
         "score": -4.341266895925855
       },
       {
         "symbol": "ATNI",
-        "target_weight": 2.2136911947440787e-06,
+        "target_weight": 0.05381846762919246,
         "score": -4.502759213763056
       },
       {
         "symbol": "BODI",
-        "target_weight": 5.695886685626754e-07,
+        "target_weight": 0.050286747077509734,
         "score": -4.638509429651094
       },
       {
         "symbol": "NATR",
-        "target_weight": 3.716351714212123e-07,
+        "target_weight": 0.049224500345250534,
         "score": -4.681209611167105
       },
       {
         "symbol": "COHN",
-        "target_weight": 3.0438014794134465e-07,
+        "target_weight": 0.04873559720464307,
         "score": -4.7011731355887605
       },
       {
         "symbol": "MBI",
-        "target_weight": 1.859688874226725e-07,
+        "target_weight": 0.04754966819214447,
         "score": -4.750442937493517
       },
       {
         "symbol": "STC",
-        "target_weight": 3.542671966716591e-08,
+        "target_weight": 0.043766520716781145,
         "score": -4.91625424344511
       },
       {
         "symbol": "HTHT",
-        "target_weight": 1.2600169659271944e-08,
+        "target_weight": 0.04156179498221406,
         "score": -5.019629848384739
       },
       {
         "symbol": "TCMD",
-        "target_weight": 4.000002579861518e-09,
+        "target_weight": 0.03924447193143973,
         "score": -5.134371375665069
       },
       {
         "symbol": "ARMN",
-        "target_weight": 3.220824102842251e-09,
+        "target_weight": 0.03882163539377591,
         "score": -5.156037150336488
       },
       {
         "symbol": "DVAX",
-        "target_weight": 2.7509305336106825e-09,
+        "target_weight": 0.03851673426180406,
         "score": -5.171806953243504
       },
       {
         "symbol": "MATV",
-        "target_weight": 2.051485281427045e-09,
+        "target_weight": 0.03795586526778578,
         "score": -5.20114447044034
       },
       {
         "symbol": "ALTO",
-        "target_weight": 5.884781973529776e-10,
+        "target_weight": 0.03565841170399054,
         "score": -5.326022416353226
       },
       {
         "symbol": "BWEN",
-        "target_weight": 4.967244087910219e-10,
+        "target_weight": 0.035357475666037835,
         "score": -5.34297286788933
       },
       {
         "symbol": "HALO",
-        "target_weight": 4.0062580772068494e-10,
+        "target_weight": 0.034979405350143836,
         "score": -5.364473619789351
       },
       {
         "symbol": "APPN",
-        "target_weight": 2.2274297545397535e-10,
+        "target_weight": 0.033967663687842924,
         "score": -5.423174551142438
       },
       {
         "symbol": "SKY",
-        "target_weight": 9.72795011288753e-12,
+        "target_weight": 0.029045345229494278,
         "score": -5.736276084470546
       },
       {
         "symbol": "MD",
-        "target_weight": 7.860646625807044e-12,
+        "target_weight": 0.028737460658504778,
         "score": -5.757589517074621
       },
       {
         "symbol": "EXAS",
-        "target_weight": 2.721413206858531e-12,
+        "target_weight": 0.027253055489573477,
         "score": -5.863661273499019
       },
       {
         "symbol": "QLYS",
-        "target_weight": 1.9961013833796037e-12,
+        "target_weight": 0.026833949977988502,
         "score": -5.894656807184219
       },
       {
         "symbol": "SD",
-        "target_weight": 1.948814496083746e-12,
+        "target_weight": 0.026801802410898315,
         "score": -5.897054280474549
       },
       {
         "symbol": "FSLY",
-        "target_weight": 2.36487423231703e-13,
+        "target_weight": 0.02411936548655293,
         "score": -6.107962429290637
       },
       {
         "symbol": "AMGN",
-        "target_weight": 1.285130599994428e-13,
+        "target_weight": 0.023394988675602277,
         "score": -6.168948878729225
       },
       {
         "symbol": "SPRU",
-        "target_weight": 7.852441017048099e-14,
+        "target_weight": 0.022825784367586914,
         "score": -6.21821097866632
       }
     ]
@@ -259,159 +292,342 @@
   "ledger": [
     {
       "date": "2025-12-03",
-      "symbol": "CRESY",
+      "symbol": "PHI",
       "action": "SELL",
-      "quantity": -1394,
-      "price": 11.27,
-      "value": -15710.38,
+      "quantity": -231,
+      "price": 22.09,
+      "value": -5102.79,
       "reason": "SIGNAL_LOST",
-      "remaining_cash": 16062.270000000015,
+      "remaining_cash": 5137.925999999998,
       "remaining_qty": 0,
-      "cost_basis": 11.69,
-      "realized_pnl": -585.4799999999999
+      "cost_basis": 19.88134199134199,
+      "realized_pnl": 510.2000000000001
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "BIIB",
+      "action": "SELL",
+      "quantity": -27,
+      "price": 180.17,
+      "value": -4864.589999999999,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 10002.515999999996,
+      "remaining_qty": 0,
+      "cost_basis": 157.94629629629628,
+      "realized_pnl": 600.0400000000001
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "CEPU",
+      "action": "SELL",
+      "quantity": -329,
+      "price": 16.64,
+      "value": -5474.56,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 15477.075999999997,
+      "remaining_qty": 0,
+      "cost_basis": 14.072705167173252,
+      "realized_pnl": 844.6400000000002
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "JOE",
+      "action": "SELL",
+      "quantity": -48,
+      "price": 61.53,
+      "value": -2953.44,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 18430.515999999996,
+      "remaining_qty": 0,
+      "cost_basis": 58.52,
+      "realized_pnl": 144.4799999999999
     },
     {
       "date": "2025-12-03",
       "symbol": "IRWD",
       "action": "BUY",
-      "quantity": 4563,
+      "quantity": 289,
       "price": 3.52,
-      "value": 16061.76,
+      "value": 1017.28,
       "reason": "BUY_TARGET",
-      "remaining_cash": 0.5100000000147702,
-      "remaining_qty": 5453,
-      "cost_basis": 3.3300000000000005,
+      "remaining_cash": 17413.235999999997,
+      "remaining_qty": 2411,
+      "cost_basis": 1.96,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "PHAR",
+      "action": "BUY",
+      "quantity": 289,
+      "price": 16.55,
+      "value": 4782.95,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 12630.285999999996,
+      "remaining_qty": 289,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "ATNI",
+      "action": "BUY",
+      "quantity": 203,
+      "price": 21.71,
+      "value": 4407.13,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 8223.155999999995,
+      "remaining_qty": 203,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 429,
+      "price": 9.62,
+      "value": 4126.98,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 4096.175999999996,
+      "remaining_qty": 429,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "NATR",
+      "action": "BUY",
+      "quantity": 195,
+      "price": 20.73,
+      "value": 4042.35,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 53.82599999999593,
+      "remaining_qty": 195,
+      "cost_basis": 0.0,
       "realized_pnl": 0.0
     },
     {
       "date": "2025-12-19",
       "symbol": "IRWD",
       "action": "SELL",
-      "quantity": -5453,
+      "quantity": -2411,
       "price": 3.26,
-      "value": -17776.78,
+      "value": -7859.86,
       "reason": "STOP_LOSS",
-      "remaining_cash": 17777.290000000015,
+      "remaining_cash": 7913.685999999996,
       "remaining_qty": 0,
-      "cost_basis": 3.488989547038327,
-      "realized_pnl": -1248.6799999999994
+      "cost_basis": 2.146992948983824,
+      "realized_pnl": 2683.46
     },
     {
       "date": "2025-12-19",
       "symbol": "PHAR",
       "action": "BUY",
-      "quantity": 839,
+      "quantity": 81,
       "price": 16.15,
-      "value": 13549.849999999999,
+      "value": 1308.1499999999999,
       "reason": "BUY_TARGET",
-      "remaining_cash": 4227.440000000017,
-      "remaining_qty": 839,
-      "cost_basis": 0.0,
+      "remaining_cash": 6605.535999999996,
+      "remaining_qty": 370,
+      "cost_basis": 16.55,
       "realized_pnl": 0.0
     },
     {
       "date": "2025-12-19",
       "symbol": "ATNI",
       "action": "BUY",
-      "quantity": 118,
+      "quantity": 38,
       "price": 22.86,
-      "value": 2697.48,
+      "value": 868.68,
       "reason": "BUY_TARGET",
-      "remaining_cash": 1529.9600000000169,
-      "remaining_qty": 118,
-      "cost_basis": 0.0,
+      "remaining_cash": 5736.855999999996,
+      "remaining_qty": 241,
+      "cost_basis": 21.71,
       "realized_pnl": 0.0
     },
     {
       "date": "2025-12-19",
-      "symbol": "BODI",
+      "symbol": "NATR",
       "action": "BUY",
-      "quantity": 58,
-      "price": 11.87,
-      "value": 688.4599999999999,
+      "quantity": 29,
+      "price": 22.47,
+      "value": 651.63,
       "reason": "BUY_TARGET",
-      "remaining_cash": 841.5000000000169,
-      "remaining_qty": 58,
+      "remaining_cash": 5085.225999999996,
+      "remaining_qty": 224,
+      "cost_basis": 20.73,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-19",
+      "symbol": "COHN",
+      "action": "BUY",
+      "quantity": 295,
+      "price": 16.9,
+      "value": 4985.5,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 99.72599999999602,
+      "remaining_qty": 295,
       "cost_basis": 0.0,
       "realized_pnl": 0.0
     },
     {
-      "date": "2025-12-23",
+      "date": "2025-12-29",
       "symbol": "BODI",
       "action": "SELL",
-      "quantity": -58,
-      "price": 10.52,
-      "value": -610.16,
+      "quantity": -429,
+      "price": 9.92,
+      "value": -4255.68,
       "reason": "STOP_LOSS",
-      "remaining_cash": 1451.660000000017,
+      "remaining_cash": 4355.405999999996,
       "remaining_qty": 0,
-      "cost_basis": 11.87,
-      "realized_pnl": -78.29999999999998
+      "cost_basis": 9.62,
+      "realized_pnl": 128.7000000000003
+    },
+    {
+      "date": "2025-12-29",
+      "symbol": "MBI",
+      "action": "BUY",
+      "quantity": 615,
+      "price": 7.08,
+      "value": 4354.2,
+      "reason": "BUY_PARTIAL",
+      "remaining_cash": 1.205999999996493,
+      "remaining_qty": 615,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     }
   ],
   "performance": [
     {
       "ticker": "ATNI",
       "status": "OPEN",
-      "enter_date": "2025-12-19",
+      "enter_date": "2025-12-03",
       "exit_date": null,
       "realized_pnl": 0.0,
-      "unrealized_pnl": -86.14000000000004,
-      "cost_basis": 22.86,
-      "current_price": 22.13,
-      "quantity": 118.0
+      "unrealized_pnl": 218.9899999999997,
+      "cost_basis": 21.891327800829878,
+      "current_price": 22.8,
+      "quantity": 241.0
+    },
+    {
+      "ticker": "BIIB",
+      "status": "CLOSED",
+      "enter_date": "2025-11-03",
+      "exit_date": "2025-12-03",
+      "realized_pnl": 600.0400000000001,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 157.94629629629628,
+      "current_price": 180.17,
+      "quantity": 27.0
     },
     {
       "ticker": "BODI",
       "status": "CLOSED",
-      "enter_date": "2025-12-19",
-      "exit_date": "2025-12-23",
-      "realized_pnl": -78.29999999999998,
+      "enter_date": "2025-12-03",
+      "exit_date": "2025-12-29",
+      "realized_pnl": 128.7000000000003,
       "unrealized_pnl": 0.0,
-      "cost_basis": 11.87,
-      "current_price": 10.52,
-      "quantity": 58.0
+      "cost_basis": 9.62,
+      "current_price": 9.92,
+      "quantity": 429.0
     },
     {
-      "ticker": "CRESY",
+      "ticker": "CEPU",
       "status": "CLOSED",
-      "enter_date": "2025-11-25",
+      "enter_date": "2025-11-07",
       "exit_date": "2025-12-03",
-      "realized_pnl": -585.4799999999999,
+      "realized_pnl": 844.6400000000002,
       "unrealized_pnl": 0.0,
-      "cost_basis": 11.69,
-      "current_price": 11.27,
-      "quantity": 1394.0
+      "cost_basis": 14.072705167173252,
+      "current_price": 16.64,
+      "quantity": 329.0
     },
     {
-      "ticker": "IRWD",
-      "status": "CLOSED",
-      "enter_date": "2025-11-25",
-      "exit_date": "2025-12-19",
-      "realized_pnl": -1248.6799999999994,
-      "unrealized_pnl": 0.0,
-      "cost_basis": 3.488989547038327,
-      "current_price": 3.26,
-      "quantity": 5453.0
-    },
-    {
-      "ticker": "PHAR",
+      "ticker": "COHN",
       "status": "OPEN",
       "enter_date": "2025-12-19",
       "exit_date": null,
       "realized_pnl": 0.0,
-      "unrealized_pnl": 1384.3500000000017,
-      "cost_basis": 16.15,
-      "current_price": 17.8,
-      "quantity": 839.0
+      "unrealized_pnl": 1967.6500000000005,
+      "cost_basis": 16.9,
+      "current_price": 23.57,
+      "quantity": 295.0
+    },
+    {
+      "ticker": "IRWD",
+      "status": "CLOSED",
+      "enter_date": "2025-11-03",
+      "exit_date": "2025-12-19",
+      "realized_pnl": 2683.46,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.146992948983824,
+      "current_price": 3.26,
+      "quantity": 2411.0
+    },
+    {
+      "ticker": "JOE",
+      "status": "CLOSED",
+      "enter_date": "2025-11-25",
+      "exit_date": "2025-12-03",
+      "realized_pnl": 144.4799999999999,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 58.52,
+      "current_price": 61.53,
+      "quantity": 48.0
+    },
+    {
+      "ticker": "MBI",
+      "status": "OPEN",
+      "enter_date": "2025-12-29",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 49.200000000000045,
+      "cost_basis": 7.08,
+      "current_price": 7.16,
+      "quantity": 615.0
+    },
+    {
+      "ticker": "NATR",
+      "status": "OPEN",
+      "enter_date": "2025-12-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 139.9400000000004,
+      "cost_basis": 20.955267857142854,
+      "current_price": 21.58,
+      "quantity": 224.0
+    },
+    {
+      "ticker": "PHAR",
+      "status": "OPEN",
+      "enter_date": "2025-12-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 446.8000000000005,
+      "cost_basis": 16.462432432432433,
+      "current_price": 17.67,
+      "quantity": 370.0
+    },
+    {
+      "ticker": "PHI",
+      "status": "CLOSED",
+      "enter_date": "2025-11-03",
+      "exit_date": "2025-12-03",
+      "realized_pnl": 510.2000000000001,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 19.88134199134199,
+      "current_price": 22.09,
+      "quantity": 231.0
     }
   ],
   "meta": {
     "year": 2025,
     "month": "December",
     "month_num": 12,
-    "return_pct": -0.041047284437568936,
-    "ending_equity": 19272.370000000006,
+    "return_pct": 0.05284491424974485,
+    "ending_equity": 27022.36600000001,
     "start_date": "2025-12-01",
     "end_date": "2025-12-31"
   }

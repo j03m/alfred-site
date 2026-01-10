@@ -267,5 +267,24 @@
       "volume": 426435
     }
   ],
-  "events": []
+  "events": [
+    {
+      "date": "2025-10-14",
+      "type": "BUY",
+      "price": 13.67,
+      "quantity": 215
+    },
+    {
+      "date": "2025-10-23",
+      "type": "BUY",
+      "price": 13.99,
+      "quantity": 46
+    },
+    {
+      "date": "2025-11-03",
+      "type": "SELL",
+      "price": 14.74,
+      "quantity": -261
+    }
+  ]
 }

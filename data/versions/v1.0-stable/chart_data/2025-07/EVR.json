@@ -264,13 +264,13 @@
       "date": "2025-07-03",
       "type": "BUY",
       "price": 286.0,
-      "quantity": 36
+      "quantity": 10
     },
     {
       "date": "2025-08-04",
       "type": "SELL",
       "price": 297.0,
-      "quantity": -36
+      "quantity": -10
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "active_version": "v1.0-stable",
+  "active_version": "v2.0-pca",
   "versions": {
     "v1.0-stable": {
       "id": "v1.0-stable",
@@ -19,6 +19,27 @@
           "results": "results/v1.0-stable"
         },
         "site_output": "alfred-site/public/versions/v1.0-stable"
+      },
+      "flags": {
+        "use_options": false
+      }
+    },
+    "v2.0-pca": {
+      "id": "v2.0-pca",
+      "name": "Alfred v2 (PCA)",
+      "description": "Equity Model with Rolling PCA Fingerprints",
+      "dataset": "scout-v6",
+      "feature_set": "v2_equity_pca",
+      "target_set": "v1_targets",
+      "model_type": "equity_pca",
+      "paths": {
+        "models": {},
+        "data": {
+          "processed": "processed_data/v2.0-pca",
+          "explainability": "explainability/v2.0-pca",
+          "results": "results/v2.0-pca"
+        },
+        "site_output": "alfred-site/data/versions/v2.0-pca"
       },
       "flags": {
         "use_options": false

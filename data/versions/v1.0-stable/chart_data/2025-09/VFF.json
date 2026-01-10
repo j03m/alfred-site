@@ -253,16 +253,22 @@
   ],
   "events": [
     {
+      "date": "2025-09-03",
+      "type": "BUY",
+      "price": 2.655,
+      "quantity": 999
+    },
+    {
       "date": "2025-09-10",
       "type": "BUY",
       "price": 2.59,
-      "quantity": 931
+      "quantity": 425
     },
     {
       "date": "2025-10-03",
       "type": "SELL",
       "price": 2.84,
-      "quantity": -931
+      "quantity": -1424
     }
   ]
 }

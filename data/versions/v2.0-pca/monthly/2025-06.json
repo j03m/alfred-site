@@ -1,0 +1,532 @@
+{
+  "year": 2025,
+  "month": 6,
+  "chart": [
+    {
+      "date": "2025-06-03",
+      "rel_port": 1.0,
+      "rel_spy": 1.0,
+      "rel_mag7": 1.0
+    },
+    {
+      "date": "2025-06-04",
+      "rel_port": 1.036031574383166,
+      "rel_spy": 0.9997315841567547,
+      "rel_mag7": 1.0027821106997403
+    },
+    {
+      "date": "2025-06-05",
+      "rel_port": 1.0737317222248344,
+      "rel_spy": 0.9949000989783421,
+      "rel_mag7": 0.9807144562665963
+    },
+    {
+      "date": "2025-06-06",
+      "rel_port": 1.0893026365968208,
+      "rel_spy": 1.0051166770118605,
+      "rel_mag7": 1.0013791540717958
+    },
+    {
+      "date": "2025-06-09",
+      "rel_port": 1.0636931162202685,
+      "rel_spy": 1.006022580482813,
+      "rel_mag7": 1.0105300619883362
+    },
+    {
+      "date": "2025-06-10",
+      "rel_port": 1.06082718197063,
+      "rel_spy": 1.0117264171517724,
+      "rel_mag7": 1.0238159948598105
+    },
+    {
+      "date": "2025-06-11",
+      "rel_port": 1.0744495118090491,
+      "rel_spy": 1.008840946836887,
+      "rel_mag7": 1.0146980275639796
+    },
+    {
+      "date": "2025-06-12",
+      "rel_port": 1.0638884970823472,
+      "rel_spy": 1.0128504084953613,
+      "rel_mag7": 1.0145216709684552
+    },
+    {
+      "date": "2025-06-13",
+      "rel_port": 1.0183595321307484,
+      "rel_spy": 1.0015266151084568,
+      "rel_mag7": 1.0069657289680989
+    },
+    {
+      "date": "2025-06-16",
+      "rel_port": 1.0550618793131368,
+      "rel_spy": 1.0110553775436595,
+      "rel_mag7": 1.0226836842485798
+    },
+    {
+      "date": "2025-06-17",
+      "rel_port": 1.0650889923258158,
+      "rel_spy": 1.0024157425892062,
+      "rel_mag7": 1.0118693441837685
+    },
+    {
+      "date": "2025-06-18",
+      "rel_port": 1.1138756980686548,
+      "rel_spy": 1.002264758677381,
+      "rel_mag7": 1.0127789236554248
+    },
+    {
+      "date": "2025-06-20",
+      "rel_port": 1.1544835728577325,
+      "rel_spy": 0.9969635457732892,
+      "rel_mag7": 1.0028229722352024
+    },
+    {
+      "date": "2025-06-23",
+      "rel_port": 1.1426332534047987,
+      "rel_spy": 1.0068110520223454,
+      "rel_mag7": 1.018528857938964
+    },
+    {
+      "date": "2025-06-24",
+      "rel_port": 1.1571760674116216,
+      "rel_spy": 1.0179335335268163,
+      "rel_mag7": 1.026593065574313
+    },
+    {
+      "date": "2025-06-25",
+      "rel_port": 1.1406836240537872,
+      "rel_spy": 1.0185039171937122,
+      "rel_mag7": 1.031333648197126
+    },
+    {
+      "date": "2025-06-26",
+      "rel_port": 1.1869408267640436,
+      "rel_spy": 1.0264725125400527,
+      "rel_mag7": 1.042273086809261
+    },
+    {
+      "date": "2025-06-27",
+      "rel_port": 1.1813646360639638,
+      "rel_spy": 1.0315724135617104,
+      "rel_mag7": 1.053929561078301
+    },
+    {
+      "date": "2025-06-30",
+      "rel_port": 1.229127420711416,
+      "rel_spy": 1.03650455468134,
+      "rel_mag7": 1.0512859917765964
+    }
+  ],
+  "holdings": [
+    {
+      "Symbol": "OSCR",
+      "Shares": 191.0,
+      "CostBasis": 14.660314136125654,
+      "CurrentPrice": 21.44,
+      "UnrealizedPnL": 1294.9200000000003
+    },
+    {
+      "Symbol": "FUBO",
+      "Shares": 829.0,
+      "CostBasis": 3.4183715319662245,
+      "CurrentPrice": 3.86,
+      "UnrealizedPnL": 366.10999999999984
+    },
+    {
+      "Symbol": "STOK",
+      "Shares": 145.0,
+      "CostBasis": 9.94,
+      "CurrentPrice": 11.35,
+      "UnrealizedPnL": 204.45000000000002
+    },
+    {
+      "Symbol": "OPRT",
+      "Shares": 167.0,
+      "CostBasis": 6.7,
+      "CurrentPrice": 7.16,
+      "UnrealizedPnL": 76.82
+    },
+    {
+      "Symbol": "ASM",
+      "Shares": 338.0,
+      "CostBasis": 3.5699999999999994,
+      "CurrentPrice": 3.6,
+      "UnrealizedPnL": 10.140000000000235
+    }
+  ],
+  "predictions": {
+    "snapshot": [
+      {
+        "symbol": "NUTX",
+        "target_weight": 0.14377410070116703,
+        "score": -6.023860469460487
+      },
+      {
+        "symbol": "OSCR",
+        "target_weight": 0.09919092011397376,
+        "score": -6.766254156827927
+      },
+      {
+        "symbol": "LOOP",
+        "target_weight": 0.0760928099098087,
+        "score": -7.296439558267593
+      },
+      {
+        "symbol": "FUBO",
+        "target_weight": 0.07588976570835047,
+        "score": -7.301783442497253
+      },
+      {
+        "symbol": "STOK",
+        "target_weight": 0.06703883547171793,
+        "score": -7.54980294406414
+      },
+      {
+        "symbol": "OPRT",
+        "target_weight": 0.04087810639212444,
+        "score": -8.53915786743164
+      },
+      {
+        "symbol": "ASM",
+        "target_weight": 0.039385329448148404,
+        "score": -8.613560318946838
+      },
+      {
+        "symbol": "CRMD",
+        "target_weight": 0.03867718535650983,
+        "score": -8.649847313761711
+      },
+      {
+        "symbol": "XTNT",
+        "target_weight": 0.03805709765650718,
+        "score": -8.682171911001205
+      },
+      {
+        "symbol": "ARWR",
+        "target_weight": 0.03711039068020157,
+        "score": -8.732553109526634
+      },
+      {
+        "symbol": "IPSC",
+        "target_weight": 0.035899685330671546,
+        "score": -8.798890054225922
+      },
+      {
+        "symbol": "EYE",
+        "target_weight": 0.034863360872543964,
+        "score": -8.857474222779274
+      },
+      {
+        "symbol": "ISSC",
+        "target_weight": 0.031158482818045997,
+        "score": -9.082174055278301
+      },
+      {
+        "symbol": "CDE",
+        "target_weight": 0.028316187787962396,
+        "score": -9.27347981929779
+      },
+      {
+        "symbol": "LEU",
+        "target_weight": 0.02806401772726121,
+        "score": -9.291370619088411
+      },
+      {
+        "symbol": "CTMX",
+        "target_weight": 0.022988817978927857,
+        "score": -9.690331269055605
+      },
+      {
+        "symbol": "HNRG",
+        "target_weight": 0.02211613485548667,
+        "score": -9.76773226261139
+      },
+      {
+        "symbol": "PDYN",
+        "target_weight": 0.020188313862478855,
+        "score": -9.950139284133911
+      },
+      {
+        "symbol": "LFMD",
+        "target_weight": 0.019624428216990314,
+        "score": -10.00679685920477
+      },
+      {
+        "symbol": "AMX",
+        "target_weight": 0.0195378883709007,
+        "score": -10.015635967254639
+      },
+      {
+        "symbol": "CREX",
+        "target_weight": 0.01823986957306464,
+        "score": -10.153127446770668
+      },
+      {
+        "symbol": "CNVS",
+        "target_weight": 0.016658792467232994,
+        "score": -10.334470808506012
+      },
+      {
+        "symbol": "ASST",
+        "target_weight": 0.01647271189326658,
+        "score": -10.356936740456149
+      },
+      {
+        "symbol": "AKBA",
+        "target_weight": 0.0161920631265273,
+        "score": -10.391304731369019
+      },
+      {
+        "symbol": "CTGO",
+        "target_weight": 0.013584703680129488,
+        "score": -10.742458254098892
+      }
+    ]
+  },
+  "ledger": [
+    {
+      "date": "2025-06-03",
+      "symbol": "NUTX",
+      "action": "BUY",
+      "quantity": 18,
+      "price": 167.0,
+      "value": 3006.0,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 6994.0,
+      "remaining_qty": 18,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-03",
+      "symbol": "OSCR",
+      "action": "BUY",
+      "quantity": 145,
+      "price": 14.8,
+      "value": 2146.0,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 4848.0,
+      "remaining_qty": 145,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-03",
+      "symbol": "LOOP",
+      "action": "BUY",
+      "quantity": 1202,
+      "price": 1.37,
+      "value": 1646.7400000000002,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3201.2599999999998,
+      "remaining_qty": 1202,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-03",
+      "symbol": "FUBO",
+      "action": "BUY",
+      "quantity": 468,
+      "price": 3.51,
+      "value": 1642.6799999999998,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1558.58,
+      "remaining_qty": 468,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-03",
+      "symbol": "STOK",
+      "action": "BUY",
+      "quantity": 145,
+      "price": 9.94,
+      "value": 1441.3,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 117.27999999999997,
+      "remaining_qty": 145,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-04",
+      "symbol": "NUTX",
+      "action": "SELL",
+      "quantity": -18,
+      "price": 148.52,
+      "value": -2673.36,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 2790.6400000000003,
+      "remaining_qty": 0,
+      "cost_basis": 167.0,
+      "realized_pnl": -332.6399999999998
+    },
+    {
+      "date": "2025-06-04",
+      "symbol": "OSCR",
+      "action": "BUY",
+      "quantity": 46,
+      "price": 14.22,
+      "value": 654.12,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2136.5200000000004,
+      "remaining_qty": 191,
+      "cost_basis": 14.8,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-04",
+      "symbol": "OPRT",
+      "action": "BUY",
+      "quantity": 167,
+      "price": 6.7,
+      "value": 1118.9,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1017.6200000000003,
+      "remaining_qty": 167,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-06",
+      "symbol": "FUBO",
+      "action": "BUY",
+      "quantity": 172,
+      "price": 3.42,
+      "value": 588.24,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 429.38000000000034,
+      "remaining_qty": 640,
+      "cost_basis": 3.51,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-16",
+      "symbol": "LOOP",
+      "action": "SELL",
+      "quantity": -1202,
+      "price": 1.49,
+      "value": -1790.98,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 2220.3600000000006,
+      "remaining_qty": 0,
+      "cost_basis": 1.37,
+      "realized_pnl": 144.23999999999987
+    },
+    {
+      "date": "2025-06-16",
+      "symbol": "ASM",
+      "action": "BUY",
+      "quantity": 338,
+      "price": 3.57,
+      "value": 1206.6599999999999,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1013.7000000000007,
+      "remaining_qty": 338,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-06-20",
+      "symbol": "FUBO",
+      "action": "BUY",
+      "quantity": 189,
+      "price": 3.19,
+      "value": 602.91,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 410.79000000000076,
+      "remaining_qty": 829,
+      "cost_basis": 3.4858125,
+      "realized_pnl": 0.0
+    }
+  ],
+  "performance": [
+    {
+      "ticker": "ASM",
+      "status": "OPEN",
+      "enter_date": "2025-06-16",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 10.140000000000235,
+      "cost_basis": 3.5699999999999994,
+      "current_price": 3.6,
+      "quantity": 338.0
+    },
+    {
+      "ticker": "FUBO",
+      "status": "OPEN",
+      "enter_date": "2025-06-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 366.10999999999984,
+      "cost_basis": 3.4183715319662245,
+      "current_price": 3.86,
+      "quantity": 829.0
+    },
+    {
+      "ticker": "LOOP",
+      "status": "CLOSED",
+      "enter_date": "2025-06-03",
+      "exit_date": "2025-06-16",
+      "realized_pnl": 144.23999999999987,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 1.37,
+      "current_price": 1.49,
+      "quantity": 1202.0
+    },
+    {
+      "ticker": "NUTX",
+      "status": "CLOSED",
+      "enter_date": "2025-06-03",
+      "exit_date": "2025-06-04",
+      "realized_pnl": -332.6399999999998,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 167.0,
+      "current_price": 148.52,
+      "quantity": 18.0
+    },
+    {
+      "ticker": "OPRT",
+      "status": "OPEN",
+      "enter_date": "2025-06-04",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 76.82,
+      "cost_basis": 6.7,
+      "current_price": 7.16,
+      "quantity": 167.0
+    },
+    {
+      "ticker": "OSCR",
+      "status": "OPEN",
+      "enter_date": "2025-06-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 1294.9200000000003,
+      "cost_basis": 14.660314136125654,
+      "current_price": 21.44,
+      "quantity": 191.0
+    },
+    {
+      "ticker": "STOK",
+      "status": "OPEN",
+      "enter_date": "2025-06-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 204.45000000000002,
+      "cost_basis": 9.94,
+      "current_price": 11.35,
+      "quantity": 145.0
+    }
+  ],
+  "meta": {
+    "year": 2025,
+    "month": "June",
+    "month_num": 6,
+    "return_pct": 0.22912742071141595,
+    "ending_equity": 11764.039999999999,
+    "start_date": "2025-06-01",
+    "end_date": "2025-06-30"
+  }
+}

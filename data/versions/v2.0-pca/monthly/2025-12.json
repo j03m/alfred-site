@@ -1,0 +1,608 @@
+{
+  "year": 2025,
+  "month": 12,
+  "chart": [
+    {
+      "date": "2025-12-01",
+      "rel_port": 1.0,
+      "rel_spy": 1.0,
+      "rel_mag7": 1.0
+    },
+    {
+      "date": "2025-12-02",
+      "rel_port": 0.9981567787817163,
+      "rel_spy": 1.0018522057418378,
+      "rel_mag7": 1.005361076037814
+    },
+    {
+      "date": "2025-12-03",
+      "rel_port": 1.0491270943753677,
+      "rel_spy": 1.005321416496391,
+      "rel_mag7": 1.0056819411488296
+    },
+    {
+      "date": "2025-12-04",
+      "rel_port": 1.0536663012775596,
+      "rel_spy": 1.0060564187748982,
+      "rel_mag7": 1.0106041161960555
+    },
+    {
+      "date": "2025-12-05",
+      "rel_port": 1.0619639705182258,
+      "rel_spy": 1.0079674246990167,
+      "rel_mag7": 1.0141640041206252
+    },
+    {
+      "date": "2025-12-08",
+      "rel_port": 1.078223378880835,
+      "rel_spy": 1.0049392153115675,
+      "rel_mag7": 1.0054422631179833
+    },
+    {
+      "date": "2025-12-09",
+      "rel_port": 1.0823458468930125,
+      "rel_spy": 1.0040719126229292,
+      "rel_mag7": 1.0078157541771577
+    },
+    {
+      "date": "2025-12-10",
+      "rel_port": 1.1049171282857553,
+      "rel_spy": 1.0107310332662032,
+      "rel_mag7": 1.009598061058328
+    },
+    {
+      "date": "2025-12-11",
+      "rel_port": 1.1047030216621216,
+      "rel_spy": 1.0130830405574256,
+      "rel_mag7": 1.0010325300297367
+    },
+    {
+      "date": "2025-12-12",
+      "rel_port": 1.0951087500518788,
+      "rel_spy": 1.002190306789951,
+      "rel_mag7": 0.9934743467250191
+    },
+    {
+      "date": "2025-12-15",
+      "rel_port": 1.0668027313852964,
+      "rel_spy": 1.0006762020962263,
+      "rel_mag7": 0.9944445286816085
+    },
+    {
+      "date": "2025-12-16",
+      "rel_port": 1.0690604942762485,
+      "rel_spy": 0.9979419936201802,
+      "rel_mag7": 1.0014668401877374
+    },
+    {
+      "date": "2025-12-17",
+      "rel_port": 1.0547605155160165,
+      "rel_spy": 0.9869610595792846,
+      "rel_mag7": 0.9785949938920435
+    },
+    {
+      "date": "2025-12-18",
+      "rel_port": 1.0752146559279703,
+      "rel_spy": 0.9944139826833462,
+      "rel_mag7": 0.9977684053299257
+    },
+    {
+      "date": "2025-12-19",
+      "rel_port": 1.0658545100327386,
+      "rel_spy": 1.0004704014582444,
+      "rel_mag7": 1.0062844410859877
+    },
+    {
+      "date": "2025-12-22",
+      "rel_port": 1.0511468253871377,
+      "rel_spy": 1.0067032207799844,
+      "rel_mag7": 1.0119380663640372
+    },
+    {
+      "date": "2025-12-23",
+      "rel_port": 1.0544118903637372,
+      "rel_spy": 1.0113043350434388,
+      "rel_mag7": 1.022158709477466
+    },
+    {
+      "date": "2025-12-24",
+      "rel_port": 1.0608809865017614,
+      "rel_spy": 1.0148617460714129,
+      "rel_mag7": 1.0231032145167587
+    },
+    {
+      "date": "2025-12-26",
+      "rel_port": 1.0524539255729244,
+      "rel_spy": 1.0147588457524217,
+      "rel_mag7": 1.0199844198243544
+    },
+    {
+      "date": "2025-12-29",
+      "rel_port": 1.062676357208948,
+      "rel_spy": 1.0111426345421672,
+      "rel_mag7": 1.012188243275798
+    }
+  ],
+  "holdings": [
+    {
+      "Symbol": "IRS",
+      "Shares": 442.0,
+      "CostBasis": 14.940633484162896,
+      "CurrentPrice": 16.54,
+      "UnrealizedPnL": 706.9199999999994
+    },
+    {
+      "Symbol": "APLS",
+      "Shares": 157.0,
+      "CostBasis": 20.8,
+      "CurrentPrice": 25.12,
+      "UnrealizedPnL": 678.24
+    },
+    {
+      "Symbol": "TGS",
+      "Shares": 118.0,
+      "CostBasis": 30.877966101694913,
+      "CurrentPrice": 31.09,
+      "UnrealizedPnL": 25.02000000000028
+    },
+    {
+      "Symbol": "ERIC",
+      "Shares": 286.0,
+      "CostBasis": 9.64,
+      "CurrentPrice": 9.65,
+      "UnrealizedPnL": 2.859999999999939
+    },
+    {
+      "Symbol": "VRCA",
+      "Shares": 341.0,
+      "CostBasis": 7.99,
+      "CurrentPrice": 8.31,
+      "UnrealizedPnL": 109.12000000000009
+    }
+  ],
+  "predictions": {
+    "snapshot": [
+      {
+        "symbol": "IRS",
+        "target_weight": 0.14739487734866483,
+        "score": -5.21664933860302
+      },
+      {
+        "symbol": "IRWD",
+        "target_weight": 0.12245095589571309,
+        "score": -5.587458610534668
+      },
+      {
+        "symbol": "BODI",
+        "target_weight": 0.09609171788637984,
+        "score": -6.072273530066013
+      },
+      {
+        "symbol": "APLS",
+        "target_weight": 0.08456680128199356,
+        "score": -6.327796250581741
+      },
+      {
+        "symbol": "TGS",
+        "target_weight": 0.07963356589059081,
+        "score": -6.448008418083191
+      },
+      {
+        "symbol": "ERIC",
+        "target_weight": 0.057829090938430444,
+        "score": -7.087895885109901
+      },
+      {
+        "symbol": "VRCA",
+        "target_weight": 0.05377725437193833,
+        "score": -7.233178596943617
+      },
+      {
+        "symbol": "FLG",
+        "target_weight": 0.03734362746243021,
+        "score": -7.962555229663849
+      },
+      {
+        "symbol": "SNY",
+        "target_weight": 0.028036649814784403,
+        "score": -8.535854637622833
+      },
+      {
+        "symbol": "FNWB",
+        "target_weight": 0.026998880783372134,
+        "score": -8.611288964748383
+      },
+      {
+        "symbol": "BWEN",
+        "target_weight": 0.02562828098994285,
+        "score": -8.715486854314804
+      },
+      {
+        "symbol": "TBRG",
+        "target_weight": 0.023486341877311603,
+        "score": -8.890041679143906
+      },
+      {
+        "symbol": "REGN",
+        "target_weight": 0.022557520843633615,
+        "score": -8.970742732286453
+      },
+      {
+        "symbol": "PLBY",
+        "target_weight": 0.021994469376986694,
+        "score": -9.021297730505466
+      },
+      {
+        "symbol": "IDN",
+        "target_weight": 0.02192972031862231,
+        "score": -9.027194172143936
+      },
+      {
+        "symbol": "BAER",
+        "target_weight": 0.01880631074884366,
+        "score": -9.334494806826115
+      },
+      {
+        "symbol": "ALTO",
+        "target_weight": 0.01626350748620277,
+        "score": -9.625032203271985
+      },
+      {
+        "symbol": "VFF",
+        "target_weight": 0.01617901755885193,
+        "score": -9.635449409484863
+      },
+      {
+        "symbol": "COMM",
+        "target_weight": 0.01611290518388612,
+        "score": -9.643638759851456
+      },
+      {
+        "symbol": "CLLS",
+        "target_weight": 0.015256273255396519,
+        "score": -9.75289823114872
+      },
+      {
+        "symbol": "LVS",
+        "target_weight": 0.01490241671145029,
+        "score": -9.799832999706268
+      },
+      {
+        "symbol": "PHAT",
+        "target_weight": 0.01461694183802125,
+        "score": -9.838517278432846
+      },
+      {
+        "symbol": "NUTX",
+        "target_weight": 0.012967000266414853,
+        "score": -10.078064411878586
+      },
+      {
+        "symbol": "EB",
+        "target_weight": 0.012808534962127706,
+        "score": -10.102656304836273
+      },
+      {
+        "symbol": "EFXT",
+        "target_weight": 0.012367336908010125,
+        "score": -10.172762036323547
+      }
+    ]
+  },
+  "ledger": [
+    {
+      "date": "2025-12-03",
+      "symbol": "TVTX",
+      "action": "SELL",
+      "quantity": -130,
+      "price": 34.41,
+      "value": -4473.299999999999,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 4488.840000000001,
+      "remaining_qty": 0,
+      "cost_basis": 24.990846153846157,
+      "realized_pnl": 1224.489999999999
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "IRWD",
+      "action": "SELL",
+      "quantity": -1281,
+      "price": 3.52,
+      "value": -4509.12,
+      "reason": "TRIM_CONVICTION_DROP",
+      "remaining_cash": 8997.960000000001,
+      "remaining_qty": 1350,
+      "cost_basis": 1.9600000000000002,
+      "realized_pnl": 1998.3599999999997
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "AVAL",
+      "action": "SELL",
+      "quantity": -1075,
+      "price": 4.26,
+      "value": -4579.5,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 13577.460000000001,
+      "remaining_qty": 0,
+      "cost_basis": 4.280195348837209,
+      "realized_pnl": -21.709999999999763
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "HCSG",
+      "action": "SELL",
+      "quantity": -119,
+      "price": 18.81,
+      "value": -2238.39,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 15815.85,
+      "remaining_qty": 0,
+      "cost_basis": 18.66,
+      "realized_pnl": 17.84999999999983
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "IRS",
+      "action": "BUY",
+      "quantity": 386,
+      "price": 14.8,
+      "value": 5712.8,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 10103.05,
+      "remaining_qty": 386,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "BODI",
+      "action": "BUY",
+      "quantity": 387,
+      "price": 9.62,
+      "value": 3722.9399999999996,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 6380.11,
+      "remaining_qty": 387,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "APLS",
+      "action": "BUY",
+      "quantity": 157,
+      "price": 20.8,
+      "value": 3265.6,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3114.5099999999998,
+      "remaining_qty": 157,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-03",
+      "symbol": "TGS",
+      "action": "BUY",
+      "quantity": 100,
+      "price": 30.64,
+      "value": 3064.0,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 50.50999999999976,
+      "remaining_qty": 100,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-19",
+      "symbol": "IRWD",
+      "action": "SELL",
+      "quantity": -1350,
+      "price": 3.26,
+      "value": -4401.0,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 4451.51,
+      "remaining_qty": 0,
+      "cost_basis": 1.9600000000000002,
+      "realized_pnl": 1754.9999999999995
+    },
+    {
+      "date": "2025-12-19",
+      "symbol": "IRS",
+      "action": "BUY",
+      "quantity": 56,
+      "price": 15.91,
+      "value": 890.96,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3560.55,
+      "remaining_qty": 442,
+      "cost_basis": 14.8,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-19",
+      "symbol": "TGS",
+      "action": "BUY",
+      "quantity": 18,
+      "price": 32.2,
+      "value": 579.6,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2980.9500000000003,
+      "remaining_qty": 118,
+      "cost_basis": 30.64,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-19",
+      "symbol": "ERIC",
+      "action": "BUY",
+      "quantity": 286,
+      "price": 9.64,
+      "value": 2757.04,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 223.9100000000003,
+      "remaining_qty": 286,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-12-29",
+      "symbol": "BODI",
+      "action": "SELL",
+      "quantity": -387,
+      "price": 9.92,
+      "value": -3839.04,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 4062.9500000000003,
+      "remaining_qty": 0,
+      "cost_basis": 9.62,
+      "realized_pnl": 116.10000000000028
+    },
+    {
+      "date": "2025-12-29",
+      "symbol": "VRCA",
+      "action": "BUY",
+      "quantity": 341,
+      "price": 7.99,
+      "value": 2724.59,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 1338.3600000000001,
+      "remaining_qty": 341,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    }
+  ],
+  "performance": [
+    {
+      "ticker": "APLS",
+      "status": "OPEN",
+      "enter_date": "2025-12-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 678.24,
+      "cost_basis": 20.8,
+      "current_price": 25.12,
+      "quantity": 157.0
+    },
+    {
+      "ticker": "AVAL",
+      "status": "CLOSED",
+      "enter_date": "2025-11-03",
+      "exit_date": "2025-12-03",
+      "realized_pnl": -21.709999999999763,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 4.280195348837209,
+      "current_price": 4.26,
+      "quantity": 1075.0
+    },
+    {
+      "ticker": "BODI",
+      "status": "CLOSED",
+      "enter_date": "2025-12-03",
+      "exit_date": "2025-12-29",
+      "realized_pnl": 116.10000000000028,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 9.62,
+      "current_price": 9.92,
+      "quantity": 387.0
+    },
+    {
+      "ticker": "ERIC",
+      "status": "OPEN",
+      "enter_date": "2025-12-19",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 2.859999999999939,
+      "cost_basis": 9.64,
+      "current_price": 9.65,
+      "quantity": 286.0
+    },
+    {
+      "ticker": "HCSG",
+      "status": "CLOSED",
+      "enter_date": "2025-11-25",
+      "exit_date": "2025-12-03",
+      "realized_pnl": 17.84999999999983,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 18.66,
+      "current_price": 18.81,
+      "quantity": 119.0
+    },
+    {
+      "ticker": "IRS",
+      "status": "OPEN",
+      "enter_date": "2025-12-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 706.9199999999994,
+      "cost_basis": 14.940633484162896,
+      "current_price": 16.54,
+      "quantity": 442.0
+    },
+    {
+      "ticker": "IRWD",
+      "status": "CLOSED",
+      "enter_date": "2025-11-03",
+      "exit_date": "2025-12-03",
+      "realized_pnl": 1998.3599999999997,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 1.9600000000000002,
+      "current_price": 3.52,
+      "quantity": 1281.0
+    },
+    {
+      "ticker": "IRWD",
+      "status": "CLOSED",
+      "enter_date": "2025-11-03",
+      "exit_date": "2025-12-19",
+      "realized_pnl": 1754.9999999999995,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 1.9600000000000002,
+      "current_price": 3.26,
+      "quantity": 1350.0
+    },
+    {
+      "ticker": "TGS",
+      "status": "OPEN",
+      "enter_date": "2025-12-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 25.02000000000028,
+      "cost_basis": 30.877966101694913,
+      "current_price": 31.09,
+      "quantity": 118.0
+    },
+    {
+      "ticker": "TVTX",
+      "status": "CLOSED",
+      "enter_date": "2025-10-03",
+      "exit_date": "2025-12-03",
+      "realized_pnl": 1224.489999999999,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 24.990846153846157,
+      "current_price": 34.41,
+      "quantity": 130.0
+    },
+    {
+      "ticker": "VRCA",
+      "status": "OPEN",
+      "enter_date": "2025-12-29",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 109.12000000000009,
+      "cost_basis": 7.99,
+      "current_price": 8.31,
+      "quantity": 341.0
+    }
+  ],
+  "meta": {
+    "year": 2025,
+    "month": "December",
+    "month_num": 12,
+    "return_pct": 0.05934219229969858,
+    "ending_equity": 21764.09,
+    "start_date": "2025-12-01",
+    "end_date": "2025-12-31"
+  }
+}

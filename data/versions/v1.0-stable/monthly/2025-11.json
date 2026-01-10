@@ -10,254 +10,275 @@
     },
     {
       "date": "2025-11-04",
-      "rel_port": 0.936274553249689,
+      "rel_port": 0.9753444646606202,
       "rel_spy": 0.9881464571077356,
       "rel_mag7": 0.9776838977364375
     },
     {
       "date": "2025-11-05",
-      "rel_port": 0.9564326027319302,
+      "rel_port": 1.003366187487407,
       "rel_spy": 0.9915708139432788,
       "rel_mag7": 0.9853281944994259
     },
     {
       "date": "2025-11-06",
-      "rel_port": 0.9460284481604508,
+      "rel_port": 0.9927982438798334,
       "rel_spy": 0.980931893347382,
       "rel_mag7": 0.965834353808982
     },
     {
       "date": "2025-11-07",
-      "rel_port": 0.9811424698391937,
+      "rel_port": 0.9921512462566734,
       "rel_spy": 0.981897737583048,
       "rel_mag7": 0.9572222291621356
     },
     {
       "date": "2025-11-10",
-      "rel_port": 0.9850440278034985,
+      "rel_port": 1.0591803894736234,
       "rel_spy": 0.9972195393215677,
       "rel_mag7": 0.9844646505152879
     },
     {
       "date": "2025-11-11",
-      "rel_port": 1.008453375589327,
+      "rel_port": 1.1163122689032006,
       "rel_spy": 0.9995024438785963,
       "rel_mag7": 0.9822913234860202
     },
     {
       "date": "2025-11-12",
-      "rel_port": 1.0331632426965904,
+      "rel_port": 1.1511677265081368,
       "rel_spy": 1.0000585360142829,
       "rel_mag7": 0.9709743965315006
     },
     {
       "date": "2025-11-13",
-      "rel_port": 1.0221088284643935,
+      "rel_port": 1.1776439491560282,
       "rel_spy": 0.9834635759651125,
       "rel_mag7": 0.9457014567645946
     },
     {
       "date": "2025-11-14",
-      "rel_port": 1.0455181762502221,
+      "rel_port": 1.1660349361665323,
       "rel_spy": 0.9833026019258349,
       "rel_mag7": 0.9473194588585461
     },
     {
       "date": "2025-11-17",
-      "rel_port": 1.0617746677681585,
+      "rel_port": 1.1733086861657036,
       "rel_spy": 0.9741417156905786,
       "rel_mag7": 0.9461872817169705
     },
     {
       "date": "2025-11-18",
-      "rel_port": 1.0916866121611617,
+      "rel_port": 1.1846211980482462,
       "rel_spy": 0.9659613076945591,
       "rel_mag7": 0.9298002658443354
     },
     {
       "date": "2025-11-19",
-      "rel_port": 1.0981892087683363,
+      "rel_port": 1.1943612120472664,
       "rel_spy": 0.9696929786050869,
       "rel_mag7": 0.9381544503528759
     },
     {
       "date": "2025-11-20",
-      "rel_port": 1.062424927428876,
+      "rel_port": 1.1772328262153964,
       "rel_spy": 0.954912634998683,
       "rel_mag7": 0.9222042694953128
     },
     {
       "date": "2025-11-21",
-      "rel_port": 1.0409663586252,
+      "rel_port": 1.176190335901652,
       "rel_spy": 0.9644247373196358,
       "rel_mag7": 0.9302798069325335
     },
     {
       "date": "2025-11-24",
-      "rel_port": 0.921968840713905,
+      "rel_port": 1.1580900327032195,
       "rel_spy": 0.9786197207832119,
       "rel_mag7": 0.9628619185415455
     },
     {
       "date": "2025-11-25",
-      "rel_port": 0.8857045031647682,
+      "rel_port": 1.1534952128333258,
       "rel_spy": 0.9878245090291801,
       "rel_mag7": 0.9697699180275158
     },
     {
       "date": "2025-11-26",
-      "rel_port": 0.9758349702555186,
+      "rel_port": 1.237099052115327,
       "rel_spy": 0.994643954693125,
       "rel_mag7": 0.9732589399920647
     },
     {
       "date": "2025-11-28",
-      "rel_port": 0.9374799126207749,
+      "rel_port": 1.2156567172704695,
       "rel_spy": 1.0000731700178536,
       "rel_mag7": 0.9787613341816765
     }
   ],
   "holdings": [
     {
-      "Symbol": "CRESY",
-      "Shares": 1394.0,
-      "CostBasis": 11.69,
-      "CurrentPrice": 11.93,
-      "UnrealizedPnL": 334.5600000000003
+      "Symbol": "IRWD",
+      "Shares": 2122.0,
+      "CostBasis": 1.96,
+      "CurrentPrice": 3.5,
+      "UnrealizedPnL": 3267.88
     },
     {
-      "Symbol": "IRWD",
-      "Shares": 890.0,
-      "CostBasis": 3.3300000000000005,
-      "CurrentPrice": 3.5,
-      "UnrealizedPnL": 151.29999999999953
+      "Symbol": "PHI",
+      "Shares": 231.0,
+      "CostBasis": 19.88134199134199,
+      "CurrentPrice": 22.34,
+      "UnrealizedPnL": 567.9500000000002
+    },
+    {
+      "Symbol": "BIIB",
+      "Shares": 27.0,
+      "CostBasis": 157.94629629629628,
+      "CurrentPrice": 182.09,
+      "UnrealizedPnL": 651.8800000000005
+    },
+    {
+      "Symbol": "CEPU",
+      "Shares": 329.0,
+      "CostBasis": 14.072705167173252,
+      "CurrentPrice": 15.9,
+      "UnrealizedPnL": 601.1800000000002
+    },
+    {
+      "Symbol": "JOE",
+      "Shares": 48.0,
+      "CostBasis": 58.52,
+      "CurrentPrice": 60.33,
+      "UnrealizedPnL": 86.87999999999977
     }
   ],
   "predictions": {
     "snapshot": [
       {
         "symbol": "IRS",
-        "target_weight": 0.9944375901906313,
+        "target_weight": 0.09685659443611194,
         "score": -3.543301978330419
       },
       {
         "symbol": "CRESY",
-        "target_weight": 0.00462192323446421,
+        "target_weight": 0.07404426979378394,
         "score": -4.080438622168003
       },
       {
         "symbol": "IRWD",
-        "target_weight": 0.0008410579943668263,
+        "target_weight": 0.06799729170453511,
         "score": -4.250829178723507
       },
       {
         "symbol": "PHI",
-        "target_weight": 7.281313782968082e-05,
+        "target_weight": 0.06016733913903685,
         "score": -4.495505600003526
       },
       {
         "symbol": "BIIB",
-        "target_weight": 2.105324510410584e-05,
+        "target_weight": 0.056547872551190224,
         "score": -4.619589769368758
       },
       {
         "symbol": "CEPU",
-        "target_weight": 5.2423722368757995e-06,
+        "target_weight": 0.05275051584340084,
         "score": -4.7586178290800945
       },
       {
         "symbol": "JOE",
-        "target_weight": 2.607425472634982e-07,
+        "target_weight": 0.04540052901608544,
         "score": -5.058717417108255
       },
       {
         "symbol": "AMGN",
-        "target_weight": 3.2572572185615034e-08,
+        "target_weight": 0.04091597654106823,
         "score": -5.266723709238704
       },
       {
         "symbol": "TVTX",
-        "target_weight": 1.8226214782943145e-08,
+        "target_weight": 0.039745241699423076,
         "score": -5.324784675220144
       },
       {
         "symbol": "HAE",
-        "target_weight": 2.9814788488662e-09,
+        "target_weight": 0.036305456744386906,
         "score": -5.5058288247200835
       },
       {
         "symbol": "VICR",
-        "target_weight": 2.7902728689913205e-09,
+        "target_weight": 0.03618533952900817,
         "score": -5.512456828907489
       },
       {
         "symbol": "DVAX",
-        "target_weight": 1.5194301499753323e-09,
+        "target_weight": 0.0351022015209779,
         "score": -5.573237231939856
       },
       {
         "symbol": "AUPH",
-        "target_weight": 4.991918088506413e-10,
+        "target_weight": 0.033201957605590575,
         "score": -5.68454725532456
       },
       {
         "symbol": "HRZN",
-        "target_weight": 2.86366565238714e-10,
+        "target_weight": 0.0322921107809994,
         "score": -5.740119027482706
       },
       {
         "symbol": "JBHT",
-        "target_weight": 9.610230781367877e-11,
+        "target_weight": 0.030576446315366983,
         "score": -5.84930496312154
       },
       {
         "symbol": "ISRG",
-        "target_weight": 3.384723317913545e-11,
+        "target_weight": 0.029021942467915944,
         "score": -5.953660570328793
       },
       {
         "symbol": "WU",
-        "target_weight": 2.8458918420674798e-11,
+        "target_weight": 0.028771416084138295,
         "score": -5.971000137316423
       },
       {
         "symbol": "SUPV",
-        "target_weight": 2.1647662925478606e-11,
+        "target_weight": 0.028380554013884382,
         "score": -5.998356546100695
       },
       {
         "symbol": "VSCO",
-        "target_weight": 1.1608982445569275e-11,
+        "target_weight": 0.027509964242904916,
         "score": -6.060668381439882
       },
       {
         "symbol": "DX",
-        "target_weight": 6.360095929809992e-12,
+        "target_weight": 0.026694605153557236,
         "score": -6.120841950107206
       },
       {
         "symbol": "EVAX",
-        "target_weight": 4.122826313907634e-12,
+        "target_weight": 0.02612221924205287,
         "score": -6.164192403492052
       },
       {
         "symbol": "ARQT",
-        "target_weight": 3.062445557058695e-12,
+        "target_weight": 0.025736751959619587,
         "score": -6.193924916318792
       },
       {
         "symbol": "SND",
-        "target_weight": 1.589561557435665e-12,
+        "target_weight": 0.024906585071198938,
         "score": -6.259500473344815
       },
       {
         "symbol": "IQV",
-        "target_weight": 4.0941705813449465e-13,
+        "target_weight": 0.023273334677569847,
         "score": -6.395148390205577
       },
       {
         "symbol": "REGN",
-        "target_weight": 8.339306790844573e-14,
+        "target_weight": 0.02149348386619224,
         "score": -6.554265305328954
       }
     ]
@@ -267,120 +288,377 @@
       "date": "2025-11-03",
       "symbol": "WBD",
       "action": "SELL",
-      "quantity": -984,
+      "quantity": -287,
       "price": 22.5,
-      "value": -22140.0,
+      "value": -6457.5,
       "reason": "SIGNAL_LOST",
-      "remaining_cash": 22232.170000000013,
+      "remaining_cash": 6773.531000000001,
       "remaining_qty": 0,
-      "cost_basis": 17.665853658536584,
-      "realized_pnl": 4756.800000000002
+      "cost_basis": 18.933881533101047,
+      "realized_pnl": 1023.4759999999994
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "BIIB",
+      "action": "BUY",
+      "quantity": 22,
+      "price": 153.6,
+      "value": 3379.2,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 114.82599999999593,
+      "remaining_qty": 22,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "IRWD",
+      "action": "BUY",
+      "quantity": 2122,
+      "price": 1.96,
+      "value": 4159.12,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 7168.625999999996,
+      "remaining_qty": 2122,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "CRESY",
+      "action": "BUY",
+      "quantity": 353,
+      "price": 12.805,
+      "value": 4520.165,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 11327.745999999996,
+      "remaining_qty": 353,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
     },
     {
       "date": "2025-11-03",
       "symbol": "IRS",
       "action": "BUY",
-      "quantity": 1394,
+      "quantity": 373,
       "price": 15.85,
-      "value": 22094.899999999998,
+      "value": 5912.05,
       "reason": "BUY_TARGET",
-      "remaining_cash": 137.270000000015,
-      "remaining_qty": 1394,
+      "remaining_cash": 15847.910999999996,
+      "remaining_qty": 373,
       "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "PHI",
+      "action": "BUY",
+      "quantity": 190,
+      "price": 19.34,
+      "value": 3674.6,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3494.0259999999957,
+      "remaining_qty": 190,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "M",
+      "action": "SELL",
+      "quantity": -183,
+      "price": 19.49,
+      "value": -3566.6699999999996,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 17630.040999999997,
+      "remaining_qty": 0,
+      "cost_basis": 17.81,
+      "realized_pnl": 307.43999999999994
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "EGAN",
+      "action": "SELL",
+      "quantity": -261,
+      "price": 14.74,
+      "value": -3847.14,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 14063.371,
+      "remaining_qty": 0,
+      "cost_basis": 13.72639846743295,
+      "realized_pnl": 264.54999999999995
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "HOUS",
+      "action": "SELL",
+      "quantity": -346,
+      "price": 9.95,
+      "value": -3442.7,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 10216.231,
+      "remaining_qty": 0,
+      "cost_basis": 9.610115606936416,
+      "realized_pnl": 117.59999999999975
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "UROY",
+      "action": "SELL",
+      "quantity": -864,
+      "price": 4.78,
+      "value": -4129.92,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 21759.960999999996,
+      "remaining_qty": 0,
+      "cost_basis": 3.94,
+      "realized_pnl": 725.7600000000002
+    },
+    {
+      "date": "2025-11-07",
+      "symbol": "CRESY",
+      "action": "SELL",
+      "quantity": -353,
+      "price": 11.24,
+      "value": -3967.7200000000003,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 4082.545999999996,
+      "remaining_qty": 0,
+      "cost_basis": 12.805,
+      "realized_pnl": -552.4449999999998
+    },
+    {
+      "date": "2025-11-07",
+      "symbol": "IRS",
+      "action": "BUY",
+      "quantity": 50,
+      "price": 14.29,
+      "value": 714.5,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3368.045999999996,
+      "remaining_qty": 423,
+      "cost_basis": 15.85,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-07",
+      "symbol": "CEPU",
+      "action": "BUY",
+      "quantity": 232,
+      "price": 14.17,
+      "value": 3287.44,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 80.60599999999613,
+      "remaining_qty": 232,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-25",
+      "symbol": "CEPU",
+      "action": "BUY",
+      "quantity": 97,
+      "price": 13.84,
+      "value": 1342.48,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2844.0959999999973,
+      "remaining_qty": 329,
+      "cost_basis": 14.17,
       "realized_pnl": 0.0
     },
     {
       "date": "2025-11-25",
       "symbol": "IRS",
       "action": "SELL",
-      "quantity": -1394,
+      "quantity": -423,
       "price": 13.97,
-      "value": -19474.18,
+      "value": -5909.31,
       "reason": "STOP_LOSS",
-      "remaining_cash": 19611.450000000015,
+      "remaining_cash": 5989.9159999999965,
       "remaining_qty": 0,
-      "cost_basis": 15.849999999999998,
-      "realized_pnl": -2620.719999999996
+      "cost_basis": 15.665602836879433,
+      "realized_pnl": -717.2399999999999
     },
     {
       "date": "2025-11-25",
-      "symbol": "CRESY",
+      "symbol": "PHI",
       "action": "BUY",
-      "quantity": 1394,
-      "price": 11.69,
-      "value": 16295.859999999999,
+      "quantity": 41,
+      "price": 22.39,
+      "value": 917.99,
       "reason": "BUY_TARGET",
-      "remaining_cash": 3315.5900000000165,
-      "remaining_qty": 1394,
-      "cost_basis": 0.0,
+      "remaining_cash": 5071.925999999997,
+      "remaining_qty": 231,
+      "cost_basis": 19.34,
       "realized_pnl": 0.0
     },
     {
       "date": "2025-11-25",
-      "symbol": "IRWD",
+      "symbol": "BIIB",
       "action": "BUY",
-      "quantity": 890,
-      "price": 3.33,
-      "value": 2963.7000000000003,
+      "quantity": 5,
+      "price": 177.07,
+      "value": 885.3499999999999,
       "reason": "BUY_TARGET",
-      "remaining_cash": 351.89000000001624,
-      "remaining_qty": 890,
+      "remaining_cash": 4186.575999999997,
+      "remaining_qty": 27,
+      "cost_basis": 153.6,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-25",
+      "symbol": "JOE",
+      "action": "BUY",
+      "quantity": 48,
+      "price": 58.52,
+      "value": 2808.96,
+      "reason": "BUY_PARTIAL",
+      "remaining_cash": 35.13599999999724,
+      "remaining_qty": 48,
       "cost_basis": 0.0,
       "realized_pnl": 0.0
     }
   ],
   "performance": [
     {
-      "ticker": "CRESY",
+      "ticker": "BIIB",
       "status": "OPEN",
-      "enter_date": "2025-11-25",
+      "enter_date": "2025-11-03",
       "exit_date": null,
       "realized_pnl": 0.0,
-      "unrealized_pnl": 334.5600000000003,
-      "cost_basis": 11.69,
-      "current_price": 11.93,
-      "quantity": 1394.0
+      "unrealized_pnl": 651.8800000000005,
+      "cost_basis": 157.94629629629628,
+      "current_price": 182.09,
+      "quantity": 27.0
+    },
+    {
+      "ticker": "CEPU",
+      "status": "OPEN",
+      "enter_date": "2025-11-07",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 601.1800000000002,
+      "cost_basis": 14.072705167173252,
+      "current_price": 15.9,
+      "quantity": 329.0
+    },
+    {
+      "ticker": "CRESY",
+      "status": "CLOSED",
+      "enter_date": "2025-11-03",
+      "exit_date": "2025-11-07",
+      "realized_pnl": -552.4449999999998,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 12.805,
+      "current_price": 11.24,
+      "quantity": 353.0
+    },
+    {
+      "ticker": "EGAN",
+      "status": "CLOSED",
+      "enter_date": "2025-10-14",
+      "exit_date": "2025-11-03",
+      "realized_pnl": 264.54999999999995,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 13.72639846743295,
+      "current_price": 14.74,
+      "quantity": 261.0
+    },
+    {
+      "ticker": "HOUS",
+      "status": "CLOSED",
+      "enter_date": "2025-10-13",
+      "exit_date": "2025-11-03",
+      "realized_pnl": 117.59999999999975,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 9.610115606936416,
+      "current_price": 9.95,
+      "quantity": 346.0
     },
     {
       "ticker": "IRS",
       "status": "CLOSED",
       "enter_date": "2025-11-03",
       "exit_date": "2025-11-25",
-      "realized_pnl": -2620.719999999996,
+      "realized_pnl": -717.2399999999999,
       "unrealized_pnl": 0.0,
-      "cost_basis": 15.849999999999998,
+      "cost_basis": 15.665602836879433,
       "current_price": 13.97,
-      "quantity": 1394.0
+      "quantity": 423.0
     },
     {
       "ticker": "IRWD",
       "status": "OPEN",
+      "enter_date": "2025-11-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 3267.88,
+      "cost_basis": 1.96,
+      "current_price": 3.5,
+      "quantity": 2122.0
+    },
+    {
+      "ticker": "JOE",
+      "status": "OPEN",
       "enter_date": "2025-11-25",
       "exit_date": null,
       "realized_pnl": 0.0,
-      "unrealized_pnl": 151.29999999999953,
-      "cost_basis": 3.3300000000000005,
-      "current_price": 3.5,
-      "quantity": 890.0
+      "unrealized_pnl": 86.87999999999977,
+      "cost_basis": 58.52,
+      "current_price": 60.33,
+      "quantity": 48.0
+    },
+    {
+      "ticker": "M",
+      "status": "CLOSED",
+      "enter_date": "2025-10-17",
+      "exit_date": "2025-11-03",
+      "realized_pnl": 307.43999999999994,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 17.81,
+      "current_price": 19.49,
+      "quantity": 183.0
+    },
+    {
+      "ticker": "PHI",
+      "status": "OPEN",
+      "enter_date": "2025-11-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 567.9500000000002,
+      "cost_basis": 19.88134199134199,
+      "current_price": 22.34,
+      "quantity": 231.0
+    },
+    {
+      "ticker": "UROY",
+      "status": "CLOSED",
+      "enter_date": "2025-10-23",
+      "exit_date": "2025-11-03",
+      "realized_pnl": 725.7600000000002,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 3.94,
+      "current_price": 4.78,
+      "quantity": 864.0
     },
     {
       "ticker": "WBD",
       "status": "CLOSED",
-      "enter_date": "2025-10-09",
+      "enter_date": "2025-10-03",
       "exit_date": "2025-11-03",
-      "realized_pnl": 4756.800000000002,
+      "realized_pnl": 1023.4759999999994,
       "unrealized_pnl": 0.0,
-      "cost_basis": 17.665853658536584,
+      "cost_basis": 18.933881533101047,
       "current_price": 22.5,
-      "quantity": 984.0
+      "quantity": 287.0
     }
   ],
   "meta": {
     "year": 2025,
     "month": "November",
     "month_num": 11,
-    "return_pct": -0.09402077359343688,
-    "ending_equity": 20097.310000000005,
+    "return_pct": 0.179190887948076,
+    "ending_equity": 25666.046000000002,
     "start_date": "2025-11-01",
     "end_date": "2025-11-30"
   }

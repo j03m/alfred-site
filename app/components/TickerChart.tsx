@@ -121,7 +121,13 @@ export default function TickerChart({ data }: TickerChartProps) {
 
   if (missingEvents.length > 0) {
       const missingDetails = missingEvents.map(e => `${e.type} @ ${e.date}`).join(', ');
-      throw new Error(`Data Mismatch in TickerChart for ${data.ticker}: Events found on non-trading dates (not in candles): ${missingDetails}`);
+      
+      // Calculate range for better debugging
+      const dates = Array.from(candleDates).sort();
+      const minDate = dates[0];
+      const maxDate = dates[dates.length - 1];
+
+      throw new Error(`Data Mismatch in TickerChart for ${data.ticker}: Events found on non-trading dates (not in candles): ${missingDetails}. Available Candle Range: [${minDate}] to [${maxDate}]`);
   }
 
   return (

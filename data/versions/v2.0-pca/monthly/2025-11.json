@@ -1,0 +1,545 @@
+{
+  "year": 2025,
+  "month": 11,
+  "chart": [
+    {
+      "date": "2025-11-03",
+      "rel_port": 1.0,
+      "rel_spy": 1.0,
+      "rel_mag7": 1.0
+    },
+    {
+      "date": "2025-11-04",
+      "rel_port": 0.9884055600886361,
+      "rel_spy": 0.9881464571077356,
+      "rel_mag7": 0.9776838977364375
+    },
+    {
+      "date": "2025-11-05",
+      "rel_port": 1.022793370993661,
+      "rel_spy": 0.9915708139432788,
+      "rel_mag7": 0.9853281944994259
+    },
+    {
+      "date": "2025-11-06",
+      "rel_port": 1.0056513688259014,
+      "rel_spy": 0.980931893347382,
+      "rel_mag7": 0.965834353808982
+    },
+    {
+      "date": "2025-11-07",
+      "rel_port": 0.9653065686361499,
+      "rel_spy": 0.981897737583048,
+      "rel_mag7": 0.9572222291621356
+    },
+    {
+      "date": "2025-11-10",
+      "rel_port": 1.084363425060066,
+      "rel_spy": 0.9972195393215677,
+      "rel_mag7": 0.9844646505152879
+    },
+    {
+      "date": "2025-11-11",
+      "rel_port": 1.141752800022733,
+      "rel_spy": 0.9995024438785963,
+      "rel_mag7": 0.9822913234860202
+    },
+    {
+      "date": "2025-11-12",
+      "rel_port": 1.1934693489356347,
+      "rel_spy": 1.0000585360142829,
+      "rel_mag7": 0.9709743965315006
+    },
+    {
+      "date": "2025-11-13",
+      "rel_port": 1.1847901918449792,
+      "rel_spy": 0.9834635759651125,
+      "rel_mag7": 0.9457014567645946
+    },
+    {
+      "date": "2025-11-14",
+      "rel_port": 1.1396859474321213,
+      "rel_spy": 0.9833026019258349,
+      "rel_mag7": 0.9473194588585461
+    },
+    {
+      "date": "2025-11-17",
+      "rel_port": 1.1401974412550506,
+      "rel_spy": 0.9741417156905786,
+      "rel_mag7": 0.9461872817169705
+    },
+    {
+      "date": "2025-11-18",
+      "rel_port": 1.1380615775930911,
+      "rel_spy": 0.9659613076945591,
+      "rel_mag7": 0.9298002658443354
+    },
+    {
+      "date": "2025-11-19",
+      "rel_port": 1.1422613942208155,
+      "rel_spy": 0.9696929786050869,
+      "rel_mag7": 0.9381544503528759
+    },
+    {
+      "date": "2025-11-20",
+      "rel_port": 1.1310352066649616,
+      "rel_spy": 0.954912634998683,
+      "rel_mag7": 0.9222042694953128
+    },
+    {
+      "date": "2025-11-21",
+      "rel_port": 1.1293940190018217,
+      "rel_spy": 0.9644247373196358,
+      "rel_mag7": 0.9302798069325335
+    },
+    {
+      "date": "2025-11-24",
+      "rel_port": 1.1558623745259837,
+      "rel_spy": 0.9786197207832119,
+      "rel_mag7": 0.9628619185415455
+    },
+    {
+      "date": "2025-11-25",
+      "rel_port": 1.1350848227256356,
+      "rel_spy": 0.9878245090291801,
+      "rel_mag7": 0.9697699180275158
+    },
+    {
+      "date": "2025-11-26",
+      "rel_port": 1.2533367432921527,
+      "rel_spy": 0.994643954693125,
+      "rel_mag7": 0.9732589399920647
+    },
+    {
+      "date": "2025-11-28",
+      "rel_port": 1.1914506301174754,
+      "rel_spy": 1.0000731700178536,
+      "rel_mag7": 0.9787613341816765
+    }
+  ],
+  "holdings": [
+    {
+      "Symbol": "TVTX",
+      "Shares": 130.0,
+      "CostBasis": 24.990846153846157,
+      "CurrentPrice": 35.41,
+      "UnrealizedPnL": 1354.489999999999
+    },
+    {
+      "Symbol": "IRWD",
+      "Shares": 2631.0,
+      "CostBasis": 1.9600000000000002,
+      "CurrentPrice": 3.5,
+      "UnrealizedPnL": 4051.7399999999993
+    },
+    {
+      "Symbol": "AVAL",
+      "Shares": 1075.0,
+      "CostBasis": 4.280195348837209,
+      "CurrentPrice": 4.17,
+      "UnrealizedPnL": -118.45999999999961
+    },
+    {
+      "Symbol": "HCSG",
+      "Shares": 119.0,
+      "CostBasis": 18.66,
+      "CurrentPrice": 18.78,
+      "UnrealizedPnL": 14.280000000000118
+    }
+  ],
+  "predictions": {
+    "snapshot": [
+      {
+        "symbol": "IRWD",
+        "target_weight": 0.1653890063274058,
+        "score": -4.238220274448395
+      },
+      {
+        "symbol": "NUTX",
+        "target_weight": 0.11653372747571812,
+        "score": -4.938459426164627
+      },
+      {
+        "symbol": "AVAL",
+        "target_weight": 0.11174173082538355,
+        "score": -5.022440433502197
+      },
+      {
+        "symbol": "TVTX",
+        "target_weight": 0.09145445638423876,
+        "score": -5.423138692975044
+      },
+      {
+        "symbol": "VNCE",
+        "target_weight": 0.07146458048156606,
+        "score": -5.9164170026779175
+      },
+      {
+        "symbol": "HCSG",
+        "target_weight": 0.06362326244315845,
+        "score": -6.148862570524216
+      },
+      {
+        "symbol": "TGS",
+        "target_weight": 0.061286414301393706,
+        "score": -6.223704516887665
+      },
+      {
+        "symbol": "IRS",
+        "target_weight": 0.053469409048766535,
+        "score": -6.49660150706768
+      },
+      {
+        "symbol": "BNR",
+        "target_weight": 0.027523737486160858,
+        "score": -7.824723273515701
+      },
+      {
+        "symbol": "FNWB",
+        "target_weight": 0.0258442776694151,
+        "score": -7.950642481446266
+      },
+      {
+        "symbol": "VRT",
+        "target_weight": 0.021987883748083713,
+        "score": -8.27383777499199
+      },
+      {
+        "symbol": "AMD",
+        "target_weight": 0.01787211590855585,
+        "score": -8.688337445259094
+      },
+      {
+        "symbol": "ERIC",
+        "target_weight": 0.017108083585942988,
+        "score": -8.775718748569489
+      },
+      {
+        "symbol": "XTNT",
+        "target_weight": 0.017100891474599575,
+        "score": -8.776559710502625
+      },
+      {
+        "symbol": "CEPU",
+        "target_weight": 0.01613587462362846,
+        "score": -8.892730839550495
+      },
+      {
+        "symbol": "LITB",
+        "target_weight": 0.014672166734192913,
+        "score": -9.082916341722012
+      },
+      {
+        "symbol": "SPRU",
+        "target_weight": 0.014481199682330394,
+        "score": -9.109118431806564
+      },
+      {
+        "symbol": "CIB",
+        "target_weight": 0.0123862843623564,
+        "score": -9.421641379594803
+      },
+      {
+        "symbol": "LUMN",
+        "target_weight": 0.012190894993301312,
+        "score": -9.453442178666592
+      },
+      {
+        "symbol": "MARA",
+        "target_weight": 0.012042875094517392,
+        "score": -9.477874487638474
+      },
+      {
+        "symbol": "GGAL",
+        "target_weight": 0.011951541687666873,
+        "score": -9.493100337684155
+      },
+      {
+        "symbol": "RXT",
+        "target_weight": 0.011415559495663261,
+        "score": -9.584866315126419
+      },
+      {
+        "symbol": "UNIT",
+        "target_weight": 0.010842591049026169,
+        "score": -9.687856912612915
+      },
+      {
+        "symbol": "ADPT",
+        "target_weight": 0.010830471240280623,
+        "score": -9.690093755722046
+      },
+      {
+        "symbol": "CAN",
+        "target_weight": 0.010650963876647218,
+        "score": -9.723520115017891
+      }
+    ]
+  },
+  "ledger": [
+    {
+      "date": "2025-11-03",
+      "symbol": "NUTX",
+      "action": "SELL",
+      "quantity": -25,
+      "price": 124.33,
+      "value": -3108.25,
+      "reason": "TRIM_CONVICTION_DROP",
+      "remaining_cash": 3727.1100000000015,
+      "remaining_qty": 30,
+      "cost_basis": 106.33745454545453,
+      "realized_pnl": 449.8136363636366
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "ARWR",
+      "action": "SELL",
+      "quantity": -47,
+      "price": 41.99,
+      "value": -1973.5300000000002,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 5700.640000000001,
+      "remaining_qty": 0,
+      "cost_basis": 35.27,
+      "realized_pnl": 315.8399999999999
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "XTNT",
+      "action": "SELL",
+      "quantity": -2287,
+      "price": 0.88,
+      "value": -2012.56,
+      "reason": "TRIM_CONVICTION_DROP",
+      "remaining_cash": 7713.200000000001,
+      "remaining_qty": 0,
+      "cost_basis": 0.78,
+      "realized_pnl": 228.69999999999996
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "LYFT",
+      "action": "SELL",
+      "quantity": -69,
+      "price": 20.55,
+      "value": -1417.95,
+      "reason": "SIGNAL_LOST",
+      "remaining_cash": 9131.150000000001,
+      "remaining_qty": 0,
+      "cost_basis": 20.55,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "IRWD",
+      "action": "BUY",
+      "quantity": 2631,
+      "price": 1.96,
+      "value": 5156.76,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 3974.3900000000012,
+      "remaining_qty": 2631,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-03",
+      "symbol": "AVAL",
+      "action": "BUY",
+      "quantity": 808,
+      "price": 4.31,
+      "value": 3482.4799999999996,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 491.9100000000017,
+      "remaining_qty": 808,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-14",
+      "symbol": "NUTX",
+      "action": "SELL",
+      "quantity": -30,
+      "price": 105.11,
+      "value": -3153.3,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 3645.210000000002,
+      "remaining_qty": 0,
+      "cost_basis": 106.33745454545453,
+      "realized_pnl": -36.82363636363604
+    },
+    {
+      "date": "2025-11-14",
+      "symbol": "AVAL",
+      "action": "BUY",
+      "quantity": 267,
+      "price": 4.19,
+      "value": 1118.73,
+      "reason": "BUY_TARGET",
+      "remaining_cash": 2526.480000000002,
+      "remaining_qty": 1075,
+      "cost_basis": 4.31,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-14",
+      "symbol": "VNCE",
+      "action": "BUY",
+      "quantity": 968,
+      "price": 2.61,
+      "value": 2526.48,
+      "reason": "BUY_PARTIAL",
+      "remaining_cash": 1.8189894035458565e-12,
+      "remaining_qty": 968,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    },
+    {
+      "date": "2025-11-25",
+      "symbol": "VNCE",
+      "action": "SELL",
+      "quantity": -968,
+      "price": 2.31,
+      "value": -2236.08,
+      "reason": "STOP_LOSS",
+      "remaining_cash": 2236.0800000000017,
+      "remaining_qty": 0,
+      "cost_basis": 2.61,
+      "realized_pnl": -290.3999999999998
+    },
+    {
+      "date": "2025-11-25",
+      "symbol": "HCSG",
+      "action": "BUY",
+      "quantity": 119,
+      "price": 18.66,
+      "value": 2220.54,
+      "reason": "BUY_PARTIAL",
+      "remaining_cash": 15.540000000001783,
+      "remaining_qty": 119,
+      "cost_basis": 0.0,
+      "realized_pnl": 0.0
+    }
+  ],
+  "performance": [
+    {
+      "ticker": "ARWR",
+      "status": "CLOSED",
+      "enter_date": "2025-10-14",
+      "exit_date": "2025-11-03",
+      "realized_pnl": 315.8399999999999,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 35.27,
+      "current_price": 41.99,
+      "quantity": 47.0
+    },
+    {
+      "ticker": "AVAL",
+      "status": "OPEN",
+      "enter_date": "2025-11-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": -118.45999999999961,
+      "cost_basis": 4.280195348837209,
+      "current_price": 4.17,
+      "quantity": 1075.0
+    },
+    {
+      "ticker": "HCSG",
+      "status": "OPEN",
+      "enter_date": "2025-11-25",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 14.280000000000118,
+      "cost_basis": 18.66,
+      "current_price": 18.78,
+      "quantity": 119.0
+    },
+    {
+      "ticker": "IRWD",
+      "status": "OPEN",
+      "enter_date": "2025-11-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 4051.7399999999993,
+      "cost_basis": 1.9600000000000002,
+      "current_price": 3.5,
+      "quantity": 2631.0
+    },
+    {
+      "ticker": "LYFT",
+      "status": "CLOSED",
+      "enter_date": "2025-10-22",
+      "exit_date": "2025-11-03",
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 20.55,
+      "current_price": 20.55,
+      "quantity": 69.0
+    },
+    {
+      "ticker": "NUTX",
+      "status": "CLOSED",
+      "enter_date": "2025-10-03",
+      "exit_date": "2025-11-03",
+      "realized_pnl": 449.8136363636366,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 106.33745454545453,
+      "current_price": 124.33,
+      "quantity": 25.0
+    },
+    {
+      "ticker": "NUTX",
+      "status": "CLOSED",
+      "enter_date": "2025-10-03",
+      "exit_date": "2025-11-14",
+      "realized_pnl": -36.82363636363604,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 106.33745454545453,
+      "current_price": 105.11,
+      "quantity": 30.0
+    },
+    {
+      "ticker": "TVTX",
+      "status": "OPEN",
+      "enter_date": "2025-10-03",
+      "exit_date": null,
+      "realized_pnl": 0.0,
+      "unrealized_pnl": 1354.489999999999,
+      "cost_basis": 24.990846153846157,
+      "current_price": 35.41,
+      "quantity": 130.0
+    },
+    {
+      "ticker": "VNCE",
+      "status": "CLOSED",
+      "enter_date": "2025-11-14",
+      "exit_date": "2025-11-25",
+      "realized_pnl": -290.3999999999998,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 2.61,
+      "current_price": 2.31,
+      "quantity": 968.0
+    },
+    {
+      "ticker": "XTNT",
+      "status": "CLOSED",
+      "enter_date": "2025-10-21",
+      "exit_date": "2025-11-03",
+      "realized_pnl": 228.69999999999996,
+      "unrealized_pnl": 0.0,
+      "cost_basis": 0.78,
+      "current_price": 0.88,
+      "quantity": 2287.0
+    }
+  ],
+  "meta": {
+    "year": 2025,
+    "month": "November",
+    "month_num": 11,
+    "return_pct": 0.18254659488547664,
+    "ending_equity": 20544.91,
+    "start_date": "2025-11-01",
+    "end_date": "2025-11-30"
+  }
+}
